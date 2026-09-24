@@ -1,12 +1,12 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-09-24T20:48:30+00:00",
- "edition": "2026-09-24-aksam",
+ "generated_at": "2026-09-24T21:48:09+00:00",
+ "edition": "2026-09-25-sabah",
  "items": [
   {
    "key": "614d717a8a168007",
-   "story_id": "s0049",
-   "title": "Galatasaray'dan Singo'nun sakatlığına ilişkin yalanlama açıklaması",
+   "story_id": "s0034",
+   "title": "Galatasaray, Singo'nun aşil tendonu koptuğu iddialarını yalanladı",
    "category": "sakatlik",
    "prompt": "A knee brace, rolled elastic bandages and an ice pack lying on a wooden bench in an empty dressing room, a single shaft of soft light. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
    "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
@@ -19,8 +19,8 @@
   },
   {
    "key": "4aec1468f69c83c8",
-   "story_id": "s0001",
-   "title": "A Milli Takım, Uluslar Ligi'nde yarın Fransa ile karşılaşacak",
+   "story_id": "s0019",
+   "title": "A Milli Takım, Uluslar Ligi'nde ilk maçında Fransa'yı konuk edecek",
    "category": "mac",
    "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in red and white colors. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
    "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
@@ -32,9 +32,23 @@
    "out": "s/4aec1468f69c83c8.png"
   },
   {
+   "key": "32c0c357ef0a62fa",
+   "story_id": "s0108",
+   "title": "Real Madrid'den Konate açıklaması: Sağ bacak yan bağında sakatlık",
+   "category": "sakatlik",
+   "prompt": "A blue ice pack and rolled white bandages on the grass next to the touchline of a floodlit pitch at night, a plain black medical bag out of focus behind, empty stand in the distance. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
+   "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
+   "seed": 843916015,
+   "width": 1024,
+   "height": 576,
+   "steps": 20,
+   "cfg_scale": 3.5,
+   "out": "s/32c0c357ef0a62fa.png"
+  },
+  {
    "key": "0de922eaf6dc8715",
-   "story_id": "s0081",
-   "title": "Torreira 4 yıl sonra Uruguay formasıyla sahaya çıktı, Japonya 3-1 kazandı",
+   "story_id": "s0063",
+   "title": "Torreira, 4 yıl sonra Uruguay formasıyla sahaya çıktı, ekibi Japonya'ya 3-1 kaybetti",
    "category": "mac",
    "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in yellow and red colors. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
    "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
@@ -47,10 +61,10 @@
   },
   {
    "key": "42df73cef6d5fc6f",
-   "story_id": "s0058",
-   "title": "Arca Çorum FK, Teknik Direktör Uğur Uçar ile yollarını ayırdı",
-   "category": "yonetim",
-   "prompt": "A dark boardroom with leather chairs and a classic round black-and-white soccer ball on the polished table, city lights outside the window. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
+   "story_id": "s0043",
+   "title": "Arca Çorum FK'da Uğur Uçar dönemi sona erdi",
+   "category": "teknik",
+   "prompt": "A blank white magnetic tactics board with a few round colored magnets leaning on an empty dugout bench, dusk light. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
    "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
    "seed": 1339145129,
    "width": 1024,
@@ -61,8 +75,8 @@
   },
   {
    "key": "26907f6b7ecbe552",
-   "story_id": "s0044",
-   "title": "Çorum FK'de Uğur Uçar ile yollar ayrıldı, Abdullah Avcı gündemde",
+   "story_id": "s0029",
+   "title": "Çorum FK'de Uğur Uçar ile yollar ayrıldı, Abdullah Avcı iddiası",
    "category": "teknik",
    "prompt": "A football head coach in a dark suit seen from directly behind at the edge of the pitch with arms crossed, a stand in red and black colors blurred behind him, night match. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
    "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
@@ -75,7 +89,7 @@
   },
   {
    "key": "295504cf6fe63d48",
-   "story_id": "s0108",
+   "story_id": "s0089",
    "title": "Fenerbahçe'den yasa dışı bahis sitelerine suç duyurusu",
    "category": "yonetim",
    "prompt": "An empty press conference table with a row of microphones under a single spotlight, a plain yellow and navy blue fabric backdrop, dark room. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
@@ -89,8 +103,8 @@
   },
   {
    "key": "2ef6e9ae34ef9dea",
-   "story_id": "s0138",
-   "title": "Milli boksör Havvanur Kethüda Avrupa şampiyonu oldu, Trabzonspor'dan tebrik",
+   "story_id": "s0118",
+   "title": "Trabzonsporlu Havvanur Kethüda Avrupa şampiyonu oldu",
    "category": "diger",
    "prompt": "A single plain dark burgundy (deep claret) and light sky blue scarf tied to a railing of an empty stadium stand at dusk, floodlights starting to glow. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
    "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
@@ -103,8 +117,8 @@
   },
   {
    "key": "f4c7353f650d8f10",
-   "story_id": "s0018",
-   "title": "Italiano, Vlahovic transferinin perde arkasını anlattı",
+   "story_id": "s0003",
+   "title": "Italiano'dan Vlahovic transferinin perde arkasına dair açıklamalar",
    "category": "transfer",
    "prompt": "A fountain pen resting on blank sheets of paper on a dark wooden desk, a plain black and white scarf folded beside it, warm lamp light, the paper is completely blank. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
    "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
@@ -116,23 +130,37 @@
    "out": "s/f4c7353f650d8f10.png"
   },
   {
-   "key": "310e98292f6f722d",
-   "story_id": "s0127",
-   "title": "Real Madrid'de Konate'nin sağ bacak yan bağında sakatlık tespit edildi",
-   "category": "sakatlik",
-   "prompt": "A blue ice pack and rolled white bandages on the grass next to the touchline of a floodlit pitch at night, a plain black medical bag out of focus behind, empty stand in the distance. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
+   "key": "ba87a5f1f31f6603",
+   "story_id": "s0158",
+   "title": "Muriqi'nin golüyle Kosova, İrlanda'yı 1-0 mağlup etti",
+   "category": "mac",
+   "prompt": "A classic round black-and-white soccer ball resting on wet grass near the touchline of a floodlit pitch, the stands in neutral dark colors softly blurred far behind. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
    "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
-   "seed": 73153177,
+   "seed": 1801387557,
    "width": 1024,
    "height": 576,
    "steps": 20,
    "cfg_scale": 3.5,
-   "out": "s/310e98292f6f722d.png"
+   "out": "s/ba87a5f1f31f6603.png"
+  },
+  {
+   "key": "92ac121abbebaa52",
+   "story_id": "s0151",
+   "title": "Portekiz, Jorge Jesus yönetiminde Galler'i 1-0 mağlup etti",
+   "category": "mac",
+   "prompt": "A classic round black-and-white soccer ball resting on wet grass near the touchline of a floodlit pitch, the stands in neutral dark colors softly blurred far behind. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
+   "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
+   "seed": 1128118805,
+   "width": 1024,
+   "height": 576,
+   "steps": 20,
+   "cfg_scale": 3.5,
+   "out": "s/92ac121abbebaa52.png"
   },
   {
    "key": "47e86144940e2f46",
-   "story_id": "s0062",
-   "title": "Trabzonspor'un gündeminde Al Ahlyli sağ bek Muhammed Hany iddiası",
+   "story_id": "s0045",
+   "title": "Trabzonspor'un gündemine Al Ahlyli sağ bek Muhammed Hany iddiası",
    "category": "transfer",
    "prompt": "A fountain pen resting on blank sheets of paper on a dark wooden desk, a plain dark burgundy (deep claret) and light sky blue scarf folded beside it, warm lamp light, the paper is completely blank. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
    "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
@@ -142,34 +170,6 @@
    "steps": 20,
    "cfg_scale": 3.5,
    "out": "s/47e86144940e2f46.png"
-  },
-  {
-   "key": "9fb821ac1618985c",
-   "story_id": "s0080",
-   "title": "Beşiktaşlı Oh, Güney Kore'nin Ekvador'u 3-0 yendiği maçta gol attı",
-   "category": "mac",
-   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in black and white colors. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
-   "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
-   "seed": 387841895,
-   "width": 1024,
-   "height": 576,
-   "steps": 20,
-   "cfg_scale": 3.5,
-   "out": "s/9fb821ac1618985c.png"
-  },
-  {
-   "key": "91bda279907b7ea8",
-   "story_id": "s0154",
-   "title": "Çorum FK, Antalya kampına ilk antrenmanla başladı",
-   "category": "diger",
-   "prompt": "A single plain red and black scarf tied to a railing of an empty stadium stand at dusk, floodlights starting to glow. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
-   "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
-   "seed": 1405972386,
-   "width": 1024,
-   "height": 576,
-   "steps": 20,
-   "cfg_scale": 3.5,
-   "out": "s/91bda279907b7ea8.png"
   }
  ]
 }
