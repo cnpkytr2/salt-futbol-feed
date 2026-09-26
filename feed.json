@@ -1,35 +1,35 @@
 {
  "schema": 1,
- "generated_at": "2026-09-26T08:02:51+00:00",
+ "generated_at": "2026-09-26T08:29:08+00:00",
  "edition": {
   "date": "2026-09-26",
   "label": "sabah",
   "title": "Sabah bülteni",
-  "time_local": "11:02"
+  "time_local": "11:29"
  },
  "stats": {
   "sources_ok": 58,
   "sources_total": 59,
-  "articles_football": 263,
-  "stories": 200
+  "articles_football": 260,
+  "stories": 191
  },
  "image_base": "https://raw.githubusercontent.com/cnpkytr2/salt-futbol-feed/main/img/",
  "top_n": 12,
  "stories": [
   {
-   "id": "s0145",
+   "id": "s0129",
    "rank": 1,
    "key": "986f2c20ac344f05",
-   "title": "FIFA'dan Fenerbahçe'ye 3 dönem transfer yasağı, kulüp açıklama yaptı",
+   "title": "FIFA'dan Fenerbahçe'ye 3 dönem transfer yasağı: Neden En Nesyri'nin bonservisi",
    "summarized": true,
    "bullets": [
-    "FIFA'nın Kayıt Yasağı Listesi'nde Fenerbahçe'ye 25 Eylül 2026 başlangıçlı 3 dönemlik transfer yasağı uygulandığı görüldü.",
-    "Fenerbahçe'nin resmi açıklamasına göre yasak, Youssef En-Nesyri'nin bonservis ücretine ilişkin 30 Nisan 2026 tarihli taksidin ödenmemesinden kaynaklanıyor.",
-    "Kulüp, geciken taksidi yeni yönetim döneminde ödediğini, FIFA kararıyla hükmedilen bir sonraki ödemeyi ise ilk mesai gününde yapacağını bildirdi.",
-    "Fenerbahçe, ödeme ve FIFA'daki bürokratik süreçlerin tamamlanmasının ardından yasağın kaldırılacağını duyurdu.",
-    "Aynı listede Pendikspor'a da 25 Eylül 2026 başlangıçlı 3 dönem transfer yasağı getirildi."
+    "FIFA, Fenerbahçe'ye 25 Eylül 2026 başlangıç tarihli 3 dönem transfer yasağı uyguladı.",
+    "Kulüp, cezanın Youssef En Nesyri'nin bonservis ücretine ilişkin 30 Nisan 2026 tarihli taksidin ödenmemesinden kaynaklandığını açıkladı.",
+    "Fenerbahçe, geciken taksidi ödediğini, FIFA kararıyla hükmedilen bir sonraki ödemeyi ise ilk mesai günü yapacağını duyurdu.",
+    "Kulüp, ödeme ve bürokratik işlemler tamamlandıktan sonra yasağın kaldırılacağını belirtti.",
+    "Aynı tarihli FIFA listesinde Trendyol 1. Lig ekibi Pendikspor'a da 3 dönem transfer yasağı getirildi."
    ],
-   "why": "Yasak kaldırılmazsa Fenerbahçe önümüzdeki transfer dönemlerinde yeni oyuncu kaydı yaptıramayacak, bu da kadro planlamasını doğrudan etkileyecek.",
+   "why": "Yasağın kalkmaması halinde Fenerbahçe önümüzdeki transfer dönemlerinde oyuncu tescil edemeyecek, bu da takım planlamasını doğrudan etkileyecek.",
    "raw_summary": null,
    "category": "transfer",
    "category_name": "Transfer",
@@ -77,6 +77,11 @@
      "published": "2026-09-26T06:03:02+00:00"
     },
     {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/fifadan-fenerbahceye-3-donem-transfer-yasagi-p363615",
+     "published": "2026-09-26T06:09:29+00:00"
+    },
+    {
      "name": "Star",
      "url": "https://www.star.com.tr/spor/fifadan-fenerbahceye-ceza-transfer-tahtasi-kapatildi-haber-2042651",
      "published": "2026-09-26T06:15:00+00:00"
@@ -85,11 +90,6 @@
      "name": "Yeni Şafak",
      "url": "https://www.yenisafak.com/spor/fenerbahce-neden-transfer-yasacagi-cezasi-aldi-fenerbahce-aciklama-yapti-o-futbolcu-icin-odeme-yapilmamis-4859133",
      "published": "2026-09-26T07:04:36+00:00"
-    },
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/fenerbahce/fifa-dan-fenerbahce-ye-3-donem-transfer-yasagi-SXHBQ1177251SXQ",
-     "published": "2026-09-26T07:06:00+00:00"
     }
    ],
    "n_sources": 14,
@@ -100,22 +100,280 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 100.8
+   "score": 99.88
   },
   {
-   "id": "s0190",
+   "id": "s0038",
    "rank": 2,
+   "key": "ac677a75f022cbcd",
+   "title": "Fransa, Kocaeli'nde Türkiye'yi 1-0 mağlup etti; Mbappe sakatlandı",
+   "summarized": true,
+   "bullets": [
+    "UEFA Uluslar A Ligi 1. Grup'taki ilk maçta Fransa, deplasmanda Türkiye'yi 1-0 mağlup etti.",
+    "Zidane, Mbappe'nin durumunun iyi olmadığını ve oyuncunun Real Madrid'e döneceğini açıkladı.",
+    "Dembele, iyi bir maç çıkardıklarını ve 1-2 gol daha atabileceklerini söyledi.",
+    "Kounde, Türkiye'nin çok agresif oynadığını ve zorlu bir maç olduğunu belirtti.",
+    "Zidane, Türkiye'de oynamanın kolay olmadığını ve takımının gereken mücadeleyi gösterdiğini ifade etti."
+   ],
+   "why": "A Milli Takım, Uluslar Ligi'ndeki ilk maçında Fransa'ya kaybederek gruptaki zorlu göreve mağlubiyetle başladı.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    },
+    {
+     "slug": "milli-takim",
+     "name": "A Millî Takım"
+    },
+    {
+     "slug": "uluslar-ligi",
+     "name": "Uluslar Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/ousmane-dembele-1-2-gol-daha-atabilirdik-3915185",
+     "published": "2026-09-25T21:16:44+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/esteban-lepaul-zorlu-bir-galibiyet-3915188",
+     "published": "2026-09-25T21:20:27+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/millitakim/jules-kounde-cok-agresif-bir-takim-SXHBQ1177240SXQ",
+     "published": "2026-09-25T21:21:00+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/jules-kounde-turkiye-cok-agresif-bir-takim-3915190",
+     "published": "2026-09-25T21:23:27+00:00"
+    },
+    {
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/09/25/zinedine-zidane-turkiyede-oynamak-kolay-degildi",
+     "published": "2026-09-25T21:35:15+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/zinedine-zidane-mbappenin-durumu-iyi-degil-33294325",
+     "published": "2026-09-25T21:51:00+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-zidane-turkiye-maci-sonrasi-mbappeyle-ilgili-kotu-haberi-verdi-430247",
+     "published": "2026-09-25T21:57:03+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/fransa-da-zinedine-zidane-turkiye-de-oynamak-kolay-degil-3915194",
+     "published": "2026-09-25T21:59:39+00:00"
+    }
+   ],
+   "n_sources": 6,
+   "first_published": "2026-09-25T21:16:44+00:00",
+   "last_published": "2026-09-25T22:41:00+00:00",
+   "image": {
+    "path": "pool/diger-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 12.95
+  },
+  {
+   "id": "s0106",
+   "rank": 3,
+   "key": "c75597d16d1a78a6",
+   "title": "Fenerbahçeli Nene, Mali'nin Yeşil Burun Adaları'nı 3-1 yendiği maçta 2 gol attı",
+   "summarized": true,
+   "bullets": [
+    "Afrika Uluslar Kupası Elemeleri K Grubu'ndaki maçta Mali, Yeşil Burun Adaları'nı 3-1 mağlup etti.",
+    "Fenerbahçeli Dorgeles Nene, ilk yarı ve ikinci yarı başında attığı gollerle Mali'yi galibiyete taşıdı.",
+    "Yeşil Burun Adaları'nın golünü Trabzonsporlu Sidny Lopes Cabral kaydetti.",
+    "Nene, 71. dakikada oyundan alındı; Fenerbahçe kulübü oyuncusunu resmi hesabından kutladı."
+   ],
+   "why": "Fenerbahçe'nin genç oyuncusu Nene, milli takımında sergilediği performansla dikkat çekti; iddialara göre kulüpteki oynama süresinin azlığından dolayı devre arasında ayrılmak istiyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/nene-yildizlasti-maliyi-galibiyete-tasiyan-isim-oldu-735514",
+     "published": "2026-09-26T02:25:53+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/super-ligden-6-yildizin-oynadigi-milli-maca-fenerbahceli-isim-damga-vurdu-p363642",
+     "published": "2026-09-26T06:39:07+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/fenerbahceli-yildizdan-milli-takimda-sov-dorgeles-nene-maca-damga-vurdu-haber-2042659",
+     "published": "2026-09-26T06:57:00+00:00"
+    }
+   ],
+   "n_sources": 3,
+   "first_published": "2026-09-26T02:25:53+00:00",
+   "last_published": "2026-09-26T06:57:00+00:00",
+   "image": {
+    "path": "pool/mac-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 11.18
+  },
+  {
+   "id": "s0007",
+   "rank": 4,
+   "key": "e4f76f9f7aa96490",
+   "title": "Mbappe, Türkiye maçında gol attıktan sonra sakatlanarak oyundan çıktı",
+   "summarized": true,
+   "bullets": [
+    "Uluslar Ligi A Ligi 1. Grup ilk maçında Kocaeli'de Türkiye, Fransa'yı konuk etti.",
+    "Fransa'nın kaptanı Kylian Mbappe 54. dakikada takımının golünü attı.",
+    "Gol pozisyonunun ardından sakatlanan Mbappe kısa süre denemesine rağmen oyuna devam edemedi.",
+    "Yıldız oyuncunun yerini 59. dakikada Desire Doue aldı.",
+    "NTV Spor'a göre Mbappe, maç öncesi hazırlık kampında da bir sakatlık yaşamış ve kadroya son anda dahil edilmişti."
+   ],
+   "why": "Fransa'nın yıldız oyuncusunun sakatlığı, hem Fransa'nın Uluslar Ligi'ndeki devamı hem de milli takım karşısındaki maçın seyri açısından merak konusu.",
+   "raw_summary": null,
+   "category": "sakatlik",
+   "category_name": "Sakatlık",
+   "status": "belirsiz",
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "milli-takim",
+     "name": "A Millî Takım"
+    },
+    {
+     "slug": "uluslar-ligi",
+     "name": "Uluslar Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/mbappe-bize-golu-atti-sakatlandi-SXHBQ1177234SXQ",
+     "published": "2026-09-25T20:05:00+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/fransaya-mbappe-soku-golu-attiktan-sonra-sakatlandi-4859061",
+     "published": "2026-09-25T20:11:32+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-kylian-mbappe-turkiyeye-gol-attiktan-sonra-sakatlanarak-oyundan-cikti-430240",
+     "published": "2026-09-25T20:14:10+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/kylian-mbappe-golu-atti-oyundan-cikmak-zorunda-kaldi-dunya-yildizi-turkiye-de-sakatlandi-p363585",
+     "published": "2026-09-25T20:17:29+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/millitakim/2026/09/26/golu-atti-sakatlandi",
+     "published": "2026-09-25T22:06:12+00:00"
+    }
+   ],
+   "n_sources": 5,
+   "first_published": "2026-09-25T20:05:00+00:00",
+   "last_published": "2026-09-25T22:06:12+00:00",
+   "image": {
+    "path": "pool/mac-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 8.5
+  },
+  {
+   "id": "s0177",
+   "rank": 5,
+   "key": "bb2b17c46080d9ca",
+   "title": "Fenerbahçe'de olağan genel kurul yarın yapılacak",
+   "summarized": true,
+   "bullets": [
+    "Fenerbahçe Kulübü'nün olağan genel kurul toplantısı yarın saat 10.30'da Ülker Spor ve Etkinlik Salonu'nda gerçekleştirilecek.",
+    "Toplantıda 1 Mart-31 Mayıs 2026 dönemine ait idari ve mali ibra oylanacak.",
+    "1 Haziran 2026-31 Mayıs 2027 dönemini kapsayan bütçe genel kurulun onayına sunulacak.",
+    "Samandıra'daki Can Bartu Tesisleri'nin hazineye ait 14 bin 934 metrekarelik bölümünün satın alınması için yönetim kuruluna yetki verilmesi de oylanacak."
+   ],
+   "why": "Taraftarlar için kulübün mali yönetimi, gelecek sezon bütçesi ve tesis yatırımlarıyla ilgili önemli kararların alınacağı bir genel kurul.",
+   "raw_summary": null,
+   "category": "yonetim",
+   "category_name": "Yönetim",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/fenerbahce-kulubunde-olagan-genel-kurul-yarin-gerceklestirilecek/4069926",
+     "published": "2026-09-26T08:06:41+00:00"
+    },
+    {
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/09/26/fenerbahce-kulubunde-olagan-genel-kurul-yarin-gerceklestirilecek",
+     "published": "2026-09-26T08:06:49+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-09-26T08:06:41+00:00",
+   "last_published": "2026-09-26T08:06:49+00:00",
+   "image": {
+    "path": "pool/mac-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 7.21
+  },
+  {
+   "id": "s0168",
+   "rank": 6,
    "key": "f5ce678b713a2d0a",
-   "title": "Trabzonspor'da golcü üçlü geleneği yeni sezonda da sürüyor",
+   "title": "Trabzonspor'un golcü üçlüsü yeni sezonda da öne çıktı",
    "summarized": true,
    "bullets": [
     "Salah, Saviolo ve Onuachu'dan oluşan üçlü ilk 6 haftada 11 gol attı.",
-    "Bu 11 gol, Trabzonspor'un ligdeki 13 golünün yüzde 84,6'sını oluşturdu.",
-    "Salah 7, Saviolo ve Onuachu ise 2'şer gol kaydetti.",
-    "Trabzonspor bu üçlü performansıyla Fenerbahçe ile birlikte lig zirvesinde yer aldı.",
-    "Geçen sezon Onuachu, Felipe Augusto ve Muçi üçlüsü 46 golle takımın en üretken hücum hattı olmuştu."
+    "Bu üçlü, Trabzonspor'un ligde attığı 13 golün yüzde 84,6'sını üretti.",
+    "Trabzonspor bu oranla Fenerbahçe ile birlikte en üretken üçlüye sahip takımlar arasında zirvede yer aldı.",
+    "Geçen sezon Onuachu, Felipe Augusto ve Muçi üçlüsü 46 golle takımın gollerinin yüzde 76,7'sini atmıştı.",
+    "Beşiktaş ve Galatasaray'ın hücum üçlüleri 9'ar golle Trabzonspor'un gerisinde kaldı."
    ],
-   "why": "Trabzonspor'un gol yükünün büyük bölümünü taşıyan üçlü, takımın hücum gücünün ve zirve yarışındaki iddiasının önemli bir göstergesi.",
+   "why": "Trabzonspor'un gol yükünün büyük bölümünü taşıyan üçlü, takımın hücum gücü ve zirve yarışındaki konumu açısından önemli bir gösterge sunuyor.",
    "raw_summary": null,
    "category": "diger",
    "category_name": "Diğer",
@@ -152,22 +410,22 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 7.33
+   "score": 7.16
   },
   {
-   "id": "s0020",
-   "rank": 3,
+   "id": "s0011",
+   "rank": 7,
    "key": "65fc40d27ad61b5f",
    "title": "Belçika, İtalya'yı deplasmanda 2-0 mağlup etti",
    "summarized": true,
    "bullets": [
-    "UEFA Uluslar Ligi A Ligi 1. Grup'ta Belçika, İtalya'yı deplasmanda 2-0 mağlup etti.",
+    "UEFA Uluslar Ligi A Ligi 1. Grup'ta Belçika, İtalya deplasmanında 2-0 galip geldi.",
     "Golleri 20. dakikada Mika Godts, 69. dakikada Dodi Lukebakio kaydetti.",
-    "Fenerbahçeli Romelu Lukaku maça yedek kulübesinde başlayıp 84. dakikada oyuna girdi, Beşiktaşlı Leandro Trossard sakatlığı nedeniyle kadroda yer almadı.",
-    "Grubun diğer maçında Fransa, Türkiye'yi 1-0 yendi.",
-    "Bir sonraki maçlarda Belçika Fransa'yı ağırlayacak, İtalya ise Türkiye'ye konuk olacak."
+    "Fenerbahçeli Romelu Lukaku maça yedek başlayıp 84. dakikada oyuna girdi, Beşiktaşlı Leandro Trossard sakatlığı nedeniyle kadroda yer almadı.",
+    "Grubun diğer maçında Fransa, Türkiye'yi 1-0 yendi; ilk hafta sonunda Belçika liderliğe yerleşti.",
+    "Bir sonraki haftada Belçika Fransa'yı ağırlarken İtalya, Türkiye'ye konuk olacak."
    ],
-   "why": "A Milli Takım'ın da bulunduğu grupta rakiplerin sonuçları Türkiye'nin gruptaki konumunu etkiliyor.",
+   "why": "A Milli Takım'ın da mücadele ettiği grupta rakiplerin aldığı sonuçlar Türkiye'nin puan durumunu ve gelecek maçlardaki konumunu doğrudan etkiliyor.",
    "raw_summary": null,
    "category": "mac",
    "category_name": "Maç",
@@ -227,22 +485,22 @@
     "kind": "story",
     "label": "Temsili görsel"
    },
-   "score": 7.22
+   "score": 7.15
   },
   {
-   "id": "s0033",
-   "rank": 4,
+   "id": "s0022",
+   "rank": 8,
    "key": "b832ca7912f9b433",
-   "title": "Beşiktaş'ın ocak ayı transfer hedefleri: Ghedjemis ve Raskin",
+   "title": "Beşiktaş'ın ocak transfer planında iki isim öne çıkıyor",
    "summarized": true,
    "bullets": [
-    "Beşiktaş, ocak ayı transfer döneminde kadro takviyesi planlıyor.",
-    "Frosinone'de forma giyen 24 yaşındaki sağ kanat Fares Ghedjemis transfer listesine eklendi; oyuncunun sözleşmesi Haziran 2028'e kadar sürüyor.",
-    "Yaz döneminde Nicolas Raskin ile anlaşma sağlanmış ancak transfer son anda gerçekleşmemişti; Başkan Serdal Adalı süreci anlattı.",
-    "Raskin, teklifi o dönem reddettiğini ve konuyu kapattığını açıkladı.",
-    "Beşiktaş'ın ara transfer döneminde orta sahaya öncelik vererek Raskin için yeniden girişimde bulunması bekleniyor."
+    "Beşiktaş yönetimi ocak ayında kadroya takviye yapmayı planlıyor.",
+    "İtalyan kulübü Frosinone'de forma giyen 24 yaşındaki sağ kanat Fares Ghedjemis transfer listesine eklendi.",
+    "Yaz döneminde orta saha transferi için gündeme gelen Belçikalı Nicolas Raskin ile anlaşma son anda masadan kalkmıştı.",
+    "Raskin, teklifi o dönem reddettiğini açıklarken Beşiktaş'ın ara transfer döneminde tekrar girişimde bulunması bekleniyor.",
+    "Kulübün ocak önceliğinin orta saha takviyesi olacağı belirtiliyor."
    ],
-   "why": "Beşiktaş'ın ocak ayında hangi mevkilere ve isimlere odaklanacağını gösteren gelişmeler, taraftarın kadro planlamasını takip etmesi açısından önemli.",
+   "why": "Beşiktaş'ın kış transfer dönemi öncesi hangi mevkilere odaklanacağı ve hangi isimlerin gündemde olduğu netleşiyor.",
    "raw_summary": null,
    "category": "transfer",
    "category_name": "Transfer",
@@ -279,22 +537,22 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 7.12
+   "score": 6.96
   },
   {
-   "id": "s0111",
-   "rank": 5,
+   "id": "s0096",
+   "rank": 9,
    "key": "ff88c54b097f9283",
-   "title": "İsmail Kartal'dan cezalı Mert Hakan Yandaş'a 'hazır ol' mesajı",
+   "title": "Fenerbahçe'de İsmail Kartal'dan Mert Hakan Yandaş'a 'hazır ol' mesajı",
    "summarized": true,
    "bullets": [
-    "Fenerbahçe, Eyüpspor'u 8-0 mağlup ederek milli araya moralli girdi.",
-    "Cezası nedeniyle uzun süredir forma giyemeyen Mert Hakan Yandaş ile teknik direktör İsmail Kartal arasında özel bir görüşme yapıldığı öğrenildi.",
+    "Fenerbahçe, Eyüpspor'u 8-0 yenerek milli araya moralli girdi.",
+    "Cezası nedeniyle uzun süre forma giyemeyen Mert Hakan Yandaş'la teknik direktör İsmail Kartal özel bir görüşme yaptı.",
     "Kartal'ın oyuncuya 'Kendini hazır tut, bu süreçte sana ihtiyacım olacak' dediği iddia edildi.",
     "Mert Hakan Yandaş'ın bu doğrultuda ekstra çalışmalar yaptığı belirtildi.",
-    "32 yaşındaki futbolcunun on numara dışında merkez orta saha ve sağ kanatta da oynayabilmesinin Kartal tarafından değerlendirilmek istendiği aktarılıyor."
+    "Milli takıma davet almayan oyuncular Samandıra'da hazırlıklarına devam ediyor."
    ],
-   "why": "Cezası bitecek olan Mert Hakan Yandaş'ın takıma erken dönüşü, Fenerbahçe'nin orta saha rotasyonunu güçlendirebilir.",
+   "why": "Cezalı olarak kadro dışı kalan tecrübeli oyuncunun milli ara sonrası takıma dönebileceğine dair sinyal, taraftar için orta saha rotasyonuna ilişkin merakı gündeme getiriyor.",
    "raw_summary": null,
    "category": "teknik",
    "category_name": "Teknik Direktör",
@@ -331,22 +589,22 @@
     "kind": "story",
     "label": "Temsili görsel"
    },
-   "score": 6.59
+   "score": 6.47
   },
   {
-   "id": "s0085",
-   "rank": 6,
+   "id": "s0071",
+   "rank": 10,
    "key": "df45752aa1ceb2fb",
    "title": "Abdülkerim Bardakcı: Fransa'yı elimizden kaçırdık",
    "summarized": true,
    "bullets": [
-    "A Milli Takım, Uluslar Ligi'nde Kocaeli'de Fransa'ya 1-0 mağlup oldu.",
-    "Abdülkerim Bardakcı, net pozisyonlar bulduklarını ve maçı kaçırdıklarını söyledi.",
-    "Bardakcı, Uğurcan Çakır'ın gördüğü kırmızı kartı izlemediğini, omza değdiğini gördüğünü belirtti.",
-    "Merih Demiral, hakemin de kırmızı kart kararından emin olmadığını iddia etti.",
-    "Bardakcı, İtalya maçında hedeflerinin kesinlikle galibiyet olduğunu ifade etti."
+    "A Milli Takım, Uluslar Ligi ilk maçında Kocaeli'de Fransa'ya 1-0 mağlup oldu.",
+    "Abdülkerim Bardakcı, net pozisyonlar bulduklarını ancak Fransa'nın kendi net şansını gole çevirdiğini söyledi.",
+    "Bardakcı, İtalya maçında evlerinde galibiyet hedeflediklerini belirtti.",
+    "Uğurcan Çakır'ın gördüğü kırmızı kartla ilgili Bardakcı, temasın omza gibi göründüğünü ancak kararı izlemediğini ifade etti.",
+    "Merih Demiral ise hakemin de kart kararından emin olmadığını, VAR sonrası yüzde 50-50 dediğini aktardı."
    ],
-   "why": "Milliler, Uluslar Ligi'ndeki ilk maçta Fransa'ya kaybederek gruptaki konumunu zorlaştırdı; İtalya maçı taraftar için kritik hale geldi.",
+   "why": "Milli takımın Uluslar Ligi'ndeki ilk maçındaki mağlubiyet ve tartışmalı kırmızı kart, grup mücadelesindeki gidişat açısından taraftarları ilgilendiriyor.",
    "raw_summary": null,
    "category": "mac",
    "category_name": "Maç",
@@ -398,99 +656,81 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 6.36
+   "score": 6.29
   },
   {
-   "id": "s0067",
-   "rank": 7,
-   "key": "bfe7fc7f4b692774",
-   "title": "Zidane: Türkiye'de oynamak kolay değildi, Mbappe'nin durumu iyi değil",
+   "id": "s0050",
+   "rank": 11,
+   "key": "d81fc62eec81388f",
+   "title": "Galatasaray'ın gündeminde Stuttgartlı golcü Demirovic var",
    "summarized": true,
    "bullets": [
-    "UEFA Uluslar A Ligi 1. Grup ilk maçında Fransa, Kocaeli'nde Türkiye'yi 1-0 mağlup etti.",
-    "Mbappe golün ardından sakatlandı ve oyundan çıkmak zorunda kaldı.",
-    "Zidane, Mbappe'nin bacağında aşırı gerilme oluştuğunu ve Real Madrid'e dönmesi gerektiğini söyledi.",
-    "Zidane, Türkiye'ye gelip oynamanın kolay olmadığını ve zorlu bir atmosferde takımının gereken mücadeleyi çıkardığını belirtti.",
-    "Zidane, Fransa Milli Takımı'na uzun süre sonra dönüşünün kendisi için duygusal olduğunu ifade etti."
+    "Galatasaray, Osimhen'e alternatif olması için Stuttgartlı forvet Ermedin Demirovic'i takip ediyor.",
+    "Ocak ayında yeniden temas kurulması bekleniyor; Demirovic'in Stuttgart ile sözleşmesi 2028'de bitiyor.",
+    "28 yaşındaki oyuncunun güncel piyasa değeri 22 milyon euro olarak gösteriliyor.",
+    "Demirovic'in Şampiyonlar Ligi seviyesinde bir kulübe gitmeye sıcak baktığı iddia ediliyor.",
+    "Premier Lig ekibi Leeds United'ın da oyuncuyla ilgilendiği ve ocakta teklif götürebileceği bildirildi."
    ],
-   "why": "Milli takımın averajını etkileyen mağlubiyetin yanı sıra Mbappe'nin sakatlığı Real Madrid ve Fransa açısından da merak konusu.",
+   "why": "Galatasaray'ın ocak ayında forvet hattına takviye arayışı taraftar için transfer gündemini canlı tutuyor.",
    "raw_summary": null,
-   "category": "sakatlik",
-   "category_name": "Sakatlık",
-   "status": "resmi",
-   "clubs": [],
+   "category": "transfer",
+   "category_name": "Transfer",
+   "status": "soylenti",
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
    "leagues": [
     {
-     "slug": "la-liga",
-     "name": "La Liga"
+     "slug": "bundesliga",
+     "name": "Bundesliga"
     },
     {
-     "slug": "milli-takim",
-     "name": "A Millî Takım"
-    },
-    {
-     "slug": "uluslar-ligi",
-     "name": "Uluslar Ligi"
+     "slug": "super-lig",
+     "name": "Süper Lig"
     }
    ],
    "sources": [
     {
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/09/25/zinedine-zidane-turkiyede-oynamak-kolay-degildi",
-     "published": "2026-09-25T21:35:15+00:00"
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/09/26/galatasaraydan-cilgin-ara-transfer-plani-yeni-golcu-bundesligadan-geliyor",
+     "published": "2026-09-25T21:31:25+00:00"
     },
     {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/zinedine-zidane-mbappenin-durumu-iyi-degil-33294325",
-     "published": "2026-09-25T21:51:00+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-zidane-turkiye-maci-sonrasi-mbappeyle-ilgili-kotu-haberi-verdi-430247",
-     "published": "2026-09-25T21:57:03+00:00"
-    },
-    {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/fransa-da-zinedine-zidane-turkiye-de-oynamak-kolay-degil-3915194",
-     "published": "2026-09-25T21:59:39+00:00"
-    },
-    {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/rayan-cherki-turkiye-de-oynamak-her-zaman-keyiflidir-3915197",
-     "published": "2026-09-25T22:03:36+00:00"
-    },
-    {
-     "name": "Star",
-     "url": "https://www.star.com.tr/spor/zinedine-zidane-turkiyeye-gelip-oynamak-hic-kolay-degil-haber-2042638",
-     "published": "2026-09-25T22:41:00+00:00"
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/galatasaray/2026/09/26/galatasarayin-yeni-golcusu-bundesligadan-yazin-da-gundeme-gelmisti",
+     "published": "2026-09-26T03:40:54+00:00"
     }
    ],
-   "n_sources": 5,
-   "first_published": "2026-09-25T21:35:15+00:00",
-   "last_published": "2026-09-25T22:41:00+00:00",
+   "n_sources": 2,
+   "first_published": "2026-09-25T21:31:25+00:00",
+   "last_published": "2026-09-26T03:40:54+00:00",
    "image": {
-    "path": "s/bfe7fc7f4b692774.jpg",
+    "path": "s/d81fc62eec81388f.jpg",
     "kind": "story",
     "label": "Temsili görsel"
    },
-   "score": 6.32
+   "score": 5.13
   },
   {
-   "id": "s0021",
-   "rank": 8,
+   "id": "s0012",
+   "rank": 12,
    "key": "dc3269a086caa78b",
-   "title": "Uğurcan Çakır, Fransa deplasmanında kırmızı kart gördü",
+   "title": "Uğurcan Çakır, Fransa maçında kırmızı kart gördü",
    "summarized": true,
    "bullets": [
-    "Uluslar Ligi A Ligi 1. Grup maçında Fransa'ya konuk olan Türkiye, karşılaşmayı Mbappe'nin 54. dakikadaki golüyle 1-0 kaybetti.",
-    "Maçın son bölümünde ceza sahası dışına çıkan Uğurcan Çakır, savunma arkasına atılan topa müdahale ederken topa eliyle dokundu.",
-    "VAR hakemi Dingert'in uyarısı üzerine pozisyonu inceleyen hakem, Uğurcan Çakır'a doğrudan kırmızı kart gösterdi.",
-    "Kaleci kırmızı kartla oyun dışında kalırken yerine Altay Bayındır girdi ve Türkiye maçın kalanını 10 kişi tamamladı."
+    "Türkiye, Uluslar Ligi A Ligi 1. Grup'taki ilk maçında Fransa'ya konuk oldu.",
+    "Fransa'yı Mbappe'nin golüyle 1-0 öne geçtiği maçta Uğurcan Çakır, ceza sahası dışında topa elle müdahale etti.",
+    "VAR incelemesi sonrası milli kaleci maçın son bölümünde (86. dakikada) doğrudan kırmızı kart gördü.",
+    "Uğurcan'ın yerine Altay Bayındır oyuna girdi ve Türkiye kalan süreyi 10 kişi tamamladı.",
+    "Uğurcan, kırmızı kart görmeden önce ilk yarıda kritik kurtarışlar yapmıştı."
    ],
-   "why": "Milli takımın kalecisi kritik bir Uluslar Ligi maçında kırmızı kart görerek takımını 10 kişi bıraktı, bu durum sonucu ve grup hesaplarını doğrudan etkiledi.",
+   "why": "A Milli Takım, Uluslar Ligi'ndeki ilk maçında 10 kişi kalarak mağlup oldu; bu durum grup mücadelesi açısından önemli.",
    "raw_summary": null,
-   "category": "hakem",
-   "category_name": "Hakem / VAR",
+   "category": "mac",
+   "category_name": "Maç",
    "status": "resmi",
    "clubs": [],
    "leagues": [
@@ -533,26 +773,20 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 6.11
+   "score": 4.7
   },
   {
-   "id": "s0039",
-   "rank": 9,
-   "key": "445de221a52177ef",
-   "title": "Merih Demiral'dan kırmızı kart yorumu: Hakem de emin değildi",
-   "summarized": true,
-   "bullets": [
-    "A Milli Takım, Uluslar Ligi'nde Fransa'ya Kocaeli'de 1-0 mağlup oldu.",
-    "10 kişi kalan Demiral, hakemin kırmızı kart kararından emin olmadığını söylediğini iddia etti.",
-    "Demiral, VAR incelemesine rağmen hakemin durumu yüzde 50-50 olarak değerlendirdiğini aktardı.",
-    "Fransız oyuncuların hakemi etkilediğini düşündüğünü belirtti.",
-    "Demiral, önümüzdeki 3 maçtan en iyi sonucu almayı hedeflediklerini söyledi."
-   ],
-   "why": "Kırmızı kart kararı maçın kaderini etkiledi ve oyuncunun sözleri hakem tartışmalarını gündeme taşıdı.",
-   "raw_summary": null,
+   "id": "s0028",
+   "rank": 13,
+   "key": "a1af8640b3c9c4e2",
+   "title": "Merih Demiral'dan Fransa maçının ardından flaş hakem sözleri: \"Karardan emin değil\"",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "A Milli Takım'da Merih Demiral, Fransa maçı sonrası açıklamalarda bulundu. Milli Takım",
    "category": "hakem",
    "category_name": "Hakem / VAR",
-   "status": "soylenti",
+   "status": null,
    "clubs": [],
    "leagues": [
     {
@@ -571,11 +805,6 @@
      "published": "2026-09-25T21:02:08+00:00"
     },
     {
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/09/25/merih-demiraldan-kirmiz-kart-tepkisi-hakem-de-emin-degildi",
-     "published": "2026-09-25T21:22:16+00:00"
-    },
-    {
      "name": "Sözcü",
      "url": "https://www.sozcu.com.tr/merih-demiral-dan-kirmizi-kart-aciklamasi-hakem-de-emin-degildi-p363593",
      "published": "2026-09-25T21:22:18+00:00"
@@ -586,172 +815,19 @@
      "published": "2026-09-25T21:56:29+00:00"
     }
    ],
-   "n_sources": 4,
+   "n_sources": 3,
    "first_published": "2026-09-25T21:02:08+00:00",
    "last_published": "2026-09-25T21:56:29+00:00",
    "image": {
-    "path": "pool/diger-2.png",
+    "path": "pool/hakem-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 6.01
+   "score": 4.28
   },
   {
-   "id": "s0063",
-   "rank": 10,
-   "key": "d81fc62eec81388f",
-   "title": "Galatasaray'ın ara transfer gündeminde Stuttgartlı golcü Demirovic var",
-   "summarized": true,
-   "bullets": [
-    "Galatasaray, Osimhen'e alternatif olarak Stuttgartlı forvet Ermedin Demirovic'i yakından izliyor.",
-    "28 yaşındaki Bosna Hersekli oyuncunun Stuttgart ile sözleşmesi Haziran 2028'de bitiyor, güncel piyasa değeri 22 milyon euro olarak gösteriliyor.",
-    "Demirovic'in Şampiyonlar Ligi seviyesinde bir takıma transfer olmaya sıcak baktığı ve teklifleri buna göre değerlendireceği iddia edildi.",
-    "Oyuncu bu sezon Stuttgart formasıyla 6 resmi maçta 4 gol attı.",
-    "İngiltere'den Leeds United'ın da Demirovic'i takip ettiği ve ocak ayında Stuttgart'a resmi teklif götürebileceği belirtiliyor."
-   ],
-   "why": "Galatasaray'ın Osimhen'e güçlü bir alternatif arayışı, taraftarların ocak transfer dönemine yönelik beklentilerini artırıyor.",
-   "raw_summary": null,
-   "category": "transfer",
-   "category_name": "Transfer",
-   "status": "soylenti",
-   "clubs": [
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "bundesliga",
-     "name": "Bundesliga"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/galatasaray/2026/09/26/galatasaraydan-cilgin-ara-transfer-plani-yeni-golcu-bundesligadan-geliyor",
-     "published": "2026-09-25T21:31:25+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/galatasaray/2026/09/26/galatasarayin-yeni-golcusu-bundesligadan-yazin-da-gundeme-gelmisti",
-     "published": "2026-09-26T03:40:54+00:00"
-    }
-   ],
-   "n_sources": 2,
-   "first_published": "2026-09-25T21:31:25+00:00",
-   "last_published": "2026-09-26T03:40:54+00:00",
-   "image": {
-    "path": "s/d81fc62eec81388f.jpg",
-    "kind": "story",
-    "label": "Temsili görsel"
-   },
-   "score": 5.22
-  },
-  {
-   "id": "s0015",
-   "rank": 11,
-   "key": "e0c52b5d9fa0c308",
-   "title": "Mbappe, Türkiye maçında gol attıktan sonra sakatlandı",
-   "summarized": true,
-   "bullets": [
-    "Fransa ile Türkiye arasındaki Uluslar A Ligi maçında Mbappe 54. dakikada takımının golünü attı.",
-    "Golün ardından dizinden sakatlık yaşayan Mbappe, sahada kalmaya çalıştı ancak devam edemedi.",
-    "Fransa Teknik Direktörü Zinedine Zidane, Mbappe'nin yerine Desire Doue'yi oyuna soktu.",
-    "Mbappe'nin sakatlığının ciddiyetine dair henüz bir açıklama yer almadı."
-   ],
-   "why": "Fransa'nın yıldız ismi Mbappe'nin sakatlığı, hem Fransa Milli Takımı hem de kulübü için önemli bir kayıp riski oluşturuyor.",
-   "raw_summary": null,
-   "category": "sakatlik",
-   "category_name": "Sakatlık",
-   "status": "belirsiz",
-   "clubs": [],
-   "leagues": [
-    {
-     "slug": "milli-takim",
-     "name": "A Millî Takım"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/dunya/mbappe-bize-golu-atti-sakatlandi-SXHBQ1177234SXQ",
-     "published": "2026-09-25T20:05:00+00:00"
-    },
-    {
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/kylian-mbappe-golu-atti-oyundan-cikmak-zorunda-kaldi-dunya-yildizi-turkiye-de-sakatlandi-p363585",
-     "published": "2026-09-25T20:17:29+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/millitakim/2026/09/26/golu-atti-sakatlandi",
-     "published": "2026-09-25T22:06:12+00:00"
-    }
-   ],
-   "n_sources": 3,
-   "first_published": "2026-09-25T20:05:00+00:00",
-   "last_published": "2026-09-25T22:06:12+00:00",
-   "image": {
-    "path": "s/e0c52b5d9fa0c308.jpg",
-    "kind": "story",
-    "label": "Temsili görsel"
-   },
-   "score": 4.82
-  },
-  {
-   "id": "s0161",
-   "rank": 12,
-   "key": "aab6779d49a639fa",
-   "title": "FIFA sisteminde Fenerbahçe'ye 3 dönemlik transfer yasağı görüldü",
-   "summarized": true,
-   "bullets": [
-    "FIFA'nın resmi transfer yasağı listesinde Fenerbahçe'nin 3 dönem transfer yasağı olduğu tespit edildi.",
-    "Yasağın mali bir dosyayla ilgili olduğu ve ilgili ücretin ödenmesi halinde kaldırılacağı belirtiliyor.",
-    "Yasağın hangi dosyadan kaynaklandığı ve ödeme tutarı konusunda henüz ayrıntılı bilgi bulunmuyor.",
-    "Fenerbahçe Kulübü'nden konuyla ilgili henüz resmi bir açıklama yapılmadı."
-   ],
-   "why": "Yasağın kalkmaması halinde Fenerbahçe önümüzdeki transfer dönemlerinde yeni oyuncu kaydı yapamayabilir.",
-   "raw_summary": null,
-   "category": "transfer",
-   "category_name": "Transfer",
-   "status": "belirsiz",
-   "clubs": [
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/fifadan-fenerbahceye-3-donem-transfer-yasagi-p363615",
-     "published": "2026-09-26T06:09:29+00:00"
-    }
-   ],
-   "n_sources": 1,
-   "first_published": "2026-09-26T06:09:29+00:00",
-   "last_published": "2026-09-26T06:09:29+00:00",
-   "image": {
-    "path": "pool/diger-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 4.44
-  },
-  {
-   "id": "s0124",
-   "rank": 13,
+   "id": "s0108",
+   "rank": 14,
    "key": "b5eeb6faca13eabf",
    "title": "Video | Lukaku ve Donnarumma'yı zor ayırdılar",
    "summarized": false,
@@ -788,11 +864,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 4.09
+   "score": 4.02
   },
   {
-   "id": "s0194",
-   "rank": 14,
+   "id": "s0171",
+   "rank": 15,
    "key": "be848d5d5ccd176f",
    "title": "Salah kararı ortalığı karıştırdı! Maç biter bitmez açıklama geldi",
    "summarized": false,
@@ -829,134 +905,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 4.08
+   "score": 3.99
   },
   {
-   "id": "s0127",
-   "rank": 15,
-   "key": "62367abed0e5a7ef",
-   "title": "TRANSFER HABERİ: Dorgeles Nene Fenerbahçe'den ayrılıyor! Yeni adresi...",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Fenerbahçe'nin 23 yaşındaki futbolcusu Dorgeles Nene hakkında flaş bir gelişme yaşandı. Ocak ayında takımdan ayrılmak isteyen Malili oyuncunun, sürpriz bir takımla temas halinde olduğu öğrenildi. İşte... Devamı için tıklayınız",
-   "category": "transfer",
-   "category_name": "Transfer",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/fenerbahce/2026/09/26/transfer-haberi-dorgeles-nene-fenerbahceden-ayriliyor-yeni-adresi",
-     "published": "2026-09-26T03:40:54+00:00"
-    }
-   ],
-   "n_sources": 1,
-   "first_published": "2026-09-26T03:40:54+00:00",
-   "last_published": "2026-09-26T03:40:54+00:00",
-   "image": {
-    "path": "pool/diger-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 4.01
-  },
-  {
-   "id": "s0128",
+   "id": "s0008",
    "rank": 16,
-   "key": "264c6ab15e01bcc7",
-   "title": "TRANSFER HABERİ: Beşiktaş'ta Fares Ghedjemis sesleri!",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Ara transfer çalışmalarına başlayan Beşiktaş, ocak ayında yeni bir kanat takviyesi yapmak istiyor. Bu doğrultuda siyah beyazlılar, yazın da gündeme gelen Fares Ghedjemis için tekrardan devreye girdi.... Devamı için tıklayınız",
-   "category": "transfer",
-   "category_name": "Transfer",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "besiktas",
-     "name": "Beşiktaş"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/besiktas/2026/09/26/transfer-haberi-besiktasta-fares-ghedjemis-sesleri",
-     "published": "2026-09-26T03:40:54+00:00"
-    }
-   ],
-   "n_sources": 1,
-   "first_published": "2026-09-26T03:40:54+00:00",
-   "last_published": "2026-09-26T03:40:54+00:00",
-   "image": {
-    "path": "pool/diger-1.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 4.01
-  },
-  {
-   "id": "s0129",
-   "rank": 17,
-   "key": "73281cc2a5bfffd2",
-   "title": "Fırtına'ya 20'lik orta saha! Yönetim transfer için bizzat devrede",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Devre arasında kadrosuna bir orta saha takviyesi yapmak isteyen Trabzonspor, gündemine yaz transfer döneminde de ilgilendiği Eddy Doue'yi aldı. Bordo-mavili ekibin genç yıldızı kadrosuna katmak için... Devamı için tıklayınız",
-   "category": "transfer",
-   "category_name": "Transfer",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "trabzonspor",
-     "name": "Trabzonspor"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/trabzonspor/2026/09/26/firtinaya-20lik-orta-saha-yonetim-transfer-icin-bizzat-devrede",
-     "published": "2026-09-26T03:40:54+00:00"
-    }
-   ],
-   "n_sources": 1,
-   "first_published": "2026-09-26T03:40:54+00:00",
-   "last_published": "2026-09-26T03:40:54+00:00",
-   "image": {
-    "path": "pool/diger-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 4.01
-  },
-  {
-   "id": "s0017",
-   "rank": 18,
    "key": "cbd084a825c0367d",
    "title": "Burak Yılmaz Çorum FK'da sahaya indi",
    "summarized": false,
@@ -998,11 +951,134 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 4.0
+   "score": 3.96
   },
   {
-   "id": "s0168",
+   "id": "s0111",
+   "rank": 17,
+   "key": "62367abed0e5a7ef",
+   "title": "TRANSFER HABERİ: Dorgeles Nene Fenerbahçe'den ayrılıyor! Yeni adresi...",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Fenerbahçe'nin 23 yaşındaki futbolcusu Dorgeles Nene hakkında flaş bir gelişme yaşandı. Ocak ayında takımdan ayrılmak isteyen Malili oyuncunun, sürpriz bir takımla temas halinde olduğu öğrenildi. İşte... Devamı için tıklayınız",
+   "category": "transfer",
+   "category_name": "Transfer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/fenerbahce/2026/09/26/transfer-haberi-dorgeles-nene-fenerbahceden-ayriliyor-yeni-adresi",
+     "published": "2026-09-26T03:40:54+00:00"
+    }
+   ],
+   "n_sources": 1,
+   "first_published": "2026-09-26T03:40:54+00:00",
+   "last_published": "2026-09-26T03:40:54+00:00",
+   "image": {
+    "path": "pool/diger-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 3.95
+  },
+  {
+   "id": "s0112",
+   "rank": 18,
+   "key": "264c6ab15e01bcc7",
+   "title": "TRANSFER HABERİ: Beşiktaş'ta Fares Ghedjemis sesleri!",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Ara transfer çalışmalarına başlayan Beşiktaş, ocak ayında yeni bir kanat takviyesi yapmak istiyor. Bu doğrultuda siyah beyazlılar, yazın da gündeme gelen Fares Ghedjemis için tekrardan devreye girdi.... Devamı için tıklayınız",
+   "category": "transfer",
+   "category_name": "Transfer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/besiktas/2026/09/26/transfer-haberi-besiktasta-fares-ghedjemis-sesleri",
+     "published": "2026-09-26T03:40:54+00:00"
+    }
+   ],
+   "n_sources": 1,
+   "first_published": "2026-09-26T03:40:54+00:00",
+   "last_published": "2026-09-26T03:40:54+00:00",
+   "image": {
+    "path": "pool/diger-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 3.95
+  },
+  {
+   "id": "s0113",
    "rank": 19,
+   "key": "73281cc2a5bfffd2",
+   "title": "Fırtına'ya 20'lik orta saha! Yönetim transfer için bizzat devrede",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Devre arasında kadrosuna bir orta saha takviyesi yapmak isteyen Trabzonspor, gündemine yaz transfer döneminde de ilgilendiği Eddy Doue'yi aldı. Bordo-mavili ekibin genç yıldızı kadrosuna katmak için... Devamı için tıklayınız",
+   "category": "transfer",
+   "category_name": "Transfer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/trabzonspor/2026/09/26/firtinaya-20lik-orta-saha-yonetim-transfer-icin-bizzat-devrede",
+     "published": "2026-09-26T03:40:54+00:00"
+    }
+   ],
+   "n_sources": 1,
+   "first_published": "2026-09-26T03:40:54+00:00",
+   "last_published": "2026-09-26T03:40:54+00:00",
+   "image": {
+    "path": "pool/diger-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 3.95
+  },
+  {
+   "id": "s0148",
+   "rank": 20,
    "key": "6002be789d2a8ead",
    "title": "Dorgeles Nene şov yaptı! Türkiye'de oynayan 6 ismin forma giydiği maçta 4 gol",
    "summarized": false,
@@ -1014,16 +1090,16 @@
    "status": null,
    "clubs": [
     {
-     "slug": "trabzonspor",
-     "name": "Trabzonspor"
+     "slug": "genclerbirligi",
+     "name": "Gençlerbirliği"
     },
     {
      "slug": "fenerbahce",
      "name": "Fenerbahçe"
     },
     {
-     "slug": "genclerbirligi",
-     "name": "Gençlerbirliği"
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
     }
    ],
    "leagues": [
@@ -1051,60 +1127,62 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.82
+   "score": 3.75
   },
   {
-   "id": "s0154",
-   "rank": 20,
-   "key": "5973f889130b4133",
-   "title": "\"Montella’nın düşünmesi gereken iki büyük problemi var\" | Spor yazarları A Milli Takım için ne dedi?",
+   "id": "s0044",
+   "rank": 21,
+   "key": "26e29fde4af91a12",
+   "title": "Fransa yenilgisi sonrası Montella \"Bu maç şunu gösterdi\" diyerek açıkladı",
    "summarized": false,
    "bullets": [],
    "why": null,
-   "raw_summary": "UEFA Uluslar Ligi'nde A Milli Takım, gruptaki ilk maçında Fransa'ya 1-0 mağlup oldu. Karşılaşmanın ardından spor yazarları mücadeleyi ve milli takımın performansını yorumladı.",
-   "category": "hakem",
-   "category_name": "Hakem / VAR",
+   "raw_summary": "Vincenzo Montella, A Millî Takımımızın Fransa müsabakası sonrası açıklamalarda bulundu.",
+   "category": "diger",
+   "category_name": "Diğer",
    "status": null,
    "clubs": [],
    "leagues": [
     {
-     "slug": "dunya-kupasi",
-     "name": "Dünya Kupası"
-    },
-    {
      "slug": "milli-takim",
      "name": "A Millî Takım"
-    },
-    {
-     "slug": "uluslar-ligi",
-     "name": "Uluslar Ligi"
     }
    ],
    "sources": [
     {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-montellanin-dusunmesi-gereken-iki-buyuk-problemi-var-spor-yazarlari-a-milli-takim-icin-ne-dedi-430250",
-     "published": "2026-09-26T05:53:09+00:00"
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/vincenzo-montella-herkesle-mucadele-ederiz-3471647",
+     "published": "2026-09-25T21:20:58+00:00"
     },
     {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/millitakim/yazarlardan-milli-takim-yorumlari-SXHBQ1177252SXQ",
-     "published": "2026-09-26T07:33:09+00:00"
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/vincenzo-montelladan-kirmizi-kart-yorumu-cok-net-gorulmuyordu-43319909",
+     "published": "2026-09-25T21:28:49+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/vincenzo-montelladan-aciklamalar-33293715",
+     "published": "2026-09-25T21:32:00+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-fransa-yenilgisi-sonrasi-montella-bu-mac-sunu-gosterdi-diyerek-acikladi-430246",
+     "published": "2026-09-25T21:35:08+00:00"
     }
    ],
-   "n_sources": 2,
-   "first_published": "2026-09-26T05:53:09+00:00",
-   "last_published": "2026-09-26T07:33:09+00:00",
+   "n_sources": 4,
+   "first_published": "2026-09-25T21:20:58+00:00",
+   "last_published": "2026-09-25T21:35:08+00:00",
    "image": {
-    "path": "pool/mac-1.png",
+    "path": "pool/diger-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.69
+   "score": 3.52
   },
   {
-   "id": "s0103",
-   "rank": 21,
+   "id": "s0088",
+   "rank": 22,
    "key": "4346fb5d62bf1228",
    "title": "Galatasaray'da flaş transfer iddiası! Lucas Torreira…",
    "summarized": false,
@@ -1141,11 +1219,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.44
+   "score": 3.41
   },
   {
-   "id": "s0132",
-   "rank": 22,
+   "id": "s0116",
+   "rank": 23,
    "key": "a422e78e3c73eb95",
    "title": "En değerlisi Greenwood",
    "summarized": false,
@@ -1157,12 +1235,12 @@
    "status": null,
    "clubs": [
     {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    },
-    {
      "slug": "galatasaray",
      "name": "Galatasaray"
+    },
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
     }
    ],
    "leagues": [
@@ -1190,11 +1268,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.44
+   "score": 3.38
   },
   {
-   "id": "s0135",
-   "rank": 23,
+   "id": "s0119",
+   "rank": 24,
    "key": "2d7612cede81c542",
    "title": "Okan Buruk çok başarılı",
    "summarized": false,
@@ -1206,20 +1284,20 @@
    "status": null,
    "clubs": [
     {
-     "slug": "trabzonspor",
-     "name": "Trabzonspor"
-    },
-    {
-     "slug": "barcelona",
-     "name": "Barcelona"
+     "slug": "kasimpasa",
+     "name": "Kasımpaşa"
     },
     {
      "slug": "galatasaray",
      "name": "Galatasaray"
     },
     {
-     "slug": "kasimpasa",
-     "name": "Kasımpaşa"
+     "slug": "barcelona",
+     "name": "Barcelona"
+    },
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
     }
    ],
    "leagues": [
@@ -1251,11 +1329,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.44
+   "score": 3.38
   },
   {
-   "id": "s0094",
-   "rank": 24,
+   "id": "s0080",
+   "rank": 25,
    "key": "775b47acbea705ab",
    "title": "Arda Güler: Bugünü unutturup İtalya karşısında kazanmak istiyoruz",
    "summarized": false,
@@ -1297,11 +1375,52 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.41
+   "score": 3.37
   },
   {
-   "id": "s0077",
-   "rank": 25,
+   "id": "s0189",
+   "rank": 26,
+   "key": "59e7363cae2871ae",
+   "title": "Beşiktaş'ta seçim 3 Ekim'de yapılacak!",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Beşiktaş, bugün yapılması planlanan Olağan İdari ve Mali Genel Kurul Toplantısı'nın çoğunluk sağlanamadığı için 3 Ekim'e ertelendiğini açıkladı. Devamı için tıklayınız",
+   "category": "yonetim",
+   "category_name": "Yönetim",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/09/26/besiktasta-secim-3-ekimde-yapilacak",
+     "published": "2026-09-26T08:25:03+00:00"
+    }
+   ],
+   "n_sources": 1,
+   "first_published": "2026-09-26T08:25:03+00:00",
+   "last_published": "2026-09-26T08:25:03+00:00",
+   "image": {
+    "path": "pool/diger-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 3.37
+  },
+  {
+   "id": "s0063",
+   "rank": 27,
    "key": "76ec1f2946092de1",
    "title": "Christ Inao Oulai Galatasaray'a gelecek mi? İtalya'dan flaş açıklama!",
    "summarized": false,
@@ -1342,11 +1461,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.38
+   "score": 3.35
   },
   {
-   "id": "s0064",
-   "rank": 26,
+   "id": "s0051",
+   "rank": 28,
    "key": "ac6d37ce3f9c72bf",
    "title": "Greenwood evine kavuştu",
    "summarized": false,
@@ -1383,11 +1502,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.36
+   "score": 3.33
   },
   {
-   "id": "s0142",
-   "rank": 27,
+   "id": "s0126",
+   "rank": 29,
    "key": "59febcfd2d5c3df0",
    "title": "Türkiye-Fransa maçını yazdılar: Montella'nın iki büyük problemi var!",
    "summarized": false,
@@ -1432,57 +1551,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.33
+   "score": 3.27
   },
   {
-   "id": "s0055",
-   "rank": 28,
-   "key": "26e29fde4af91a12",
-   "title": "Fransa yenilgisi sonrası Montella \"Bu maç şunu gösterdi\" diyerek açıkladı",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Vincenzo Montella, A Millî Takımımızın Fransa müsabakası sonrası açıklamalarda bulundu.",
-   "category": "diger",
-   "category_name": "Diğer",
-   "status": null,
-   "clubs": [],
-   "leagues": [
-    {
-     "slug": "milli-takim",
-     "name": "A Millî Takım"
-    }
-   ],
-   "sources": [
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/vincenzo-montella-herkesle-mucadele-ederiz-3471647",
-     "published": "2026-09-25T21:20:58+00:00"
-    },
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/vincenzo-montelladan-aciklamalar-33293715",
-     "published": "2026-09-25T21:32:00+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-fransa-yenilgisi-sonrasi-montella-bu-mac-sunu-gosterdi-diyerek-acikladi-430246",
-     "published": "2026-09-25T21:35:08+00:00"
-    }
-   ],
-   "n_sources": 3,
-   "first_published": "2026-09-25T21:20:58+00:00",
-   "last_published": "2026-09-25T21:35:08+00:00",
-   "image": {
-    "path": "pool/diger-1.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 3.33
-  },
-  {
-   "id": "s0027",
-   "rank": 29,
+   "id": "s0017",
+   "rank": 30,
    "key": "703d012bb1162d98",
    "title": "UEFA Uluslar Ligi'nde gecenin toplu sonuçları",
    "summarized": false,
@@ -1523,101 +1596,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.27
+   "score": 3.23
   },
   {
-   "id": "s0042",
-   "rank": 30,
-   "key": "7aa5a60c9c7d168e",
-   "title": "Merih Demiral, Fransızlara patladı!",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Merih Demiral, Türkiye’nin Fransa’ya 1-0 mağlup olduğu maçın ardından dikkat çeken açıklamalarda bulundu. Uğurcan Çakır’ın kırmızı kartına tepki gösteren Demiral, “Fransızlar konuşmayı seviyor, hakemi etki altına aldılar” ifadelerini kullandı.",
-   "category": "mac",
-   "category_name": "Maç",
-   "status": null,
-   "clubs": [],
-   "leagues": [
-    {
-     "slug": "milli-takim",
-     "name": "A Millî Takım"
-    },
-    {
-     "slug": "uluslar-ligi",
-     "name": "Uluslar Ligi"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/merih-demiral-fransizlara-patladi-735510",
-     "published": "2026-09-25T21:06:27+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/video-haber/videoizle/merih-demiral-fransizlar-konusmayi-seviyor",
-     "published": "2026-09-25T22:35:34+00:00"
-    }
-   ],
-   "n_sources": 2,
-   "first_published": "2026-09-25T21:06:27+00:00",
-   "last_published": "2026-09-25T22:35:34+00:00",
-   "image": {
-    "path": "pool/diger-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 3.27
-  },
-  {
-   "id": "s0122",
+   "id": "s0091",
    "rank": 31,
-   "key": "c75597d16d1a78a6",
-   "title": "Nene yıldızlaştı, Mali'yi galibiyete taşıyan isim oldu!",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Mali ve Yeşil Burun Adaları, Afrika Uluslar Kupası Elemeleri mücadelesinde karşı karşıya geldi. 3-1 biten maçın yıldızı, attığı 2 golle Fenerbahçe'nin genç oyuncusu Dorgeles Nene oldu.",
-   "category": "mac",
-   "category_name": "Maç",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "trabzonspor",
-     "name": "Trabzonspor"
-    },
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/nene-yildizlasti-maliyi-galibiyete-tasiyan-isim-oldu-735514",
-     "published": "2026-09-26T02:25:53+00:00"
-    }
-   ],
-   "n_sources": 1,
-   "first_published": "2026-09-26T02:25:53+00:00",
-   "last_published": "2026-09-26T02:25:53+00:00",
-   "image": {
-    "path": "pool/mac-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 3.25
-  },
-  {
-   "id": "s0106",
-   "rank": 32,
    "key": "fff8011eb58799d4",
    "title": "Fenerbahçe'nin devre arası orta saha hedefi belli oldu!",
    "summarized": false,
@@ -1654,10 +1637,59 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.91
+   "score": 2.88
   },
   {
-   "id": "s0046",
+   "id": "s0136",
+   "rank": 32,
+   "key": "5973f889130b4133",
+   "title": "\"Montella’nın düşünmesi gereken iki büyük problemi var\" | Spor yazarları A Milli Takım için ne dedi?",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "UEFA Uluslar Ligi'nde A Milli Takım, gruptaki ilk maçında Fransa'ya 1-0 mağlup oldu. Karşılaşmanın ardından spor yazarları mücadeleyi ve milli takımın performansını yorumladı.",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "dunya-kupasi",
+     "name": "Dünya Kupası"
+    },
+    {
+     "slug": "milli-takim",
+     "name": "A Millî Takım"
+    },
+    {
+     "slug": "uluslar-ligi",
+     "name": "Uluslar Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-montellanin-dusunmesi-gereken-iki-buyuk-problemi-var-spor-yazarlari-a-milli-takim-icin-ne-dedi-430250",
+     "published": "2026-09-26T05:53:09+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/millitakim/yazarlardan-milli-takim-yorumlari-SXHBQ1177252SXQ",
+     "published": "2026-09-26T07:33:09+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-09-26T05:53:09+00:00",
+   "last_published": "2026-09-26T07:33:09+00:00",
+   "image": {
+    "path": "pool/diger-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 2.8
+  },
+  {
+   "id": "s0035",
    "rank": 33,
    "key": "4d97ee90d6fbb105",
    "title": "Trabzonspor'dan ön liberoya Eddy Doue hamlesi",
@@ -1695,93 +1727,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.82
+   "score": 2.79
   },
   {
-   "id": "s0016",
+   "id": "s0002",
    "rank": 34,
-   "key": "e4f76f9f7aa96490",
-   "title": "Fransa'ya Mbappe şoku: Golü attıktan sonra sakatlandı",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Uluslar Ligi A Grubu ilk maçında Türkiye ile karşılaşan Fransa'da Kylian Mbappe 54. dakikada fileleri havalandırdı. Yıldız isim gol pozisyonunda sakatlanarak oyuna devam edemedi.",
-   "category": "sakatlik",
-   "category_name": "Sakatlık",
-   "status": null,
-   "clubs": [],
-   "leagues": [
-    {
-     "slug": "uluslar-ligi",
-     "name": "Uluslar Ligi"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Yeni Şafak",
-     "url": "https://www.yenisafak.com/spor/fransaya-mbappe-soku-golu-attiktan-sonra-sakatlandi-4859061",
-     "published": "2026-09-25T20:11:32+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-kylian-mbappe-turkiyeye-gol-attiktan-sonra-sakatlanarak-oyundan-cikti-430240",
-     "published": "2026-09-25T20:14:10+00:00"
-    }
-   ],
-   "n_sources": 2,
-   "first_published": "2026-09-25T20:11:32+00:00",
-   "last_published": "2026-09-25T20:14:10+00:00",
-   "image": {
-    "path": "pool/mac-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 2.81
-  },
-  {
-   "id": "s0169",
-   "rank": 35,
-   "key": "710408907d3d540d",
-   "title": "Fenerbahçeli yıldızdan milli takımda şov! Dorgeles Nene maça damga vurdu",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Süper Lig'den 6 yıldızın oynadığı milli maça Fenerbahçeli isim damga vurdu",
-   "category": "diger",
-   "category_name": "Diğer",
-   "status": null,
-   "clubs": [],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/super-ligden-6-yildizin-oynadigi-milli-maca-fenerbahceli-isim-damga-vurdu-p363642",
-     "published": "2026-09-26T06:39:07+00:00"
-    },
-    {
-     "name": "Star",
-     "url": "https://www.star.com.tr/spor/fenerbahceli-yildizdan-milli-takimda-sov-dorgeles-nene-maca-damga-vurdu-haber-2042659",
-     "published": "2026-09-26T06:57:00+00:00"
-    }
-   ],
-   "n_sources": 2,
-   "first_published": "2026-09-26T06:39:07+00:00",
-   "last_published": "2026-09-26T06:57:00+00:00",
-   "image": {
-    "path": "pool/diger-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 2.78
-  },
-  {
-   "id": "s0010",
-   "rank": 36,
    "key": "cefddb96c204c0f7",
    "title": "Boateng teklifi kabul etti: Thomas Reis'ın ekibine katılmak için Trabzon'a geliyor",
    "summarized": false,
@@ -1818,11 +1768,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.72
+   "score": 2.69
   },
   {
-   "id": "s0173",
-   "rank": 37,
+   "id": "s0152",
+   "rank": 35,
    "key": "31347145034ad92b",
    "title": "Fransızlar 3 puanı bıraktı, Mbappe'ye ağlıyor! \"Acı içinde\" gelen galibiyet",
    "summarized": false,
@@ -1867,11 +1817,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.71
+   "score": 2.65
   },
   {
-   "id": "s0180",
-   "rank": 38,
+   "id": "s0159",
+   "rank": 36,
    "key": "92baaec2093d73f6",
    "title": "Thomas Reis, milli arada takımını şekillendirecek",
    "summarized": false,
@@ -1908,11 +1858,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.51
+   "score": 2.45
   },
   {
-   "id": "s0175",
-   "rank": 39,
+   "id": "s0154",
+   "rank": 37,
    "key": "3a28994064a8cd6b",
    "title": "Fenerbahçe'nin yıldızı milli maçta çılgına döndü, güçlükle ayırdılar",
    "summarized": false,
@@ -1949,11 +1899,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.48
+   "score": 2.42
   },
   {
-   "id": "s0140",
-   "rank": 40,
+   "id": "s0124",
+   "rank": 38,
    "key": "fd76a0480019e1af",
    "title": "Mbappe'den Arda Güler'e maç içinde psikolojik savaş!",
    "summarized": false,
@@ -1994,11 +1944,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.44
+   "score": 2.4
   },
   {
-   "id": "s0060",
-   "rank": 41,
+   "id": "s0048",
+   "rank": 39,
    "key": "10097caf09edf893",
    "title": "Fenerbahçe Matteo Guendouzi hakkında açıklama yayınladı!",
    "summarized": false,
@@ -2044,11 +1994,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.41
+   "score": 2.39
   },
   {
-   "id": "s0112",
-   "rank": 42,
+   "id": "s0097",
+   "rank": 40,
    "key": "a4bd2be787b512ec",
    "title": "Galatasaray Başkanı Dursun Özbek'ten Singo açıklaması!",
    "summarized": false,
@@ -2090,11 +2040,11 @@
     "kind": "story",
     "label": "Temsili görsel"
    },
-   "score": 2.41
+   "score": 2.39
   },
   {
-   "id": "s0163",
-   "rank": 43,
+   "id": "s0144",
+   "rank": 41,
    "key": "d62849cdf39c8243",
    "title": "Dev listedeki tek Süper Lig oyuncusu! Greenwood yıldızları solladı",
    "summarized": false,
@@ -2131,11 +2081,11 @@
     "kind": "story",
     "label": "Temsili görsel"
    },
-   "score": 2.4
+   "score": 2.35
   },
   {
-   "id": "s0099",
-   "rank": 44,
+   "id": "s0084",
+   "rank": 42,
    "key": "e4181ab22eaed12c",
    "title": "Dursun Özbek, EFC yönetim kurulu üyeliğine aday olacak",
    "summarized": false,
@@ -2172,11 +2122,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.37
+   "score": 2.35
   },
   {
-   "id": "s0158",
-   "rank": 45,
+   "id": "s0140",
+   "rank": 43,
    "key": "8ee33324a36f18e9",
    "title": "Binlerce kişiyi kandıran fotoğrafın gerçeği ortaya çıktı!",
    "summarized": false,
@@ -2217,11 +2167,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.37
+   "score": 2.33
   },
   {
-   "id": "s0068",
-   "rank": 46,
+   "id": "s0054",
+   "rank": 44,
    "key": "8c178b5710fccfe5",
    "title": "Okan Buruk PFDK’ya sevk edildi",
    "summarized": false,
@@ -2233,12 +2183,12 @@
    "status": null,
    "clubs": [
     {
-     "slug": "trabzonspor",
-     "name": "Trabzonspor"
-    },
-    {
      "slug": "galatasaray",
      "name": "Galatasaray"
+    },
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
     }
    ],
    "leagues": [
@@ -2262,11 +2212,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.33
+   "score": 2.31
   },
   {
-   "id": "s0053",
-   "rank": 47,
+   "id": "s0042",
+   "rank": 45,
    "key": "97a5e11833d17d75",
    "title": "Zamana ihtiyacı var",
    "summarized": false,
@@ -2303,11 +2253,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.31
+   "score": 2.29
   },
   {
-   "id": "s0133",
-   "rank": 48,
+   "id": "s0117",
+   "rank": 46,
    "key": "ac92f930e0c74b0a",
    "title": "Salah demek rekor demek",
    "summarized": false,
@@ -2344,11 +2294,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.19
+   "score": 2.15
   },
   {
-   "id": "s0131",
-   "rank": 49,
+   "id": "s0115",
+   "rank": 47,
    "key": "826b9da8edc0c8a8",
    "title": "Dingert bu kez de Milli Takımı yaktı!",
    "summarized": false,
@@ -2389,101 +2339,97 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.19
+   "score": 2.15
   },
   {
-   "id": "s0005",
-   "rank": 50,
-   "key": "b7a2b91702a40eac",
-   "title": "TFF’den Galatasaray’a ret",
+   "id": "s0031",
+   "rank": 48,
+   "key": "7aa5a60c9c7d168e",
+   "title": "Merih Demiral, Fransızlara patladı!",
    "summarized": false,
    "bullets": [],
    "why": null,
-   "raw_summary": "Türkiye Futbol Federasyonu (TFF) Tahkim Kurulu, Galatasaray’ın Ziraat Türkiye Kupası ile ilgili itirazını geri çevirdi.",
-   "category": "yonetim",
-   "category_name": "Yönetim",
+   "raw_summary": "Merih Demiral, Türkiye’nin Fransa’ya 1-0 mağlup olduğu maçın ardından dikkat çeken açıklamalarda bulundu. Uğurcan Çakır’ın kırmızı kartına tepki gösteren Demiral, “Fransızlar konuşmayı seviyor, hakemi etki altına aldılar” ifadelerini kullandı.",
+   "category": "diger",
+   "category_name": "Diğer",
    "status": null,
-   "clubs": [
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    },
-    {
-     "slug": "turkiye-kupasi",
-     "name": "Türkiye Kupası"
-    }
-   ],
-   "sources": [
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/tffden-galatasaraya-ret-3471530",
-     "published": "2026-09-25T18:17:22+00:00"
-    }
-   ],
-   "n_sources": 1,
-   "first_published": "2026-09-25T18:17:22+00:00",
-   "last_published": "2026-09-25T18:17:22+00:00",
-   "image": {
-    "path": "pool/mac-1.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 2.17
-  },
-  {
-   "id": "s0007",
-   "rank": 51,
-   "key": "ac78705203767296",
-   "title": "Cihan Kahraman, Portekiz'e damga vuruyor: \"Kral\" oldu!",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "2023'te Samsunspor'dan Academico Viseu'nun yolunu tutan Cihan Kahraman, Portekiz Ligi'nin ilk 7 haftasını 4 asistle tamamladı.",
-   "category": "mac",
-   "category_name": "Maç",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "samsunspor",
-     "name": "Samsunspor"
-    }
-   ],
+   "clubs": [],
    "leagues": [
     {
      "slug": "milli-takim",
      "name": "A Millî Takım"
     },
     {
-     "slug": "super-lig",
-     "name": "Süper Lig"
+     "slug": "uluslar-ligi",
+     "name": "Uluslar Ligi"
     }
    ],
    "sources": [
     {
      "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/cihan-kahraman-portekize-damga-vuruyor-kral-oldu-735503",
-     "published": "2026-09-25T18:25:35+00:00"
+     "url": "https://ajansspor.com/haber/merih-demiral-fransizlara-patladi-735510",
+     "published": "2026-09-25T21:06:27+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/video-haber/videoizle/merih-demiral-fransizlar-konusmayi-seviyor",
+     "published": "2026-09-25T22:35:34+00:00"
     }
    ],
-   "n_sources": 1,
-   "first_published": "2026-09-25T18:25:35+00:00",
-   "last_published": "2026-09-25T18:25:35+00:00",
+   "n_sources": 2,
+   "first_published": "2026-09-25T21:06:27+00:00",
+   "last_published": "2026-09-25T22:35:34+00:00",
    "image": {
-    "path": "pool/mac-1.png",
+    "path": "pool/diger-2.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.13
+   "score": 2.06
   },
   {
-   "id": "s0083",
-   "rank": 52,
+   "id": "s0026",
+   "rank": 49,
+   "key": "fd22e0b5319b8cc9",
+   "title": "Uluslar Ligi'nde ilk hafta heyecanı sona erdi",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "UEFA Uluslar Ligi'nin ilk haftasında 8 maç yapıldı.",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "uluslar-ligi",
+     "name": "Uluslar Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/uluslar-liginde-ilk-hafta-heyecani-sona-erdi-33293114",
+     "published": "2026-09-25T21:00:00+00:00"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginin-ilk-haftasinda-8-mac-oynandi/4069768",
+     "published": "2026-09-25T21:02:32+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-09-25T21:00:00+00:00",
+   "last_published": "2026-09-25T21:02:32+00:00",
+   "image": {
+    "path": "pool/diger-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 1.99
+  },
+  {
+   "id": "s0069",
+   "rank": 50,
    "key": "dd48370547c9d82a",
    "title": "Zidane’dan maç sonu Türkiye itirafı",
    "summarized": false,
@@ -2524,52 +2470,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.0
+   "score": 1.99
   },
   {
-   "id": "s0037",
-   "rank": 53,
-   "key": "fd22e0b5319b8cc9",
-   "title": "Uluslar Ligi'nde ilk hafta heyecanı sona erdi",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "UEFA Uluslar Ligi'nin ilk haftasında 8 maç yapıldı.",
-   "category": "diger",
-   "category_name": "Diğer",
-   "status": null,
-   "clubs": [],
-   "leagues": [
-    {
-     "slug": "uluslar-ligi",
-     "name": "Uluslar Ligi"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/uluslar-liginde-ilk-hafta-heyecani-sona-erdi-33293114",
-     "published": "2026-09-25T21:00:00+00:00"
-    },
-    {
-     "name": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginin-ilk-haftasinda-8-mac-oynandi/4069768",
-     "published": "2026-09-25T21:02:32+00:00"
-    }
-   ],
-   "n_sources": 2,
-   "first_published": "2026-09-25T21:00:00+00:00",
-   "last_published": "2026-09-25T21:02:32+00:00",
-   "image": {
-    "path": "pool/diger-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 2.0
-  },
-  {
-   "id": "s0155",
-   "rank": 54,
+   "id": "s0137",
+   "rank": 51,
    "key": "834b8261b2f308a0",
    "title": "Yıllarca Kocaelispor forması giydi, şimdi milli maçta güvenlik yapıyor!",
    "summarized": false,
@@ -2610,11 +2515,52 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 1.89
+   "score": 1.85
   },
   {
-   "id": "s0107",
-   "rank": 55,
+   "id": "s0089",
+   "rank": 52,
+   "key": "837f7f0c0b96a791",
+   "title": "Trabzonspor'da Mykhavko sürprizi! Stopere 21'lik genç yıldız",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Trabzonspor, Dinamo Kiev’de oynayan 21 yaşındaki stoper Taras Mykhavko’yu listesinde bulunduruyor. Potansiyeli yüksek olan Ukraynalı defans oyuncusu için çalışmalar yapılıyor. Devamı için tıklayınız",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/trabzonspor/2026/09/25/trabzonsporda-mykhavko-surprizi-stopere-21lik-genc-yildiz",
+     "published": "2026-09-25T22:34:23+00:00"
+    }
+   ],
+   "n_sources": 1,
+   "first_published": "2026-09-25T22:34:23+00:00",
+   "last_published": "2026-09-25T22:34:23+00:00",
+   "image": {
+    "path": "pool/diger-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 1.83
+  },
+  {
+   "id": "s0092",
+   "rank": 53,
    "key": "f6e19fca8971f69a",
    "title": "Virgil Van Dijk'tan Muhammed Salah itirafı: Onu çok özlüyorum!",
    "summarized": false,
@@ -2626,12 +2572,12 @@
    "status": null,
    "clubs": [
     {
-     "slug": "trabzonspor",
-     "name": "Trabzonspor"
-    },
-    {
      "slug": "liverpool",
      "name": "Liverpool"
+    },
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
     }
    ],
    "leagues": [
@@ -2659,11 +2605,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 1.85
+   "score": 1.83
   },
   {
-   "id": "s0108",
-   "rank": 56,
+   "id": "s0093",
+   "rank": 54,
    "key": "f3c2eccfff58e758",
    "title": "Galatasaray'dan savunmaya Portekizli kule!",
    "summarized": false,
@@ -2700,11 +2646,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 1.85
+   "score": 1.83
   },
   {
-   "id": "s0110",
-   "rank": 57,
+   "id": "s0095",
+   "rank": 55,
    "key": "ba23cb37917f849b",
    "title": "Galatasaray'da sıcak gelişme! Milli aradan sonra Lemina…",
    "summarized": false,
@@ -2741,11 +2687,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 1.85
+   "score": 1.83
   },
   {
-   "id": "s0113",
-   "rank": 58,
+   "id": "s0098",
+   "rank": 56,
    "key": "1ce50c0b809f39d5",
    "title": "Elias Jelert'ten çarpıcı açıklama! \"Her dakika forma giymemek...\"",
    "summarized": false,
@@ -2786,24 +2732,69 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 1.85
+   "score": 1.83
   },
   {
-   "id": "s0104",
-   "rank": 59,
-   "key": "837f7f0c0b96a791",
-   "title": "Trabzonspor'da Mykhavko sürprizi! Stopere 21'lik genç yıldız",
+   "id": "s0065",
+   "rank": 57,
+   "key": "99a6be0c510b570b",
+   "title": "Dingert yine yaktı",
    "summarized": false,
    "bullets": [],
    "why": null,
-   "raw_summary": "Trabzonspor, Dinamo Kiev’de oynayan 21 yaşındaki stoper Taras Mykhavko’yu listesinde bulunduruyor. Potansiyeli yüksek olan Ukraynalı defans oyuncusu için çalışmalar yapılıyor. Devamı için tıklayınız",
+   "raw_summary": "Galatasaray’ı Sporting Lizbon deplasmanında bozuk para gibi harcayan VAR hakemi Dingert, iki penaltı pozisyonunda Zwayer’i ekrana çağırmadı. Uğurcan’ın tartışmalı pozisyonunda ise kırmızı kartla oyundan... Devamı için tıklayınız",
    "category": "diger",
    "category_name": "Diğer",
    "status": null,
    "clubs": [
     {
-     "slug": "trabzonspor",
-     "name": "Trabzonspor"
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "milli-takim",
+     "name": "A Millî Takım"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/millitakim/2026/09/26/dingert-yine-yakti",
+     "published": "2026-09-25T21:48:37+00:00"
+    }
+   ],
+   "n_sources": 1,
+   "first_published": "2026-09-25T21:48:37+00:00",
+   "last_published": "2026-09-25T21:48:37+00:00",
+   "image": {
+    "path": "pool/diger-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 1.8
+  },
+  {
+   "id": "s0058",
+   "rank": 58,
+   "key": "3844edaf989abce6",
+   "title": "27. şampiyonluğa koşuyoruz",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Galatasaray Başkanı Dursun Özbek çarpıcı açıklamalarda bulundu. \"Okan hoca ile 27. şampiyonluğa koşuyoruz. 5 sene üst üste şampiyon olarak rekora imza atacağız. Hiç kimse ama hiç kimse bizi bu çıktığımız... Devamı için tıklayınız",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
     }
    ],
    "leagues": [
@@ -2815,64 +2806,101 @@
    "sources": [
     {
      "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/trabzonspor/2026/09/25/trabzonsporda-mykhavko-surprizi-stopere-21lik-genc-yildiz",
-     "published": "2026-09-25T22:34:23+00:00"
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/09/26/27-sampiyonluga-kosuyoruz",
+     "published": "2026-09-25T21:39:02+00:00"
     }
    ],
    "n_sources": 1,
-   "first_published": "2026-09-25T22:34:23+00:00",
-   "last_published": "2026-09-25T22:34:23+00:00",
+   "first_published": "2026-09-25T21:39:02+00:00",
+   "last_published": "2026-09-25T21:39:02+00:00",
    "image": {
-    "path": "pool/diger-2.png",
+    "path": "pool/diger-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 1.85
+   "score": 1.8
   },
   {
-   "id": "s0000",
-   "rank": 60,
-   "key": "461535c742554829",
-   "title": "Manchester City'nin tek dayanağı Haaland...",
+   "id": "s0052",
+   "rank": 59,
+   "key": "efbaa532ac40d78c",
+   "title": "Elias Jelert’ten mesaj",
    "summarized": false,
    "bullets": [],
    "why": null,
-   "raw_summary": "114 farklı mali konudan suçlu bulunan Manchester City'nin akıbeti belirsizliğini korurken, Premier Lig devinin Norveçli yıldızı Erling Haaland'ın performansı ayrıca dikkat çekiyor.",
-   "category": "mac",
-   "category_name": "Maç",
+   "raw_summary": "Danimarka basınına konuşan Elias Jelert, “Halen daha Galatasaray’ın futbolcusuyum. Gelecek yaz ne olacağını kontrol edemem. Dolayısıyla ne olacağını göreceğiz” ifadelerini kullandı Devamı için tıklayınız",
+   "category": "diger",
+   "category_name": "Diğer",
    "status": null,
    "clubs": [
     {
-     "slug": "man-city",
-     "name": "Manchester City"
+     "slug": "galatasaray",
+     "name": "Galatasaray"
     }
    ],
    "leagues": [
     {
-     "slug": "premier-lig",
-     "name": "Premier Lig"
-    },
-    {
-     "slug": "uluslar-ligi",
-     "name": "Uluslar Ligi"
+     "slug": "super-lig",
+     "name": "Süper Lig"
     }
    ],
    "sources": [
     {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/manchester-citynin-tek-dayanagi-haaland-735502",
-     "published": "2026-09-25T18:00:59+00:00"
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/09/26/elias-jelertten-mesaj",
+     "published": "2026-09-25T21:34:11+00:00"
     }
    ],
    "n_sources": 1,
-   "first_published": "2026-09-25T18:00:59+00:00",
-   "last_published": "2026-09-25T18:00:59+00:00",
+   "first_published": "2026-09-25T21:34:11+00:00",
+   "last_published": "2026-09-25T21:34:11+00:00",
    "image": {
-    "path": "pool/mac-2.png",
+    "path": "pool/mac-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 1.85
+   "score": 1.79
+  },
+  {
+   "id": "s0046",
+   "rank": 60,
+   "key": "11cd817c33e6cc7f",
+   "title": "Archie rakiplerini solladı",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Fenerbahçe’nin İngiliz sol beki Archie Brown, Jakobs, Ouattara ve Cabral’ı performansıyla geride bıraktı. Yıldız isim; rakiplerine birçok istatistiki veride fark attı Devamı için tıklayınız",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/fenerbahce/2026/09/26/archie-rakiplerini-solladi",
+     "published": "2026-09-25T21:24:50+00:00"
+    }
+   ],
+   "n_sources": 1,
+   "first_published": "2026-09-25T21:24:50+00:00",
+   "last_published": "2026-09-25T21:24:50+00:00",
+   "image": {
+    "path": "pool/mac-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 1.79
   }
  ]
 }

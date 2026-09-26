@@ -1,12 +1,12 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-09-26T08:02:51+00:00",
+ "generated_at": "2026-09-26T08:29:08+00:00",
  "edition": "2026-09-26-sabah",
  "items": [
   {
    "key": "986f2c20ac344f05",
-   "story_id": "s0145",
-   "title": "FIFA'dan Fenerbahçe'ye 3 dönem transfer yasağı, kulüp açıklama yaptı",
+   "story_id": "s0129",
+   "title": "FIFA'dan Fenerbahçe'ye 3 dönem transfer yasağı: Neden En Nesyri'nin bonservisi",
    "category": "transfer",
    "prompt": "Silhouette of a man seen from directly behind at an airport window at night with a travel bag, a plain yellow and navy blue scarf over the shoulder, runway lights blurred. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
    "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
@@ -18,9 +18,65 @@
    "out": "s/986f2c20ac344f05.png"
   },
   {
+   "key": "ac677a75f022cbcd",
+   "story_id": "s0038",
+   "title": "Fransa, Kocaeli'nde Türkiye'yi 1-0 mağlup etti; Mbappe sakatlandı",
+   "category": "mac",
+   "prompt": "Empty goal net glistening in the rain under floodlights, a corner of the stand draped in plain red and white fabric softly blurred behind. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
+   "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
+   "seed": 880164742,
+   "width": 1024,
+   "height": 576,
+   "steps": 20,
+   "cfg_scale": 3.5,
+   "out": "s/ac677a75f022cbcd.png"
+  },
+  {
+   "key": "c75597d16d1a78a6",
+   "story_id": "s0106",
+   "title": "Fenerbahçeli Nene, Mali'nin Yeşil Burun Adaları'nı 3-1 yendiği maçta 2 gol attı",
+   "category": "mac",
+   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in yellow and navy blue colors. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
+   "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
+   "seed": 306952115,
+   "width": 1024,
+   "height": 576,
+   "steps": 20,
+   "cfg_scale": 3.5,
+   "out": "s/c75597d16d1a78a6.png"
+  },
+  {
+   "key": "e4f76f9f7aa96490",
+   "story_id": "s0007",
+   "title": "Mbappe, Türkiye maçında gol attıktan sonra sakatlanarak oyundan çıktı",
+   "category": "sakatlik",
+   "prompt": "A blue ice pack and rolled white bandages on the grass next to the touchline of a floodlit pitch at night, a plain black medical bag out of focus behind, empty stand in the distance. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
+   "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
+   "seed": 975378035,
+   "width": 1024,
+   "height": 576,
+   "steps": 20,
+   "cfg_scale": 3.5,
+   "out": "s/e4f76f9f7aa96490.png"
+  },
+  {
+   "key": "bb2b17c46080d9ca",
+   "story_id": "s0177",
+   "title": "Fenerbahçe'de olağan genel kurul yarın yapılacak",
+   "category": "yonetim",
+   "prompt": "An empty press conference table with a row of microphones under a single spotlight, a plain yellow and navy blue fabric backdrop, dark room. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
+   "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
+   "seed": 1200894536,
+   "width": 1024,
+   "height": 576,
+   "steps": 20,
+   "cfg_scale": 3.5,
+   "out": "s/bb2b17c46080d9ca.png"
+  },
+  {
    "key": "f5ce678b713a2d0a",
-   "story_id": "s0190",
-   "title": "Trabzonspor'da golcü üçlü geleneği yeni sezonda da sürüyor",
+   "story_id": "s0168",
+   "title": "Trabzonspor'un golcü üçlüsü yeni sezonda da öne çıktı",
    "category": "diger",
    "prompt": "A classic round black-and-white soccer ball on the centre spot of an empty stadium at blue hour, stands in dark burgundy (deep claret) and light sky blue colors softly blurred. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
    "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
@@ -33,8 +89,8 @@
   },
   {
    "key": "b832ca7912f9b433",
-   "story_id": "s0033",
-   "title": "Beşiktaş'ın ocak ayı transfer hedefleri: Ghedjemis ve Raskin",
+   "story_id": "s0022",
+   "title": "Beşiktaş'ın ocak transfer planında iki isim öne çıkıyor",
    "category": "transfer",
    "prompt": "A fountain pen resting on blank sheets of paper on a dark wooden desk, a plain black and white scarf folded beside it, warm lamp light, the paper is completely blank. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
    "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
@@ -47,7 +103,7 @@
   },
   {
    "key": "df45752aa1ceb2fb",
-   "story_id": "s0085",
+   "story_id": "s0071",
    "title": "Abdülkerim Bardakcı: Fransa'yı elimizden kaçırdık",
    "category": "mac",
    "prompt": "Empty goal net glistening in the rain under floodlights, a corner of the stand draped in plain red and white fabric softly blurred behind. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
@@ -61,10 +117,10 @@
   },
   {
    "key": "dc3269a086caa78b",
-   "story_id": "s0021",
-   "title": "Uğurcan Çakır, Fransa deplasmanında kırmızı kart gördü",
-   "category": "hakem",
-   "prompt": "A referee's silver whistle, a plain yellow card and a plain red card lying on wet grass at the edge of a floodlit pitch, macro shot. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
+   "story_id": "s0012",
+   "title": "Uğurcan Çakır, Fransa maçında kırmızı kart gördü",
+   "category": "mac",
+   "prompt": "Wide shot of a packed football stadium at night under blazing floodlights seen from high in the stands, supporters far away as tiny silhouettes waving plain red and white scarves, light haze. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
    "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
    "seed": 1744096408,
    "width": 1024,
@@ -72,34 +128,6 @@
    "steps": 20,
    "cfg_scale": 3.5,
    "out": "s/dc3269a086caa78b.png"
-  },
-  {
-   "key": "445de221a52177ef",
-   "story_id": "s0039",
-   "title": "Merih Demiral'dan kırmızı kart yorumu: Hakem de emin değildi",
-   "category": "hakem",
-   "prompt": "A lone referee seen from directly behind standing in the center circle of an empty floodlit stadium, stands in red and white colors blurred. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
-   "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
-   "seed": 128739159,
-   "width": 1024,
-   "height": 576,
-   "steps": 20,
-   "cfg_scale": 3.5,
-   "out": "s/445de221a52177ef.png"
-  },
-  {
-   "key": "aab6779d49a639fa",
-   "story_id": "s0161",
-   "title": "FIFA sisteminde Fenerbahçe'ye 3 dönemlik transfer yasağı görüldü",
-   "category": "transfer",
-   "prompt": "Silhouette of a man seen from directly behind at an airport window at night with a travel bag, a plain yellow and navy blue scarf over the shoulder, runway lights blurred. Cinematic (wide) photograph, 35mm film look, shallow depth of field, moody and vivid, no readable text, no posters, no advertising boards, no banners, no logos, brand marks or club badges, no recognizable faces.",
-   "negative": "text, letters, words, writing, typography, signage, posters, advertising boards, banners, tifo mosaic, logo, badge, crest, emblem, brand mark, swoosh, three stripes, sponsor, watermark, television screen, monitor, face, profile, portrait, crowd faces, deformed hands, american football, rugby ball, oval ball, blurry, low quality",
-   "seed": 1098376195,
-   "width": 1024,
-   "height": 576,
-   "steps": 20,
-   "cfg_scale": 3.5,
-   "out": "s/aab6779d49a639fa.png"
   }
  ]
 }
