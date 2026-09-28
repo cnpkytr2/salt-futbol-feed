@@ -1,34 +1,35 @@
 {
  "schema": 1,
- "generated_at": "2026-09-28T17:43:04+00:00",
+ "generated_at": "2026-09-28T19:06:26+00:00",
  "edition": {
   "date": "2026-09-28",
   "label": "aksam",
   "title": "Akşam bülteni",
-  "time_local": "20:43"
+  "time_local": "22:06"
  },
  "stats": {
   "sources_ok": 58,
   "sources_total": 59,
-  "articles_football": 305,
-  "stories": 191
+  "articles_football": 299,
+  "stories": 186
  },
  "image_base": "https://raw.githubusercontent.com/cnpkytr2/salt-futbol-feed/main/img/",
  "top_n": 12,
  "stories": [
   {
-   "id": "s0117",
+   "id": "s0102",
    "rank": 1,
    "key": "db2ec9f66dcac237",
-   "title": "Trabzonspor'da Malinovskyi ameliyat oldu",
+   "title": "Trabzonspor, Malinovskyi'nin dizinden ameliyat edildiğini açıkladı",
    "summarized": true,
    "bullets": [
-    "Malinovskyi'nin sol dizinde yaygın kemik ödemi ve mekanik şikayetlerin devam etmesi üzerine Belçika'da ameliyat edildiği açıklandı.",
-    "Operasyonu Dr. Koen Lagea gerçekleştirdi ve artroskopik debridman cerrahisi uygulandı.",
-    "Açıklamayı Trabzonspor Sağlık Kurulu Başkanı Prof. Dr. Ahmet Beşir yaptı.",
-    "Futbolcunun ameliyat sonrası rehabilitasyon sürecine kulüp sağlık ekibince başlanacağı belirtildi."
+    "Trabzonspor, Ruslan Malinovskyi'nin sol dizindeki yaygın kemik ödemi ve mekanik şikâyetlerinin sürmesi üzerine ameliyat edildiğini duyurdu.",
+    "Kulübün açıklamasına göre operasyon Belçika'da Dr. Koen Lagea tarafından yapıldı; başarılı bir artroskopik debridman cerrahisi uygulandı.",
+    "Açıklamada, ameliyat sonrası rehabilitasyon sürecine kulübün sağlık ekibince başlanacağı belirtildi.",
+    "Ajansspor, oyuncunun sakatlığı nedeniyle 4 maçtır forma giymediğini aktardı.",
+    "Sporx, açıklamanın kulübün Sağlık Kurulu Başkanı Prof. Dr. Ahmet Beşir'e ait olduğunu yazdı; diğer kaynaklar kulüp açıklaması olarak aktardı."
    ],
-   "why": "Malinovskyi'nin sakatlığı ve ameliyatı, Trabzonspor'un orta saha kadro planlamasını ve yıldız oyuncunun sahalara dönüş süresini doğrudan etkiliyor.",
+   "why": "Malinovskyi'nin dönüş tarihi açıklanmadığı için taraftarlar için rehabilitasyon sürecinin ne kadar süreceği belirsiz. Oyuncu son 4 maçta forma giymemişti; ameliyat, dizindeki şikâyetlerin sürdüğünü gösteriyor.",
    "raw_summary": null,
    "category": "sakatlik",
    "category_name": "Sakatlık",
@@ -99,92 +100,28 @@
    "first_published": "2026-09-28T12:50:00+00:00",
    "last_published": "2026-09-28T15:26:30+00:00",
    "image": {
-    "path": "s/db2ec9f66dcac237.jpg",
-    "kind": "story",
-    "label": "Temsili görsel"
+    "url": "https://iaftm.tmgrup.com.tr/965185/1200/675/0/36/598/372?u=https://iftm.tmgrup.com.tr/2026/09/28/trabzonsporda-ruslan-malinovskyi-ameliyat-edildi-1790600224937.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/trabzonspor/2026/09/28/trabzonsporda-ruslan-malinovskyi-ameliyat-edildi"
    },
-   "score": 52.69
+   "score": 49.75
   },
   {
-   "id": "s0026",
+   "id": "s0117",
    "rank": 2,
-   "key": "c03f8ddab0d962cc",
-   "title": "Inter, Hakan Çalhanoğlu'na yeni sözleşme teklifi hazırlıyor",
-   "summarized": true,
-   "bullets": [
-    "Hakan Çalhanoğlu'nun Inter ile sözleşmesi 30 Haziran 2027'de sona eriyor, İtalyan basınına göre kulüp yeni kontrat için harekete geçti.",
-    "Tuttomercatoweb'e göre Inter, oyuncunun mevcut 6,5 milyon euroluk maaşını yaklaşık 4,5 milyon euro seviyesine çekmeyi planlıyor.",
-    "Sportif direktör Dario Baccin'in, Çalhanoğlu'nun menajeri Gordon Stipic ile önümüzdeki haftalarda ilk görüşmeyi yapması bekleniyor.",
-    "Haberlerde Galatasaray, Fenerbahçe, Beşiktaş ve Juventus'un da oyuncunun durumunu yakından takip ettiği iddia edildi.",
-    "Çalhanoğlu şu an adduktor sakatlığı nedeniyle forma giyemiyor, bu sezon 4 maçta 2 gol attı."
-   ],
-   "why": "Sözleşmesi bitmeye yaklaşan Çalhanoğlu'nun geleceği, hem Inter hem de kendisini takip ettiği belirtilen Süper Lig kulüpleri için önemli bir gündem maddesi.",
-   "raw_summary": null,
-   "category": "transfer",
-   "category_name": "Transfer",
-   "status": "soylenti",
-   "clubs": [
-    {
-     "slug": "inter",
-     "name": "Inter"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "serie-a",
-     "name": "Serie A"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/interden-hakan-calhanogluna-yeni-sozlesme-plani-33328245",
-     "published": "2026-09-28T07:15:00+00:00"
-    },
-    {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/interden-hakan-calhanoglu-karari-43322153",
-     "published": "2026-09-28T10:44:53+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/inter-sozlesmesi-onumuzdeki-yaz-sona-erecek-hakan-calhanoglu-icin-harekete-gecti-735621",
-     "published": "2026-09-28T11:45:22+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-gelecek-hafta-isaret-edildi-interden-hakan-calhanoglu-icin-turkiye-onlemi-430393",
-     "published": "2026-09-28T14:44:56+00:00"
-    }
-   ],
-   "n_sources": 4,
-   "first_published": "2026-09-28T07:15:00+00:00",
-   "last_published": "2026-09-28T14:44:56+00:00",
-   "image": {
-    "path": "s/c03f8ddab0d962cc.jpg",
-    "kind": "story",
-    "label": "Temsili görsel"
-   },
-   "score": 27.11
-  },
-  {
-   "id": "s0134",
-   "rank": 3,
    "key": "5f224eb01866477d",
-   "title": "Bruno Fernandes'ten Galatasaray taraftarının çağrısına gülümseyen yanıt",
+   "title": "Bruno Fernandes, Norveç maçında Galatasaray taraftarının çağrısına gülümsedi",
    "summarized": true,
    "bullets": [
-    "Portekiz-Norveç Uluslar Ligi maçında bir Galatasaray taraftarı yedek kulübesindeki Bruno Fernandes'e \"Come to Galatasaray\" diye seslendi.",
-    "Fernandes bu çağrıya gülümseyerek karşılık verdi ve an sosyal medyada gündem oldu.",
-    "Portekiz, Norveç'i 2-1 mağlup etti.",
-    "Galatasaray'ın yaz transfer döneminde Fernandes için girişimde bulunduğu, ancak Manchester United'ın bonservis talebi nedeniyle transferin gerçekleşmediği iddia edilmişti.",
-    "Fernandes'in bu sezon Manchester United formasıyla 7 maçta 4 gol, 1 asist kaydettiği belirtiliyor."
+    "UEFA Uluslar Ligi'nde Norveç-Portekiz maçında bir Galatasaray taraftarı yedek kulübesindeki Bruno Fernandes'e \"Come to Galatasaray\" diye seslendi.",
+    "Fernandes, çağrıya gülümseyerek karşılık verdi; anlar sosyal medyada gündem oldu.",
+    "Kaynaklara göre Galatasaray yaz transfer döneminde Fernandes için yoğun çaba göstermişti, ancak transfer gerçekleşmedi.",
+    "Fernandes'in yaz döneminde Galatasaray'a sıcak baktığı, Manchester United'ın bonservis beklentisinin ise engel olduğu iddia edildi.",
+    "Manchester United'ın oyuncuyla yeni sözleşme imzalayacağı iddiası henüz resmiyet kazanmadı."
    ],
-   "why": "Taraftarın viral olan çağrısı ve Fernandes'in tepkisi, sarı-kırmızılıların yaz döneminden kalan transfer beklentisini yeniden gündeme taşıdı.",
+   "why": "Galatasaray taraftarı için Fernandes'in tepkisi, geçen yaz gerçekleşmeyen transferin yeniden gündeme gelmesine yol açtı. Ancak ortada yeni bir görüşme veya resmi gelişme bildirilmedi.",
    "raw_summary": null,
    "category": "transfer",
    "category_name": "Transfer",
@@ -245,92 +182,111 @@
    "first_published": "2026-09-28T14:22:18+00:00",
    "last_published": "2026-09-28T17:27:47+00:00",
    "image": {
-    "path": "s/5f224eb01866477d.jpg",
-    "kind": "story",
-    "label": "Temsili görsel"
+    "url": "https://img.piri.net/piri/upload/3/2026/9/28/5c963a62-bruno-fernandesten-galatasaraylilari-heyecanlandiran.webp",
+    "kind": "source",
+    "label": "Fotoğraf: Yeni Şafak",
+    "credit": "Yeni Şafak",
+    "source_url": "https://www.yenisafak.com/spor/bruno-fernandesten-galatasaraylilari-heyecanlandiran-tepki-o-hareketi-gundem-oldu-4859758"
    },
-   "score": 25.93
+   "score": 24.17
   },
   {
-   "id": "s0153",
-   "rank": 4,
-   "key": "45d94323e497cfd5",
-   "title": "Konyaspor'dan Filistin Milli Takımı maçına davet çağrısı",
+   "id": "s0025",
+   "rank": 3,
+   "key": "5fcf5be25da211ee",
+   "title": "Türkiye, Uluslar Ligi'nde Bursa'da İtalya'yı konuk ediyor",
    "summarized": true,
    "bullets": [
-    "Konyaspor Başkanı Ömer Atiker, 30 Eylül Çarşamba günü Filistin Milli Futbol Takımı ile oynanacak dostluk maçına Konyalıları davet etti.",
-    "Maç MEDAŞ Konya Büyükşehir Stadyumu'nda saat 20.00'de oynanacak ve girişler ücretsiz olacak.",
-    "Teknik Direktör İlhan Palut, taraftarlardan organizasyona destek vermelerini istedi.",
-    "Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay, organizasyonun İİT 2026 Gençlik Başkenti programları kapsamında düzenlendiğini belirtti.",
-    "Takımların 'Aynı tarafız, aynı taraftarız' sloganıyla sahaya çıkacağı açıklandı."
+    "Maç, UEFA Uluslar A Ligi 1. Grup'un ikinci haftasında Bursa'da, saat 21.45'te başlıyor ve ATV'den şifresiz yayınlanıyor.",
+    "Türkiye ilk maçta Fransa'ya 1-0 yenildi; İtalya ise Belçika'ya 2-0 yenilmişti.",
+    "Karşılaşmayı İngiltere'den Michael Oliver yönetiyor.",
+    "Sabah'ın canlı aktarımına göre İtalya 9. dakikada Bastoni'nin golüyle öne geçti.",
+    "Türkiye, İtalya karşısında oynadığı 16 maçta 5 beraberlik ve 11 yenilgi aldı; henüz galibiyeti yok."
    ],
-   "why": "Taraftarlar ücretsiz girişle bu anlamlı dayanışma maçına katılabilecek ve Konyaspor camiası Filistin'e destek mesajı verecek.",
+   "why": "Grupta ilk puanını arayan Türkiye için maç, Uluslar Ligi'ndeki şansını belirleyecek bir eşik. Taraftar açısından ayrıca İtalya karşısında ilk galibiyet arayışı sürüyor.",
    "raw_summary": null,
-   "category": "diger",
-   "category_name": "Diğer",
+   "category": "mac",
+   "category_name": "Maç",
    "status": "resmi",
-   "clubs": [
-    {
-     "slug": "konyaspor",
-     "name": "Konyaspor"
-    }
-   ],
+   "clubs": [],
    "leagues": [
     {
-     "slug": "super-lig",
-     "name": "Süper Lig"
+     "slug": "milli-takim",
+     "name": "A Millî Takım"
+    },
+    {
+     "slug": "uluslar-ligi",
+     "name": "Uluslar Ligi"
     }
    ],
    "sources": [
     {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/konyaspor/konyaspor-dan-filistin-maci-cagrisi-SXHBQ1177448SXQ",
-     "published": "2026-09-28T15:37:10+00:00"
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/a-milli-takim-uluslar-liginde-italyayi-agirliyor-macin-heyecani-canli-sohbet-ile-mislide-43322005",
+     "published": "2026-09-28T07:59:00+00:00"
     },
     {
      "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/09/28/konyaspordan-taraftara-cagri-gazzelilerden-ve-filistin-davasindan-asla-vazgecmeyecegiz",
-     "published": "2026-09-28T15:39:24+00:00"
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/09/28/uefa-uluslar-ligi-turkiye-italya-canli-a-milli-futbol-takimi-italyayi-konuk-ediyor-iste-montellanin-11i",
+     "published": "2026-09-28T14:05:56+00:00"
     },
     {
-     "name": "Star",
-     "url": "https://www.star.com.tr/spor/konyaspordan-filistin-maci-icin-davet-haber-2043118",
-     "published": "2026-09-28T15:56:00+00:00"
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/turkiye-italya-maci-hangi-kanalda-uluslar-ligi-turkiye-italya-maci-nereden-izlenir-saat-kacta-sifresiz-mi-iste-montellanin-a-3472308",
+     "published": "2026-09-28T14:25:01+00:00"
     },
     {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/konyaspor-filistin-milli-futbol-takimi-macina-ucretsiz-girilecek-33334023",
-     "published": "2026-09-28T16:02:00+00:00"
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/a-milli-takim-italya-karsisinda-turkiye-italya-maci-ne-zaman-saat-kacta-hangi-kanalda-turkiye-italya-milli-maci-hangi-3472066",
+     "published": "2026-09-28T17:26:30+00:00"
     },
     {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/konyaspor-baskani-omer-atiker-den-konyalilara-filistin-maci-cagrisi-3915699",
-     "published": "2026-09-28T16:18:36+00:00"
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/millitakim/turkiye-italya-11-ler-SXHBQ1177354SXQ",
+     "published": "2026-09-28T17:31:00+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/turkiye-italya-canli-izle-canli-sonuc-4859740",
+     "published": "2026-09-28T17:33:00+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/turkiye-italya-maci-canli-izle-milli-mac-atv-sifresiz-canli-yayin-izleme-ekrani-turkiye-italya-maci-sifreli-mi-sifresiz-kanalda-3472466",
+     "published": "2026-09-28T17:36:06+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/turkiye-italya-canli-atv-izle-turkiye-italya-maci-hangi-kanalda-sifresiz-mi-nereden-yayinlaniyor-4859408",
+     "published": "2026-09-28T17:55:00+00:00"
     }
    ],
-   "n_sources": 5,
-   "first_published": "2026-09-28T15:37:10+00:00",
-   "last_published": "2026-09-28T16:18:36+00:00",
+   "n_sources": 8,
+   "first_published": "2026-09-28T07:59:00+00:00",
+   "last_published": "2026-09-28T18:59:54+00:00",
    "image": {
-    "path": "s/45d94323e497cfd5.jpg",
-    "kind": "story",
-    "label": "Temsili görsel"
+    "url": "https://iasbh.tmgrup.com.tr/15f990/1200/675/0/0/864/486?u=https://isbh.tmgrup.com.tr/sbh/2026/09/28/1790603872065.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Sabah",
+    "credit": "Sabah",
+    "source_url": "https://www.sabah.com.tr/spor/futbol/2026/09/28/uefa-uluslar-ligi-turkiye-italya-canli-a-milli-futbol-takimi-italyayi-konuk-ediyor-iste-montellanin-11i"
    },
-   "score": 20.05
+   "score": 21.85
   },
   {
-   "id": "s0135",
-   "rank": 5,
+   "id": "s0118",
+   "rank": 4,
    "key": "65d56d9a8cf96433",
-   "title": "Yüksel Yıldırım'dan Samsunspor taraftarına birlik çağrısı",
+   "title": "Samsunspor Başkanı Yıldırım'dan taraftara birlik ve destek çağrısı",
    "summarized": true,
    "bullets": [
-    "Samsunspor Başkanı Yüksel Yıldırım, tribünlerde ve sosyal medyada yükselen tepkiler üzerine taraftara seslendi.",
-    "Yıldırım, sportif sonuçlar, transferler ve bilet politikasına yönelik eleştirilerin farkında olduğunu, kırıcı olan sözleri için üzgün olduğunu belirtti.",
-    "Başkan, kavganın taraftarla değil Samsunspor'u hak ettiği yere taşımak için olması gerektiğini vurguladı.",
-    "Yıldırım, taraftarları tribünleri doldurmaya ve önlerindeki kritik sürece birlik içinde girmeye çağırdı."
+    "Başkan Yüksel Yıldırım, kişisel sosyal medya hesabından paylaştığı videoyla taraftara seslendi.",
+    "Yıldırım, sportif sonuçlar, transferler ve bilet politikasına yönelik eleştirilerin farkında olduğunu söyledi.",
+    "Bazı sözlerinin taraftarı kırdığını kabul eden Yıldırım, 'Kırgınlık yok, bahane yok, küsmek yok' dedi.",
+    "Taraftarla kavga eden değil, Samsunspor'un çıkarları için taraftarla birlikte mücadele eden bir başkan olmak istediğini belirtti.",
+    "Önlerinde kritik bir sürecin başladığını söyleyen Yıldırım, taraftardan takıma destek olmasını istedi."
    ],
-   "why": "Taraftar-yönetim arasındaki gerginliğin yatışıp yatışmayacağı, takımın önündeki kritik maçlara giden süreçte tribün desteğini doğrudan etkileyecek.",
+   "why": "Başkan ile taraftar arasındaki gerginliğin kamuoyuna yansıdığı bir dönemde yapılan bu çağrı, tribün desteği ve kulüp içi birlik açısından önem taşıyor.",
    "raw_summary": null,
    "category": "yonetim",
    "category_name": "Yönetim",
@@ -378,37 +334,43 @@
    "first_published": "2026-09-28T14:25:24+00:00",
    "last_published": "2026-09-28T16:18:00+00:00",
    "image": {
-    "path": "s/65d56d9a8cf96433.jpg",
-    "kind": "story",
-    "label": "Temsili görsel"
+    "url": "https://image.cnnturk.com/i/cnnturk/75/1200x675/6aba7e30e02743d893fd2b41.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: CNN Türk",
+    "credit": "CNN Türk",
+    "source_url": "https://www.cnnturk.com/spor/futbol/yuksel-yildirim-samsunspor-taraftarina-seslendi-3472532"
    },
-   "score": 20.04
+   "score": 18.83
   },
   {
-   "id": "s0015",
-   "rank": 6,
-   "key": "6027440fef4f3d45",
-   "title": "Beşiktaş'ta ocak planı: Willock hedefi, Rashica ve Ndidi'ye veda bekleniyor",
+   "id": "s0016",
+   "rank": 5,
+   "key": "c03f8ddab0d962cc",
+   "title": "Inter, Hakan Çalhanoğlu ile sözleşme görüşmelerine hazırlanıyor",
    "summarized": true,
    "bullets": [
-    "Teknik direktör Vincenzo Italiano'nun ocak ayı için verdiği liste doğrultusunda Beşiktaş harekete geçti.",
-    "Kulübün bir numaralı hedefi, Newcastle ile sözleşmesi sezon sonunda bitecek olan Joe Willock.",
-    "Anlaşma sağlanamazsa Willock'a ocakta ön sözleşme imzalatılıp bonservissiz transfer sezon sonuna bırakılacak.",
-    "Yabancı kontenjanının dolu olması nedeniyle Milot Rashica ve Wilfred Ndidi'nin devre arasında takımdan ayrılması bekleniyor.",
-    "Brezilyalı orta saha Gabriel Bontempo'nun Beşiktaş'ta forma giymek istediği yönünde Brezilya basınında iddia var."
+    "Tuttomercatoweb'e göre Çalhanoğlu'nun Inter ile sözleşmesi 30 Haziran 2027'de bitiyor.",
+    "Menajeri Gordon Stipic ile sportif direktör Dario Baccin arasında önümüzdeki haftalarda ilk görüşmenin yapılması bekleniyor.",
+    "Habere göre Inter, yıllık yaklaşık 6,5 milyon euro olan maaşı 4,5 milyon euro + bonuslara çekmeyi planlıyor.",
+    "Aktarılanlara göre teklif iki yıllık; Ajansspor 2+1 yıllık olduğunu yazdı, kaynaklar süre konusunda farklı aktarıyor.",
+    "Galatasaray, Fenerbahçe, Beşiktaş ve Juventus'un oyuncuyu takip ettiği iddia edildi."
    ],
-   "why": "Beşiktaş orta sahasını güçlendirmeyi hedeflerken, iki yabancı oyuncunun kadro dışı kalması taraftar için devre arası kadro planlamasının yönünü gösteriyor.",
+   "why": "Çalhanoğlu'nun geleceği Inter'de kalıp kalmayacağı ve olası Süper Lig dönüşü açısından taraftarın yakından izlediği bir konu. Taraflar arasındaki maaş farkı görüşmelerin kolay geçmeyebileceğine işaret ediyor.",
    "raw_summary": null,
    "category": "transfer",
    "category_name": "Transfer",
    "status": "soylenti",
    "clubs": [
     {
-     "slug": "besiktas",
-     "name": "Beşiktaş"
+     "slug": "inter",
+     "name": "Inter"
     }
    ],
    "leagues": [
+    {
+     "slug": "serie-a",
+     "name": "Serie A"
+    },
     {
      "slug": "super-lig",
      "name": "Süper Lig"
@@ -416,49 +378,56 @@
    ],
    "sources": [
     {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-italiano-gozlerinin-yasina-bakmadi-2-futbolcu-3-ay-sonra-besiktastan-ayriliyor-430371",
-     "published": "2026-09-28T06:04:20+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/besiktasta-ara-transferde-ayrilik-yasanacak-vincenzo-italiano-iki-ismin-bileti-kesildi-735606",
-     "published": "2026-09-28T07:44:00+00:00"
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/interden-hakan-calhanogluna-yeni-sozlesme-plani-33328245",
+     "published": "2026-09-28T07:15:00+00:00"
     },
     {
      "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/italiano-listeyi-verdi-besiktasa-2-transfer-43321822",
-     "published": "2026-09-28T13:40:00+00:00"
+     "url": "https://www.hurriyet.com.tr/sporarena/interden-hakan-calhanoglu-karari-43322153",
+     "published": "2026-09-28T10:44:53+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/inter-sozlesmesi-onumuzdeki-yaz-sona-erecek-hakan-calhanoglu-icin-harekete-gecti-735621",
+     "published": "2026-09-28T11:45:22+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-gelecek-hafta-isaret-edildi-interden-hakan-calhanoglu-icin-turkiye-onlemi-430393",
+     "published": "2026-09-28T14:44:56+00:00"
     }
    ],
-   "n_sources": 3,
-   "first_published": "2026-09-28T06:04:20+00:00",
-   "last_published": "2026-09-28T13:40:00+00:00",
+   "n_sources": 4,
+   "first_published": "2026-09-28T07:15:00+00:00",
+   "last_published": "2026-09-28T14:44:56+00:00",
    "image": {
-    "path": "pool/mac-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
+    "url": "https://cdn.ajansspor.com/ajansspor/photo/2026/09/93beaec2-23fe-46f2-ab55-587762020e63.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Ajansspor",
+    "credit": "Ajansspor",
+    "source_url": "https://ajansspor.com/haber/inter-sozlesmesi-onumuzdeki-yaz-sona-erecek-hakan-calhanoglu-icin-harekete-gecti-735621"
    },
-   "score": 18.67
+   "score": 17.98
   },
   {
-   "id": "s0092",
-   "rank": 7,
+   "id": "s0081",
+   "rank": 6,
    "key": "6d6565f873a3b7f0",
-   "title": "Torunoğulları'ndan Aziz Yıldırım'a Kante yanıtı: Manidar buluyorum",
+   "title": "Torunoğulları'ndan Yıldırım'ın Kante maliyeti sözlerine yanıt",
    "summarized": true,
    "bullets": [
-    "Aziz Yıldırım, genel kurulda Kante'nin toplam maliyetinin 70 milyon euro olduğunu söyledi.",
-    "Yıldırım, bu rakama maaş, imza parası, bonservis ve menajer ödemelerinin yanı sıra vergiyi de dahil ettiğini belirtti.",
-    "Eski yönetici Ertan Torunoğulları, Kante'nin isminin her tartışmada geçmesinden rahatsız olduğunu açıkladı.",
-    "Torunoğulları, maliyetlerin vergi dahil açıklanmasını 'manidar' bulduğunu ve bu uygulamanın sadece Kante için yapıldığını iddia etti.",
-    "Torunoğulları, kulüpteki futbolcuların kamuoyu önüne atılmasından vazgeçilmesi temennisinde bulundu."
+    "Fenerbahçe Başkanı Aziz Yıldırım, genel kurulda Kante'nin maliyetinin 70 milyon euro olduğunu söyledi; futbolculuğuna yönelik eleştirisi olmadığını belirtti.",
+    "Yıldırım, Kante'nin maaş ve imza parası toplamının 41 milyon 900 bin euro olduğunu ileri sürdü; buna bonservis ve menajer ödemelerini ekledi.",
+    "Yıldırım ayrıca yüzde 40 vergiye değindi. Guendouzi, Kante, Cherif ve Günok'un toplam maliyetinin 200 milyon euro olduğunu söyledi.",
+    "Eski yönetici Ertan Torunoğulları, Kante'nin her tartışmada anılmasından rahatsız olduğunu ve rakamların vergi dahil verilmesini manidar bulduğunu yazdı.",
+    "Torunoğulları, kadrodaki futbolcuların kamuoyu önüne atılması alışkanlığından vazgeçilmesini umduğunu belirtti."
    ],
-   "why": "Fenerbahçe yönetimi ile eski yönetim arasındaki transfer maliyeti tartışması, kulüp içi gerginliği ve Kante'nin geleceğine dair kamuoyu algısını etkileyebilir.",
+   "why": "Kulüp yönetimi ile önceki dönem yöneticileri arasındaki mali tartışma, kadrodaki bir oyuncunun adı üzerinden kamuoyuna taşındı. Taraftar açısından transfer maliyetlerinin nasıl hesaplandığı ve açıklandığı tartışma konusu oldu.",
    "raw_summary": null,
    "category": "yonetim",
    "category_name": "Yönetim",
-   "status": "resmi",
+   "status": "belirsiz",
    "clubs": [
     {
      "slug": "fenerbahce",
@@ -502,106 +471,38 @@
    "first_published": "2026-09-28T11:36:24+00:00",
    "last_published": "2026-09-28T13:20:00+00:00",
    "image": {
-    "path": "s/6d6565f873a3b7f0.jpg",
-    "kind": "story",
-    "label": "Temsili görsel"
+    "url": "https://iaftm.tmgrup.com.tr/46ea50/1200/675/0/96/1500/939?u=https://iftm.tmgrup.com.tr/2026/09/28/ertan-torunogullarindan-ngolo-kante-aciklamasi-1790597766491.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/fenerbahce/2026/09/28/ertan-torunogullarindan-ngolo-kante-aciklamasi"
    },
-   "score": 17.7
+   "score": 16.88
   },
   {
-   "id": "s0080",
-   "rank": 8,
-   "key": "9c280788d9c127af",
-   "title": "Rafael Leao: Süper Lig beni şaşırttı, Galatasaray'a çabuk uyum sağladım",
+   "id": "s0136",
+   "rank": 7,
+   "key": "45d94323e497cfd5",
+   "title": "Konyaspor, Filistin Milli Takımı ile 30 Eylül'de ücretsiz dostluk maçı oynayacak",
    "summarized": true,
    "bullets": [
-    "Leao, Portekiz Milli Takımı kampında Galatasaray ve Süper Lig hakkında açıklamalarda bulundu.",
-    "Türk liginin rekabetçi olduğunu ve kendisini olumlu anlamda şaşırttığını söyledi.",
-    "Galatasaray'ın kendisini gerçekten istediğini ve hızlı adapte olduğunu belirtti.",
-    "Sezon öncesi hazırlık yapmadığını, en iyi fiziksel forma ulaşmaya çalıştığını ancak her zaman takıma yardımcı olmaya hazır olduğunu ifade etti.",
-    "Takımla birlikte olağanüstü şeyler başarabileceklerine inandığını dile getirdi."
+    "Konyaspor Başkanı Ömer Atiker, Filistin Milli Futbol Takımı ile oynanacak dostluk maçına Konyalıları davet etti.",
+    "Maç 30 Eylül Çarşamba akşamı saat 20.00'de MEDAŞ Konya Büyükşehir Stadyumu'nda oynanacak.",
+    "Girişler ücretsiz ve biletsiz olacak.",
+    "Atiker, karşılaşmanın futbol maçının ötesinde anlam taşıdığını belirterek Filistin halkıyla dayanışma mesajı vereceklerini söyledi.",
+    "Belediye Başkanı Uğur İbrahim Altay, takımların 'Aynı tarafız, aynı taraftarız' sloganıyla sahaya çıkacağını aktardı."
    ],
-   "why": "Galatasaray'ın yeni transferi Leao'nun takıma ve lige dair pozitif açıklamaları, taraftarlar için oyuncunun uyum sürecine ve sezon beklentilerine dair fikir veriyor.",
-   "raw_summary": null,
-   "category": "diger",
-   "category_name": "Diğer",
-   "status": "resmi",
-   "clubs": [
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "milli-takim",
-     "name": "A Millî Takım"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/rafael-leaodan-super-lig-itirafi-p364203",
-     "published": "2026-09-28T10:24:48+00:00"
-    },
-    {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/rafel-leaodan-galatasaray-itirafi-beni-sasirtti-43322283",
-     "published": "2026-09-28T10:49:00+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/rafael-leaodan-galatasaray-ve-turkiye-itirafi-3472446",
-     "published": "2026-09-28T11:04:49+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/galatasaray/2026/09/28/rafael-leaodan-flas-transfer-itirafi-galatasaray",
-     "published": "2026-09-28T11:39:59+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/galatasaray/2026/09/28/rafael-leaodan-carpici-sozler-galatasaray-ve-transfer",
-     "published": "2026-09-28T12:04:14+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-rafael-leaonun-galatasarayda-beklentisi-buyuk-olaganustu-bir-sey-430395",
-     "published": "2026-09-28T15:34:00+00:00"
-    }
-   ],
-   "n_sources": 6,
-   "first_published": "2026-09-28T10:24:48+00:00",
-   "last_published": "2026-09-28T15:34:00+00:00",
-   "image": {
-    "path": "s/9c280788d9c127af.jpg",
-    "kind": "story",
-    "label": "Temsili görsel"
-   },
-   "score": 16.54
-  },
-  {
-   "id": "s0165",
-   "rank": 9,
-   "key": "0ee36322d58b1080",
-   "title": "Uruguay, hazırlık maçında Güney Kore'yi 4-1 mağlup etti",
-   "summarized": true,
-   "bullets": [
-    "Darwin Nunez iki gol atarken De Arrascaeta ve Kim Min-Jae'nin kendi kalesine attığı gol Uruguay'ı öne geçirdi.",
-    "Güney Kore'nin tek golünü 80. dakikada Lee Kang-In kaydetti.",
-    "Beşiktaşlı Oh Hyeon-gyu ilk 11'de başladı ve 72 dakika sahada kaldı.",
-    "Galatasaraylı Lucas Torreira Uruguay ilk 11'inde yer aldı ve maçın tamamında forma giydi."
-   ],
-   "why": "Süper Lig'den iki oyuncunun (Torreira ve Oh) milli takım performansı taraftarlar için form takibi açısından önemli.",
+   "why": "Taraftarlar, kulübün çağrısıyla biletsiz ve ücretsiz şekilde Filistin Milli Takımı'nı stadyumda izleme imkânı bulacak. Karşılaşma, sportif yönünün yanında dayanışma mesajı taşıyan bir organizasyon olarak öne çıkıyor.",
    "raw_summary": null,
    "category": "mac",
    "category_name": "Maç",
    "status": "resmi",
-   "clubs": [],
+   "clubs": [
+    {
+     "slug": "konyaspor",
+     "name": "Konyaspor"
+    }
+   ],
    "leagues": [
     {
      "slug": "super-lig",
@@ -611,215 +512,51 @@
    "sources": [
     {
      "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/dunya/uruguay-guney-kore-yi-4-golle-devirdi-SXHBQ1177451SXQ",
-     "published": "2026-09-28T16:31:27+00:00"
-    },
-    {
-     "name": "Star",
-     "url": "https://www.star.com.tr/spor/mac-sonucu-uruguay-4-1-guney-kore-haber-2043123",
-     "published": "2026-09-28T16:40:00+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/torreira-ohu-uzdu-uruguay-guney-koreyi-farkli-gecti-735633",
-     "published": "2026-09-28T16:40:17+00:00"
+     "url": "https://www.sporx.com/futbol/superlig/konyaspor/konyaspor-dan-filistin-maci-cagrisi-SXHBQ1177448SXQ",
+     "published": "2026-09-28T15:37:10+00:00"
     },
     {
      "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/09/28/uruguay-guney-koreyi-4-golle-devirdi",
-     "published": "2026-09-28T16:45:21+00:00"
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/09/28/konyaspordan-taraftara-cagri-gazzelilerden-ve-filistin-davasindan-asla-vazgecmeyecegiz",
+     "published": "2026-09-28T15:39:24+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/konyaspor-filistin-milli-futbol-takimi-macina-ucretsiz-girilecek-33334023",
+     "published": "2026-09-28T16:02:00+00:00"
     },
     {
      "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/guney-kore-1-1-uruguay-mac-sonucu-ozeti-ve-golleri-lucas-torreira-hyeon-gyu-oh-u-maglup-etti-3915709",
-     "published": "2026-09-28T17:00:15+00:00"
-    },
-    {
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/torreira-li-uruguay-oh-lu-guney-kore-yi-4-golle-gecti-p364308",
-     "published": "2026-09-28T17:13:30+00:00"
+     "url": "https://www.haberturk.com/spor/konyaspor-baskani-omer-atiker-den-konyalilara-filistin-maci-cagrisi-3915699",
+     "published": "2026-09-28T16:18:36+00:00"
     }
    ],
-   "n_sources": 6,
-   "first_published": "2026-09-28T16:31:27+00:00",
-   "last_published": "2026-09-28T17:13:30+00:00",
+   "n_sources": 4,
+   "first_published": "2026-09-28T15:37:10+00:00",
+   "last_published": "2026-09-28T16:18:36+00:00",
    "image": {
-    "path": "s/0ee36322d58b1080.jpg",
-    "kind": "story",
-    "label": "Temsili görsel"
+    "url": "https://iasbh.tmgrup.com.tr/68a97f/1200/675/0/0/2048/1151?u=https://isbh.tmgrup.com.tr/sbh/2026/09/28/konyaspordan-taraftara-cagri-filistine-hep-birlikte-guclu-bir-mesaj-gonderelim-1790609807198.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Sabah",
+    "credit": "Sabah",
+    "source_url": "https://www.sabah.com.tr/spor/futbol/2026/09/28/konyaspordan-taraftara-cagri-gazzelilerden-ve-filistin-davasindan-asla-vazgecmeyecegiz"
    },
-   "score": 16.09
+   "score": 14.7
   },
   {
-   "id": "s0024",
-   "rank": 10,
-   "key": "6c88271d444c4dc9",
-   "title": "Aziz Yıldırım'ın 'ada ve üniversite' sözlerine Galatasaray'dan gönderme",
-   "summarized": true,
-   "bullets": [
-    "Fenerbahçe Başkanı Aziz Yıldırım, mali genel kurulda Fenerbahçe Adası ve Fenerbahçe Üniversitesi projelerinden bahsetti.",
-    "Yıldırım, Cumhurbaşkanı Erdoğan ile aralarında geçen 'karşı tarafların okulu var, bizim niye yok' konuşmasını da aktardı.",
-    "Galatasaray, resmi sosyal medya hesabından yaptığı 'günaydın' paylaşımına Galatasaray Lisesi, Galatasaray Üniversitesi ve Galatasaray Adası görsellerini ekledi.",
-    "Paylaşım, Yıldırım'ın açıklamalarına göndermede bulunulduğu şeklinde yorumlanarak sosyal medyada geniş etkileşim aldı."
-   ],
-   "why": "İki ezeli rakip kulüp arasındaki sosyal medya polemiği taraftarlar arasında geniş yankı buldu ve viral hale geldi.",
-   "raw_summary": null,
-   "category": "diger",
-   "category_name": "Diğer",
-   "status": "resmi",
-   "clubs": [
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
-    },
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Yeni Şafak",
-     "url": "https://www.yenisafak.com/spor/galatasaraydan-aziz-yildirima-olay-gonderme-paylasim-sosyal-medyayi-salladi-4859596",
-     "published": "2026-09-28T07:13:17+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/galatasaraydan-fenerbahce-baskani-aziz-yildirima-ada-ve-universite-gondermesi-735608",
-     "published": "2026-09-28T08:04:57+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-galatasaraydan-sosyal-medyayi-sallayan-aziz-yildirim-gondermesi-gune-bu-paylasimla-basladilar-430374",
-     "published": "2026-09-28T08:16:21+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/galatasaray/2026/09/28/galatasaraydan-fenerbahceye-flas-gonderme-aziz-yildirim",
-     "published": "2026-09-28T08:23:31+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/galatasaray/2026/09/28/galatasaraydan-aziz-yildirima-gondermeli-paylasim",
-     "published": "2026-09-28T08:24:34+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/galatasaraydan-aziz-yildirima-gondermeli-paylasim-3472367",
-     "published": "2026-09-28T08:44:22+00:00"
-    }
-   ],
-   "n_sources": 6,
-   "first_published": "2026-09-28T07:13:17+00:00",
-   "last_published": "2026-09-28T08:44:22+00:00",
-   "image": {
-    "path": "s/6c88271d444c4dc9.jpg",
-    "kind": "story",
-    "label": "Temsili görsel"
-   },
-   "score": 15.96
-  },
-  {
-   "id": "s0018",
-   "rank": 11,
-   "key": "2554fabb3277f804",
-   "title": "A Milli Takım, Uluslar Ligi'nde İtalya'yı Bursa'da konuk ediyor",
-   "summarized": true,
-   "bullets": [
-    "A Milli Takım, UEFA Uluslar Ligi A Ligi 1. Grup ikinci maçında 28 Eylül Pazartesi saat 21.45'te İtalya'yı ağırlıyor.",
-    "Karşılaşma Bursa Yüzüncü Yıl Atatürk Stadyumu'nda oynanıyor ve ATV'den şifresiz canlı yayınlanıyor.",
-    "Türkiye ilk maçında Fransa'ya 1-0, İtalya ise ilk maçında Belçika'ya 2-0 mağlup olmuştu.",
-    "Maçı İngiltere Futbol Federasyonu'ndan Michael Oliver yönetiyor.",
-    "Uğurcan Çakır kırmızı kart cezası, Orkun Kökçü ise sakatlığı nedeniyle bu maçta forma giyemiyor."
-   ],
-   "why": "Grupta ilk maçını kaybeden Türkiye için İtalya karşısında alınacak sonuç, Uluslar Ligi'ndeki yarışta önemli bir dönüm noktası olacak.",
-   "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
-   "status": "resmi",
-   "clubs": [],
-   "leagues": [
-    {
-     "slug": "milli-takim",
-     "name": "A Millî Takım"
-    },
-    {
-     "slug": "uluslar-ligi",
-     "name": "Uluslar Ligi"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/uluslar-ligi/2026/09/28/atv-turkiye-italya-maci-hd-canli-yayin-milli-mac-hangi-kanalda",
-     "published": "2026-09-28T06:29:58+00:00"
-    },
-    {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/a-milli-takim-uluslar-liginde-italyayi-agirliyor-macin-heyecani-canli-sohbet-ile-mislide-43322005",
-     "published": "2026-09-28T07:59:00+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/haberler/2026/09/28/turkiye-italya-macini-kazanirsa-ne-olur-kaybederse-ne-olur",
-     "published": "2026-09-28T11:26:41+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/turkiye-italya-maci-hangi-kanalda-uluslar-ligi-turkiye-italya-maci-nereden-izlenir-saat-kacta-sifresiz-mi-iste-montellanin-a-3472308",
-     "published": "2026-09-28T14:25:01+00:00"
-    },
-    {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/foto/turkiye-italya-maci-ne-zaman-saat-kacta-hangi-kanalda-uefa-uluslar-ligi-milli-mac-hangi-kanalda-3915681",
-     "published": "2026-09-28T15:27:46+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/a-milli-takim-italya-karsisinda-turkiye-italya-maci-ne-zaman-saat-kacta-hangi-kanalda-turkiye-italya-milli-maci-hangi-3472066",
-     "published": "2026-09-28T17:26:30+00:00"
-    },
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/millitakim/turkiye-italya-11-ler-SXHBQ1177354SXQ",
-     "published": "2026-09-28T17:31:39+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/turkiye-italya-maci-canli-izle-milli-mac-atv-sifresiz-canli-yayin-izleme-ekrani-turkiye-italya-maci-sifreli-mi-sifresiz-kanalda-3472466",
-     "published": "2026-09-28T17:36:06+00:00"
-    }
-   ],
-   "n_sources": 6,
-   "first_published": "2026-09-28T06:29:58+00:00",
-   "last_published": "2026-09-28T17:38:20+00:00",
-   "image": {
-    "path": "s/2554fabb3277f804.jpg",
-    "kind": "story",
-    "label": "Temsili görsel"
-   },
-   "score": 15.47
-  },
-  {
-   "id": "s0095",
-   "rank": 12,
+   "id": "s0084",
+   "rank": 8,
    "key": "3e35cb4f590367e3",
    "title": "Beşiktaş, Kocaelispor maçının hazırlıklarına başladı",
    "summarized": true,
    "bullets": [
-    "Beşiktaş, Süper Lig 7. haftasında 11 Ekim Pazar günü sahasında Kocaelispor ile oynayacağı maçın hazırlıklarına başladı.",
-    "Vincenzo Italiano yönetimindeki antrenman ısınma koşusu, 5'e 2 top kapma ve dar alanda çift kale maçından oluştu.",
-    "Beşiktaş, milli araya Amedspor'a 3-2 mağlup olarak girdi ve 12 puanla ligde üçüncü sırada bulunuyor.",
-    "Son 5 lig maçının 4'ünü kazanan Kocaelispor, 12 puanla Beşiktaş'ın hemen altında yer alıyor.",
-    "Siyah-beyazlılar hazırlıklarını yarın yapacağı antrenmanla sürdürecek."
+    "Beşiktaş, Süper Lig'in 7. haftasında 11 Ekim Pazar günü sahasında Kocaelispor ile oynayacak.",
+    "Hazırlıklara BJK Nevzat Demir Tesisleri'nde, Vincenzo Italiano yönetiminde yapılan basına kapalı antrenmanla başlandı.",
+    "Yaklaşık 1,5 saat süren idman kondisyon ve taktik çalışmasıydı; ısınma koşuları, 5'e 2 top kapma ve dar alanda çift kale maç yapıldı.",
+    "Siyah-beyazlılar yarın saat 11.30'da yine basına kapalı yapacağı antrenmanla çalışmalara devam edecek.",
+    "Beşiktaş milli araya Amedspor'a 3-2 yenilerek girdi ve 12 puanla üçüncü sırada; Kocaelispor da 12 puanla hemen altında yer alıyor."
    ],
-   "why": "İyi form grafiğine sahip Kocaelispor karşısında alınacak sonuç, Beşiktaş'ın lig sıralamasındaki konumu için önem taşıyor.",
+   "why": "Beşiktaş, milli ara öncesindeki yenilginin ardından puan tablosunda hemen altındaki Kocaelispor'u ağırlayacak. Taraftar için maç, iki takım arasındaki sıralama mücadelesi anlamına geliyor.",
    "raw_summary": null,
    "category": "mac",
    "category_name": "Maç",
@@ -871,15 +608,17 @@
    "first_published": "2026-09-28T11:39:18+00:00",
    "last_published": "2026-09-28T13:05:06+00:00",
    "image": {
-    "path": "pool/diger-1.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
+    "url": "https://iaaspr.tmgrup.com.tr/f6f78f/1200/675/0/0/2048/1151?u=https://iaspr.tmgrup.com.tr/2026/09/28/besiktasta-kocaelispor-maci-hazirliklari-basladi-1790595493310.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: A Spor",
+    "credit": "A Spor",
+    "source_url": "https://www.aspor.com.tr/besiktas/2026/09/28/besiktasta-kocaelispor-maci-hazirliklari-basladi"
    },
-   "score": 14.34
+   "score": 13.68
   },
   {
-   "id": "s0038",
-   "rank": 13,
+   "id": "s0027",
+   "rank": 9,
    "key": "a6f033a60d82f548",
    "title": "Beşiktaş'ı milli maç arasının ardından zorlu bir maraton bekliyor",
    "summarized": false,
@@ -926,89 +665,37 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 13.81
+   "score": 13.33
   },
   {
-   "id": "s0174",
-   "rank": 14,
-   "key": "27270ab150cec042",
-   "title": "Milan'dan Kim Min-jae için transfer hamlesi!",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Milan, Bayern Münih forması giyen Güney Koreli stoper Kim Min-jae'yi yeniden transfer listesine dahil etti.",
-   "category": "transfer",
-   "category_name": "Transfer",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "milan",
-     "name": "Milan"
-    }
+   "id": "s0014",
+   "rank": 10,
+   "key": "bcd0daf518ccfb3d",
+   "title": "Galatasaray'dan Aziz Yıldırım'ın üniversite ve ada sözlerine göndermeli paylaşım",
+   "summarized": true,
+   "bullets": [
+    "Fenerbahçe Başkanı Aziz Yıldırım, olağan mali ve idari genel kurulda üniversite eksikliğine ve planlanan ada ile marina projelerine değindi.",
+    "Yıldırım, Cumhurbaşkanı Erdoğan'la konuşmasını aktarıp 'Karşı tarafın okulu var, bizim niye yok' dediğini söyledi.",
+    "Galatasaray'ın resmi sosyal medya hesabı, 28 Eylül sabahı 'Günaydın Galatasaray ailesi' paylaşımı yaptı.",
+    "Paylaşımda Galatasaray Lisesi, Galatasaray Üniversitesi ve Galatasaray Adası görselleri yer aldı.",
+    "Paylaşım, Yıldırım'a gönderme olarak yorumlandı ve sosyal medyada geniş etkileşim aldı."
    ],
-   "leagues": [
-    {
-     "slug": "bundesliga",
-     "name": "Bundesliga"
-    },
-    {
-     "slug": "premier-lig",
-     "name": "Premier Lig"
-    },
-    {
-     "slug": "serie-a",
-     "name": "Serie A"
-    }
-   ],
-   "sources": [
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-kim-min-jae-icin-ihtimaller-yeniden-yeserdi-transferin-maliyetini-duyurdular-430401",
-     "published": "2026-09-28T16:58:46+00:00"
-    },
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/dunya/italya/milan/milan-dan-kim-min-jae-icin-transfer-hamlesi-SXHBQ1177454SXQ",
-     "published": "2026-09-28T17:19:25+00:00"
-    }
-   ],
-   "n_sources": 2,
-   "first_published": "2026-09-28T16:58:46+00:00",
-   "last_published": "2026-09-28T17:19:25+00:00",
-   "image": {
-    "path": "pool/mac-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 13.38
-  },
-  {
-   "id": "s0172",
-   "rank": 15,
-   "key": "0cfbbb149418715e",
-   "title": "Lamine Yamal'dan Salah'a övgü! \"Olağanüstü ve efsane bir süperstar\"",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Barcelona'nın genç yıldızı Lamine Yamal, Trabzonspor'un Mısırlı yıldızı Muhammed Salah için övgü dolu ifadeler kullandı. Trabzonspor",
+   "why": "İki ezeli rakip arasındaki rekabetin sosyal medyaya da yansıdığını gösteriyor. Taraftarlar için kulüp iletişimindeki karşılıklı göndermeler rekabetin bir parçası olarak öne çıkıyor.",
+   "raw_summary": null,
    "category": "diger",
    "category_name": "Diğer",
-   "status": null,
+   "status": "resmi",
    "clubs": [
     {
-     "slug": "barcelona",
-     "name": "Barcelona"
+     "slug": "galatasaray",
+     "name": "Galatasaray"
     },
     {
-     "slug": "trabzonspor",
-     "name": "Trabzonspor"
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
     }
    ],
    "leagues": [
-    {
-     "slug": "la-liga",
-     "name": "La Liga"
-    },
     {
      "slug": "super-lig",
      "name": "Süper Lig"
@@ -1016,43 +703,115 @@
    ],
    "sources": [
     {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/trabzonspor/lamine-yamal-dan-muhammed-salah-a-buyuk-ovgu-SXHBQ1177452SXQ",
-     "published": "2026-09-28T16:55:42+00:00"
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/galatasaraydan-aziz-yildirima-olay-gonderme-paylasim-sosyal-medyayi-salladi-4859596",
+     "published": "2026-09-28T07:13:17+00:00"
     },
     {
-     "name": "Star",
-     "url": "https://www.star.com.tr/spor/lamine-yamaldan-salaha-ovgu-olaganustu-ve-efsane-bir-superstar-haber-2043128",
-     "published": "2026-09-28T17:20:00+00:00"
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-galatasaraydan-sosyal-medyayi-sallayan-aziz-yildirim-gondermesi-gune-bu-paylasimla-basladilar-430374",
+     "published": "2026-09-28T08:16:21+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/galatasaray/2026/09/28/galatasaraydan-fenerbahceye-flas-gonderme-aziz-yildirim",
+     "published": "2026-09-28T08:23:31+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/09/28/galatasaraydan-aziz-yildirima-gondermeli-paylasim",
+     "published": "2026-09-28T08:24:34+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/galatasaraydan-aziz-yildirima-gondermeli-paylasim-3472367",
+     "published": "2026-09-28T08:44:22+00:00"
+    }
+   ],
+   "n_sources": 5,
+   "first_published": "2026-09-28T07:13:17+00:00",
+   "last_published": "2026-09-28T08:44:22+00:00",
+   "image": {
+    "url": "https://img.piri.net/piri/upload/3/2026/9/28/400c7203-galatasaraydan-aziz-yildirima-olay-gonderme-paylasim.webp",
+    "kind": "source",
+    "label": "Fotoğraf: Yeni Şafak",
+    "credit": "Yeni Şafak",
+    "source_url": "https://www.yenisafak.com/spor/galatasaraydan-aziz-yildirima-olay-gonderme-paylasim-sosyal-medyayi-salladi-4859596"
+   },
+   "score": 12.16
+  },
+  {
+   "id": "s0005",
+   "rank": 11,
+   "key": "6027440fef4f3d45",
+   "title": "Beşiktaş'ta ocak planı: Willock hedefte, Rashica ve Ndidi'nin ayrılığı bekleniyor",
+   "summarized": true,
+   "bullets": [
+    "Beşiktaş'ın ara transfer dönemindeki ilk hedefinin Newcastle United'da sözleşmesinin son yılındaki Joe Willock olduğu aktarıldı.",
+    "Serdal Adalı, Willock için 'Ocakta imza atabiliriz, atacağım da' dedi; oyuncunun sözleşmesi sezon sonunda bitiyor.",
+    "Newcastle zorluk çıkarırsa transferin sezon sonunda bonservissiz gerçekleşebileceği belirtildi.",
+    "Milliyet'e göre yabancı kontenjanı dolu olduğu için Milot Rashica ve Wilfred Ndidi'nin devre arasında ayrılması bekleniyor.",
+    "Brezilya basını Placar'a göre Santos'tan 21 yaşındaki Gabriel Bontempo da Beşiktaş'ta oynamak istiyor."
+   ],
+   "why": "Taraftar için ocak ayında orta saha takviyesi ve yabancı kadrosundaki olası değişiklikler gündemde. Rashica ve Ndidi'nin ayrılığı henüz resmi değil, haberler basın kaynaklı.",
+   "raw_summary": null,
+   "category": "transfer",
+   "category_name": "Transfer",
+   "status": "soylenti",
+   "clubs": [
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-italiano-gozlerinin-yasina-bakmadi-2-futbolcu-3-ay-sonra-besiktastan-ayriliyor-430371",
+     "published": "2026-09-28T06:04:20+00:00"
     },
     {
      "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/lamine-yamaldan-mohamed-salaha-ovguler-43322748",
-     "published": "2026-09-28T17:25:29+00:00"
+     "url": "https://www.hurriyet.com.tr/sporarena/italiano-listeyi-verdi-besiktasa-2-transfer-43321822",
+     "published": "2026-09-28T13:40:00+00:00"
     }
    ],
-   "n_sources": 3,
-   "first_published": "2026-09-28T16:55:42+00:00",
-   "last_published": "2026-09-28T17:25:29+00:00",
+   "n_sources": 2,
+   "first_published": "2026-09-28T06:04:20+00:00",
+   "last_published": "2026-09-28T13:40:00+00:00",
    "image": {
-    "path": "pool/diger-1.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
+    "url": "https://images.ntvspor.net/images/vincenzo-italiano-223-378184.jpg?format=webp",
+    "kind": "source",
+    "label": "Fotoğraf: NTV Spor",
+    "credit": "NTV Spor",
+    "source_url": "https://www.ntvspor.net/futbol/galeri-italiano-gozlerinin-yasina-bakmadi-2-futbolcu-3-ay-sonra-besiktastan-ayriliyor-430371"
    },
-   "score": 11.9
+   "score": 10.82
   },
   {
-   "id": "s0150",
-   "rank": 16,
+   "id": "s0133",
+   "rank": 12,
    "key": "3b7fac1d996bc7a2",
-   "title": "Virgil van Dijk Barcelona'ya mı transfer olacak? Flick'ten sürpriz karar",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Liverpool'un 35 yaşındaki kaptanı Virgil van Dijk'ın gelecek sezon Barcelona'ya bedelsiz olarak önerildiği öne sürüldü. Ancak teknik direktör Hansi Flick'in Hollandalı savunmacıyı kadrosunda düşünmediği belirtildi. Barcelona",
-   "category": "diger",
-   "category_name": "Diğer",
-   "status": null,
+   "title": "Van Dijk'ın Barcelona'ya bedelsiz önerildiği iddia edildi, Flick sıcak bakmıyor",
+   "summarized": true,
+   "bullets": [
+    "The Independent'a göre 35 yaşındaki Virgil van Dijk, gelecek sezon için Barcelona'ya bedelsiz olarak önerildi.",
+    "Liverpool ile sözleşmesi 30 Haziran 2027'de bitecek olan Hollandalı savunmacının kariyerine Barcelona'da devam etmek istediği öne sürüldü.",
+    "Barcelona Teknik Direktörü Hansi Flick'in, gelecek sezon 36 yaşında olacak oyuncunun takıma uyumu konusunda tereddüt taşıdığı aktarıldı.",
+    "Bazı kaynaklara göre Flick, Bastoni, Ruud Nijstad veya Schlotterbeck gibi daha genç isimleri tercih ediyor; Habertürk ise transferin veto edildiğini yazdı.",
+    "Van Dijk, bu sezon Liverpool formasıyla şu ana kadar 6 maçta görev aldı."
+   ],
+   "why": "Barcelona taraftarı için savunma hattında tecrübeli bir bedelsiz seçenek ile genç isimlere yönelme tercihi gündemde. Bunların hepsi henüz iddia aşamasında ve resmi bir açıklama yok.",
+   "raw_summary": null,
+   "category": "transfer",
+   "category_name": "Transfer",
+   "status": "soylenti",
    "clubs": [
     {
      "slug": "barcelona",
@@ -1094,86 +853,78 @@
    "first_published": "2026-09-28T15:20:21+00:00",
    "last_published": "2026-09-28T16:23:05+00:00",
    "image": {
-    "path": "pool/diger-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
+    "url": "https://im.haberturk.com/l/2026/09/28/ver1790612581/3915698/jpg/1200x628",
+    "kind": "source",
+    "label": "Fotoğraf: Habertürk",
+    "credit": "Habertürk",
+    "source_url": "https://www.haberturk.com/spor/virgil-van-dijk-in-barcelona-ya-transferine-hansi-flick-engeli-3915698"
    },
-   "score": 11.29
+   "score": 10.6
   },
   {
-   "id": "s0086",
-   "rank": 17,
-   "key": "dd43f7b84a3e0326",
-   "title": "Halil Umut Meler, Çekya-İngiltere maçını yönetecek",
+   "id": "s0069",
+   "rank": 13,
+   "key": "9c280788d9c127af",
+   "title": "Rafael Leao'dan flaş transfer itirafı! Galatasaray...",
    "summarized": false,
    "bullets": [],
    "why": null,
-   "raw_summary": "FIFA kokartlı hakem Halil Umut Meler, Çekya ile İngiltere arasında yarın oynanacak UEFA Uluslar A Ligi 3. Grup müsabakasını yönetecek.",
+   "raw_summary": "Rafael Leao'dan Süper Lig itirafı",
    "category": "diger",
    "category_name": "Diğer",
    "status": null,
-   "clubs": [],
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
    "leagues": [
     {
-     "slug": "uluslar-ligi",
-     "name": "Uluslar Ligi"
+     "slug": "super-lig",
+     "name": "Süper Lig"
     }
    ],
    "sources": [
     {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/uefa-dan-halil-umut-meler-e-gorev-3915620",
-     "published": "2026-09-28T10:48:01+00:00"
-    },
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/dunya/halil-umut-meler-cekya-ingiltere-macini-yonetecek-SXHBQ1177434SXQ",
-     "published": "2026-09-28T10:58:19+00:00"
-    },
-    {
-     "name": "Yeni Şafak",
-     "url": "https://www.yenisafak.com/spor/uefadan-halil-umut-melere-gorev-uluslar-ligi-macini-yonetecek-4859673",
-     "published": "2026-09-28T11:09:15+00:00"
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/rafael-leaodan-super-lig-itirafi-p364203",
+     "published": "2026-09-28T10:24:48+00:00"
     },
     {
      "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/cekya-ingiltere-macini-turk-hakem-yonetecek-43322305",
-     "published": "2026-09-28T11:11:44+00:00"
+     "url": "https://www.hurriyet.com.tr/sporarena/rafel-leaodan-galatasaray-itirafi-beni-sasirtti-43322283",
+     "published": "2026-09-28T10:49:00+00:00"
     },
     {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/uefa-uluslar-ligindeki-kritik-maca-halil-umut-meleri-atadi-430383",
-     "published": "2026-09-28T11:19:32+00:00"
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/rafael-leaodan-galatasaray-ve-turkiye-itirafi-3472446",
+     "published": "2026-09-28T11:04:49+00:00"
     },
     {
-     "name": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/spor/halil-umut-meler-uefa-uluslar-ligindeki-cekya-ingiltere-macinda-duduk-calacak/4071539",
-     "published": "2026-09-28T11:23:03+00:00"
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/09/28/rafael-leaodan-flas-transfer-itirafi-galatasaray",
+     "published": "2026-09-28T11:39:59+00:00"
     },
     {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/halil-umut-meler-uefa-uluslar-ligindeki-kritik-maci-yonetecek-735620",
-     "published": "2026-09-28T11:36:44+00:00"
-    },
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/halil-umut-meler-cekya-ingiltere-macini-yonetecek-33330959",
-     "published": "2026-09-28T11:47:00+00:00"
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/galatasaray/2026/09/28/rafael-leaodan-carpici-sozler-galatasaray-ve-transfer",
+     "published": "2026-09-28T12:04:14+00:00"
     }
    ],
-   "n_sources": 8,
-   "first_published": "2026-09-28T10:48:01+00:00",
-   "last_published": "2026-09-28T11:47:00+00:00",
+   "n_sources": 5,
+   "first_published": "2026-09-28T10:24:48+00:00",
+   "last_published": "2026-09-28T12:04:14+00:00",
    "image": {
-    "path": "pool/diger-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
+    "path": "s/9c280788d9c127af.jpg",
+    "kind": "story",
+    "label": "Temsili görsel"
    },
-   "score": 11.14
+   "score": 10.29
   },
   {
-   "id": "s0097",
-   "rank": 18,
+   "id": "s0086",
+   "rank": 14,
    "key": "4b3cc605095537c8",
    "title": "Fenerbahçe, Çaykur Rizespor maçının hazırlıklarını sürdürdü",
    "summarized": false,
@@ -1229,11 +980,77 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 10.13
+   "score": 9.71
   },
   {
-   "id": "s0107",
-   "rank": 19,
+   "id": "s0075",
+   "rank": 15,
+   "key": "dd43f7b84a3e0326",
+   "title": "Halil Umut Meler, Çekya-İngiltere maçını yönetecek",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "FIFA kokartlı hakem Halil Umut Meler, Çekya ile İngiltere arasında yarın oynanacak UEFA Uluslar A Ligi 3. Grup müsabakasını yönetecek.",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "uluslar-ligi",
+     "name": "Uluslar Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/uefa-dan-halil-umut-meler-e-gorev-3915620",
+     "published": "2026-09-28T10:48:01+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/halil-umut-meler-cekya-ingiltere-macini-yonetecek-SXHBQ1177434SXQ",
+     "published": "2026-09-28T10:58:19+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/uefadan-halil-umut-melere-gorev-uluslar-ligi-macini-yonetecek-4859673",
+     "published": "2026-09-28T11:09:15+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/cekya-ingiltere-macini-turk-hakem-yonetecek-43322305",
+     "published": "2026-09-28T11:11:44+00:00"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/halil-umut-meler-uefa-uluslar-ligindeki-cekya-ingiltere-macinda-duduk-calacak/4071539",
+     "published": "2026-09-28T11:23:03+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/halil-umut-meler-uefa-uluslar-ligindeki-kritik-maci-yonetecek-735620",
+     "published": "2026-09-28T11:36:44+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/halil-umut-meler-cekya-ingiltere-macini-yonetecek-33330959",
+     "published": "2026-09-28T11:47:00+00:00"
+    }
+   ],
+   "n_sources": 7,
+   "first_published": "2026-09-28T10:48:01+00:00",
+   "last_published": "2026-09-28T11:47:00+00:00",
+   "image": {
+    "path": "pool/diger-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 9.27
+  },
+  {
+   "id": "s0093",
+   "rank": 16,
    "key": "2547b1aa39604123",
    "title": "Beşiktaş'ın zorlu fikstürü: 29 günde 8 maç",
    "summarized": false,
@@ -1283,11 +1100,65 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 9.52
+   "score": 9.07
   },
   {
-   "id": "s0046",
-   "rank": 20,
+   "id": "s0154",
+   "rank": 17,
+   "key": "27270ab150cec042",
+   "title": "Milan'dan Kim Min-jae için transfer hamlesi!",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Milan, Bayern Münih forması giyen Güney Koreli stoper Kim Min-jae'yi yeniden transfer listesine dahil etti.",
+   "category": "transfer",
+   "category_name": "Transfer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "milan",
+     "name": "Milan"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "bundesliga",
+     "name": "Bundesliga"
+    },
+    {
+     "slug": "premier-lig",
+     "name": "Premier Lig"
+    },
+    {
+     "slug": "serie-a",
+     "name": "Serie A"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-kim-min-jae-icin-ihtimaller-yeniden-yeserdi-transferin-maliyetini-duyurdular-430401",
+     "published": "2026-09-28T16:58:46+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/italya/milan/milan-dan-kim-min-jae-icin-transfer-hamlesi-SXHBQ1177454SXQ",
+     "published": "2026-09-28T17:19:25+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-09-28T16:58:46+00:00",
+   "last_published": "2026-09-28T17:19:25+00:00",
+   "image": {
+    "path": "pool/mac-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 8.74
+  },
+  {
+   "id": "s0035",
+   "rank": 18,
    "key": "3c521ab9c8ba2702",
    "title": "Cody Gakpo sakatlandı: Hollanda Milli Takımı'nda kadrodan çıkarıldı",
    "summarized": false,
@@ -1357,11 +1228,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 9.04
+   "score": 8.6
   },
   {
-   "id": "s0103",
-   "rank": 21,
+   "id": "s0089",
+   "rank": 19,
    "key": "9942e1f3a7121a4f",
    "title": "Trabzonspor’da, Samsunspor maçı hazırlıkları devam ediyor!",
    "summarized": false,
@@ -1404,24 +1275,24 @@
      "published": "2026-09-28T17:04:11+00:00"
     },
     {
-     "name": "Star",
-     "url": "https://www.star.com.tr/spor/trabzonspor-samsunspor-macina-hazirlaniyor-haber-2043132",
-     "published": "2026-09-28T17:39:00+00:00"
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/trabzonspor-samsunspor-maci-hazirliklarina-devam-etti-3915716",
+     "published": "2026-09-28T17:40:00+00:00"
     }
    ],
    "n_sources": 4,
    "first_published": "2026-09-28T11:49:17+00:00",
-   "last_published": "2026-09-28T17:39:00+00:00",
+   "last_published": "2026-09-28T17:40:00+00:00",
    "image": {
     "path": "pool/diger-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 8.91
+   "score": 8.3
   },
   {
-   "id": "s0145",
-   "rank": 22,
+   "id": "s0128",
+   "rank": 20,
    "key": "e8c1dc7c013abcd2",
    "title": "Juventus'tan kaleye tanıdık eldiven! Eski yıldız geri döndü",
    "summarized": false,
@@ -1467,11 +1338,67 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 8.61
+   "score": 8.12
   },
   {
-   "id": "s0122",
-   "rank": 23,
+   "id": "s0146",
+   "rank": 21,
+   "key": "0ee36322d58b1080",
+   "title": "Uruguay, Güney Kore'yi 4 golle devirdi!",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Uruguay, hazırlık maçında Güney Kore'yi 4-1 mağlup ederken Beşiktaşlı Oh Hyeon-gyu 72 dakika, Galatasaraylı Lucas Torreira ise 90 dakika sahada kaldı. Dünya Futbolu",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/uruguay-guney-kore-yi-4-golle-devirdi-SXHBQ1177451SXQ",
+     "published": "2026-09-28T16:31:27+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/torreira-ohu-uzdu-uruguay-guney-koreyi-farkli-gecti-735633",
+     "published": "2026-09-28T16:40:17+00:00"
+    },
+    {
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/09/28/uruguay-guney-koreyi-4-golle-devirdi",
+     "published": "2026-09-28T16:45:21+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/guney-kore-1-1-uruguay-mac-sonucu-ozeti-ve-golleri-lucas-torreira-hyeon-gyu-oh-u-maglup-etti-3915709",
+     "published": "2026-09-28T17:00:15+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/torreira-li-uruguay-oh-lu-guney-kore-yi-4-golle-gecti-p364308",
+     "published": "2026-09-28T17:13:30+00:00"
+    }
+   ],
+   "n_sources": 5,
+   "first_published": "2026-09-28T16:31:27+00:00",
+   "last_published": "2026-09-28T17:13:30+00:00",
+   "image": {
+    "path": "s/0ee36322d58b1080.jpg",
+    "kind": "story",
+    "label": "Temsili görsel"
+   },
+   "score": 7.84
+  },
+  {
+   "id": "s0105",
+   "rank": 22,
    "key": "729493387ca38d66",
    "title": "Fuat Çapa'dan Trabzonspor maçı yorumu: Geçmişte yenmişliğimiz var",
    "summarized": false,
@@ -1513,10 +1440,89 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 8.22
+   "score": 7.79
   },
   {
-   "id": "s0074",
+   "id": "s0055",
+   "rank": 23,
+   "key": "e6771c783acc9e18",
+   "title": "Montella, İtalya maçı öncesi konuştu: Orkun Kökçü detayı",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "A Milli Futbol Takımı'nın eski teknik direktörü Fatih Terim, Türkiye–İtalya maçı öncesinde İtalyan basınına açıklamalarda bulundu.",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "avrupa-ligi",
+     "name": "Avrupa Ligi"
+    },
+    {
+     "slug": "dunya-kupasi",
+     "name": "Dünya Kupası"
+    },
+    {
+     "slug": "konferans-ligi",
+     "name": "Konferans Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/fatih-terimden-italya-maci-oncesi-vincenzo-montella-sorusuna-yanit-735615",
+     "published": "2026-09-28T09:41:41+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/millitakim/2026/09/28/fatih-terim-italyan-basinina-konustu-montella-ve-milli-takim-icin-flas-sozler",
+     "published": "2026-09-28T13:13:01+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/milli-takim/2026/09/28/fatih-terimden-vincenzo-montella-ovgusu-kendi-fikirleri-olan-bir-teknik-adam",
+     "published": "2026-09-28T13:28:50+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/uluslar-ligi/2026/09/28/a-milli-takim-teknik-direktoru-vincenzo-montelladan-italya-maci-oncesi-aciklama",
+     "published": "2026-09-28T17:46:49+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-tesekkur-etti-vincenzo-montelladan-orkun-kokcu-aciklamasi-430403",
+     "published": "2026-09-28T17:51:43+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/millitakim/vincenzo-montella-dan-orkun-kokcu-aciklamasi-SXHBQ1177455SXQ",
+     "published": "2026-09-28T17:54:00+00:00"
+    },
+    {
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/09/28/vincenzo-montella-turkiyeyi-temsil-etmek-icin-her-seyi-yapacagiz",
+     "published": "2026-09-28T17:57:43+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/montella-italya-maci-oncesi-konustu-orkun-kokcu-detayi-735636",
+     "published": "2026-09-28T18:26:35+00:00"
+    }
+   ],
+   "n_sources": 6,
+   "first_published": "2026-09-28T09:41:41+00:00",
+   "last_published": "2026-09-28T18:26:35+00:00",
+   "image": {
+    "path": "pool/diger-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 7.71
+  },
+  {
+   "id": "s0063",
    "rank": 24,
    "key": "482fba732684d1f1",
    "title": "8-0'lık Fenerbahçe yenilgisinin ardından Eyüpspor'daki görevinden istifa eden Özhan Pulat'ın yeni adresi belli oldu",
@@ -1567,28 +1573,28 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 7.63
+   "score": 7.29
   },
   {
-   "id": "s0163",
+   "id": "s0174",
    "rank": 25,
-   "key": "bd2ca9ece2dcf070",
-   "title": "Gaziantep FK, Çorum FK maçının hazırlıklarını sürdürdü!",
+   "key": "0711cf623a2137b4",
+   "title": "Galatasaray, Kasımpaşa maçı hazırlıklarına devam etti",
    "summarized": false,
    "bullets": [],
    "why": null,
-   "raw_summary": "Gaziantep FK, Trendyol Süper Lig'in 7. haftasında Arca Çorum FK ile oynayacağı maçın hazırlıklarına devam etti.",
+   "raw_summary": "Galatasaray, Trendyol Süper Lig'in 7. haftasında Kasımpaşa ile 9 Ekim Cuma günü sahasında yapacağı maçın hazırlıklarına devam etti.",
    "category": "diger",
    "category_name": "Diğer",
    "status": null,
    "clubs": [
     {
-     "slug": "gaziantep-fk",
-     "name": "Gaziantep FK"
+     "slug": "galatasaray",
+     "name": "Galatasaray"
     },
     {
-     "slug": "corum-fk",
-     "name": "Çorum FK"
+     "slug": "kasimpasa",
+     "name": "Kasımpaşa"
     }
    ],
    "leagues": [
@@ -1600,44 +1606,52 @@
    "sources": [
     {
      "name": "Star",
-     "url": "https://www.star.com.tr/spor/gaziantep-fk-corum-fk-sinavina-hazirlaniyor-haber-2043119",
-     "published": "2026-09-28T16:21:00+00:00"
+     "url": "https://www.star.com.tr/spor/galatasaray-kasimpasa-maci-hazirliklarina-devam-etti-haber-2043140",
+     "published": "2026-09-28T18:20:00+00:00"
     },
     {
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/09/28/gaziantep-fk-corum-fk-macinin-hazirliklarini-surdurdu",
-     "published": "2026-09-28T16:31:27+00:00"
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/galatasaray-da-kasimpasa-maci-hazirligi-3915724",
+     "published": "2026-09-28T18:43:50+00:00"
     }
    ],
    "n_sources": 2,
-   "first_published": "2026-09-28T16:21:00+00:00",
-   "last_published": "2026-09-28T16:31:27+00:00",
+   "first_published": "2026-09-28T18:20:00+00:00",
+   "last_published": "2026-09-28T18:43:50+00:00",
    "image": {
-    "path": "pool/mac-2.png",
+    "path": "pool/diger-2.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 6.92
+   "score": 7.21
   },
   {
-   "id": "s0124",
+   "id": "s0152",
    "rank": 26,
-   "key": "bfeb5bae9bfafb8c",
-   "title": "Fenerbahçe'nin yıldızı baba oluyor: Cinsiyetini duyurdu",
+   "key": "a3b9129ec0a4b071",
+   "title": "Lamine Yamal'dan Muhammed Salah'a büyük övgü!",
    "summarized": false,
    "bullets": [],
    "why": null,
-   "raw_summary": "Fenerbahçe'nin yıldız futbolcusu Marco Asensio ile sevgilisi Lavinia, bebek beklediklerini açıkladı. Çift, dünyaya gelecek çocuklarının erkek olacağını da duyurdu.",
+   "raw_summary": "Barcelona'nın genç yıldızı Lamine Yamal, Trabzonspor'un Mısırlı yıldızı Muhammed Salah için övgü dolu ifadeler kullandı. Trabzonspor",
    "category": "diger",
    "category_name": "Diğer",
    "status": null,
    "clubs": [
     {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    },
+    {
+     "slug": "barcelona",
+     "name": "Barcelona"
     }
    ],
    "leagues": [
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    },
     {
      "slug": "super-lig",
      "name": "Süper Lig"
@@ -1645,29 +1659,88 @@
    ],
    "sources": [
     {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/fenerbahcenin-yildizi-baba-oluyor-mujdeli-haberi-duyurdular-735626",
-     "published": "2026-09-28T13:40:22+00:00"
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/trabzonspor/lamine-yamal-dan-muhammed-salah-a-buyuk-ovgu-SXHBQ1177452SXQ",
+     "published": "2026-09-28T16:55:42+00:00"
     },
     {
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/fenerbahce-nin-yildizi-baba-oluyor-cinsiyetini-duyurdu-p364268",
-     "published": "2026-09-28T14:06:37+00:00"
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/lamine-yamaldan-mohamed-salaha-ovguler-43322748",
+     "published": "2026-09-28T17:25:29+00:00"
     }
    ],
    "n_sources": 2,
-   "first_published": "2026-09-28T13:40:22+00:00",
-   "last_published": "2026-09-28T14:06:37+00:00",
+   "first_published": "2026-09-28T16:55:42+00:00",
+   "last_published": "2026-09-28T17:25:29+00:00",
+   "image": {
+    "path": "pool/mac-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 6.76
+  },
+  {
+   "id": "s0143",
+   "rank": 27,
+   "key": "1fae3bdd95f77f94",
+   "title": "A Milli Takım'ın maçında Fatih Terim sürprizi",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "A Milli Takım'ın İtalya ile oynayacağı UEFA Uluslar Ligi karşılaşmasında Fatih Terim yorumcu olarak görev yapacak. Galatasaray",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "milli-takim",
+     "name": "A Millî Takım"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    },
+    {
+     "slug": "uluslar-ligi",
+     "name": "Uluslar Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/galatasaray/turkiye-italya-macinda-fatih-terim-den-surpriz-gorev-SXHBQ1177450SXQ",
+     "published": "2026-09-28T15:59:00+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/a-milli-takimin-macinda-fatih-terim-surprizi-735630",
+     "published": "2026-09-28T16:05:28+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-fatih-terimden-buyuk-surpriz-turkiye-italya-macina-ozel-gorev-430399",
+     "published": "2026-09-28T16:21:34+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/a-milli-takim-da-fatih-terim-surprizi-yillar-sonra-bir-ilk-p364315",
+     "published": "2026-09-28T19:03:44+00:00"
+    }
+   ],
+   "n_sources": 4,
+   "first_published": "2026-09-28T15:59:00+00:00",
+   "last_published": "2026-09-28T19:03:44+00:00",
    "image": {
     "path": "pool/diger-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 6.22
+   "score": 6.71
   },
   {
-   "id": "s0035",
-   "rank": 27,
+   "id": "s0023",
+   "rank": 28,
    "key": "3f05dbbe583b39cc",
    "title": "\"Salah’ın bu ülkede olması inanılmaz\"",
    "summarized": false,
@@ -1709,56 +1782,10 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 6.21
+   "score": 5.9
   },
   {
-   "id": "s0043",
-   "rank": 28,
-   "key": "b7a3f1901447bec8",
-   "title": "Fatih Tekke'den Mohamed Salah sözleri!",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Trabzonspor'dan ayrılmasının ardından Mısır basınına konuşan Fatih Tekke, kısa süre birlikte çalışma fırsatı bulduğu Mohamed Salah hakkında dikkat çeken açıklamalarda bulundu.",
-   "category": "diger",
-   "category_name": "Diğer",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "trabzonspor",
-     "name": "Trabzonspor"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/fatih-tekkeden-mohamed-salah-sozleri-43321996",
-     "published": "2026-09-28T08:24:00+00:00"
-    },
-    {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/foto/fatih-tekke-den-muhammed-salah-sozleri-3915550",
-     "published": "2026-09-28T12:03:06+00:00"
-    }
-   ],
-   "n_sources": 2,
-   "first_published": "2026-09-28T08:24:00+00:00",
-   "last_published": "2026-09-28T12:03:06+00:00",
-   "image": {
-    "path": "pool/mac-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 5.78
-  },
-  {
-   "id": "s0037",
+   "id": "s0026",
    "rank": 29,
    "key": "80a4a516aeb7860b",
    "title": "Ay-yıldız ve bordo-mavi: Trabzonspor'un İrlanda'daki kardeşi Trabzon'a geliyor",
@@ -1801,10 +1828,10 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 5.24
+   "score": 5.07
   },
   {
-   "id": "s0066",
+   "id": "s0056",
    "rank": 30,
    "key": "1871eb8766873a27",
    "title": "Galatasaray'dan Osimhen'e güçlü alternatif! 22 milyon euro",
@@ -1851,10 +1878,10 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 5.23
+   "score": 4.99
   },
   {
-   "id": "s0077",
+   "id": "s0066",
    "rank": 31,
    "key": "7f9117b4f16ce637",
    "title": "Bir gecede gelen şöhret Vozinha'yı pişman etti: \"Huzurumu kaybettim\"",
@@ -1892,175 +1919,193 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 5.19
+   "score": 4.87
   },
   {
-   "id": "s0022",
+   "id": "s0178",
    "rank": 32,
-   "key": "7aca52d3b2c24525",
-   "title": "Aedan Scipio, uzun saçlarıyla rakibine 2 kırmızı kart aldırdı",
+   "key": "c85e618dc31ec44e",
+   "title": "Galatasaray'da çarpıcı gelişme: Yıldız isme sözlü saldırı sonrası ayrılık iddiası",
    "summarized": false,
    "bullets": [],
    "why": null,
-   "raw_summary": "CONCACAF Uluslar Ligi'nde Antigua ve Barbuda, Anguilla'yı 5-0 yenerken; karşılaşmanın son anlarında oyuna giren 36 yaşındaki Aedan Scipio, saçlarıyla iki rakibi oyundan attırdı.",
-   "category": "diger",
-   "category_name": "Diğer",
+   "raw_summary": "Galatasaraylı yıldızın geleceğiyle ilgili ocak ayı öncesi dikkat çeken bir iddia ortaya atıldı. Deneyimli futbolcunun ayrılık ihtimalinin yanı sıra ailesinin İstanbul'da yaşadığı öne sürülen olayın da gündeme geldiğini yazıldı.",
+   "category": "transfer",
+   "category_name": "Transfer",
    "status": null,
-   "clubs": [],
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
    "leagues": [
     {
-     "slug": "uluslar-ligi",
-     "name": "Uluslar Ligi"
+     "slug": "super-lig",
+     "name": "Süper Lig"
     }
    ],
    "sources": [
     {
      "name": "Yeni Şafak",
-     "url": "https://www.yenisafak.com/spor/macta-ilginc-anlar-saclariyla-rakibini-9-kisi-birakti-4859589",
-     "published": "2026-09-28T06:53:05+00:00"
-    },
-    {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/aedan-scipio-uzun-saclariyla-rakibine-2-kirmizi-kart-aldirdi-43321912",
-     "published": "2026-09-28T07:11:00+00:00"
-    },
-    {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/uzun-saclariyla-rakibine-2-kirmizi-kart-aldirdi-3915544",
-     "published": "2026-09-28T07:46:12+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/yapay-zeka-degil-uzun-saclari-iki-kez-cekildi-rakibi-9-kisi-birakti-735613",
-     "published": "2026-09-28T08:50:22+00:00"
+     "url": "https://www.yenisafak.com/spor/galatasarayda-carpici-gelisme-yildiz-isme-sozlu-saldiri-sonrasi-ayrilik-iddiasi-4859780",
+     "published": "2026-09-28T18:32:43+00:00"
     }
    ],
-   "n_sources": 4,
-   "first_published": "2026-09-28T06:53:05+00:00",
-   "last_published": "2026-09-28T08:50:22+00:00",
+   "n_sources": 1,
+   "first_published": "2026-09-28T18:32:43+00:00",
+   "last_published": "2026-09-28T18:32:43+00:00",
    "image": {
     "path": "pool/diger-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 4.82
+   "score": 4.74
   },
   {
-   "id": "s0160",
+   "id": "s0175",
    "rank": 33,
-   "key": "1fae3bdd95f77f94",
-   "title": "A Milli Takım'ın maçında Fatih Terim sürprizi",
+   "key": "ffa9b536cc20869c",
+   "title": "Üç büyükler için transfer bombası! Türkiye'ye sıcak bakıyor",
    "summarized": false,
    "bullets": [],
    "why": null,
-   "raw_summary": "A Milli Takım'ın İtalya ile oynayacağı UEFA Uluslar Ligi karşılaşmasında Fatih Terim yorumcu olarak görev yapacak. Galatasaray",
-   "category": "diger",
-   "category_name": "Diğer",
+   "raw_summary": "Ara transfer dönemi yaklaşırken Süper Lig'i sallayacak bir iddia gündeme geldi. Brezilya basını, dünyaca ünlü golcü Gabriel Barbosa'nın kariyerine Türkiye'de devam etmeye sıcak baktığını yazdı. Yıldız futbolcunun radarında ise Beşiktaş, Fenerbahçe ve Galatasaray var. Türkiye'deki tribün atmosferinde",
+   "category": "transfer",
+   "category_name": "Transfer",
    "status": null,
-   "clubs": [],
-   "leagues": [
+   "clubs": [
     {
-     "slug": "milli-takim",
-     "name": "A Millî Takım"
+     "slug": "galatasaray",
+     "name": "Galatasaray"
     },
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    },
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
     {
      "slug": "super-lig",
      "name": "Süper Lig"
-    },
-    {
-     "slug": "uluslar-ligi",
-     "name": "Uluslar Ligi"
     }
    ],
    "sources": [
     {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/galatasaray/turkiye-italya-macinda-fatih-terim-den-surpriz-gorev-SXHBQ1177450SXQ",
-     "published": "2026-09-28T15:59:00+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/a-milli-takimin-macinda-fatih-terim-surprizi-735630",
-     "published": "2026-09-28T16:05:28+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-fatih-terimden-buyuk-surpriz-turkiye-italya-macina-ozel-gorev-430399",
-     "published": "2026-09-28T16:21:34+00:00"
+     "name": "Takvim",
+     "url": "https://www.takvim.com.tr/spor/2026/09/28/besiktas-fenerbahce-ve-galatasaray-gabriel-barbosanin-pesinde",
+     "published": "2026-09-28T18:22:55+00:00"
     }
    ],
-   "n_sources": 3,
-   "first_published": "2026-09-28T15:59:00+00:00",
-   "last_published": "2026-09-28T16:21:34+00:00",
+   "n_sources": 1,
+   "first_published": "2026-09-28T18:22:55+00:00",
+   "last_published": "2026-09-28T18:22:55+00:00",
    "image": {
     "path": "pool/diger-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 4.51
+   "score": 4.7
   },
   {
-   "id": "s0065",
+   "id": "s0051",
    "rank": 34,
-   "key": "3693f535f9815caa",
-   "title": "Fatih Terim İtalyan basınına konuştu! Montella ve Milli Takım için flaş sözler",
+   "key": "e9b9578e2990b760",
+   "title": "Beşiktaş'tan geleceğe yatırım hamlesi! Transfer resmen açıklandı",
    "summarized": false,
    "bullets": [],
    "why": null,
-   "raw_summary": "A Milli Futbol Takımı'nın eski teknik direktörü Fatih Terim, Türkiye–İtalya maçı öncesinde İtalyan basınına açıklamalarda bulundu.",
-   "category": "diger",
-   "category_name": "Diğer",
+   "raw_summary": "Beşiktaş Futbol Akademisi'ne 2012 doğumlu orta saha Idrissa Fadel Outtara'yı kattığını açıkladı. İşte detaylar... Devamı için tıklayınız",
+   "category": "transfer",
+   "category_name": "Transfer",
    "status": null,
-   "clubs": [],
+   "clubs": [
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
    "leagues": [
     {
-     "slug": "avrupa-ligi",
-     "name": "Avrupa Ligi"
-    },
-    {
-     "slug": "dunya-kupasi",
-     "name": "Dünya Kupası"
-    },
-    {
-     "slug": "konferans-ligi",
-     "name": "Konferans Ligi"
+     "slug": "super-lig",
+     "name": "Süper Lig"
     }
    ],
    "sources": [
     {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/fatih-terimden-italya-maci-oncesi-vincenzo-montella-sorusuna-yanit-735615",
-     "published": "2026-09-28T09:41:41+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-montella-ile-devam-kararina-fatih-terim-yorumu-430381",
-     "published": "2026-09-28T09:59:51+00:00"
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/besiktas/2026/09/28/besiktastan-gelecege-yatirim-henuz-14-yasinda",
+     "published": "2026-09-28T09:26:17+00:00"
     },
     {
      "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/millitakim/2026/09/28/fatih-terim-italyan-basinina-konustu-montella-ve-milli-takim-icin-flas-sozler",
-     "published": "2026-09-28T13:13:01+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/milli-takim/2026/09/28/fatih-terimden-vincenzo-montella-ovgusu-kendi-fikirleri-olan-bir-teknik-adam",
-     "published": "2026-09-28T13:28:50+00:00"
+     "url": "https://www.fotomac.com.tr/besiktas/2026/09/28/besiktastan-gelecege-yatirim-hamlesi-transfer-resmen-aciklandi",
+     "published": "2026-09-28T09:40:17+00:00"
     }
    ],
-   "n_sources": 4,
-   "first_published": "2026-09-28T09:41:41+00:00",
-   "last_published": "2026-09-28T13:28:50+00:00",
+   "n_sources": 2,
+   "first_published": "2026-09-28T09:26:17+00:00",
+   "last_published": "2026-09-28T09:40:17+00:00",
    "image": {
-    "path": "pool/diger-2.png",
+    "path": "pool/mac-2.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 4.25
+   "score": 4.48
   },
   {
-   "id": "s0128",
+   "id": "s0052",
    "rank": 35,
+   "key": "a51a4ec5d6f92bf9",
+   "title": "Fenerbahçe'ye transfer piyangosu! Satın alma opsiyonunu kullanacaklar",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Fenerbahçe'de lige verilen milli arada ara transfer çalışmaları başladı. Sarı-lacivertlilerde ocak ayında gelecek isimlerle ilgili planlama yapılırken sürpriz bir gelişme yaşandı. Kanarya'ya transferde... Devamı için tıklayınız",
+   "category": "transfer",
+   "category_name": "Transfer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/fenerbahce/2026/09/28/fenerbahceye-transfer-piyangosu-satin-alma-opsiyonunu-kullanacaklar",
+     "published": "2026-09-28T09:28:24+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/fenerbahce/2026/09/28/fenerbahceye-carlos-piyangosu-iste-kasaya-girecek-rakam",
+     "published": "2026-09-28T09:36:56+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-09-28T09:28:24+00:00",
+   "last_published": "2026-09-28T09:36:56+00:00",
+   "image": {
+    "path": "pool/diger-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 4.47
+  },
+  {
+   "id": "s0111",
+   "rank": 36,
    "key": "1e586c858afaebd4",
    "title": "Daha maça çıkamadan Fenerbahçe'den ayrılıyor! Roma maçında ilk kez kadroya girmişti",
    "summarized": false,
@@ -2109,11 +2154,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 4.1
+   "score": 3.9
   },
   {
-   "id": "s0094",
-   "rank": 36,
+   "id": "s0083",
+   "rank": 37,
    "key": "3d94087caba1b5a2",
    "title": "Fatih Terim'den İtalya maçı yorumu: Türkiye için iyi bir fırsat",
    "summarized": false,
@@ -2159,11 +2204,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.9
+   "score": 3.73
   },
   {
-   "id": "s0104",
-   "rank": 37,
+   "id": "s0090",
+   "rank": 38,
    "key": "0421a2f6ce34dc92",
    "title": "Beşiktaş'ta iki ayrılık gündemde",
    "summarized": false,
@@ -2200,46 +2245,10 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.82
+   "score": 3.66
   },
   {
-   "id": "s0176",
-   "rank": 38,
-   "key": "f11f850a68eb6581",
-   "title": "Ancelotti'den eleştirilere cevap: \"Fikrimi etkilemiyor\"",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Brezilya Teknik Direktörü Carlo Ancelotti, Avustralya ile 1-1 berabere kaldıkları hazırlık maçının ardından gelen eleştirilere yanıt verirken yeni dönemin hedeflerini açıkladı. Dünya Futbolu",
-   "category": "hakem",
-   "category_name": "Hakem / VAR",
-   "status": null,
-   "clubs": [],
-   "leagues": [],
-   "sources": [
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/dunya/ancelotti-den-elestirilere-cevap-fikrimi-etkilemiyor-SXHBQ1177453SXQ",
-     "published": "2026-09-28T17:04:29+00:00"
-    },
-    {
-     "name": "Star",
-     "url": "https://www.star.com.tr/spor/carlo-ancelotti-elestirilere-ragmen-gelecegimiz-var-haber-2043133",
-     "published": "2026-09-28T17:40:00+00:00"
-    }
-   ],
-   "n_sources": 2,
-   "first_published": "2026-09-28T17:04:29+00:00",
-   "last_published": "2026-09-28T17:40:00+00:00",
-   "image": {
-    "path": "pool/mac-1.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 3.77
-  },
-  {
-   "id": "s0087",
+   "id": "s0076",
    "rank": 39,
    "key": "90aa6764c5226d1b",
    "title": "Trabzonspor'dan ocak ayının ilk transferi! Ön anlaşma sağlandı",
@@ -2277,11 +2286,92 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.73
+   "score": 3.58
   },
   {
-   "id": "s0047",
+   "id": "s0155",
    "rank": 40,
+   "key": "f11f850a68eb6581",
+   "title": "Ancelotti'den eleştirilere cevap: \"Fikrimi etkilemiyor\"",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Brezilya Teknik Direktörü Carlo Ancelotti, Avustralya ile 1-1 berabere kaldıkları hazırlık maçının ardından gelen eleştirilere yanıt verirken yeni dönemin hedeflerini açıkladı. Dünya Futbolu",
+   "category": "hakem",
+   "category_name": "Hakem / VAR",
+   "status": null,
+   "clubs": [],
+   "leagues": [],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/ancelotti-den-elestirilere-cevap-fikrimi-etkilemiyor-SXHBQ1177453SXQ",
+     "published": "2026-09-28T17:04:29+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/carlo-ancelotti-elestirilere-ragmen-gelecegimiz-var-haber-2043133",
+     "published": "2026-09-28T17:40:00+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-09-28T17:04:29+00:00",
+   "last_published": "2026-09-28T17:40:00+00:00",
+   "image": {
+    "path": "pool/mac-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 3.52
+  },
+  {
+   "id": "s0135",
+   "rank": 41,
+   "key": "f027c08d1fe482b5",
+   "title": "Rafael Leao'nun Galatasaray'da beklentisi büyük: \"Olağanüstü bir şey...\"",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Galatasaray'ın Portekizli yıldızı Rafael Leao, Norveç maçının ardından dikkat çeken açıklamalarda bulundu.",
+   "category": "mac",
+   "category_name": "Maç",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "milli-takim",
+     "name": "A Millî Takım"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-rafael-leaonun-galatasarayda-beklentisi-buyuk-olaganustu-bir-sey-430395",
+     "published": "2026-09-28T15:34:00+00:00"
+    }
+   ],
+   "n_sources": 1,
+   "first_published": "2026-09-28T15:34:00+00:00",
+   "last_published": "2026-09-28T15:34:00+00:00",
+   "image": {
+    "path": "pool/diger-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 3.5
+  },
+  {
+   "id": "s0036",
+   "rank": 42,
    "key": "ddfc9065aa0a2c4d",
    "title": "Galatasaray'dan transfer hamlesi! İngiltere'ye büyük çıkarma",
    "summarized": false,
@@ -2322,11 +2412,57 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.47
+   "score": 3.36
   },
   {
-   "id": "s0039",
-   "rank": 41,
+   "id": "s0011",
+   "rank": 43,
+   "key": "7aca52d3b2c24525",
+   "title": "Aedan Scipio, uzun saçlarıyla rakibine 2 kırmızı kart aldırdı",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "CONCACAF Uluslar Ligi'nde Antigua ve Barbuda, Anguilla'yı 5-0 yenerken; karşılaşmanın son anlarında oyuna giren 36 yaşındaki Aedan Scipio, saçlarıyla iki rakibi oyundan attırdı.",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "uluslar-ligi",
+     "name": "Uluslar Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/macta-ilginc-anlar-saclariyla-rakibini-9-kisi-birakti-4859589",
+     "published": "2026-09-28T06:53:05+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/aedan-scipio-uzun-saclariyla-rakibine-2-kirmizi-kart-aldirdi-43321912",
+     "published": "2026-09-28T07:11:00+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/yapay-zeka-degil-uzun-saclari-iki-kez-cekildi-rakibi-9-kisi-birakti-735613",
+     "published": "2026-09-28T08:50:22+00:00"
+    }
+   ],
+   "n_sources": 3,
+   "first_published": "2026-09-28T06:53:05+00:00",
+   "last_published": "2026-09-28T08:50:22+00:00",
+   "image": {
+    "path": "pool/diger-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 3.35
+  },
+  {
+   "id": "s0028",
+   "rank": 44,
    "key": "5af3d5f571fb9c96",
    "title": "Fenerbahçe'de iç transfer harekatı! O yıldızla masaya oturulacak",
    "summarized": false,
@@ -2367,11 +2503,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.44
+   "score": 3.33
   },
   {
-   "id": "s0034",
-   "rank": 42,
+   "id": "s0022",
+   "rank": 45,
    "key": "6a8632e76e172c19",
    "title": "Kaya Çilingiroğlu'ndan Galatasaray'a transfer eleştirisi: \"Batrakov yerine onu alırım\"",
    "summarized": false,
@@ -2412,11 +2548,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.41
+   "score": 3.3
   },
   {
-   "id": "s0019",
-   "rank": 43,
+   "id": "s0008",
+   "rank": 46,
    "key": "c209ab8d4aeaf724",
    "title": "TRANSFER HABERİ: Galatasaray'da şok ayrılık gelişmesi! Sözlü tepkiyle karşılaştı ve...",
    "summarized": false,
@@ -2453,11 +2589,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.32
+   "score": 3.22
   },
   {
-   "id": "s0020",
-   "rank": 44,
+   "id": "s0009",
+   "rank": 47,
    "key": "a2c491dac92563fe",
    "title": "Barış Alper Yılmaz planları suya düştü! Dursun Özbek o günün gelmesini ümit ediyor",
    "summarized": false,
@@ -2498,11 +2634,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.32
+   "score": 3.22
   },
   {
-   "id": "s0016",
-   "rank": 45,
+   "id": "s0006",
+   "rank": 48,
    "key": "1427abd9335e1165",
    "title": "Galatasaraylı yıldızdan ayrılık kararı",
    "summarized": false,
@@ -2539,11 +2675,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.29
+   "score": 3.19
   },
   {
-   "id": "s0014",
-   "rank": 46,
+   "id": "s0004",
+   "rank": 49,
    "key": "f3cb4a94877d07af",
    "title": "Bu transfere en çok Salih Özcan sevinecek! Meğer defter kapanmamış",
    "summarized": false,
@@ -2580,11 +2716,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.27
+   "score": 3.18
   },
   {
-   "id": "s0011",
-   "rank": 47,
+   "id": "s0001",
+   "rank": 50,
    "key": "686b2f648ad8b3aa",
    "title": "Ve İlkay Gündoğan'dan şoke eden karar çıktı! Bu kez iş ciddi",
    "summarized": false,
@@ -2625,52 +2761,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.24
+   "score": 3.16
   },
   {
-   "id": "s0007",
-   "rank": 48,
-   "key": "65d0388431e99a93",
-   "title": "Galatasaray'da sürpriz! Ocak'ta ayrılıyor",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Galatasaray ile sezon sonunda sözleşmesi sona erecek yıldız oyuncu, ara transfer sezonunda takımdan ayrılmaya karar verdi.",
-   "category": "transfer",
-   "category_name": "Transfer",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/galatasarayda-surpriz-ocakta-ayriliyor-43321792",
-     "published": "2026-09-28T04:47:00+00:00"
-    }
-   ],
-   "n_sources": 1,
-   "first_published": "2026-09-28T04:47:00+00:00",
-   "last_published": "2026-09-28T04:47:00+00:00",
-   "image": {
-    "path": "pool/diger-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 3.19
-  },
-  {
-   "id": "s0166",
-   "rank": 49,
+   "id": "s0147",
+   "rank": 51,
    "key": "9cb5a0471755dfd5",
    "title": "Beşiktaş'ta 2 yolcu birden! Başkan müjdeyi verdi: Hedef Premier Lig'in yıldızı",
    "summarized": false,
@@ -2711,60 +2806,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.18
+   "score": 2.98
   },
   {
-   "id": "s0006",
-   "rank": 50,
-   "key": "1852bd6c773a943f",
-   "title": "Gergin kurulda transfer müjdesi",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Fenerbahçe'de Olağan Mali Genel Kurul Toplantısı, Ülker Spor ve Etkinlik Salonu’nda yapıldı. Toplantıya Başkan Aziz Yıldırım’ın sert açıklamaları damga vurdu. Kurulda bazen tansiyon arttı. Aziz Yıldırım, “Şampiyonluk için göreve geldik. Şampiyon olacağız ve bırakacağım” ifadesini kullandı. Önce Sade",
-   "category": "transfer",
-   "category_name": "Transfer",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "dortmund",
-     "name": "Borussia Dortmund"
-    },
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "bundesliga",
-     "name": "Bundesliga"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Posta",
-     "url": "https://www.posta.com.tr/spor/gergin-kurulda-transfer-mujdesi-3045063",
-     "published": "2026-09-28T04:01:08+00:00"
-    }
-   ],
-   "n_sources": 1,
-   "first_published": "2026-09-28T04:01:08+00:00",
-   "last_published": "2026-09-28T04:01:08+00:00",
-   "image": {
-    "path": "pool/diger-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 3.14
-  },
-  {
-   "id": "s0071",
-   "rank": 51,
+   "id": "s0060",
+   "rank": 52,
    "key": "d068f27788f6d006",
    "title": "Fenerbahçe'de devre arası 50 milyon euroluk golcü operasyonu!",
    "summarized": false,
@@ -2801,11 +2847,52 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 3.05
+   "score": 2.94
   },
   {
-   "id": "s0052",
-   "rank": 52,
+   "id": "s0073",
+   "rank": 53,
+   "key": "b71f2b914670b651",
+   "title": "Gürcistan'da Sagnol gitti, yerine Svanadze getirildi",
+   "summarized": false,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Gürcistan Futbol Federasyonu, Kuzey İrlanda karşısında alınan Uluslar Ligi mağlubiyetinin ardından Teknik Direktör Willy Sagnol ile yollarını ayırdı. Dünya Futbolu",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "uluslar-ligi",
+     "name": "Uluslar Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/gurcistan-da-yenilgi-sonrasi-sagnol-donemi-sona-erdi-SXHBQ1177433SXQ",
+     "published": "2026-09-28T10:43:30+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/gurcistanda-sagnol-gitti-yerine-svanadze-getirildi-haber-2043143",
+     "published": "2026-09-28T18:40:00+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-09-28T10:43:30+00:00",
+   "last_published": "2026-09-28T18:40:00+00:00",
+   "image": {
+    "path": "pool/mac-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 2.88
+  },
+  {
+   "id": "s0042",
+   "rank": 54,
    "key": "b11cfb4ca16e5193",
    "title": "Kartal'ın gol yükü 3 isimde",
    "summarized": false,
@@ -2842,11 +2929,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.97
+   "score": 2.87
   },
   {
-   "id": "s0042",
-   "rank": 53,
+   "id": "s0031",
+   "rank": 55,
    "key": "082af61f005a70fc",
    "title": "Trabzonspor'un Drogheda United ile oynayacağı hazırlık maçının biletleri satışa çıktı",
    "summarized": false,
@@ -2883,52 +2970,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.92
+   "score": 2.83
   },
   {
-   "id": "s0032",
-   "rank": 54,
-   "key": "6f45e78ceb52d26f",
-   "title": "Video | Sarı-Lacivertli formayı giyince durdurulamıyor: Enner Valencia'dan şov!",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Kariyerini Arjantin devi Boca Juniors'ta sürdüren Enner Valencia, takımını 2-0 geriye düştüğü Racing deplasmanından üç puanla çıkaran isim oldu.",
-   "category": "mac",
-   "category_name": "Maç",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/video-or-sari-lacivertli-formayi-giyince-durdurulamiyor-enner-valenciadan-sov-735607",
-     "published": "2026-09-28T07:47:25+00:00"
-    }
-   ],
-   "n_sources": 1,
-   "first_published": "2026-09-28T07:47:25+00:00",
-   "last_published": "2026-09-28T07:47:25+00:00",
-   "image": {
-    "path": "pool/diger-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 2.88
-  },
-  {
-   "id": "s0023",
-   "rank": 55,
+   "id": "s0013",
+   "rank": 56,
    "key": "b82a118e8c69df2d",
    "title": "Fenerbahçe'nin eski yıldızı geceye damga vurdu: 24 dakikada hat-trick",
    "summarized": false,
@@ -2965,11 +3011,11 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.84
+   "score": 2.76
   },
   {
-   "id": "s0121",
-   "rank": 56,
+   "id": "s0104",
+   "rank": 57,
    "key": "75750f55a37eef0a",
    "title": "Clermont'un eski başkanı, İlhan Fakılı hakkında konuştu: \"Keşke herkes öyle olabilse\"",
    "summarized": false,
@@ -3010,88 +3056,77 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.76
+   "score": 2.63
   },
   {
-   "id": "s0162",
-   "rank": 57,
-   "key": "544bc4f4e4ba0b1a",
-   "title": "Umut Eskiköy: Öncelikli amacımız herkese zorluk çıkartmak",
+   "id": "s0116",
+   "rank": 58,
+   "key": "05de02db758e5c07",
+   "title": "A Para Canlı İzle | UEFA Uluslar Ligi’nde İsveç - Polonya maçı! İlk gol geldi",
    "summarized": false,
    "bullets": [],
    "why": null,
-   "raw_summary": "Trendyol 1. Lig ekiplerinden Pendikspor'da teknik direktör Umut Eskiköy, ligde herkese zorluk çıkartacak bir takım olacaklarını ifade ederek, \"Bizi kimse kolay yenemedi, biz de kimseyi kolay yenemiyoruz.... Devamı için tıklayınız",
-   "category": "diger",
-   "category_name": "Diğer",
+   "raw_summary": "İsveç, UEFA Uluslar Ligi B Ligi Grup 4’ün ikinci haftasında Polonya ile karşı karşıya geliyor. Zorlu müsabaka A Para’dan şifresiz yayınlanıyor. Maçın canlı anlatımını haberimizden takip edebilirsiniz. Devamı için tıklayınız",
+   "category": "mac",
+   "category_name": "Maç",
    "status": null,
    "clubs": [],
    "leagues": [
     {
-     "slug": "tff-1-lig",
-     "name": "TFF 1. Lig"
+     "slug": "uluslar-ligi",
+     "name": "Uluslar Ligi"
     }
    ],
    "sources": [
     {
      "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/09/28/pendikspor-teknik-direktoru-umut-eskikoy-amacimiz-herkese-zorluk-cikartmak",
-     "published": "2026-09-28T16:11:32+00:00"
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/09/28/a-para-canli-izle-uefa-uluslar-liginde-isvec-polonya-maci-ne-zaman-saat-kacta-sifresiz-mi",
+     "published": "2026-09-28T14:17:57+00:00"
     },
     {
-     "name": "Star",
-     "url": "https://www.star.com.tr/spor/umut-eskikoy-oncelikli-amacimiz-herkese-zorluk-cikartmak-haber-2043120",
-     "published": "2026-09-28T16:22:00+00:00"
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/09/28/a-spor-canli-izle-uefa-uluslar-liginde-belcika-fransa-maci-ne-zaman-saat-kacta-sifresiz-izle",
+     "published": "2026-09-28T14:20:54+00:00"
+    },
+    {
+     "name": "Takvim",
+     "url": "https://www.takvim.com.tr/uluslar-ligi/2026/09/28/isvec-polonya-uluslar-ligi-a-para-canli-yayin",
+     "published": "2026-09-28T18:41:40+00:00"
     }
    ],
    "n_sources": 2,
-   "first_published": "2026-09-28T16:11:32+00:00",
-   "last_published": "2026-09-28T16:22:00+00:00",
+   "first_published": "2026-09-28T14:17:57+00:00",
+   "last_published": "2026-09-28T18:41:40+00:00",
    "image": {
-    "path": "pool/diger-2.png",
+    "path": "pool/diger-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.75
+   "score": 2.58
   },
   {
-   "id": "s0004",
-   "rank": 58,
-   "key": "41f79848261a2da6",
-   "title": "Singo en erken Gençler’e yetişiyor",
+   "id": "s0177",
+   "rank": 59,
+   "key": "7bb7297a8a63ab08",
+   "title": "Göztepe, Eyüpspor maçının hazırlıklarını sürdürdü",
    "summarized": false,
    "bullets": [],
    "why": null,
-   "raw_summary": "Sarı-kırmızılıların geçen sezon Monaco’ya 30 milyon euro ödeyerek renklerine bağladığı Wilfried Singo sakatlıktan başını kaldıramadı. Fildişi Sahilli stoper büyük bir potansiyeli olmasına rağmen düzenli forma giyemediği için bunu gösteremiyor. Teknik direktör Okan Buruk da bir an önce onun sağlıklı ",
-   "category": "teknik",
-   "category_name": "Teknik Direktör",
+   "raw_summary": "Göztepe, Trendyol Süper Lig'in 7. haftasında deplasmanda Eyüpspor ile oynayacağı maçın hazırlıklarına çift antrenmanla devam etti.",
+   "category": "diger",
+   "category_name": "Diğer",
    "status": null,
    "clubs": [
     {
-     "slug": "kasimpasa",
-     "name": "Kasımpaşa"
+     "slug": "eyupspor",
+     "name": "Eyüpspor"
     },
     {
-     "slug": "genclerbirligi",
-     "name": "Gençlerbirliği"
-    },
-    {
-     "slug": "barcelona",
-     "name": "Barcelona"
-    },
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
+     "slug": "goztepe",
+     "name": "Göztepe"
     }
    ],
    "leagues": [
-    {
-     "slug": "la-liga",
-     "name": "La Liga"
-    },
-    {
-     "slug": "sampiyonlar-ligi",
-     "name": "Şampiyonlar Ligi"
-    },
     {
      "slug": "super-lig",
      "name": "Süper Lig"
@@ -3099,24 +3134,24 @@
    ],
    "sources": [
     {
-     "name": "Posta",
-     "url": "https://www.posta.com.tr/spor/singo-en-erken-genclere-yetisiyor-3045057",
-     "published": "2026-09-28T04:01:08+00:00"
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/goztepe-eyupspor-macinin-hazirliklarini-surdurdu-haber-2043142",
+     "published": "2026-09-28T18:25:00+00:00"
     }
    ],
    "n_sources": 1,
-   "first_published": "2026-09-28T04:01:08+00:00",
-   "last_published": "2026-09-28T04:01:08+00:00",
+   "first_published": "2026-09-28T18:25:00+00:00",
+   "last_published": "2026-09-28T18:25:00+00:00",
    "image": {
     "path": "pool/diger-2.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.66
+   "score": 2.53
   },
   {
-   "id": "s0159",
-   "rank": 59,
+   "id": "s0142",
+   "rank": 60,
    "key": "4d629c8895215ade",
    "title": "Hansi Flick'ten Liverpool'un yıldızına anında ret",
    "summarized": false,
@@ -3157,52 +3192,7 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.64
-  },
-  {
-   "id": "s0186",
-   "rank": 60,
-   "key": "591839ba5c49c783",
-   "title": "Fenerbahçe'den Jan Vesely'ye veda seremonisi!",
-   "summarized": false,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "EuroLeague'deki temsilcimiz Fenerbahçe Tarfin'de efsane oyuncu Jan Vesely için bir veda seremonisi düzenlenecek.",
-   "category": "diger",
-   "category_name": "Diğer",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    },
-    {
-     "slug": "turkiye-kupasi",
-     "name": "Türkiye Kupası"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/fenerbahceden-jan-veselyye-veda-seremonisi-735634",
-     "published": "2026-09-28T17:27:22+00:00"
-    }
-   ],
-   "n_sources": 1,
-   "first_published": "2026-09-28T17:27:22+00:00",
-   "last_published": "2026-09-28T17:27:22+00:00",
-   "image": {
-    "path": "pool/diger-1.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 2.59
+   "score": 2.49
   }
  ]
 }
