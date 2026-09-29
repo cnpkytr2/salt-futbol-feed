@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-09-29T10:54:47+00:00",
- "edition": "2026-09-29-sabah",
+ "generated_at": "2026-09-29T13:43:11+00:00",
+ "edition": "2026-09-29-guncel",
  "items": [
   {
-   "key": "2ee82d5c3eea6dc1",
-   "story_id": "s0227",
-   "title": "Serdal Adalı: Erken seçim, şampiyonluk hedefi ve Batum'daki maç hakkında açıklamalar",
+   "key": "83791f60830981a2",
+   "story_id": "s0129",
+   "title": "Adalı: Beşiktaş'ın Hapoel Beer-Sheva maçı Batum'da seyircili oynanacak",
    "category": "yonetim",
    "prompt": "A quiet boardroom at night with leather chairs around a polished table, a classic black-and-white football with plain unmarked panels resting on the table, city lights outside the window. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 788265437,
+   "seed": 158345165,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,7 +18,58 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/2ee82d5c3eea6dc1.png"
+   "out": "s/83791f60830981a2.png"
+  },
+  {
+   "key": "a1bb618d28a8dae8",
+   "story_id": "s0081",
+   "title": "Fenerbahçe, En-Nesyri taksitini ödeyip dekontu FIFA'ya iletti; yasak kalkması bekleniyor",
+   "category": "transfer",
+   "prompt": "A traveller in a dark coat seen from directly behind at a large airport window at night, a travel bag on the shoulder and a knitted scarf in yellow and navy blue colors around the neck, runway lights softly blurred outside. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1518157829,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/a1bb618d28a8dae8.png"
+  },
+  {
+   "key": "73f666db8d23104f",
+   "story_id": "s0112",
+   "title": "Hakemler dosyasında MHK Başkanı Gündoğdu dahil isimler suçla bağlantılı olabilir; kulüplerden ilk yanıt",
+   "category": "hakem",
+   "prompt": "A silver referee whistle, a plain yellow card and a plain red card lying on wet grass at the edge of a floodlit pitch, macro close-up. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1499724526,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/73f666db8d23104f.png"
+  },
+  {
+   "key": "33d1f2793890b14f",
+   "story_id": "s0141",
+   "title": "Serdal Adalı'dan yayın hakkı ihalesine ilişkin rakam açıklaması",
+   "category": "yonetim",
+   "prompt": "An empty press conference table with a row of microphones under a single spotlight in a dark room, a plain fabric backdrop in black and white colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 834785284,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/33d1f2793890b14f.png"
   }
  ]
 }
