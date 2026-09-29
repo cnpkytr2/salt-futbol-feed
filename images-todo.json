@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-09-29T04:43:08+00:00",
- "edition": "2026-09-29-sabah",
+ "generated_at": "2026-09-29T07:43:16+00:00",
+ "edition": "2026-09-29-guncel",
  "items": [
   {
-   "key": "e84ac96ff63670ee",
-   "story_id": "s0112",
-   "title": "A Milli Takım, Uluslar A Ligi'nde İtalya'ya 4-1 yenildi",
+   "key": "0255b2e3a2561794",
+   "story_id": "s0223",
+   "title": "Fenerbahçe arsaVev, UEFA Avrupa Kupası rövanşında yarın Minsk'i ağırlayacak",
    "category": "mac",
-   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in red and white colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of yellow and navy blue color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 894786443,
+   "seed": 1239443566,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,16 +18,16 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/e84ac96ff63670ee.png"
+   "out": "s/0255b2e3a2561794.png"
   },
   {
-   "key": "73d0b2c23aee0b74",
-   "story_id": "s0086",
-   "title": "Türkiye, Bursa'da İtalya'ya 4-1 yenildi; Uluslar Ligi'nde puansız",
-   "category": "mac",
-   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of red and white color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "5304e3288f066c3e",
+   "story_id": "s0225",
+   "title": "Fenerbahçe'de İsmail Kartal ile Marco Asensio arasında milli aramada birebir görüşme",
+   "category": "teknik",
+   "prompt": "A plain white magnetic tactics board with a few round coloured magnets leaning against an empty dugout bench at dusk. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 486308509,
+   "seed": 1831209671,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -35,24 +35,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/73d0b2c23aee0b74.png"
-  },
-  {
-   "key": "264bfd6d19b1ef33",
-   "story_id": "s0070",
-   "title": "Fenerbahçe, Sevilla'ya En-Nesyri ödemesini yaptı; transfer yasağı kalktı",
-   "category": "transfer",
-   "prompt": "A traveller in a dark coat seen from directly behind at a large airport window at night, a travel bag on the shoulder and a knitted scarf in yellow and navy blue colors around the neck, runway lights softly blurred outside. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 1670782496,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/264bfd6d19b1ef33.png"
+   "out": "s/5304e3288f066c3e.png"
   }
  ]
 }
