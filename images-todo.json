@@ -1,11 +1,28 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-09-29T17:43:10+00:00",
- "edition": "2026-09-29-aksam",
+ "generated_at": "2026-09-29T20:43:13+00:00",
+ "edition": "2026-09-29-guncel",
  "items": [
   {
+   "key": "0d4604aac98f5804",
+   "story_id": "s0154",
+   "title": "İlkay Gündoğan'a 2025 Mevlüde Genç Madalyası verildi",
+   "category": "diger",
+   "prompt": "An empty football dugout at dusk with a knitted scarf in yellow and red colors left on a seat, the pitch and floodlight towers softly out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1296568653,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/0d4604aac98f5804.png"
+  },
+  {
    "key": "83791f60830981a2",
-   "story_id": "s0086",
+   "story_id": "s0053",
    "title": "Adalı: Beşiktaş'ın Hapoel Beer-Sheva maçı Batum'da seyircili oynanacak",
    "category": "yonetim",
    "prompt": "A quiet boardroom at night with leather chairs around a polished table, a classic black-and-white football with plain unmarked panels resting on the table, city lights outside the window. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
@@ -19,23 +36,6 @@
    "steps": 8,
    "cfg_scale": 1.0,
    "out": "s/83791f60830981a2.png"
-  },
-  {
-   "key": "a1bb618d28a8dae8",
-   "story_id": "s0055",
-   "title": "Fenerbahçe, En-Nesyri taksitini ödeyip dekontu FIFA'ya iletti; yasak kalkması bekleniyor",
-   "category": "transfer",
-   "prompt": "A traveller in a dark coat seen from directly behind at a large airport window at night, a travel bag on the shoulder and a knitted scarf in yellow and navy blue colors around the neck, runway lights softly blurred outside. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 1518157829,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/a1bb618d28a8dae8.png"
   }
  ]
 }
