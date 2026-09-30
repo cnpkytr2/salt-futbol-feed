@@ -1,12 +1,12 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-09-30T13:42:51+00:00",
- "edition": "2026-09-30-guncel",
+ "generated_at": "2026-09-30T17:43:25+00:00",
+ "edition": "2026-09-30-aksam",
  "items": [
   {
    "key": "cc91426698d98d1d",
-   "story_id": "s0012",
-   "title": "İsmail Kartal: Şampiyonluğa inancım çok yüksek, Asensio hazırlık maçında ilk 11'de",
+   "story_id": "s0010",
+   "title": "İsmail Kartal: Bu sezon şampiyonluğa inancım çok yüksek, Asensio hazır",
    "category": "teknik",
    "prompt": "A football head coach in a dark overcoat seen from directly behind at the edge of an empty floodlit pitch with arms crossed, empty stands with yellow and navy blue seats softly blurred behind him. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
@@ -19,6 +19,57 @@
    "steps": 8,
    "cfg_scale": 1.0,
    "out": "s/cc91426698d98d1d.png"
+  },
+  {
+   "key": "606be449318f35a3",
+   "story_id": "s0087",
+   "title": "TFF, Turkcell Süper Kupa 2026'nın yarı final ve final tarihlerini açıkladı",
+   "category": "diger",
+   "prompt": "A knitted scarf in yellow and red colors tied to the railing of an empty stadium stand at dusk, floodlights starting to glow. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 413074649,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/606be449318f35a3.png"
+  },
+  {
+   "key": "4db6fcb6a6c72807",
+   "story_id": "s0153",
+   "title": "Transfermarkt Süper Lig değerlerini güncelledi: Beşiktaş ikinci sıraya yükseldi",
+   "category": "transfer",
+   "prompt": "Minimal still life on a dark wooden desk: only a fountain pen, two sheets of plain blank white paper and a folded knitted scarf in yellow and navy blue colors, nothing else on the desk, warm desk lamp light. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 213186952,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/4db6fcb6a6c72807.png"
+  },
+  {
+   "key": "2cf1fd334b322268",
+   "story_id": "s0089",
+   "title": "217 numaralı loca davasında Aziz Yıldırım'ın tasarruf girişimi üçüncü kez reddedildi",
+   "category": "yonetim",
+   "prompt": "A quiet boardroom at night with leather chairs around a polished table, a classic black-and-white football with plain unmarked panels resting on the table, city lights outside the window. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 517561343,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/2cf1fd334b322268.png"
   }
  ]
 }
