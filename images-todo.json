@@ -1,6 +1,24 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-09-30T10:43:04+00:00",
+ "generated_at": "2026-09-30T13:42:51+00:00",
  "edition": "2026-09-30-guncel",
- "items": []
+ "items": [
+  {
+   "key": "cc91426698d98d1d",
+   "story_id": "s0012",
+   "title": "İsmail Kartal: Şampiyonluğa inancım çok yüksek, Asensio hazırlık maçında ilk 11'de",
+   "category": "teknik",
+   "prompt": "A football head coach in a dark overcoat seen from directly behind at the edge of an empty floodlit pitch with arms crossed, empty stands with yellow and navy blue seats softly blurred behind him. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 94954388,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/cc91426698d98d1d.png"
+  }
+ ]
 }
