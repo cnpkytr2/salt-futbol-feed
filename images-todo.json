@@ -1,28 +1,11 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-01T04:43:32+00:00",
- "edition": "2026-10-01-sabah",
+ "generated_at": "2026-10-01T07:42:58+00:00",
+ "edition": "2026-10-01-guncel",
  "items": [
   {
-   "key": "4263a902b2192fc8",
-   "story_id": "s0016",
-   "title": "Fatih Karagümrük, bahis sevki listesindeki isimlerle kulüp yönetimi bağı olmadığını açıkladı",
-   "category": "yonetim",
-   "prompt": "A quiet boardroom at night with leather chairs around a polished table, a classic black-and-white football with plain unmarked panels resting on the table, city lights outside the window. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 1922166023,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/4263a902b2192fc8.png"
-  },
-  {
    "key": "9ae037b60d847e43",
-   "story_id": "s0107",
+   "story_id": "s0057",
    "title": "Eyüpspor, bahis soruşturmasındaki yönetici iddialarına açıklama yaptı",
    "category": "yonetim",
    "prompt": "A quiet boardroom at night with leather chairs around a polished table, a classic black-and-white football with plain unmarked panels resting on the table, city lights outside the window. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
@@ -36,23 +19,6 @@
    "steps": 8,
    "cfg_scale": 1.0,
    "out": "s/9ae037b60d847e43.png"
-  },
-  {
-   "key": "65b6b47ec7e6ac9f",
-   "story_id": "s0080",
-   "title": "TFF Yönetim Kurulu'nda iki istifa daha: Adem Doğrul ve Kazım Şengöçgel ayrıldı",
-   "category": "yonetim",
-   "prompt": "An empty press conference table with a row of microphones under a single spotlight in a dark room, a plain fabric backdrop in yellow and red colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 1911374070,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/65b6b47ec7e6ac9f.png"
   }
  ]
 }
