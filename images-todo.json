@@ -1,6 +1,24 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-01T20:42:54+00:00",
- "edition": "2026-10-01-guncel",
- "items": []
+ "generated_at": "2026-10-02T04:43:11+00:00",
+ "edition": "2026-10-02-sabah",
+ "items": [
+  {
+   "key": "9cd7d4b9f02c097a",
+   "story_id": "s0122",
+   "title": "Trabzonspor Divan Başkanlık Kurulu'ndan Ertuğrul Doğan'a destek açıklaması",
+   "category": "yonetim",
+   "prompt": "A quiet boardroom at night with leather chairs around a polished table, a classic black-and-white football with plain unmarked panels resting on the table, city lights outside the window. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1275593523,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/9cd7d4b9f02c097a.png"
+  }
+ ]
 }
