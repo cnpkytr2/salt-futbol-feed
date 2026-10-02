@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-02T04:43:11+00:00",
- "edition": "2026-10-02-sabah",
+ "generated_at": "2026-10-02T07:42:55+00:00",
+ "edition": "2026-10-02-guncel",
  "items": [
   {
-   "key": "9cd7d4b9f02c097a",
-   "story_id": "s0122",
-   "title": "Trabzonspor Divan Başkanlık Kurulu'ndan Ertuğrul Doğan'a destek açıklaması",
-   "category": "yonetim",
-   "prompt": "A quiet boardroom at night with leather chairs around a polished table, a classic black-and-white football with plain unmarked panels resting on the table, city lights outside the window. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "5dee01542fc40926",
+   "story_id": "s0184",
+   "title": "Hakemler dosyasında Yasin Kol ile Ferhat Gündoğdu'nun yazışmaları gündemde",
+   "category": "hakem",
+   "prompt": "A silver referee whistle, a plain yellow card and a plain red card lying on wet grass at the edge of a floodlit pitch, macro close-up. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1275593523,
+   "seed": 640300196,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,7 +18,24 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/9cd7d4b9f02c097a.png"
+   "out": "s/5dee01542fc40926.png"
+  },
+  {
+   "key": "2bad458f091e8620",
+   "story_id": "s0202",
+   "title": "MHK Başkanı Gündoğdu ile TFF Başkanı Hacıosmanoğlu arasındaki yazışmalar gündemde",
+   "category": "hakem",
+   "prompt": "A referee in a dark kit seen from directly behind standing alone in the centre circle of an empty floodlit stadium, empty stands with yellow and red seats out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1553860087,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/2bad458f091e8620.png"
   }
  ]
 }
