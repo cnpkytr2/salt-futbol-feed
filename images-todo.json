@@ -1,12 +1,29 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-02T10:43:33+00:00",
+ "generated_at": "2026-10-02T13:42:57+00:00",
  "edition": "2026-10-02-guncel",
  "items": [
   {
+   "key": "c7d1e25df010c79b",
+   "story_id": "s0050",
+   "title": "Hakemler soruşturmasında Hacıosmanoğlu-Gündoğdu yazışmaları gündemde",
+   "category": "hakem",
+   "prompt": "A silver referee whistle, a plain yellow card and a plain red card lying on wet grass at the edge of a floodlit pitch, macro close-up. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1750525918,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/c7d1e25df010c79b.png"
+  },
+  {
    "key": "21d48cd34be3d937",
-   "story_id": "s0117",
-   "title": "MHK soruşturmasında Gündoğdu ve Yasin Kol arasındaki atama yazışmaları ortaya çıktı",
+   "story_id": "s0038",
+   "title": "MHK soruşturmasında Gündoğdu ile hakem Yasin Kol'un atama yazışmaları ortaya çıktı",
    "category": "hakem",
    "prompt": "A referee in a dark kit seen from directly behind standing alone in the centre circle of an empty floodlit stadium, empty stands with neutral dark seats out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
@@ -21,25 +38,8 @@
    "out": "s/21d48cd34be3d937.png"
   },
   {
-   "key": "2bad458f091e8620",
-   "story_id": "s0119",
-   "title": "Hakemler soruşturmasında Hacıosmanoğlu ve Gündoğdu yazışmaları gündemde",
-   "category": "hakem",
-   "prompt": "A referee in a dark kit seen from directly behind standing alone in the centre circle of an empty floodlit stadium, empty stands with neutral dark seats out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 1553860087,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/2bad458f091e8620.png"
-  },
-  {
    "key": "8f2edfebbff7cab8",
-   "story_id": "s0096",
+   "story_id": "s0026",
    "title": "MHK Başkanı Gündoğdu'nun yardımcı hakem Ersoy ile görüşme kaydı ortaya çıktı",
    "category": "hakem",
    "prompt": "A silver referee whistle, a plain yellow card and a plain red card lying on wet grass at the edge of a floodlit pitch, macro close-up. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
@@ -53,23 +53,6 @@
    "steps": 8,
    "cfg_scale": 1.0,
    "out": "s/8f2edfebbff7cab8.png"
-  },
-  {
-   "key": "a2128d372a809323",
-   "story_id": "s0161",
-   "title": "MHK soruşturmasında Taner Gizlenci'nin ifadesi ortaya çıktı",
-   "category": "hakem",
-   "prompt": "A silver referee whistle, a plain yellow card and a plain red card lying on wet grass at the edge of a floodlit pitch, macro close-up. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 1313632498,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/a2128d372a809323.png"
   }
  ]
 }
