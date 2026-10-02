@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-02T17:43:02+00:00",
- "edition": "2026-10-02-aksam",
+ "generated_at": "2026-10-02T20:43:08+00:00",
+ "edition": "2026-10-02-guncel",
  "items": [
   {
-   "key": "2bad458f091e8620",
-   "story_id": "s0109",
-   "title": "MHK soruşturmasında Hacıosmanoğlu ile Gündoğdu arasındaki yazışmalar gündemde",
+   "key": "dbae2081c9f41a7c",
+   "story_id": "s0066",
+   "title": "MHK soruşturmasında Hacıosmanoğlu ile Gündoğdu arasındaki yazışmalar ortaya çıktı",
    "category": "hakem",
    "prompt": "A referee in a dark kit seen from directly behind standing alone in the centre circle of an empty floodlit stadium, empty stands with dark burgundy (deep claret) and light sky blue seats out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1553860087,
+   "seed": 124710951,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,28 +18,11 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/2bad458f091e8620.png"
-  },
-  {
-   "key": "e96d053f1c039bab",
-   "story_id": "s0141",
-   "title": "Real Madrid, Negreira ödemeleriyle ilgili yeni belgeleri UEFA'ya iletti",
-   "category": "hakem",
-   "prompt": "A referee in a dark kit seen from directly behind standing alone in the centre circle of an empty floodlit stadium, empty stands with blue and garnet red seats out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 471501605,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/e96d053f1c039bab.png"
+   "out": "s/dbae2081c9f41a7c.png"
   },
   {
    "key": "21d48cd34be3d937",
-   "story_id": "s0030",
+   "story_id": "s0007",
    "title": "MHK soruşturmasında Gündoğdu ile hakem Yasin Kol'un atama yazışmaları ortaya çıktı",
    "category": "hakem",
    "prompt": "A referee in a dark kit seen from directly behind standing alone in the centre circle of an empty floodlit stadium, empty stands with neutral dark seats out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
@@ -55,30 +38,13 @@
    "out": "s/21d48cd34be3d937.png"
   },
   {
-   "key": "d571ed8084f42870",
-   "story_id": "s0150",
-   "title": "Kenan Yıldız ve Can Uzun, Belçika maçı kadrosunda sakatlıkları nedeniyle yer almıyor",
-   "category": "sakatlik",
-   "prompt": "A blue ice pack and rolled white bandages on the grass beside the touchline of a floodlit pitch at night, a closed black medical bag softly out of focus, empty stands in the distance. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 147407303,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/d571ed8084f42870.png"
-  },
-  {
-   "key": "d55b482fbbc0d6c9",
-   "story_id": "s0094",
-   "title": "Gündoğdu-Kol yazışmalarındaki hakem isimleri sonraki maç kadrolarında yer aldı",
+   "key": "e96d053f1c039bab",
+   "story_id": "s0096",
+   "title": "Real Madrid, Negreira dosyasıyla ilgili UEFA'ya yeni belgeler sundu",
    "category": "hakem",
-   "prompt": "A referee in a dark kit seen from directly behind standing alone in the centre circle of an empty floodlit stadium, empty stands with black and white seats out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "A referee in a dark kit seen from directly behind standing alone in the centre circle of an empty floodlit stadium, empty stands with blue and garnet red seats out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1698136271,
+   "seed": 471501605,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -86,7 +52,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/d55b482fbbc0d6c9.png"
+   "out": "s/e96d053f1c039bab.png"
   }
  ]
 }
