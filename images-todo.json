@@ -1,11 +1,28 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-03T07:43:38+00:00",
+ "generated_at": "2026-10-03T10:43:27+00:00",
  "edition": "2026-10-03-guncel",
  "items": [
   {
+   "key": "65944e36d6f5916e",
+   "story_id": "s0005",
+   "title": "Uluslar Ligi 3. hafta: Türkiye Belçika deplasmanında 3-0 mağlup oldu",
+   "category": "mac",
+   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of red and white color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 70542597,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/65944e36d6f5916e.png"
+  },
+  {
    "key": "f06f6d7809992be5",
-   "story_id": "s0181",
+   "story_id": "s0128",
    "title": "Fenerbahçe'de Vedat Muriqi, Kosova kadrosundan kas sakatlığıyla çıkarıldı",
    "category": "sakatlik",
    "prompt": "Neatly rolled white bandages, a blue ice pack and a folded white towel on a padded physiotherapy table in an empty, softly lit treatment room. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
@@ -19,6 +36,23 @@
    "steps": 8,
    "cfg_scale": 1.0,
    "out": "s/f06f6d7809992be5.png"
+  },
+  {
+   "key": "9d37333b9ca17cc3",
+   "story_id": "s0126",
+   "title": "Mohamed Salah milli takım kampından ayrıldı, 1-2 gün içinde Trabzon'a gelecek",
+   "category": "diger",
+   "prompt": "A classic black-and-white football with plain unmarked panels on the centre spot of an empty pitch at blue hour, shot low, the background dissolved into soft bokeh with a hint of dark burgundy (deep claret) and light sky blue color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 996408699,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/9d37333b9ca17cc3.png"
   }
  ]
 }
