@@ -1,33 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-02T20:43:08+00:00",
- "edition": "2026-10-02-guncel",
+ "generated_at": "2026-10-03T04:43:18+00:00",
+ "edition": "2026-10-03-sabah",
  "items": [
   {
-   "key": "dbae2081c9f41a7c",
-   "story_id": "s0066",
-   "title": "MHK soruşturmasında Hacıosmanoğlu ile Gündoğdu arasındaki yazışmalar ortaya çıktı",
-   "category": "hakem",
-   "prompt": "A referee in a dark kit seen from directly behind standing alone in the centre circle of an empty floodlit stadium, empty stands with dark burgundy (deep claret) and light sky blue seats out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 124710951,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/dbae2081c9f41a7c.png"
-  },
-  {
-   "key": "21d48cd34be3d937",
-   "story_id": "s0007",
-   "title": "MHK soruşturmasında Gündoğdu ile hakem Yasin Kol'un atama yazışmaları ortaya çıktı",
+   "key": "d9abf193742f6997",
+   "story_id": "s0004",
+   "title": "MHK Başkanı Gündoğdu'nun emniyet ifadesi ortaya çıktı: maç öncesi hakemleri aradığını kabul etti",
    "category": "hakem",
    "prompt": "A referee in a dark kit seen from directly behind standing alone in the centre circle of an empty floodlit stadium, empty stands with neutral dark seats out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 65992439,
+   "seed": 1460025491,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -35,16 +18,16 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/21d48cd34be3d937.png"
+   "out": "s/d9abf193742f6997.png"
   },
   {
-   "key": "e96d053f1c039bab",
-   "story_id": "s0096",
-   "title": "Real Madrid, Negreira dosyasıyla ilgili UEFA'ya yeni belgeler sundu",
+   "key": "26eb2bea16952311",
+   "story_id": "s0139",
+   "title": "Başsavcılık, Hakemler Derneği İstanbul Şubesi'nin feshi için dava açtı",
    "category": "hakem",
-   "prompt": "A referee in a dark kit seen from directly behind standing alone in the centre circle of an empty floodlit stadium, empty stands with blue and garnet red seats out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "A silver referee whistle, a plain yellow card and a plain red card lying on wet grass at the edge of a floodlit pitch, macro close-up. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 471501605,
+   "seed": 1785032606,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -52,7 +35,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/e96d053f1c039bab.png"
+   "out": "s/26eb2bea16952311.png"
   }
  ]
 }
