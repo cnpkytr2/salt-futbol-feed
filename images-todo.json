@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-03T04:43:18+00:00",
- "edition": "2026-10-03-sabah",
+ "generated_at": "2026-10-03T07:43:38+00:00",
+ "edition": "2026-10-03-guncel",
  "items": [
   {
-   "key": "d9abf193742f6997",
-   "story_id": "s0004",
-   "title": "MHK Başkanı Gündoğdu'nun emniyet ifadesi ortaya çıktı: maç öncesi hakemleri aradığını kabul etti",
-   "category": "hakem",
-   "prompt": "A referee in a dark kit seen from directly behind standing alone in the centre circle of an empty floodlit stadium, empty stands with neutral dark seats out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "f06f6d7809992be5",
+   "story_id": "s0181",
+   "title": "Fenerbahçe'de Vedat Muriqi, Kosova kadrosundan kas sakatlığıyla çıkarıldı",
+   "category": "sakatlik",
+   "prompt": "Neatly rolled white bandages, a blue ice pack and a folded white towel on a padded physiotherapy table in an empty, softly lit treatment room. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1460025491,
+   "seed": 32369600,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,24 +18,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/d9abf193742f6997.png"
-  },
-  {
-   "key": "26eb2bea16952311",
-   "story_id": "s0139",
-   "title": "Başsavcılık, Hakemler Derneği İstanbul Şubesi'nin feshi için dava açtı",
-   "category": "hakem",
-   "prompt": "A silver referee whistle, a plain yellow card and a plain red card lying on wet grass at the edge of a floodlit pitch, macro close-up. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 1785032606,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/26eb2bea16952311.png"
+   "out": "s/f06f6d7809992be5.png"
   }
  ]
 }
