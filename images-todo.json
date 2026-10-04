@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-04T10:42:58+00:00",
+ "generated_at": "2026-10-04T13:42:48+00:00",
  "edition": "2026-10-04-guncel",
  "items": [
   {
-   "key": "a055a5a644774277",
-   "story_id": "s0026",
-   "title": "A Milli Takım, Uluslar Ligi'nde İtalya deplasmanında ilk puan peşinde",
-   "category": "mac",
-   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of yellow and navy blue color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "9bd6b5a7298608bd",
+   "story_id": "s0015",
+   "title": "MHK Başkanı Ferhat Gündoğdu görevinden istifa etti",
+   "category": "hakem",
+   "prompt": "A referee in a dark kit seen from directly behind standing alone in the centre circle of an empty floodlit stadium, empty stands with neutral dark seats out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1522798830,
+   "seed": 1539046885,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,41 +18,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/a055a5a644774277.png"
-  },
-  {
-   "key": "0bcd17d7c3a56b62",
-   "story_id": "s0184",
-   "title": "İsmail Kartal Azerbaycan basınına konuştu: Arda Güler'i A Takım'da ilk oynatan olduğunu söyledi",
-   "category": "teknik",
-   "prompt": "A football head coach in a dark overcoat seen from directly behind at the edge of an empty floodlit pitch with arms crossed, empty stands with yellow and navy blue seats softly blurred behind him. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 383239204,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/0bcd17d7c3a56b62.png"
-  },
-  {
-   "key": "5c4ad4ef0ea4ecdb",
-   "story_id": "s0063",
-   "title": "Özbek: MHK için defalarca çağrı yaptık, aksiyon alınmadı",
-   "category": "yonetim",
-   "prompt": "An empty press conference table with a row of microphones under a single spotlight in a dark room, a plain fabric backdrop in yellow and red colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 46190028,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/5c4ad4ef0ea4ecdb.png"
+   "out": "s/9bd6b5a7298608bd.png"
   }
  ]
 }
