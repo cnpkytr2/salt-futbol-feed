@@ -1,6 +1,24 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-04T04:43:06+00:00",
- "edition": "2026-10-04-sabah",
- "items": []
+ "generated_at": "2026-10-04T07:42:44+00:00",
+ "edition": "2026-10-04-guncel",
+ "items": [
+  {
+   "key": "5c4ad4ef0ea4ecdb",
+   "story_id": "s0108",
+   "title": "Özbek: Lig başlayacak, ortada MHK yok; TFF sessizliğini bozmalı",
+   "category": "yonetim",
+   "prompt": "An empty press conference table with a row of microphones under a single spotlight in a dark room, a plain fabric backdrop in black and white colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 46190028,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/5c4ad4ef0ea4ecdb.png"
+  }
+ ]
 }
