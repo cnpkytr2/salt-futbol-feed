@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-05T04:43:04+00:00",
- "edition": "2026-10-05-sabah",
+ "generated_at": "2026-10-05T07:43:22+00:00",
+ "edition": "2026-10-05-guncel",
  "items": [
   {
-   "key": "4a28350840d9dac8",
-   "story_id": "s0054",
-   "title": "Montella İtalya maçı öncesi eksikleri anlattı: Güzel bir sonuç için ümitliyim",
-   "category": "mac",
-   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of red and white color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "4bf664383a5b3472",
+   "story_id": "s0018",
+   "title": "Spalletti'den Vlahovic yorumu: Potansiyelinin tamamını henüz gösteremedi",
+   "category": "diger",
+   "prompt": "A knitted scarf in black and white striped colors tied to the railing of an empty stadium stand at dusk, floodlights starting to glow. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1542786698,
+   "seed": 1834609494,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,24 +18,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/4a28350840d9dac8.png"
-  },
-  {
-   "key": "6c1f5c1dbd04d96b",
-   "story_id": "s0130",
-   "title": "Dursun Özbek: Lig başlayacak ama ortada MHK yok, TFF sessizliğini bozmalı",
-   "category": "hakem",
-   "prompt": "A referee in a dark kit seen from directly behind standing alone in the centre circle of an empty floodlit stadium, empty stands with yellow and red seats out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 279213753,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/6c1f5c1dbd04d96b.png"
+   "out": "s/4bf664383a5b3472.png"
   }
  ]
 }
