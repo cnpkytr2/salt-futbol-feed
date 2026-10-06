@@ -1,11 +1,11 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-06T17:43:19+00:00",
- "edition": "2026-10-06-aksam",
+ "generated_at": "2026-10-06T20:43:39+00:00",
+ "edition": "2026-10-06-guncel",
  "items": [
   {
    "key": "035426fbb1fa3902",
-   "story_id": "s0117",
+   "story_id": "s0087",
    "title": "UEFA, İrlanda-İsrail maçındaki tükürme iddiası için soruşturma başlattı",
    "category": "diger",
    "prompt": "An empty football dugout at dusk with a knitted scarf in red and white colors left on a seat, the pitch and floodlight towers softly out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
@@ -21,13 +21,13 @@
    "out": "s/035426fbb1fa3902.png"
   },
   {
-   "key": "bb9c2cb01be42dcd",
-   "story_id": "s0004",
-   "title": "Galatasaray'da Kasımpaşa maçı öncesi rotasyon kaçınılmaz görünüyor",
+   "key": "0b7c9f4a93980b23",
+   "story_id": "s0091",
+   "title": "Sakaryaspor, Türkiye Kupası'nda Arıt Kayadibispor'u 2-0 yenip 3. tura çıktı",
    "category": "mac",
-   "prompt": "Wide view of an empty stadium bowl at night seen from the top row, rows of empty seats in yellow and red colors filling the foreground, the pitch far below softly blurred in light haze. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of neutral dark color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 362066564,
+   "seed": 676455878,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -35,7 +35,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/bb9c2cb01be42dcd.png"
+   "out": "s/0b7c9f4a93980b23.png"
   }
  ]
 }
