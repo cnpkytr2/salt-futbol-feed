@@ -1,14 +1,48 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-07T17:44:32+00:00",
- "edition": "2026-10-07-aksam",
+ "generated_at": "2026-10-07T20:43:26+00:00",
+ "edition": "2026-10-07-guncel",
  "items": [
   {
+   "key": "2e6d80a07fa227cc",
+   "story_id": "s0129",
+   "title": "Premier Lig kulüpleri Manchester City için geçmişi ve geleceği kapsayan sert yaptırım istiyor",
+   "category": "yonetim",
+   "prompt": "A quiet boardroom at night with leather chairs around a polished table, a classic black-and-white football with plain unmarked panels resting on the table, city lights outside the window. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1920553957,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/2e6d80a07fa227cc.png"
+  },
+  {
+   "key": "7b4ec4ae9adab207",
+   "story_id": "s0134",
+   "title": "Ronaldo'dan Arjantin'e veda eden Messi'ye övgü: Sonsuza dek yaşayacak tarih yazdın",
+   "category": "diger",
+   "prompt": "A classic black-and-white football with plain unmarked panels on the centre spot of an empty pitch at blue hour, shot low, the background dissolved into soft bokeh with a hint of red and white color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1994023042,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/7b4ec4ae9adab207.png"
+  },
+  {
    "key": "702a838e4f3d70a0",
-   "story_id": "s0083",
+   "story_id": "s0057",
    "title": "FIFA, Gaziantep FK ve Bandırmaspor'un transfer tahtasını kapattı",
    "category": "transfer",
-   "prompt": "A traveller in a dark coat seen from directly behind at a large airport window at night, a travel bag on the shoulder and a knitted scarf in purple and yellow colors around the neck, runway lights softly blurred outside. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "A traveller in a dark coat seen from directly behind at a large airport window at night, a travel bag on the shoulder and a knitted scarf in red and black colors around the neck, runway lights softly blurred outside. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
    "seed": 1612629248,
    "model": "z_image_turbo_1.0_i8x.ckpt",
@@ -22,7 +56,7 @@
   },
   {
    "key": "34e843d72cf1e267",
-   "story_id": "s0113",
+   "story_id": "s0084",
    "title": "Galatasaray Divan Kurulu'nda borç ve nakit ihtiyacı tartışması",
    "category": "yonetim",
    "prompt": "A quiet boardroom at night with leather chairs around a polished table, a classic black-and-white football with plain unmarked panels resting on the table, city lights outside the window. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
@@ -36,6 +70,23 @@
    "steps": 8,
    "cfg_scale": 1.0,
    "out": "s/34e843d72cf1e267.png"
+  },
+  {
+   "key": "7c1b43fc6128e4b7",
+   "story_id": "s0100",
+   "title": "Pedro Rodriguez futbol kariyerini sonlandırdığını duyurdu",
+   "category": "diger",
+   "prompt": "A classic black-and-white football with plain unmarked panels on the centre spot of an empty pitch at blue hour, shot low, the background dissolved into soft bokeh with a hint of blue and garnet red color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1356102797,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/7c1b43fc6128e4b7.png"
   }
  ]
 }
