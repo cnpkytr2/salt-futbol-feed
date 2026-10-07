@@ -1,6 +1,24 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-07T07:43:53+00:00",
+ "generated_at": "2026-10-07T10:43:10+00:00",
  "edition": "2026-10-07-guncel",
- "items": []
+ "items": [
+  {
+   "key": "9f7f4b9c7d8dfdd5",
+   "story_id": "s0132",
+   "title": "Jorge Jesus, Ronaldo'nun açıklamasını okumadığını söyledi",
+   "category": "yonetim",
+   "prompt": "An empty press conference table with a row of microphones under a single spotlight in a dark room, a plain fabric backdrop in red and white colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1557876574,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/9f7f4b9c7d8dfdd5.png"
+  }
+ ]
 }
