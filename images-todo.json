@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-06T20:43:39+00:00",
- "edition": "2026-10-06-guncel",
+ "generated_at": "2026-10-07T04:43:37+00:00",
+ "edition": "2026-10-07-sabah",
  "items": [
   {
-   "key": "035426fbb1fa3902",
-   "story_id": "s0087",
-   "title": "UEFA, İrlanda-İsrail maçındaki tükürme iddiası için soruşturma başlattı",
-   "category": "diger",
-   "prompt": "An empty football dugout at dusk with a knitted scarf in red and white colors left on a seat, the pitch and floodlight towers softly out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "b0e6380b9a27d3a5",
+   "story_id": "s0001",
+   "title": "Ankaragücü Başkanı Alparslan: 3 puan silme cezasına itiraz etmeyeceğiz",
+   "category": "yonetim",
+   "prompt": "A quiet boardroom at night with leather chairs around a polished table, a classic black-and-white football with plain unmarked panels resting on the table, city lights outside the window. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1795076505,
+   "seed": 276668925,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,24 +18,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/035426fbb1fa3902.png"
-  },
-  {
-   "key": "0b7c9f4a93980b23",
-   "story_id": "s0091",
-   "title": "Sakaryaspor, Türkiye Kupası'nda Arıt Kayadibispor'u 2-0 yenip 3. tura çıktı",
-   "category": "mac",
-   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of neutral dark color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 676455878,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/0b7c9f4a93980b23.png"
+   "out": "s/b0e6380b9a27d3a5.png"
   }
  ]
 }
