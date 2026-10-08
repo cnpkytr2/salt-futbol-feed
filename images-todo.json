@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-08T04:42:58+00:00",
- "edition": "2026-10-08-sabah",
+ "generated_at": "2026-10-08T07:44:25+00:00",
+ "edition": "2026-10-08-guncel",
  "items": [
   {
-   "key": "96a98667e39c6c9b",
-   "story_id": "s0067",
-   "title": "Ronaldo'dan milli takıma veda eden Messi'ye mesaj: Sonsuza dek yaşayacak tarih",
+   "key": "c947d2a43aee74f0",
+   "story_id": "s0165",
+   "title": "Fenerbahçe milli arayı sakatlık ve dinlenme açısından kazançla kapattı",
    "category": "diger",
-   "prompt": "A knitted scarf in red and white colors tied to the railing of an empty stadium stand at dusk, floodlights starting to glow. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "A classic black-and-white football with plain unmarked panels on the centre spot of an empty pitch at blue hour, shot low, the background dissolved into soft bokeh with a hint of yellow and navy blue color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1270321469,
+   "seed": 811135173,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,24 +18,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/96a98667e39c6c9b.png"
-  },
-  {
-   "key": "2e6d80a07fa227cc",
-   "story_id": "s0044",
-   "title": "Premier Lig kulüpleri Manchester City için geçmişi ve geleceği kapsayan sert yaptırım istiyor",
-   "category": "yonetim",
-   "prompt": "A quiet boardroom at night with leather chairs around a polished table, a classic black-and-white football with plain unmarked panels resting on the table, city lights outside the window. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 1920553957,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/2e6d80a07fa227cc.png"
+   "out": "s/c947d2a43aee74f0.png"
   }
  ]
 }
