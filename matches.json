@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-09T09:17:39+00:00",
+ "generated_at": "2026-10-09T15:17:38+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -704,7 +704,7 @@
    "kind": "league",
    "season": "2026-2027",
    "tsdb_id": 4676,
-   "last_round": 8,
+   "last_round": 9,
    "next_round": 9,
    "current_round": 9,
    "standings": [
@@ -801,232 +801,6 @@
    ],
    "standings_limited": true,
    "rounds": [
-    {
-     "round": 7,
-     "label": "7. Hafta",
-     "matches": [
-      {
-       "id": "2528879",
-       "round": 7,
-       "kickoff": "2026-09-11T17:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-11",
-       "home": {
-        "name": "Sarıyer",
-        "club": null
-       },
-       "away": {
-        "name": "Bandırmaspor",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Yusuf Ziya Öniş Stadyumu"
-      },
-      {
-       "id": "2528875",
-       "round": 7,
-       "kickoff": "2026-09-12T14:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-12",
-       "home": {
-        "name": "Boluspor",
-        "club": null
-       },
-       "away": {
-        "name": "Pendikspor",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Bolu Atatürk Stadyumu"
-      },
-      {
-       "id": "2528880",
-       "round": 7,
-       "kickoff": "2026-09-12T14:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-12",
-       "home": {
-        "name": "Vanspor",
-        "club": null
-       },
-       "away": {
-        "name": "Ankara Keçiörengücü",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Van Atatürk Stadyumu"
-      },
-      {
-       "id": "2528877",
-       "round": 7,
-       "kickoff": "2026-09-12T17:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-12",
-       "home": {
-        "name": "Bodrum",
-        "club": null
-       },
-       "away": {
-        "name": "Batman Petrolspor",
-        "club": null
-       },
-       "score": {
-        "home": 4,
-        "away": 0
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Bodrum İlçe Stadyumu"
-      },
-      {
-       "id": "2528876",
-       "round": 7,
-       "kickoff": "2026-09-12T17:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-12",
-       "home": {
-        "name": "Ümraniyespor",
-        "club": null
-       },
-       "away": {
-        "name": "Antalyaspor",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 2
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Ümraniye Hekimbaşı Şehir Stadyumu"
-      },
-      {
-       "id": "2528881",
-       "round": 7,
-       "kickoff": "2026-09-13T14:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-13",
-       "home": {
-        "name": "Iğdır",
-        "club": null
-       },
-       "away": {
-        "name": "Mardin 1969",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 0
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Iğdır Şehir Stadyumu"
-      },
-      {
-       "id": "2528873",
-       "round": 7,
-       "kickoff": "2026-09-13T14:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-13",
-       "home": {
-        "name": "Sivasspor",
-        "club": null
-       },
-       "away": {
-        "name": "Muğlaspor",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Yeni Sivas 4 Eylül Stadyumu"
-      },
-      {
-       "id": "2528874",
-       "round": 7,
-       "kickoff": "2026-09-13T17:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-13",
-       "home": {
-        "name": "Bursaspor",
-        "club": null
-       },
-       "away": {
-        "name": "Esenler Erokspor",
-        "club": null
-       },
-       "score": {
-        "home": 2,
-        "away": 2
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Yüzüncü Yıl Atatürk Stadyumu"
-      },
-      {
-       "id": "2528878",
-       "round": 7,
-       "kickoff": "2026-09-13T17:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-13",
-       "home": {
-        "name": "Fatih Karagümrük",
-        "club": null
-       },
-       "away": {
-        "name": "Manisa",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Atatürk Olimpiyat Stadyumu"
-      },
-      {
-       "id": "2528872",
-       "round": 7,
-       "kickoff": "2026-09-14T17:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-14",
-       "home": {
-        "name": "Kayserispor",
-        "club": null
-       },
-       "away": {
-        "name": "İstanbulspor",
-        "club": null
-       },
-       "score": {
-        "home": 4,
-        "away": 0
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "RHG Enertürk Enerji Stadyumu"
-      }
-     ]
-    },
     {
      "round": 8,
      "label": "8. Hafta",
@@ -1271,9 +1045,12 @@
         "name": "Ankara Keçiörengücü",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 2
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Bodrum İlçe Stadyumu"
       },
       {
@@ -1290,9 +1067,12 @@
         "name": "Pendikspor",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Yeni Sivas 4 Eylül Stadyumu"
       },
       {
