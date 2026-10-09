@@ -1,11 +1,11 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-09T10:43:11+00:00",
+ "generated_at": "2026-10-09T13:43:47+00:00",
  "edition": "2026-10-09-guncel",
  "items": [
   {
    "key": "00a3b8023f666d69",
-   "story_id": "s0119",
+   "story_id": "s0056",
    "title": "Mustafa Dalcı: Eyüpspor gibi bir semt takımını çalıştırmaktan mutluyum",
    "category": "teknik",
    "prompt": "A football head coach in a dark overcoat seen from directly behind at the edge of an empty floodlit pitch with arms crossed, empty stands with purple and yellow seats softly blurred behind him. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
@@ -21,13 +21,13 @@
    "out": "s/00a3b8023f666d69.png"
   },
   {
-   "key": "38c684cd4428ba20",
-   "story_id": "s0120",
-   "title": "TFF Yönetim Kurulu olağanüstü kongre, MHK başkanlığı ve Montella'yı görüşecek",
+   "key": "e7dd76abc4744275",
+   "story_id": "s0057",
+   "title": "TFF Yönetim Kurulu olağanüstü kongre, MHK başkanlığı ve Montella'yı görüşüyor",
    "category": "yonetim",
-   "prompt": "A quiet boardroom at night with leather chairs around a polished table, a classic black-and-white football with plain unmarked panels resting on the table, city lights outside the window. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "An empty press conference table with a row of microphones under a single spotlight in a dark room, a plain fabric backdrop in red and white colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1054589609,
+   "seed": 237868524,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -35,7 +35,24 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/38c684cd4428ba20.png"
+   "out": "s/e7dd76abc4744275.png"
+  },
+  {
+   "key": "8eafb63056b930f2",
+   "story_id": "s0058",
+   "title": "Galatasaray, Süper Lig'in 7. haftasında Kasımpaşa'yı Rams Park'ta ağırlıyor",
+   "category": "mac",
+   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of navy blue and white color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1335087669,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/8eafb63056b930f2.png"
   }
  ]
 }
