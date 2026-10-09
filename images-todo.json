@@ -1,6 +1,24 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-08T20:43:32+00:00",
- "edition": "2026-10-08-guncel",
- "items": []
+ "generated_at": "2026-10-09T04:42:46+00:00",
+ "edition": "2026-10-09-sabah",
+ "items": [
+  {
+   "key": "d281ff442b8150c5",
+   "story_id": "s0037",
+   "title": "Galatasaray, Kasımpaşa maçında liderlik için sahada; Buruk ve Ugochukwu yok",
+   "category": "mac",
+   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of yellow and red color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 180709225,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/d281ff442b8150c5.png"
+  }
+ ]
 }
