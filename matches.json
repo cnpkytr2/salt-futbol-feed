@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-09T19:17:26+00:00",
+ "generated_at": "2026-10-09T21:17:27+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -2137,11 +2137,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
+        "home": 1,
         "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estadio La Rosaleda"
       },
       {
@@ -3398,11 +3398,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
-        "away": 0
+        "home": 2,
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Signal Iduna Park"
       },
       {
@@ -3887,11 +3887,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
-        "away": 0
+        "home": 2,
+        "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stade Bollaert-Delelis"
       },
       {
