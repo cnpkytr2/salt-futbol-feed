@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-10T13:43:29+00:00",
- "edition": "2026-10-10-guncel",
+ "generated_at": "2026-10-10T17:43:46+00:00",
+ "edition": "2026-10-10-aksam",
  "items": [
   {
-   "key": "c9321a3c79734ae1",
-   "story_id": "s0004",
-   "title": "Beşiktaş, orta saha için Torino'dan Mandragora'yı alternatif olarak değerlendiriyor",
-   "category": "transfer",
-   "prompt": "Minimal still life on a dark wooden desk: only a fountain pen, two sheets of plain blank white paper and a folded knitted scarf in black and white colors, nothing else on the desk, warm desk lamp light. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "b0c5810a9dacc382",
+   "story_id": "s0098",
+   "title": "Galatasaray'da genel kurul: Özbek yönetimi ibra edildi, borç 31,4 milyar lira",
+   "category": "yonetim",
+   "prompt": "An empty press conference table with a row of microphones under a single spotlight in a dark room, a plain fabric backdrop in yellow and red colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 424480595,
+   "seed": 1617711650,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,24 +18,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/c9321a3c79734ae1.png"
-  },
-  {
-   "key": "9918e4e67d1c401e",
-   "story_id": "s0062",
-   "title": "Fenerbahçe, Lorient'li orta saha Arthur Avom'un temsilcisiyle görüştü",
-   "category": "transfer",
-   "prompt": "Minimal still life on a dark wooden desk: only a fountain pen, two sheets of plain blank white paper and a folded knitted scarf in yellow and navy blue colors, nothing else on the desk, warm desk lamp light. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 204556151,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/9918e4e67d1c401e.png"
+   "out": "s/b0c5810a9dacc382.png"
   }
  ]
 }
