@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-10T19:17:22+00:00",
+ "generated_at": "2026-10-10T21:17:25+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1979,7 +1979,7 @@
         "away": 0
        },
        "status": "postponed",
-       "status_raw": "SUSP",
+       "status_raw": "INT",
        "venue": "Estadio de Vallecas"
       },
       {
@@ -2041,11 +2041,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estadio Santiago Bernabéu"
       },
       {
@@ -2539,11 +2539,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
+        "home": 3,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadio Diego Armando Maradona"
       },
       {
@@ -3560,11 +3560,11 @@
         "club": null
        },
        "score": {
-        "home": 3,
-        "away": 0
+        "home": 5,
+        "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stade Francis-Le Blé"
       },
       {
@@ -3582,11 +3582,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stade du Moustoir"
       },
       {
@@ -3604,11 +3604,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
-        "away": 0
+        "home": 2,
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stade Louis II"
       },
       {
@@ -3626,11 +3626,11 @@
         "club": null
        },
        "score": {
-        "home": 1,
-        "away": 0
+        "home": 3,
+        "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Parc des Princes"
       },
       {
