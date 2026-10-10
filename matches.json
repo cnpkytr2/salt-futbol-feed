@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-10T09:17:24+00:00",
+ "generated_at": "2026-10-10T11:17:25+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -355,9 +355,12 @@
         "name": "Amed",
         "club": "amedspor"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Eryaman Stadyumu"
       },
       {
@@ -932,9 +935,12 @@
         "name": "Antalyaspor",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Bolu Atatürk Stadyumu"
       },
       {
