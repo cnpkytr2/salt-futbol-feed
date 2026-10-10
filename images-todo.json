@@ -1,6 +1,41 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-10T07:43:23+00:00",
+ "generated_at": "2026-10-10T10:43:25+00:00",
  "edition": "2026-10-10-guncel",
- "items": []
+ "items": [
+  {
+   "key": "9918e4e67d1c401e",
+   "story_id": "s0171",
+   "title": "Fenerbahçe, Lorient'li orta saha Arthur Avom'un temsilcisiyle görüştü",
+   "category": "transfer",
+   "prompt": "Minimal still life on a dark wooden desk: only a fountain pen, two sheets of plain blank white paper and a folded knitted scarf in yellow and navy blue colors, nothing else on the desk, warm desk lamp light. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 204556151,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/9918e4e67d1c401e.png"
+  },
+  {
+   "key": "5579f937fe4e9992",
+   "story_id": "s0099",
+   "title": "Galatasaray, Kasımpaşa'yı 3-1 yendi; Süper Lig 7. hafta puan durumu güncellendi",
+   "category": "mac",
+   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in yellow and red colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 584113795,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/5579f937fe4e9992.png"
+  }
+ ]
 }
