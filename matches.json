@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-10T15:17:23+00:00",
+ "generated_at": "2026-10-10T17:17:22+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -421,9 +421,12 @@
         "name": "Fenerbahçe",
         "club": "fenerbahce"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Çaykur Didi Stadyumu"
       },
       {
@@ -985,9 +988,12 @@
         "name": "Manisa",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "RHG Enertürk Enerji Stadyumu"
       },
       {
@@ -1004,9 +1010,12 @@
         "name": "Esenler Erokspor",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Esenyurt Necmi Kadıoğlu Stadyumu"
       },
       {
@@ -1421,11 +1430,11 @@
         "club": null
        },
        "score": {
-        "home": 1,
-        "away": 1
+        "home": 2,
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Villa Park"
       },
       {
@@ -1443,11 +1452,11 @@
         "club": null
        },
        "score": {
-        "home": 3,
+        "home": 5,
         "away": 1
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stamford Bridge"
       },
       {
@@ -1465,11 +1474,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
+        "home": 2,
         "away": 1
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Portman Road"
       },
       {
@@ -1488,10 +1497,10 @@
        },
        "score": {
         "home": 0,
-        "away": 1
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadium of Light"
       },
       {
@@ -1508,9 +1517,12 @@
         "name": "Tottenham Hotspur",
         "club": "tottenham"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Old Trafford"
       },
       {
@@ -1986,10 +1998,10 @@
        },
        "score": {
         "home": 1,
-        "away": 1
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "HT",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estadio de Mendizorroza"
       },
       {
@@ -2006,9 +2018,12 @@
         "name": "Getafe",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Spotify Camp Nou"
       },
       {
@@ -2498,9 +2513,12 @@
         "name": "Parma",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 3,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Stadio Giuseppe Meazza"
       },
       {
@@ -3010,8 +3028,8 @@
         "home": 2,
         "away": 2
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "WWK Arena"
       },
       {
@@ -3030,10 +3048,10 @@
        },
        "score": {
         "home": 2,
-        "away": 1
+        "away": 3
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "PreZero Arena"
       },
       {
@@ -3051,11 +3069,11 @@
         "club": "leverkusen"
        },
        "score": {
-        "home": 2,
+        "home": 3,
         "away": 4
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "MEWA ARENA"
       },
       {
@@ -3076,8 +3094,8 @@
         "home": 0,
         "away": 2
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Home Deluxe Arena"
       },
       {
@@ -3098,8 +3116,8 @@
         "home": 1,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadion An der Alten Försterei"
       },
       {
@@ -3116,9 +3134,12 @@
         "name": "Eintracht Frankfurt",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 4,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Red Bull Arena Leipzig"
       },
       {
@@ -3511,11 +3532,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Decathlon Arena - Stade Pierre-Mauroy"
       },
       {
@@ -3663,7 +3684,7 @@
    "tsdb_id": 4480,
    "last_round": 1,
    "next_round": 2,
-   "current_round": 1,
+   "current_round": 2,
    "standings": [],
    "standings_limited": true,
    "rounds": [
