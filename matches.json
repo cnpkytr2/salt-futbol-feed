@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-10T13:17:21+00:00",
+ "generated_at": "2026-10-10T15:17:23+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -381,8 +381,8 @@
         "home": 0,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Gain Park Stadyumu"
       },
       {
@@ -401,10 +401,10 @@
        },
        "score": {
         "home": 0,
-        "away": 0
+        "away": 3
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Samsun 19 Mayıs Stadyumu"
       },
       {
@@ -964,11 +964,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
-        "away": 0
+        "home": 2,
+        "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Iğdır Şehir Stadyumu"
       },
       {
@@ -1402,8 +1402,8 @@
         "home": 2,
         "away": 1
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Emirates Stadium"
       },
       {
@@ -1420,9 +1420,12 @@
         "name": "Brentford",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Villa Park"
       },
       {
@@ -1439,9 +1442,12 @@
         "name": "Bournemouth",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 3,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Stamford Bridge"
       },
       {
@@ -1458,9 +1464,12 @@
         "name": "Fulham",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Portman Road"
       },
       {
@@ -1477,9 +1486,12 @@
         "name": "Brighton and Hove Albion",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Stadium of Light"
       },
       {
@@ -1972,9 +1984,12 @@
         "name": "Atlético Madrid",
         "club": "atletico"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "HT",
        "venue": "Estadio de Mendizorroza"
       },
       {
@@ -2462,11 +2477,11 @@
         "club": null
        },
        "score": {
-        "home": 1,
-        "away": 0
+        "home": 2,
+        "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadio Luigi Ferraris"
       },
       {
@@ -2991,9 +3006,12 @@
         "name": "Bayern Munich",
         "club": "bayern"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 2
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "WWK Arena"
       },
       {
@@ -3010,9 +3028,12 @@
         "name": "Hamburg",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "PreZero Arena"
       },
       {
@@ -3029,9 +3050,12 @@
         "name": "Bayer Leverkusen",
         "club": "leverkusen"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 4
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "MEWA ARENA"
       },
       {
@@ -3048,9 +3072,12 @@
         "name": "Stuttgart",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 2
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Home Deluxe Arena"
       },
       {
@@ -3067,9 +3094,12 @@
         "name": "Elversberg",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Stadion An der Alten Försterei"
       },
       {
@@ -3480,9 +3510,12 @@
         "name": "Le Havre",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Decathlon Arena - Stade Pierre-Mauroy"
       },
       {
