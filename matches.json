@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-11T19:17:28+00:00",
+ "generated_at": "2026-10-11T21:17:27+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -2349,11 +2349,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
-        "away": 1
+        "home": 2,
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Campos de Sport de El Sardinero"
       },
       {
@@ -2882,10 +2882,10 @@
        },
        "score": {
         "home": 1,
-        "away": 0
+        "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Unipol Domus"
       },
       {
@@ -4123,10 +4123,10 @@
        },
        "score": {
         "home": 0,
-        "away": 0
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stade de l'Aube"
       }
      ]
