@@ -1,6 +1,41 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-11T13:43:07+00:00",
- "edition": "2026-10-11-guncel",
- "items": []
+ "generated_at": "2026-10-11T17:43:50+00:00",
+ "edition": "2026-10-11-aksam",
+ "items": [
+  {
+   "key": "76e463a77f42cc6a",
+   "story_id": "s0013",
+   "title": "TÜMOSAN Konyaspor ile Başakşehir Süper Lig'de golsüz berabere kaldı",
+   "category": "mac",
+   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of green and white color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1878371094,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/76e463a77f42cc6a.png"
+  },
+  {
+   "key": "d2c7993184a6cfba",
+   "story_id": "s0068",
+   "title": "Aston Villa'da Ruggeri sakatlandı, Fenerbahçe maçı öncesi sol bek sorunu var",
+   "category": "sakatlik",
+   "prompt": "A blue ice pack and rolled white bandages on the grass beside the touchline of a floodlit pitch at night, a closed black medical bag softly out of focus, empty stands in the distance. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 778462647,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/d2c7993184a6cfba.png"
+  }
+ ]
 }
