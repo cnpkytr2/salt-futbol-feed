@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-11T11:17:20+00:00",
+ "generated_at": "2026-10-11T13:17:21+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -447,8 +447,8 @@
         "home": 0,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Konya Büyükşehir Belediye Stadyumu"
       },
       {
@@ -465,9 +465,12 @@
         "name": "Çorum",
         "club": "corum-fk"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Gaziantep Stadyumu"
       },
       {
@@ -1035,9 +1038,12 @@
         "name": "Muğlaspor",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Atatürk Olimpiyat Stadyumu"
       },
       {
@@ -1542,9 +1548,12 @@
         "name": "Nottingham Forest",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Selhurst Park"
       },
       {
@@ -1561,9 +1570,12 @@
         "name": "Everton",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "The MKM Stadium"
       },
       {
@@ -2065,9 +2077,12 @@
         "name": "Celta Vigo",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Estadio Martínez Valero"
       },
       {
@@ -2567,8 +2582,8 @@
         "home": 0,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadio Giuseppe Sinigaglia"
       },
       {
@@ -2585,9 +2600,12 @@
         "name": "Monza",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Stadio Olimpico"
       },
       {
@@ -2604,9 +2622,12 @@
         "name": "Bologna",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Stadio Via del mare"
       },
       {
@@ -3653,9 +3674,12 @@
         "name": "Strasbourg",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Allianz Riviera"
       },
       {
