@@ -1,0 +1,1396 @@
+{
+ "schema": 1,
+ "generated_at": "2026-10-11T10:42:54+00:00",
+ "edition": {
+  "date": "2026-10-11",
+  "label": "guncel",
+  "title": "Güncel bülten",
+  "time_local": "13:42"
+ },
+ "stats": {
+  "sources_ok": 58,
+  "sources_total": 59,
+  "articles_football": 301,
+  "stories": 19
+ },
+ "image_base": "https://raw.githubusercontent.com/cnpkytr2/salt-futbol-feed/main/img/",
+ "top_n": 30,
+ "stories": [
+  {
+   "id": "s0009",
+   "rank": 1,
+   "key": "c62a6a21e130e28d",
+   "title": "Galatasaray-Barcelona maçı öncesi bilet fiyatları, hakem ve Flick'in sözleri",
+   "summarized": true,
+   "intro": "Galatasaray, UEFA Şampiyonlar Ligi 2. hafta maçında 13 Ekim Salı günü RAMS Park'ta Barcelona'yı konuk edecek. Karşılaşma saat 22.00'de başlayacak ve maçı UEFA'nın duyurusuna göre İtalyan hakem Marco Guida yönetecek. Galatasaray biletlerin öncelikli satışını başlattı, genel satış ise pazar günü yapılacak. Barcelona Teknik Direktörü Hansi Flick, LaLiga'da Getafe'yi yenmelerinin ardından İstanbul'daki maça dair açıklamalar yaptı.",
+   "bullets": [
+    "Öncelikli biletler, GSPlus Premium ile GSPara kredi ve banka kartı sahiplerine satışa çıkarıldı. Genel satış ise 11 Ekim'de saat 11.00'de Galatasaray logolu Passo Taraftar Kart sahiplerine passo uygulaması ve passo.com.tr üzerinden başlayacak.",
+    "Bilet fiyatları 2 bin 800 lira (11. kategori) ile 75 bin lira (Premium) arasında değişiyor. Delux 70 bin, Lux 67 bin 500, Classic 65 bin lira.",
+    "Kategori biletleri 1. kategoride 50 bin lira, 5. kategoride 30 bin lira, 8. kategoride 15 bin lira, 10. kategoride ise 3 bin 500 lira olarak belirlendi.",
+    "Barcelona, LaLiga'nın 8. haftasında Getafe'yi Anthony Gordon (2'), Gabriel Jesus (30') ve Jules Koundé (73') golleriyle yendi. Bu sonuçla 24 puana çıkan Barcelona liderliğini sürdürdü, Getafe 8 puanda kaldı.",
+    "Flick, Getafe maçında erken golün önemli olduğunu, üç haftadır maç yapmadıkları için bu galibiyete çok değer verdiğini söyledi. Takımın topu ve rakibi iyi kontrol ettiğini belirtti.",
+    "Flick, Galatasaray maçı için \"Tarih yazmak istiyoruz\" dedi ve asıl önemli olanın oyuncuların işlerine odaklanması olduğunu vurguladı.",
+    "Flick, İstanbul'da \"dünyanın en gürültülü stadyumunda\" oynayacaklarını belirterek hazırlanmaları gerektiğini söyledi. Galatasaray'ın forveti Osimhen'i ve kadro kalitesini de öne çıkardı."
+   ],
+   "why": "Galatasaray taraftarı için Barcelona gibi bir rakiple oynanacak maçta bilet satış takvimi ve fiyatları doğrudan ilgilendiren pratik bilgiler içeriyor. Flick'in sözleri, rakibin İstanbul'daki atmosferi ve Osimhen'i ciddiye aldığını gösteriyor. Hakemin belli olması da maç öncesi önemli bir ayrıntı.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    },
+    {
+     "slug": "barcelona",
+     "name": "Barcelona"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    },
+    {
+     "slug": "milli-takim",
+     "name": "A Millî Takım"
+    },
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/10/10/galatasaray-barcelona-macinin-oncelikli-biletleri-satisa-cikti",
+     "published": "2026-10-10T21:18:38+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/10/10/barcelonada-hansi-flickten-gundem-olan-galatasaray-sozleri",
+     "published": "2026-10-10T21:20:36+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/hansi-flickten-galatasaray-aciklamasi-tarih-yazmak-istiyoruz-43337421",
+     "published": "2026-10-11T08:18:00+00:00"
+    },
+    {
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/11/galatasaray-barcelona-macinin-hakemi-belli-oldu",
+     "published": "2026-10-11T08:21:42+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/galatasaray/2026/10/11/galatasaray-barcelona-macinin-hakemi-aciklandi",
+     "published": "2026-10-11T08:24:15+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/barcelonanin-hocasi-hansi-flickten-galatasaray-aciklamasi-4863345",
+     "published": "2026-10-11T08:25:59+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/galatasaray/galatasaray-barcelona-macinin-hakemi-belli-oldu-SXHBQ1178759SXQ",
+     "published": "2026-10-11T08:27:00+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/uefa-duyurdu-galatasaray-barcelona-macinin-hakemi-belli-oldu-431069",
+     "published": "2026-10-11T08:27:54+00:00"
+    }
+   ],
+   "n_sources": 15,
+   "first_published": "2026-10-10T21:18:38+00:00",
+   "last_published": "2026-10-11T09:10:27+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/480275/1200/675/0/43/800/492?u=https://iftm.tmgrup.com.tr/2026/10/10/galatasaray-barcelona-macinin-oncelikli-biletleri-satisa-cikti-1791626539729.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/galatasaray/2026/10/10/galatasaray-barcelona-macinin-oncelikli-biletleri-satisa-cikti"
+   },
+   "score": 51.25,
+   "importance": 8,
+   "popular": true
+  },
+  {
+   "id": "s0150",
+   "rank": 2,
+   "key": "8beee8251fc37cdf",
+   "title": "Newcastle Teknik Direktörü Jaissle'den Beşiktaş'ın Willock hedefine yanıt",
+   "summarized": true,
+   "intro": "Beşiktaş Başkanı Serdal Adalı, geçtiğimiz günlerde Newcastle United orta saha oyuncusu Joe Willock'u ocak ayında transfer etmek istediklerini söylemişti. Bu sözler İngiltere'de de gündem oldu. The Shields Gazette'nin aktardığına göre Newcastle Teknik Direktörü Matthias Jaissle, konuyla ilgili soruya gülerek karşılık verdi. Jaissle, Willock'un kendi oyuncuları olduğunu ve ondan memnun olduklarını belirtti. Sözleşmesi sezon sonunda bitecek 27 yaşındaki futbolcunun kalıp kalmayacağı sorusuna da endişe duymadıklarını söyledi.",
+   "bullets": [
+    "Adalı, teknik direktör Vincenzo Italiano'nun Willock'u istediğini, futbolcunun ailesini İstanbul'a getirdiğini ve ailenin ev seçtiğini anlattı.",
+    "Adalı'ya göre Willock, Italiano ve Önder hocayla en az 10 kez görüntülü görüştü; ayrıca oyuncunun yanına iki kez gidildi.",
+    "Adalı, Willock'un sözleşmesinin sezon sonunda bittiğini, devre arasında imza atabileceğini ve Newcastle'ın 20 milyon pound istediğini söyledi. Kendi ifadesiyle: \"Ocakta imza atabiliriz, atacağım da yani.\"",
+    "Jaissle'nin yanıtı şöyleydi: \"Bunu her gün duyuyorum! Sanırım o da her gün bundan bahsediyor. O bizim oyuncumuz.\"",
+    "Jaissle, Willock'u \"en üst düzey oyunculardan biri\" olarak niteledi ve onda daha büyük bir potansiyel gördüğünü söyledi.",
+    "Willock'un takımda kalmasının hayal edilip edilemeyeceği sorulunca Jaissle \"Evet, bunu kesinlikle hayal edebilirsiniz\" dedi ve endişelenecek bir şey olmadığını ekledi.",
+    "Willock bu sezon Newcastle formasıyla 7 maçta 442 dakika süre aldı ve 3 gol attı."
+   ],
+   "why": "Beşiktaş yönetiminin ocak ayı için açıkça dile getirdiği hedef, oyuncunun mevcut kulübünden gelen ilk yanıtla birlikte netlik kazandı. Jaissle'nin sözleri Newcastle'ın Willock'u elinde tutmak istediğine işaret ediyor; ancak bu resmi bir transfer kararı ya da teklif reddi değil. Sözleşmesi bitmek üzere olan oyuncu için gelişmeler ocak döneminde izlenecek.",
+   "raw_summary": null,
+   "category": "transfer",
+   "category_name": "Transfer",
+   "status": "belirsiz",
+   "clubs": [
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-besiktas-sokta-serdal-adali-ocakta-imza-attiracagiz-demisti-kulubunden-olay-aciklama-geldi-431066",
+     "published": "2026-10-11T08:30:50+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/serdal-adalinin-ocakta-imza-attiracagiz-dedigi-yildiz-futbolcunun-kulubunden-flas-aciklama-p368099",
+     "published": "2026-10-11T09:24:28+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/besiktas/besiktas-in-willock-transferine-newcastle-dan-yanit-SXHBQ1178769SXQ",
+     "published": "2026-10-11T09:35:00+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/galeri/spor/serdal-adali-ocakta-alacagiz-demisti-besiktasi-soke-eden-aciklama-4863362",
+     "published": "2026-10-11T09:51:37+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/serdal-adali-ocakta-imza-attiracagiz-demisti-newcastle-uniteddan-joe-willock-icin-aciklama-geldi-haber-2045862",
+     "published": "2026-10-11T10:00:00+00:00"
+    }
+   ],
+   "n_sources": 5,
+   "first_published": "2026-10-11T08:30:50+00:00",
+   "last_published": "2026-10-11T10:00:00+00:00",
+   "image": {
+    "path": "pool/diger-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 38.53,
+   "importance": 7,
+   "popular": false
+  },
+  {
+   "id": "s0024",
+   "rank": 3,
+   "key": "cf03281c18a8fc49",
+   "title": "Fenerbahçe, Rizespor deplasmanında 3-0 kazandı; Asensio sakatlık sonrası döndü",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 7. haftasında Fenerbahçe, deplasmanda Çaykur Rizespor'u Çaykur Didi Stadı'nda 3-0 yendi. Goller 12. dakikada Marco Asensio, 83-84. dakikalarda İrfan Can Kahveci ve 87. dakikada Oğuz Aydın'dan geldi. Sarı-lacivertliler ligde puanını 13'e çıkarırken Rizespor 10 puanda kaldı. Maçın ardından yazarlar, skor lehine olsa da takımın büyük bölümdeki oyununu tartıştı.",
+   "bullets": [
+    "Asensio 22 Ağustos'ta yaşadığı sakatlıktan yaklaşık 1,5 ay sonra sahaya döndü, golü attı ve 59. dakikada yerini İrfan Can Kahveci'ye bıraktı.",
+    "İlk gol: Guendouzi'nin pasıyla Kerem Aktürkoğlu'nun hazırladığı pozisyonda Asensio'nun şutu Mithat Pala'ya çarpıp ağlara gitti. İkinci gol İrfan Can'ın ceza sahası dışından uzak direğe şutuyla geldi.",
+    "Üçüncü golde Romelu Lukaku'nun pasında Oğuz Aydın'ın şutu iki direğe çarpıp ağlara gitti. Lukaku ile Oğuz Aydın 81. dakikada oyuna girmişti.",
+    "Rizespor 3. dakikada Laçi'nin şutuyla ve 27. dakikada Olawoyin'in pozisyonuyla gole yaklaştı. Her iki durumda da Ederson devreye girdi. Kerem Aktürkoğlu'nun 29. ve 48. dakikadaki net pozisyonları gole dönmedi.",
+    "Nathan Ake, gol yemeden kazanmanın önemine dikkat çekti ve Ederson'un iyi maç çıkardığını söyledi. Takımın pozisyonel olarak daha iyi olabileceğini, fazla geriye çekilmemesi gerektiğini belirtti.",
+    "Bazı yazarlar Kerem Aktürkoğlu'nun 88 dakika oyunda kalmasını ve Lukaku'nun geç girmesini eleştirdi. Uğur Meleke, Çarşamba günkü Aston Villa deplasmanı için Oğuz Aydın'ın sol açıkta oynamasını savundu.",
+    "Murat Özbostan yedekten gelenlerin kalitesine dikkat çekti. Ömer Üründül ise skora rağmen 83. dakikaya kadarki oyunu yetersiz buldu ve Greenwood'u eleştirdi.",
+    "Fenerbahçe gelecek hafta evinde Alanyaspor'u ağırlayacak. Rizespor ise Çorum FK'ya konuk olacak."
+   ],
+   "why": "Fenerbahçe milli aradan sonraki ilk deplasmanı kazanarak zirve takibini sürdürdü ve Asensio'nun dönüşüyle hücum seçeneklerini artırdı. Öte yandan skor farkına rağmen oyunun büyük bölümündeki performans ve oyuncu rotasyonu tartışılıyor. Bu sorular, Çarşamba günkü Aston Villa deplasmanı öncesinde teknik direktör İsmail Kartal'ın tercihlerini gündemde tutuyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    },
+    {
+     "slug": "rizespor",
+     "name": "Rizespor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/10/fenerbahcede-nathan-ake-caykur-rizespor-macini-yorumladi",
+     "published": "2026-10-10T21:19:27+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/superlig/2026/10/10/fenerbahce-zirve-takibini-surdurdu-iste-guncel-puan-durumu",
+     "published": "2026-10-10T21:20:34+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/10/fenerbahce-deplasmanda-caykur-rizesporu-maglup-etti",
+     "published": "2026-10-10T21:20:42+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/caykur-rizespor-fenerbahce-maci-canli-anlatim-rz-fb-trendyol-super-lig-maci-kac-kac-mac-skoru-ve-3918641",
+     "published": "2026-10-10T21:24:27+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/fenerbahce/2026/10/11/spor-yazarlari-caykur-rizespor-fenerbahce-macini-degerlendirdi",
+     "published": "2026-10-11T05:47:15+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/11/spor-yazarlari-caykur-rizespor-fenerbahce-macini-yorumladi",
+     "published": "2026-10-11T06:01:05+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/fenerbahce/2026/10/11/omer-urundulden-fenerbahceli-yildiza-sert-elestiri-yuruyecek-hali-yok",
+     "published": "2026-10-11T06:11:52+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-lukakuyu-niye-oturtuyorsun-hocam-spor-yazarlari-fenerbahce-icin-ne-dedi-431057",
+     "published": "2026-10-11T06:12:26+00:00"
+    }
+   ],
+   "n_sources": 9,
+   "first_published": "2026-10-10T21:19:27+00:00",
+   "last_published": "2026-10-11T10:19:27+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/18bd00/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/10/fenerbahcede-nathan-ake-caykur-rizespor-macini-yorumladi-1791656465841.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/fenerbahce/2026/10/10/fenerbahcede-nathan-ake-caykur-rizespor-macini-yorumladi"
+   },
+   "score": 26.4,
+   "importance": 8,
+   "popular": true
+  },
+  {
+   "id": "s0084",
+   "rank": 4,
+   "key": "45d908c97ee54cd1",
+   "title": "Mourinho, Villarreal galibiyeti sonrası basın toplantısına çıkmadı",
+   "summarized": true,
+   "intro": "Real Madrid, La Liga'nın 8. haftasında evinde Villarreal'i Yan Diomande'nin golüyle 1-0 yendi. Maçta Vinicius Junior'ın attığı gol VAR uyarısı sonrası iptal edildi, Brezilyalı oyuncu da golden önceki pozisyonda rakibine yaptığı faul nedeniyle kırmızı kart gördü. Teknik direktör Jose Mourinho maçın ardından basın toplantısına katılmadı ve Real Madrid oyuncularından da kimse basına konuşmadı. Mourinho'nun hakem kararlarına tepki olarak bu yolu seçtiği öne sürüldü; İspanyol basınına göre kendisi gerekçeyi ceza riskiyle açıkladı.",
+   "bullets": [
+    "Gol Yan Diomande'den geldi; Real Madrid sahadan 1-0 galip ayrıldı. Yeni Şafak'a göre bu sonuçla lider Barcelona ile puan farkı 6'ya indi.",
+    "Vinicius'un golü VAR uyarısıyla iptal edildi. Yeni Şafak olayın 75. dakikada yaşandığını aktarıyor, Vinicius'un direkt kırmızı kart gördüğü belirtiliyor.",
+    "Arda Güler ilk 11'de başladı ve 77. dakikada yerini Eduardo Camavinga'ya bıraktı.",
+    "Marca'ya dayandırılan habere göre Mourinho, yorumlarının ceza almasına yol açabileceğinden endişe ediyor. Mourinho'nun sözü şöyle aktarıldı: \"Sevilla ve Barcelona maçlarında yedek kulübesinde olmak istediğim için konuşmayacağım.\"",
+    "Sporx, aynı açıklamayı Mundo Deportivo'nun kulüp kaynaklarından edindiği bilgiye dayandırıyor. Sözün ifadesi kaynaklara göre küçük farklılıklar gösteriyor.",
+    "Habertürk, Vinicius'un yaklaşık 2 hafta sonraki Barcelona maçında oynamasının kırmızı kart nedeniyle tehlikeye girdiğini yazıyor.",
+    "Sporx, Mourinho'nun Real Madrid'deki ilk döneminde de basınla gerilimli ilişkisi olduğunu, bazı basın toplantılarına yardımcısı Aitor Karanka'yı gönderdiğini hatırlatıyor."
+   ],
+   "why": "Mourinho'nun sessizliği, takımın hakem kararları ve olası cezalar konusundaki hassasiyetini gösteriyor. Vinicius'un Barcelona maçında oynayıp oynayamayacağı ve Mourinho'nun yaklaşan Sevilla ile Barcelona maçlarında kulübede olması taraftar açısından önemli.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "belirsiz",
+   "clubs": [
+    {
+     "slug": "real-madrid",
+     "name": "Real Madrid"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-jose-mourinhodan-mac-sonu-olay-tepki-basin-toplantisina-katilmadi-gerekcesini-acikladi-431055",
+     "published": "2026-10-11T05:37:11+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/galeri/spor/jose-mourinhodan-tarihi-tepki-konusmadi-kimseyi-de-konusturmadi-nedeni-belli-oldu-4863306",
+     "published": "2026-10-11T06:08:41+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/ispanya/real-madrid/mourinho-dan-olay-tepki-mac-sonu-basin-toplantisina-katilmadi-SXHBQ1178746SXQ",
+     "published": "2026-10-11T06:36:00+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/mourinho-basin-toplantisina-cikmayi-reddetti-iste-sebebi-736371",
+     "published": "2026-10-11T06:54:40+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/foto/real-madrid-villarreal-maci-sonrasi-jose-mourinho-dan-olay-protesto-3918855",
+     "published": "2026-10-11T08:32:18+00:00"
+    }
+   ],
+   "n_sources": 5,
+   "first_published": "2026-10-11T05:37:11+00:00",
+   "last_published": "2026-10-11T08:32:18+00:00",
+   "image": {
+    "url": "https://img.piri.net/piri/upload/3/2026/10/11/7ce3eb12-jose-mourinhodan-tarihi-tepki-konusmadi-kimseyi-de.webp",
+    "kind": "source",
+    "label": "Fotoğraf: Yeni Şafak",
+    "credit": "Yeni Şafak",
+    "source_url": "https://www.yenisafak.com/galeri/spor/jose-mourinhodan-tarihi-tepki-konusmadi-kimseyi-de-konusturmadi-nedeni-belli-oldu-4863306"
+   },
+   "score": 23.73,
+   "importance": 6,
+   "popular": true
+  },
+  {
+   "id": "s0045",
+   "rank": 5,
+   "key": "faa289e4ebd77f75",
+   "title": "Trabzonspor, Samsunspor deplasmanında 3-0 kazanarak 153 günlük hasrete son verdi",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 7. haftasında Trabzonspor, Yeni 19 Mayıs Stadı'nda konuk olduğu Samsunspor'u 3-0 yendi. Bordo-mavililer, skoru ilk yarıda bulduğu üç golle belirledi ve dış sahada 153 gün sonra galibiyet aldı. Bu sonuç, sezonun ilk deplasman galibiyeti oldu. Teknik direktör Thomas Reis yönetimindeki takım, Galatasaray'a karşı alınan 4-0'lık sonucun ardından üst üste ikinci galibiyetini elde etti.",
+   "bullets": [
+    "Trabzonspor bu sezon sahasındaki ilk 3 maçını kazanmış, dış sahadaki 4. maçında ilk kez galip gelmişti. Önceki üç deplasman maçında galibiyet çıkmamıştı.",
+    "Sezon başında Kasımpaşa ile 1-1 berabere kalan takım, Amed Sportif Faaliyetler'e 2-1, TÜMOSAN Konyaspor'a 1-0 yenilmişti.",
+    "Son deplasman galibiyeti geçen sezonun 33. haftasında, 9 Mayıs'ta Beşiktaş'a karşı 2-1'lik skorla gelmişti. Aradan 153 gün geçti.",
+    "Bu sezonki dış saha maçları üç farklı teknik adamla oynandı: Kasımpaşa ve Amed maçlarında Fatih Tekke, Konyaspor maçında Hüseyin Çimşir, Samsunspor maçında Thomas Reis.",
+    "Amed yenilgisinin ardından Tekke ile yollar ayrılmış, geçici görevdeki Çimşir'in ardından Reis ile anlaşılmıştı. Reis, eski takımı Samsunspor'a karşı ilk deplasman galibiyetini aldı.",
+    "Yazarlara göre Trabzonspor ilk yarıda tempoyu belirledi, topa hâkim oldu ve Samsunspor'u kendi yarı alanına hapsetti. Hücum hattında Salah, Muçi, Aral ve Franculino Dju öne çıkarıldı.",
+    "Yazarlar Samsunspor'dan Melih'in kırmızı kart gördüğünü aktardı. Ömer Faruk Ünal'a göre Trabzonspor 10 kişi kalınca skoru korumaya yöneldi, Reis de 3-0'ın büyüsüne kapılmadı.",
+    "Yorumlarda kalede Onana, orta sahada Fabinho, savunmada Nwaiwu ve Pina'nın performansı olumlu anıldı."
+   ],
+   "why": "Trabzonspor taraftarı için bu sonuç, sezon başından beri süren deplasman sorununun bitmesi anlamına geliyor. Reis dönemindeki iki maçta alınan iki galibiyet, takımın yeni teknik direktörle toparlandığına dair olumlu bir işaret veriyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    },
+    {
+     "slug": "samsunspor",
+     "name": "Samsunspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/10/trabzonsporda-153-gunluk-kotu-seri-noktalandi",
+     "published": "2026-10-10T21:20:24+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/10/karadeniz-derbisinde-gulen-taraf-trabzonspor",
+     "published": "2026-10-10T21:20:26+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/11/spor-yazarlari-samsunspor-trabzonspor-macini-degerlendirdi",
+     "published": "2026-10-11T05:47:51+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/trabzonspor/2026/10/11/spor-yazarlarindan-flas-samsunspor-trabzonspor-maci-yorumlari",
+     "published": "2026-10-11T06:09:28+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/trabzonspor/yazarlardan-trabzonspor-degerlendirmesi-SXHBQ1178747SXQ",
+     "published": "2026-10-11T07:02:44+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/trabzonspor-153-gun-sonra-deplasmanda-kazandi-3477580",
+     "published": "2026-10-11T08:04:53+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/trabzonspordan-ilk-deplasman-zaferi-33536774",
+     "published": "2026-10-11T09:10:00+00:00"
+    },
+    {
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/11/trabzonspor-samsunda-rekorlarla-kazandi",
+     "published": "2026-10-11T10:32:00+00:00"
+    }
+   ],
+   "n_sources": 6,
+   "first_published": "2026-10-10T21:20:24+00:00",
+   "last_published": "2026-10-11T10:32:00+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/7856c2/1200/675/0/0/2048/1151?u=https://iftm.tmgrup.com.tr/2026/10/10/trabzonspor-deplasmanda-galibiyet-hasretini-sonlandirdi-1791648656156.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/trabzonspor/2026/10/10/trabzonsporda-153-gunluk-kotu-seri-noktalandi"
+   },
+   "score": 19.78,
+   "importance": 8,
+   "popular": false
+  },
+  {
+   "id": "s0005",
+   "rank": 6,
+   "key": "844423e14c082801",
+   "title": "Real Madrid, Villarreal'i Diomande'nin golüyle 1-0 yendi; Vinicius kırmızı kart gördü",
+   "summarized": true,
+   "intro": "La Liga'nın 8. haftasında Real Madrid, Santiago Bernabéu'da Villarreal'i 1-0 mağlup etti. Maçın tek golünü ikinci yarıda Yan Diomande attı. Gol dakikasını kaynaklar 62 ya da 63 olarak veriyor. Vinicius Junior'un VAR incelemesi sonrası kırmızı kart görmesi nedeniyle Real Madrid maçı 10 kişi tamamladı. İlk 11'de başlayan Arda Güler 77 dakika sahada kaldı.",
+   "bullets": [
+    "Diomande, yaz transfer döneminde Leipzig'ten 125 milyon euroya aldığı 19 yaşındaki oyuncu. Real Madrid formasıyla ilk golünü attı. Ajansspor'a göre 9 maçta 1 gol, 1 asistlik katkısı var.",
+    "Vinicius, Nathan Saliba'nın saçını çektiği için VAR uyarısı sonrası direkt kırmızı kart gördü. Kartın dakikası kaynaklarda 72 ya da 73 olarak geçiyor.",
+    "Sporx ve Ajansspor'a göre Vinicius kırmızıdan kısa süre önce (71. dakika) fileleri havalandırdı, ancak VAR uyarısıyla gol iptal edildi. Sporx, Mourinho'nun golden sonra sahaya girip oyuncularla sevindiğini yazdı.",
+    "Kırmızı kartın ardından Bernabéu'da hakem Isidro Diaz de Mera'ya büyük tepki gösterildi. Sporx maçın ikinci yarısını sertleşen bir oyun olarak anlattı.",
+    "Sarı kart gören isimler: Bellingham ve Veiga ilk yarıda; Mourinho, Rüdiger, Konate ve Tchouameni ikinci yarıda. Villarreal'den Pau Navarro da Mbappe'ye yaptığı sert faulle sarı gördü.",
+    "Mourinho, Vinicius'u yedek başlattı; Arda Güler sağ kanatta oynadı. Sporx'a göre Vinicius 52. dakikada oyuna girince Arda 10 numaraya kaydı. 77. dakikada yerini Camavinga'ya bıraktı.",
+    "Real Madrid 18 puana ulaştı. Ajansspor 3. sırada olduğunu, Sporx ise lider Barcelona'nın 6 puan gerisinde bulunduğunu yazdı. Villarreal 8 puanda kaldı ve Ajansspor'a göre 10. sırada.",
+    "Real Madrid, 14 Ekim Çarşamba günü Şampiyonlar Ligi'nde Roma deplasmanına gidecek. Ardından pazar günü Sevilla'yı ağırlayacak."
+   ],
+   "why": "Real Madrid, zorlu bir maçta 3 puanı aldı. Vinicius'un kırmızı kartı ise Roma deplasmanı ve sonraki lig maçları için eksik ihtimali yaratıyor. Diomande'nin ilk golü ve Arda Güler'in ilk 11'deki performansı Türk taraftar açısından da öne çıkıyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "real-madrid",
+     "name": "Real Madrid"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    },
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/10/real-madrid-villarreali-tek-golle-gecti",
+     "published": "2026-10-10T20:55:01+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/real-madrid-villarreal-1-0-mac-sonucu-yazili-ozet-736368",
+     "published": "2026-10-10T20:57:34+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/ispanya/real-madrid/real-madrid-villarreal-macinda-olaylar-olaylar-SXHBQ1178744SXQ",
+     "published": "2026-10-10T20:58:00+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/ispanyalaliga/2026/10/10/arda-gulerli-real-madrid-1-atti-3-puan-aldi",
+     "published": "2026-10-10T21:19:52+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/real-madrid-1-0-villarreal-mac-sonucu-ve-ozeti-arda-guler-li-real-madrid-tek-golle-kazandi-3918828",
+     "published": "2026-10-10T21:20:39+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/futbol/2026/10/10/real-madrid-villarreal-karsisinda-3-puani-tek-golle-aldi",
+     "published": "2026-10-10T21:47:23+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/ozet-maestro-arda-guler-real-madrid-evinde-villarreali-maglup-etti-3477529",
+     "published": "2026-10-11T06:09:57+00:00"
+    }
+   ],
+   "n_sources": 7,
+   "first_published": "2026-10-10T20:55:01+00:00",
+   "last_published": "2026-10-11T06:09:57+00:00",
+   "image": {
+    "url": "https://iasbh.tmgrup.com.tr/4f2c2f/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/real-madrid-villarreali-tek-golle-gecti-1791665531928.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Sabah",
+    "credit": "Sabah",
+    "source_url": "https://www.sabah.com.tr/spor/futbol/2026/10/10/real-madrid-villarreali-tek-golle-gecti"
+   },
+   "score": 18.24,
+   "importance": 6,
+   "popular": true
+  },
+  {
+   "id": "s0026",
+   "rank": 7,
+   "key": "52223858cb11fecc",
+   "title": "Gündoğan'ın 'Oynamıyorum ki niye hazır olayım' sözlerine Okan Buruk'tan yanıt",
+   "summarized": true,
+   "intro": "Galatasaray, Trendyol Süper Lig'in 7. haftasında RAMS Park'ta Kasımpaşa'yı 3-1 yenerek haftayı lider tamamladı. Maçın ardından stadyumdan ayrılan İlkay Gündoğan, basın mensuplarının \"Barcelona maçına hazır mısın?\" sorusuna \"Oynamıyorum ki, niye hazır olayım?\" yanıtını verdi. Sözler sosyal medyada geniş yankı buldu. Teknik direktör Okan Buruk ise tepkiyi anlayışla karşıladığını belirten bir değerlendirme yaptı.",
+   "bullets": [
+    "Hürriyet'e göre 35 yaşındaki Gündoğan'ın sözleri teknik direktör Okan Buruk'u işaret eden bir tepki olarak yorumlandı ve sosyal medyada günün en çok konuşulan konularından biri oldu.",
+    "Okan Buruk, Gündoğan'ın ısınıp oyuna girememesi nedeniyle sinirlenmiş olabileceğini söyledi.",
+    "Buruk'un sözleri: \"İlkay çok değerli bir oyuncumuz. Süre almak istemesi normal.\" Sözcü, bu açıklamayı Fanatik'teki habere dayandırdı.",
+    "Hürriyet ve Sözcü'ye göre Gündoğan bu sezon ligde 7, Şampiyonlar Ligi'nde 1 maç oynadı.",
+    "Bu maçların yalnızca ikisinde sahaya çıkabildi ve toplam süresi 11 dakikayla sınırlı kaldı. Hürriyet bunu potansiyel 720 dakikanın 11'i olarak aktardı.",
+    "CNN Türk, kulüpte Gündoğan'ın geleceğiyle ilgili bir karar alındığının iddia edildiğini, başlıkta ise ayrılık iddiasını duyurdu. İddianın ayrıntısı özetlerde yer almıyor ve resmi bir doğrulama bulunmuyor."
+   ],
+   "why": "Deneyimli bir ismin açıkça süre sıkıntısından yakınması, Galatasaray'da kadro yönetimi ve oyuncu memnuniyeti tartışmasını gündeme getirdi. Barcelona maçı öncesinde bu konu taraftarın dikkatini çekiyor. Gündoğan'ın geleceğine dair iddialar ise henüz resmi olarak doğrulanmış değil.",
+   "raw_summary": null,
+   "category": "teknik",
+   "category_name": "Teknik Direktör",
+   "status": "soylenti",
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    },
+    {
+     "slug": "premier-lig",
+     "name": "Premier Lig"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/10/09/ilkay-gundogandan-imali-cevap",
+     "published": "2026-10-10T21:19:31+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/ilkay-gundoganin-olay-tepkisine-okan-buruktan-yanit-43337263",
+     "published": "2026-10-11T05:21:50+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/oynamiyorum-ki-niye-hazir-olayim-demisti-okan-buruk-ilkay-gundoganin-sozlerine-yanit-verdi-p368062",
+     "published": "2026-10-11T07:40:57+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/okan-buruktan-ilkay-gundogan-aciklamasi-736374",
+     "published": "2026-10-11T07:46:32+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/galatasaray/2026/10/11/galatasaray-haberi-ilkay-gundoganin-tepkisine-okan-buruktan-flas-cevap",
+     "published": "2026-10-11T07:54:28+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/galatasarayda-ilkay-gundogan-icin-ayrilik-iddiasi-3477582",
+     "published": "2026-10-11T08:07:18+00:00"
+    }
+   ],
+   "n_sources": 6,
+   "first_published": "2026-10-10T21:19:31+00:00",
+   "last_published": "2026-10-11T08:07:18+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/45fffe/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/10/09/ilkay-gundogandan-imali-cevap-oynamiyorum-ki-niye-hazir-olayim-1791575829358.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/galatasaray/2026/10/09/ilkay-gundogandan-imali-cevap"
+   },
+   "score": 16.22,
+   "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0023",
+   "rank": 8,
+   "key": "19a5c4a255922a66",
+   "title": "Skriniar, dinlenme önerisini reddedip Rizespor maçında 90 dakika oynadı",
+   "summarized": true,
+   "intro": "Fenerbahçe, Trendyol Süper Lig'in 7. haftasında deplasmanda Çaykur Rizespor'u 3-0 yendi. Maçın ardından basına yansıyan haberlere göre Teknik Direktör İsmail Kartal, Slovakya Milli Takımı'ndan yorgun dönen Milan Skriniar'ı dinlendirmeyi planlamıştı. Sabah'ın haberine dayanan aktarımlara göre 31 yaşındaki stoper, Rize deplasmanının önemine dikkat çekerek oynamak istediğini söyledi. Skriniar maça ilk 11'de başladı ve karşılaşmanın tamamında sahada kaldı.",
+   "bullets": [
+    "Haberlere göre Kartal, Skriniar'ın milli takımdaki 4 maçın tamamında 90 dakika oynadığını dikkate alarak ona dinlenme seçeneği sundu.",
+    "Kartal'ın bu kararında yoğun maç takvimi ve sakatlık riskinin etkili olduğu aktarıldı.",
+    "Skriniar kendini iyi hissettiğini söyleyip teknik heyete oynamaya hazır olduğunu iletti.",
+    "Fenerbahçe'nin gollerini Marco Asensio, İrfan Can Kahveci ve Oğuz Aydın attı.",
+    "Sözcü'nün aktardığı verilere göre Skriniar maç boyunca 79 kez topla buluştu, 63 pasının 59'unu isabetli yaptı, 4 top uzaklaştırdı ve 3 ikili mücadelenin 2'sini kazandı.",
+    "Skriniar maç sonunda fazla maç oynamasına ilişkin olarak \"Bu benim işim\" dedi; amacının takıma yardımcı olmak olduğunu ve takım arkadaşlarının da övgüyü hak ettiğini belirtti.",
+    "Fenerbahçe, Rizespor karşısındaki yenilmezlik serisini 14 maça çıkardı (13 galibiyet, 1 beraberlik) ve Rize deplasmanındaki son 7 maçını kazandı.",
+    "Sarı-lacivertliler hafta içinde UEFA Şampiyonlar Ligi'nde Aston Villa'ya konuk olacak."
+   ],
+   "why": "Skriniar'ın yorgunluğa rağmen oynamayı istemesi, Fenerbahçe'nin yoğun fikstür döneminde savunmadaki önemini gösteriyor. Hafta içindeki Aston Villa deplasmanı öncesinde stoperin yük yönetimi taraftarın takip edeceği bir konu olabilir.",
+   "raw_summary": null,
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": "soylenti",
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    },
+    {
+     "slug": "milan",
+     "name": "Milan"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "serie-a",
+     "name": "Serie A"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    },
+    {
+     "slug": "uluslar-ligi",
+     "name": "Uluslar Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/10/fenerbahcede-milan-skriniar-bu-benim-isim",
+     "published": "2026-10-10T21:19:25+00:00"
+    },
+    {
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/11/fenerbahcede-skriniar-gercegi-ortaya-cikti",
+     "published": "2026-10-11T06:01:08+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/fenerbahce/2026/10/11/fenerbahceli-yildizdan-buyuk-fedakarlik-mac-sonu-gercek-ortaya-cikti",
+     "published": "2026-10-11T06:34:49+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/fenerbahce/fenerbahce-de-skriniar-dan-buyuk-fedakarlik-SXHBQ1178752SXQ",
+     "published": "2026-10-11T07:38:00+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/fenerbahcede-skriniar-gercegi-ismail-kartal-ile-gorusmesi-ortaya-cikti-p368067",
+     "published": "2026-10-11T07:58:40+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/fenerbahcede-milan-skriniar-ismail-kartalin-onerisini-geri-cevirdi-736381",
+     "published": "2026-10-11T10:06:37+00:00"
+    }
+   ],
+   "n_sources": 6,
+   "first_published": "2026-10-10T21:19:25+00:00",
+   "last_published": "2026-10-11T10:06:37+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/805496/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/10/fenerbahcede-milan-skriniar-1791655825447.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/fenerbahce/2026/10/10/fenerbahcede-milan-skriniar-bu-benim-isim"
+   },
+   "score": 17.05,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0043",
+   "rank": 9,
+   "key": "ffdfed7c8e74c0f4",
+   "title": "Parma'ya kiralanan Diego Carlos'a Vasco da Gama'dan ocak ayı ilgisi iddia edildi",
+   "summarized": true,
+   "intro": "Fenerbahçe'nin yaz transfer döneminde sezon sonuna kadar Serie A ekibi Parma'ya kiraladığı 33 yaşındaki Brezilyalı stoper Diego Carlos ile ilgili yeni bir iddia gündeme geldi. Brezilya basınında yer alan haberlere göre Vasco da Gama, oyuncudan vazgeçmiş değil ve ocak ayında harekete geçebilir. Brezilya ekibi yaz döneminde de futbolcuyla ilgilenmiş, ancak transferi sonuçlandıramamıştı. Konu şimdilik Brezilya medyasına dayanan bir iddia olarak aktarılıyor; kulüplerden resmi bir açıklama yok.",
+   "bullets": [
+    "Diego Carlos, 2024/25 sezonunun ara transfer döneminde Aston Villa'dan 11.47 milyon euro karşılığında Fenerbahçe'ye gelmişti.",
+    "Fenerbahçe'de sakatlık yaşayan oyuncu, iyileştikten sonra forma şansı bulmakta zorlandı ve sarı-lacivertli formayla 5 maçta 188 dakika süre aldı.",
+    "Geçen sezonu kiralık olarak İtalyan ekibi Como'da geçiren Carlos, orada başarılı bir performans sergilemişti.",
+    "Yabancı kuralı nedeniyle kadroda yer açmak isteyen Fenerbahçe, oyuncuyu bu yaz Parma'ya kiraladı.",
+    "Ajansspor'a göre kiralık sözleşmede 3 milyon euroluk satın alma opsiyonu bulunuyor.",
+    "Parma'daki maç sayısını Fotomaç 3, Ajansspor ise 4 olarak aktarıyor; Ajansspor oyuncunun hepsinde ilk 11'de başladığını yazıyor.",
+    "Oyuncunun Fenerbahçe ile sözleşmesi 2028 Haziran sonuna kadar sürüyor; güncel piyasa değeri 3 milyon euro olarak gösteriliyor."
+   ],
+   "why": "Fenerbahçe taraftarı için, yabancı kontenjanı nedeniyle ayrılan bir oyuncunun gelecekteki durumu açısından önemli. Vasco da Gama'nın ocak ayında girişimde bulunması halinde, sözleşmesi 2028'e kadar süren stoper için kalıcı bir ayrılık gündeme gelebilir. Şimdilik ortada yalnızca bir medya iddiası var.",
+   "raw_summary": null,
+   "category": "transfer",
+   "category_name": "Transfer",
+   "status": "soylenti",
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "serie-a",
+     "name": "Serie A"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/10/fenerbahcede-surpriz-gelisme-diego-carlos",
+     "published": "2026-10-10T21:20:19+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/surpriz-diego-carlos-gelismesi-gideli-henuz-3-ay-olmustu-736382",
+     "published": "2026-10-11T10:24:01+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-10-10T21:20:19+00:00",
+   "last_published": "2026-10-11T10:24:01+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/3fab58/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/10/fenerbahcede-surpriz-gelisme-diego-carlos-1791631952552.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/fenerbahce/2026/10/10/fenerbahcede-surpriz-gelisme-diego-carlos"
+   },
+   "score": 13.44,
+   "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0067",
+   "rank": 10,
+   "key": "42b9733f18087852",
+   "title": "Beşiktaş, Süper Lig'in 7. haftasında Kocaelispor'u ağırlıyor",
+   "summarized": true,
+   "intro": "Beşiktaş, Trendyol Süper Lig'in 7. haftasında bugün saat 19.00'da Tüpraş Stadı'nda Kocaelispor ile karşılaşacak. Maçı hakem Abdullah Buğra Taşkınsoy yönetecek. Vincenzo Italiano'nun takımı milli araya 6 maçta 4 galibiyet ve 2 yenilgiyle, 12 puan ve averajla 3. sırada girdi. Selçuk İnan'ın çalıştırdığı Kocaelispor da 4 galibiyet, 2 yenilgiyle 12 puanla 4. sırada yer alıyor. Siyah-beyazlılar, gelecek hafta oynanacak Trabzonspor maçına kayıpsız çıkmayı hedefliyor.",
+   "bullets": [
+    "Beşiktaş'ta sağ uyluk üst adalesinde gerilme ve kanama tespit edilen Milot Rashica bugün forma giyemeyecek. Rashica, Kosova'nın 4 Ekim'deki Avusturya maçında sakatlanmıştı.",
+    "Kaptan Orkun Kökçü sarı kart sınırında. Çorum FK, Erzurumspor FK ve Amed karşısında kart gören oyuncu bugün bir kart daha görürse Trabzonspor maçında cezalı olacak.",
+    "Kocaelispor'da Tanguy Zoukrou ve Matej Maglica sakatlıkları nedeniyle oynayamayacak. Makana Baku ile Anfernee Dijkseel'in durumu maç saatinde belli olacak.",
+    "Kocaelispor'da sakatlıkları geçen Muharrem Jovanovic, Rivas, Gulliksen, Agyei ve Aye görev alabilecek.",
+    "Hürriyet'in muhtemel 11'leri: Beşiktaş: Nübel, Taylan, Agbadou, Emirhan, Rıdvan, Salih, Orkun, Olaitan, Cerny, Trossard, Vlahovic. Kocaelispor: Serhat, Uğur, Onur, Emir, Rivas, Pedrinho, Berkan, Gulliksen, Sousa, Agyei, Aye.",
+    "Beşiktaş bu sezon UEFA Avrupa Ligi ve Süper Lig'de İstanbul'daki 7 maçını da kazandı; bu maçlarda 19 gol attı, 3 gol yedi. Ligdeki iç saha galibiyetleri Eyüpspor (1-0), Çorum FK (6-2) ve Erzurumspor (3-0) karşısında geldi.",
+    "Posta'ya göre Beşiktaş'ın gol umudu Vlahovic; Sırp forvet ligde 4 maçta 5 gol attı. Takım Amed yenilgisiyle milli araya girdi.",
+    "Süper Lig tarihinde 43. karşılaşma: Beşiktaş 25, Kocaelispor 5 kez kazandı, 12 maç berabere bitti. Kocaelispor'un Beşiktaş'a son lig galibiyeti 6 Mart 1999'daki 3-0'lık maçtı."
+   ],
+   "why": "Beşiktaş, Amed yenilgisinin ardından puan kaybetmeden Trabzonspor maçına girmek istiyor; bu nedenle maç moral ve üst sıralardaki yarış açısından önem taşıyor. Rashica'nın yokluğu ve Orkun Kökçü'nün kart durumu taraftar için takip edilmesi gereken başlıca ayrıntılar.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    },
+    {
+     "slug": "kocaelispor",
+     "name": "Kocaelispor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/besiktas-yeniden-cikis-pesinde-iste-muhtemel-11ler-43337217",
+     "published": "2026-10-11T04:00:00+00:00"
+    },
+    {
+     "name": "Posta",
+     "url": "https://www.posta.com.tr/spor/kartalin-zor-sinavi-3049954",
+     "published": "2026-10-11T04:01:36+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/galeri/spor/besiktas-kocaelispor-ilk-11ler-besiktas-kocaelispor-mac-kadrosu-belli-oldu-mu-kimler-eksik-vlahovic-oynayacak-mi-4863319",
+     "published": "2026-10-11T06:46:27+00:00"
+    }
+   ],
+   "n_sources": 3,
+   "first_published": "2026-10-11T04:00:00+00:00",
+   "last_published": "2026-10-11T06:46:27+00:00",
+   "image": {
+    "url": "https://image.hurimg.com/i/hurriyet/90/0x0/6acabd9dad0afbfd26bbc1a1.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Hürriyet",
+    "credit": "Hürriyet",
+    "source_url": "https://www.hurriyet.com.tr/sporarena/besiktas-yeniden-cikis-pesinde-iste-muhtemel-11ler-43337217"
+   },
+   "score": 9.66,
+   "importance": 7,
+   "popular": false
+  },
+  {
+   "id": "s0171",
+   "rank": 11,
+   "key": "2e7ef7b0528b6d58",
+   "title": "Real Madrid Villarreal'i 1-0 yendi, İspanyol basını Arda Güler'i öne çıkardı",
+   "summarized": true,
+   "intro": "Real Madrid, La Liga'nın 8. haftasında sahasında Villarreal'i 1-0 mağlup etti. Galibiyet golü 63. dakikada yaz transfer döneminde takıma katılan Yan Diomande'den geldi. Maçta 72. dakikada Vinicius Junior'un rakibinin saçını çektiği gerekçesiyle VAR incelemesinin ardından kırmızı kart görmesi de öne çıktı. Maça ilk 11'de başlayan milli futbolcu Arda Güler ise 77 dakika sahada kaldı ve performansıyla İspanyol basınında övgü topladı.",
+   "bullets": [
+    "Maç Real Madrid'in sahasında oynandı ve ev sahibi ekip 1-0 kazandı; tek gol 63. dakikada Yan Diomande'den geldi.",
+    "Vinicius Junior 72. dakikada kırmızı kart gördü ve Real Madrid son bölümü 10 kişi tamamladı.",
+    "Kaynaklardan birine göre Vinicius'un pozisyonda golü bulduğu, ancak gol öncesinde rakibinin saçını çektiği gerekçesiyle VAR izlemesi sonrası oyundan atıldığı aktarıldı.",
+    "Arda Güler 77 dakika oynadı ve yerini Eduardo Camavinga'ya bıraktı.",
+    "Arda'nın açtığı, topun altına girerek falso vermeye çalıştığı orta sosyal medyada çok konuşuldu; Villarrealli oyuncuları da şaşırttığı belirtildi ve \"yeni bir pas stili icat etti\" yorumları yapıldı.",
+    "Marca, 21 yaşındaki oyuncu için \"Arda Güler, Real Madrid'in açık ara en iyi oyuncusuydu\" ifadesini kullandı.",
+    "Sport, Arda'yı bir kez daha takımın en iyi orta saha oyuncusu olarak gösterdi; Mundo Deportivo ise onu \"şu anda Real Madrid'de farklı bir şey yapan tek oyuncu\" olarak tanımladı."
+   ],
+   "why": "Arda Güler'in İspanyol basınında Real Madrid'in en iyi oyuncusu olarak anılması, milli futbolcunun takımdaki yerinin güçlendiğini gösteriyor. Türk taraftar için hem Real Madrid'deki istikrarı hem de A Milli Takım açısından olumlu bir tablo sunuyor. Vinicius'un kırmızı kartı ise takımın sonraki maçlardaki kadro planlamasını ilgilendirebilir.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "real-madrid",
+     "name": "Real Madrid"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/arda-gulerin-ortasi-geceye-damga-vurdu-yeni-bir-pas-stili-icat-etti-4863314",
+     "published": "2026-10-11T06:35:12+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-olayli-macin-ardindan-arda-guler-konusuluyor-ispanyollar-haberi-mansetten-verdi-431070",
+     "published": "2026-10-11T09:35:54+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/ispanya-arda-guleri-konusuyor-real-madridin-acik-ara-en-iyi-oyuncusu-736383",
+     "published": "2026-10-11T10:24:46+00:00"
+    }
+   ],
+   "n_sources": 3,
+   "first_published": "2026-10-11T06:35:12+00:00",
+   "last_published": "2026-10-11T10:24:46+00:00",
+   "image": {
+    "url": "https://img.piri.net/piri/upload/3/2026/10/11/26b9085e-arda-gulerin-ortasi-geceye-damga-vurdu-yeni-bir-pas.webp",
+    "kind": "source",
+    "label": "Fotoğraf: Yeni Şafak",
+    "credit": "Yeni Şafak",
+    "source_url": "https://www.yenisafak.com/spor/arda-gulerin-ortasi-geceye-damga-vurdu-yeni-bir-pas-stili-icat-etti-4863314"
+   },
+   "score": 11.38,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0000",
+   "rank": 12,
+   "key": "1945b1b54ee7d17d",
+   "title": "Real Madrid Villarreal'i 1-0 yendi; Vinicius'un golü iptal edildi, kırmızı kart gördü",
+   "summarized": true,
+   "intro": "La Liga'nın 8. haftasında Real Madrid, Santiago Bernabeu'da Villarreal'i konuk etti. Kaynaklara göre karşılaşmayı ev sahibi ekip 1-0 kazandı. İkinci yarıda oyuna giren Vinicius Junior, 70'li dakikalarda ağları havalandırdı. VAR incelemesinde rakibinin saçını çektiği belirlendi, gol iptal edildi ve Brezilyalı oyuncu kırmızı kartla oyundan çıkarıldı. Real Madrid maçın kalan bölümünü 10 kişi tamamladı.",
+   "bullets": [
+    "Maçın ilk yarısı golsüz eşitlikle sona erdi.",
+    "Vinicius Junior maça yedek kulübesinde başladı ve ikinci yarıda Trent'in yerine oyuna girdi.",
+    "Yeni Şafak'a göre Real Madrid'in galibiyet golünü 63. dakikada Yan Diomande attı.",
+    "Vinicius'un golü NTV Spor ve A Spor'a göre 71. dakikada geldi. Yeni Şafak kırmızı kartı 72. dakikada gösteriyor, dakika bilgisi kaynaklarda küçük farklılık taşıyor.",
+    "VAR incelemesinde Vinicius'un gol öncesinde rakibinin saçını çektiği tespit edildi. İnceleme sonunda gol geçersiz sayıldı ve oyuncuya kırmızı kart gösterildi.",
+    "Kırmızı kart nedeniyle Real Madrid sahada 10 kişi kaldı.",
+    "Milli futbolcu Arda Güler maça ilk 11'de başladı ve 77 dakika sahada kaldı."
+   ],
+   "why": "Real Madrid taraftarı için ligde alınan üç puan sevindirici. Ancak Vinicius'un kırmızı kartı, oyuncunun cezalı duruma düşme ihtimalini ve sonraki maçlardaki kadro planlamasını gündeme getiriyor. Cezanın kapsamı kaynaklarda belirtilmedi.",
+   "raw_summary": null,
+   "category": "hakem",
+   "category_name": "Hakem / VAR",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "real-madrid",
+     "name": "Real Madrid"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-real-madrid-macinda-ilginc-an-vinicius-jr-sevinirken-hem-golu-iptal-edildi-hem-kirmizi-kart-gordu-431051",
+     "published": "2026-10-10T20:42:49+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/futbol/2026/10/10/real-madridde-vinicius-juniora-sok-golu-iptal-edildi-kirmizi-kart-gordu",
+     "published": "2026-10-10T20:59:15+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/vinicius-junior-neye-ugradigini-sasirdi-gol-attigini-sandi-ama-kirmizi-kart-gordu-4863330",
+     "published": "2026-10-11T07:22:13+00:00"
+    }
+   ],
+   "n_sources": 3,
+   "first_published": "2026-10-10T20:42:49+00:00",
+   "last_published": "2026-10-11T07:22:13+00:00",
+   "image": {
+    "url": "https://iaaspr.tmgrup.com.tr/b121e1/1200/675/0/0/800/450?u=https://iaspr.tmgrup.com.tr/2026/10/10/real-madridde-vinicius-juniora-sok-golu-iptal-edildi-kirmizi-kart-gordu-1791665897058.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: A Spor",
+    "credit": "A Spor",
+    "source_url": "https://www.aspor.com.tr/futbol/2026/10/10/real-madridde-vinicius-juniora-sok-golu-iptal-edildi-kirmizi-kart-gordu"
+   },
+   "score": 10.33,
+   "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0109",
+   "rank": 13,
+   "key": "8465c188733d2f1b",
+   "title": "Messi iki golle parladı, Inter Miami DC United'ı 4-0 yendi",
+   "summarized": true,
+   "intro": "Arjantin Milli Takımı kariyerini geçtiğimiz salı noktalayan 39 yaşındaki Lionel Messi, MLS'in 28. haftasında Inter Miami'nin DC United'ı 4-0 yendiği maçta iki gol attı. Messi 47. ve 60. dakikalarda fileleri havalandırdı. Ev sahibi ekibin diğer iki golü Luis Suarez'den geldi. Bu sonuçla Messi, bu sezon MLS'teki gol sayısını 23'e çıkararak gol krallığı yarışındaki liderliğini sürdürdü.",
+   "bullets": [
+    "Luis Suarez, Inter Miami'nin diğer iki golünü 3. ve 39. dakikalarda attı.",
+    "Messi'nin bu sezon MLS'teki gol sayısı 23'e yükseldi ve gol krallığı yarışında lider durumda.",
+    "Kaynaklara göre Messi'nin kariyer toplamı 934 gole ulaştı; 1000 gole 66 gol kaldı.",
+    "Maç, liglere verilen 3 haftalık milli aranın ardından oynandı; Messi bu aranın içinde Arjantin formasıyla son kez sahaya çıktı.",
+    "Messi, geçtiğimiz salı günü Buenos Aires'te Benin'e karşı oynanan hazırlık maçında Arjantin için 126. ve son golünü attı.",
+    "Messi'nin Inter Miami ile 31 Aralık 2028'e kadar geçerli bir sözleşmesi bulunuyor."
+   ],
+   "why": "Messi milli takım kariyerini bitirdikten sonra kulüp seviyesinde golcülüğünü sürdürüyor ve MLS gol krallığı yarışında önde. Taraftarlar için 1000 gol hedefi artık takip edilebilir bir eşik olarak yaklaşıyor. 2028 sonuna uzanan sözleşme, bu yolculuğun Inter Miami'de devam edeceğine işaret ediyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "inter",
+     "name": "Inter"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "serie-a",
+     "name": "Serie A"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-milli-takimdan-emekli-olan-messi-inter-miamide-sov-yapiyor-adim-adim-1000-gole-431058",
+     "published": "2026-10-11T06:43:24+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/lionel-messi-1000-gole-cok-yakin-haber-2045850",
+     "published": "2026-10-11T08:05:00+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-10-11T06:43:24+00:00",
+   "last_published": "2026-10-11T08:05:00+00:00",
+   "image": {
+    "url": "https://imgs.stargazete.com/imgsdisk/2026/10/11/lionel-messi-1000-gole-co-238_2-41.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Star",
+    "credit": "Star",
+    "source_url": "https://www.star.com.tr/spor/lionel-messi-1000-gole-cok-yakin-haber-2045850"
+   },
+   "score": 7.12,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0047",
+   "rank": 14,
+   "key": "16384b8523541308",
+   "title": "Reis, Samsunspor galibiyeti sonrası kırmızı kart ve takım ruhunu değerlendirdi",
+   "summarized": true,
+   "intro": "Trabzonspor, Trendyol Süper Lig'in 7. haftasında Karadeniz derbisinde deplasmanda Samsunspor'u 3-0 yendi. Maçın ardından Trabzonspor Teknik Direktörü Thomas Reis açıklamalarda bulundu. Reis, takımının kazanmayı hak ettiğini söyledi ve kırmızı karta kadar maçın kontrolün kendilerinde olduğunu belirtti. Eski takımı Samsunspor'un zor bir süreçten geçtiğini de dile getirdi.",
+   "bullets": [
+    "Trabzonspor'un gollerini Muçi, Nwaiwu ve Dju attı; Yeni Şafak'a göre galibiyetle takımın puanı 13'e yükseldi ve zirve takibi sürdü.",
+    "Fotomaç, 3-0'lık skora ilk yarıda bulunan gollerle ulaşıldığını aktardı.",
+    "Kaleci Melih Kabasakal kırmızı kart gördü. Reis, Melih'in maçtan sonra çok üzgün olduğunu, ancak bu durumdan çıkarımlar yapması gerektiğini söyledi.",
+    "Reis, kırmızı karta kadar tek bir hata yaptıklarını, kartın ise büyük bir hata olduğunu belirtti; ikinci yarıyı genel olarak savunmayla geçirdiklerini ekledi.",
+    "Reis, rakibin ikinci yarıda direkten dönen toplarının olduğunu kabul etti, ancak bunun hak edilen galibiyet gerçeğini değiştirmediğini söyledi.",
+    "Oyuncuların yavaş yavaş sağlığına kavuşup dönmesiyle ilk 11 kararını vermenin kendisi için \"tatlı bir zorluk\" olduğunu söyledi.",
+    "Çok maç oynanacak yoğun bir döneme girildiğini, bunun kolay olmayacağını ve \"adım adım\" gitmeleri gerektiğini vurguladı.",
+    "Samsunspor için \"Zor bir durumdalar\" diyen Reis, eski takımının birlikte kalması gerektiğini söyledi ve gelecek için en iyi dileklerini iletti."
+   ],
+   "why": "Trabzonspor taraftarı için galibiyet, zirve takibinin sürmesi açısından önem taşıyor. Reis'in sözleri, sakat oyuncuların dönüşüyle kadro rekabetinin artacağına ve yoğun fikstürde dikkatli ilerlenmesi gerektiğine işaret ediyor. Melih Kabasakal'ın kırmızı kartı ise sonraki maçlar için takip edilecek bir konu.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "samsunspor",
+     "name": "Samsunspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/10/thomas-reistan-kirmizi-kart-aciklamasi",
+     "published": "2026-10-10T21:20:30+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/galeri/spor/thomas-reisden-mac-sonu-samsunspor-aciklamasi-zor-bir-durumdalar-4863302",
+     "published": "2026-10-11T05:21:05+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-10-10T21:20:30+00:00",
+   "last_published": "2026-10-11T05:21:05+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/471d56/1200/675/0/9/800/459?u=https://iftm.tmgrup.com.tr/2026/10/10/thomas-reistan-kirmizi-kart-aciklamasi-1791647312041.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/trabzonspor/2026/10/10/thomas-reistan-kirmizi-kart-aciklamasi"
+   },
+   "score": 5.84,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0040",
+   "rank": 15,
+   "key": "bb05e5de683dcf2b",
+   "title": "Galatasaray genel kurulu: Özbek yönetimi ibra edildi, Florya projesi gelirine dair açıklamalar",
+   "summarized": true,
+   "intro": "Galatasaray Spor Kulübü'nün yıllık olağan genel kurulu Haliç Kongre Merkezi'nde yapıldı. Divan başkanlığına Eşref Alaçayır seçildi. Başkan Dursun Özbek konuşmasında sportif başarıları, hedefleri ve finansal konuları ele aldı. Kaynaklara göre 1 Haziran 2025 ile 31 Mayıs 2026 dönemine ait faaliyet raporu sunuldu, Özbek ve yönetimi bu dönem için ibra edildi.",
+   "bullets": [
+    "Özbek, yaklaşık 5 ay önce üyelerin kendisine ve arkadaşlarına 3. dönem için görev verdiğini hatırlattı ve bu görevden gurur duyduğunu söyledi.",
+    "Başkan, erkek futbol takımının Süper Lig'de üst üste 4, toplamda 26. şampiyonluğunu kazandığını ve Şampiyonlar Ligi'nde son 16 turuna kalındığını belirtti.",
+    "Yeni sezon hedefi olarak üst üste 5. şampiyonluk ve Avrupa'da önemli başarılar açıklandı. Özbek, şampiyon kadronun korunduğunu ve yeni transferlerle güçlendirildiğini söyledi.",
+    "Basketbolda NBA Europe projesi için NBA ekibi ve yatırımcılarla görüşmelerin sürdüğünü belirten Özbek, bu yıl içinde güzel haberler paylaşacağını söyledi.",
+    "Kadın basketbol takımı geçen sezon Euroleague ve Türkiye Ligi'nde final oynadı. Kadın voleybol takımı CEV Cup'ı namağlup kazandı, erkek voleybol takımı da Efe Ligi'nde final oynadı.",
+    "Özbek, 2 bin 89 sporcuyla toplam 102 kupa ve bin 84 madalya kazanıldığını açıkladı.",
+    "Florya konut projesinde Nivak firmasıyla hasılat paylaşımı anlaşması imzalandığını belirten Özbek, projeden asgari yaklaşık 300 milyon dolar gelir beklediklerini söyledi. 50 milyon dolar avansla Bankalar Birliği kredisinin kalanı kapatıldı ve vadesi geçmiş borçların bir bölümü ödendi.",
+    "Özbek'e göre Florya arsası toplam 65 dönüm: 22 dönüm eskiden kulübün tapusundaydı, 43 dönüm ise bu yönetim döneminde Emlak Konut'tan alınarak kulübe tapu edildi. Yaklaşık 250 milyon dolarlık kalan alacağın beklediğini söyledi."
+   ],
+   "why": "Genel kurul, yönetimin mali tablosunu ve Florya projesinin borç yükü üzerindeki etkisini ortaya koyuyor. Taraftar için hem yeni sezon sportif hedefleri hem de kulübün finansal yapısına dair gelişmeler açısından önemli. Ibra kararı, yönetimin ilgili dönem için aklandığını gösteriyor.",
+   "raw_summary": null,
+   "category": "yonetim",
+   "category_name": "Yönetim",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/10/10/galatasaray-baskani-dursun-ozbek-dev-geliri-acikladi-sampiyonlar-liginde",
+     "published": "2026-10-10T21:20:13+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/galatasaray-yillik-olagan-genel-kurul-toplantisi-gerceklesti-borc-31-4-milyar-tl-olarak-aciklandi-3918647",
+     "published": "2026-10-10T21:22:54+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-10-10T21:20:13+00:00",
+   "last_published": "2026-10-10T21:22:54+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/73eec4/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/10/10/galatasaray-baskani-dursun-ozbek-dev-geliri-acikladi-sampiyonlar-liginde-1791622559469.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/galatasaray/2026/10/10/galatasaray-baskani-dursun-ozbek-dev-geliri-acikladi-sampiyonlar-liginde"
+   },
+   "score": 4.77,
+   "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0186",
+   "rank": 16,
+   "key": "2e493ecdac1fd00a",
+   "title": "Samsunspor'da Fatih Kaya'nın kaburgasında kırık, Celil Yüksel'de kas zorlanması",
+   "summarized": true,
+   "intro": "Süper Lig'in 7. haftasında Trabzonspor'a sahasında 3-0 yenilen Samsunspor'da iki oyuncu maç sırasında sakatlandı. Samsunspor Kulübü yaptığı resmi açıklamayla santrfor Fatih Kaya ile orta saha oyuncusu Celil Yüksel'in sağlık durumunu duyurdu. Fatih Kaya'da kaburga kırığı, Celil Yüksel'de ise uyluk arka kasında zorlanma ve kanama tespit edildi. İki oyuncunun tedavi ve takip süreci kulübün sağlık ekibi tarafından sürdürülüyor.",
+   "bullets": [
+    "Kulübün açıklamasına göre Fatih Kaya, Trabzonspor maçında yaşadığı bir çarpışmanın ardından göğüs bölgesinde ağrı hissetti.",
+    "Kaya maçın ardından VM Medical Park Samsun Hastanesi'ne sevk edildi; muayene ve tetkiklerde sağ 8. kaburgasında kırık saptandı.",
+    "Fatih Kaya 26 yaşında ve santrfor mevkiinde oynuyor.",
+    "Celil Yüksel aynı karşılaşmada sakatlanarak oyundan çıktı; 28 yaşındaki orta saha oyuncusu.",
+    "Yüksel'in muayene ve görüntüleme tetkiklerinde sol uyluk arka kas grubunda (M. Biceps Femoris) zorlanma ve kanama belirlendi.",
+    "Açıklamada iki oyuncunun ne kadar süre forma giyemeyeceğine dair bir bilgi verilmedi.",
+    "Kulüp, iki futbolcuya geçmiş olsun dileklerini iletti ve en kısa sürede sağlıklarına kavuşmalarını diledi."
+   ],
+   "why": "Samsunspor, ağır bir yenilginin ardından iki oyuncusunun sakatlığıyla karşı karşıya kaldı. Kadro seçenekleri ve ileri hat ile orta saha rotasyonu açısından önümüzdeki maçlarda bu oyuncuların durumu takip edilecek. Dönüş süreleri henüz açıklanmadığı için taraftarlar kulübün yeni bilgilendirmelerini bekleyecek.",
+   "raw_summary": null,
+   "category": "sakatlik",
+   "category_name": "Sakatlık",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    },
+    {
+     "slug": "samsunspor",
+     "name": "Samsunspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/kulup-sok-haberi-duyurdu-kaburgasinda-kirik-tespit-edildi-736384",
+     "published": "2026-10-11T10:39:00+00:00"
+    }
+   ],
+   "n_sources": 1,
+   "first_published": "2026-10-11T10:39:00+00:00",
+   "last_published": "2026-10-11T10:39:00+00:00",
+   "image": {
+    "path": "pool/diger-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 3.74,
+   "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0151",
+   "rank": 17,
+   "key": "3dbb4214ec9986d5",
+   "title": "Samsunspor'dan Fatih Kaya ve Celil Yüksel için sakatlık açıklaması",
+   "summarized": true,
+   "intro": "Süper Lig'in 7. haftasında Samsunspor, sahasında Trabzonspor'a 3-0 yenildi. Maçın ardından Samsunspor, karşılaşmada sakatlanan iki oyuncusu hakkında resmi açıklama yaptı. Kulübe göre Fatih Kaya'nın kaburga kemiğinde kırık tespit edildi, Celil Yüksel'de ise sol uyluk arka kas grubunda zorlanma ve kanama var. İki oyuncunun tedavi ve takip süreci kulübün sağlık ekibi tarafından sürdürülüyor.",
+   "bullets": [
+    "Fatih Kaya, Trabzonspor maçında yaşadığı çarpışmanın ardından göğüs bölgesinde ağrı hissetti.",
+    "Kaya, maçın ardından VM Medical Park Samsun Hastanesi'ne sevk edildi.",
+    "Yapılan muayene ve tetkiklerde Kaya'nın sağ 8. kaburgasında kırık olduğu belirlendi.",
+    "Celil Yüksel maçta sakatlanarak oyundan çıktı.",
+    "Yüksel'in muayene ve görüntüleme sonuçlarında sol uyluk arka kas grubunda (M. Biceps Femoris) zorlanma ve kanama saptandı.",
+    "Kulüp iki oyuncuya geçmiş olsun dileklerini iletti ve en kısa sürede sağlıklarına kavuşmalarını temenni etti.",
+    "Açıklamada iki oyuncunun ne kadar süre forma giyemeyeceğine dair bir bilgi yer almadı."
+   ],
+   "why": "Samsunspor, 3-0'lık mağlubiyetin ardından iki oyuncusundan yoksun kalma riskiyle karşı karşıya. Kulüp henüz bir iyileşme veya yokluk süresi açıklamadığı için taraftarlar sonraki maçlardaki durumları konusunda yeni bilgi bekleyecek.",
+   "raw_summary": null,
+   "category": "sakatlik",
+   "category_name": "Sakatlık",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    },
+    {
+     "slug": "samsunspor",
+     "name": "Samsunspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/super-lig-ekibinden-flas-sakatlik-aciklamasi-yildiz-oyuncunun-kaburga-kemigi-kirildi-4863347",
+     "published": "2026-10-11T08:32:04+00:00"
+    }
+   ],
+   "n_sources": 1,
+   "first_published": "2026-10-11T08:32:04+00:00",
+   "last_published": "2026-10-11T08:32:04+00:00",
+   "image": {
+    "url": "https://img.piri.net/piri/upload/3/2026/10/11/c53655b8-super-lig-ekibinden-flas-sakatlik-aciklamasi-yildiz.webp",
+    "kind": "source",
+    "label": "Fotoğraf: Yeni Şafak",
+    "credit": "Yeni Şafak",
+    "source_url": "https://www.yenisafak.com/spor/super-lig-ekibinden-flas-sakatlik-aciklamasi-yildiz-oyuncunun-kaburga-kemigi-kirildi-4863347"
+   },
+   "score": 3.37,
+   "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0125",
+   "rank": 18,
+   "key": "3175a0f9c7e17fe3",
+   "title": "Beşiktaş'ta Trossard sakatlığı atlattı, Kocaelispor maçında ilk 11 bekleniyor",
+   "summarized": true,
+   "intro": "Beşiktaş'ta Kocaelispor maçı öncesinde Leandro Trossard'dan olumlu haber geldi. Erzurumspor FK karşılaşmasının ardından topuk kemiğinde travmatik kemik ödemi tespit edilen 31 yaşındaki Belçikalı futbolcu, Amedspor ve Marsilya maçlarında forma giyememişti. Sporx'un aktardığına göre oyuncu milli arada tamamen iyileşti. Trossard'ın Kocaelispor karşılaşmasında ilk 11'e dönmesi bekleniyor. İkinci kaynakta ise Dusan Vlahovic ve Trossard'dan sevindirici haber geldiği belirtiliyor, ancak metin kesik olduğu için Vlahovic ile ilgili ayrıntı bilinmiyor.",
+   "bullets": [
+    "Trossard'ın sakatlığı Erzurumspor FK maçının ardından topuk kemiğinde travmatik kemik ödemi olarak tespit edildi.",
+    "Oyuncu sakatlığı nedeniyle Beşiktaş'ın Amedspor ve Marsilya maçlarında görev yapamadı.",
+    "Trossard, Belçika Milli Takımı'nın Türkiye ve Fransa ile oynadığı UEFA Uluslar Ligi maçlarında sonradan oyuna girerek süre aldı.",
+    "Belçikalı oyuncunun Kocaelispor maçında sol kanatta görev yapması ve ilk 11'e dönmesi bekleniyor.",
+    "Dönüşüyle birlikte siyah-beyazlıların hücum hattındaki seçeneklerin artacağı belirtiliyor.",
+    "Trossard, Beşiktaş'ın Fenerbahçe'yi deplasmanda 2-1 yendiği derbide takımın ilk golünün asistini yapmıştı.",
+    "Oyuncu, Erzurumspor FK maçında Beşiktaş formasıyla ilk golünü atmıştı.",
+    "İkinci haber, Vlahovic ve Trossard'a dair olumlu gelişmeden söz ediyor; Vlahovic'in durumu metinde yer almıyor."
+   ],
+   "why": "Trossard'ın dönüşü, Beşiktaş'ın hücum hattında hem skor hem yaratıcılık açısından seçenekleri artırıyor. Derbideki asisti ve ilk golüyle kısa sürede etkili olan oyuncunun Kocaelispor maçında sahada olması taraftar için önemli bir güç anlamına geliyor.",
+   "raw_summary": null,
+   "category": "sakatlik",
+   "category_name": "Sakatlık",
+   "status": "belirsiz",
+   "clubs": [
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/besiktas/besiktas-ta-leandro-trossard-mujdesi-SXHBQ1178750SXQ",
+     "published": "2026-10-11T07:32:14+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/besiktas/besiktas-ta-italiano-nun-yuzu-guluyor-SXHBQ1178760SXQ",
+     "published": "2026-10-11T08:28:38+00:00"
+    }
+   ],
+   "n_sources": 1,
+   "first_published": "2026-10-11T07:32:14+00:00",
+   "last_published": "2026-10-11T08:28:38+00:00",
+   "image": {
+    "url": "https://cdn.sporx.com/img/79/2026/hskhriuagaa2me4-1.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Sporx",
+    "credit": "Sporx",
+    "source_url": "https://www.sporx.com/futbol/superlig/besiktas/besiktas-ta-leandro-trossard-mujdesi-SXHBQ1178750SXQ"
+   },
+   "score": 3.06,
+   "importance": 7,
+   "popular": false
+  },
+  {
+   "id": "s0073",
+   "rank": 19,
+   "key": "3283eb7b3d0ca2f9",
+   "title": "Fink, Trabzonspor yenilgisi sonrası Samsunspor'da görevine devam etmek istiyor",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 7. haftasında Samsunspor, sahasında Trabzonspor'a 3-0 yenildi. Maçın ardından basın toplantısına çıkan Samsunspor Teknik Direktörü Thorsten Fink, üst üste beşinci mağlubiyetlerini aldıklarını belirtti. Fink, istifa edip etmeyeceği sorusuna görevde kalmayı düşündüğünü söyleyerek yanıt verdi. Alman teknik adam, nihai kararın kendisine olduğu kadar kulübe de bağlı olduğunu ekledi.",
+   "bullets": [
+    "Karşılaşma Samsun Yeni 19 Mayıs Stadı'nda oynandı ve Trabzonspor maçı 3-0 kazandı.",
+    "Fink, Trabzonspor'un kendilerinden çok daha iyi oynadığını ve galibiyeti hak ettiğini söyledi.",
+    "Teknik adama göre rakip özellikle ikili mücadelelerde daha temaslıydı, ayrıca hızlı düşünüp hızlı oynadı.",
+    "Fink, ikinci yarıda daha iyi oynadıklarını belirtti ve üç şutlarının direkten döndüğünü söyledi.",
+    "Bu maçtan önce dört maç kaybettiklerini hatırlatan Fink, üst üste yenilgiler nedeniyle takımda özgüven eksikliği olduğunu kabul etti.",
+    "İstifa sorusuna \"Burada kalmayı düşünüyorum. Ben savaşçı biriyim\" diyen Fink, Dortmund'dan gelen vazgeçmeme kimliğine vurgu yaptı.",
+    "Fink, taraftardan özür diledi ve takımı yeniden değiştirebileceğine inancının tam olduğunu söyledi; kararın kulübe de bağlı olduğunu ekledi."
+   ],
+   "why": "Beş maçlık yenilgi serisi Samsunspor taraftarı için teknik direktörün geleceğine dair soru işaretleri yaratıyor. Fink görevde kalmak istediğini açıkça söylese de son söz kulüp yönetiminde. Trabzonspor açısından ise deplasmanda alınan net galibiyet olumlu bir sonuç olarak öne çıkıyor.",
+   "raw_summary": null,
+   "category": "yonetim",
+   "category_name": "Yönetim",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/galeri/spor/thorsten-finkten-trabzonspor-yenilgisi-sonrasi-flas-istifa-aciklamasi-4863300",
+     "published": "2026-10-11T04:57:06+00:00"
+    }
+   ],
+   "n_sources": 1,
+   "first_published": "2026-10-11T04:57:06+00:00",
+   "last_published": "2026-10-11T04:57:06+00:00",
+   "image": {
+    "url": "https://img.piri.net/piri/upload/3/2026/10/11/90a73f64-thorsten-finkten-trabzonspor-yenilgisi-sonrasi-flas-istifa.webp",
+    "kind": "source",
+    "label": "Fotoğraf: Yeni Şafak",
+    "credit": "Yeni Şafak",
+    "source_url": "https://www.yenisafak.com/galeri/spor/thorsten-finkten-trabzonspor-yenilgisi-sonrasi-flas-istifa-aciklamasi-4863300"
+   },
+   "score": 2.65,
+   "importance": 6,
+   "popular": false
+  }
+ ]
+}
