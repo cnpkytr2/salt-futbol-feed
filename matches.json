@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-11T21:17:27+00:00",
+ "generated_at": "2026-10-12T09:17:30+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -544,7 +544,7 @@
      "points": 22,
      "form": "WWWWD",
      "group": "Lig A",
-     "updated": "2026-10-11 10:01:54"
+     "updated": "2026-10-12 10:00:50"
     },
     {
      "rank": 2,
@@ -552,17 +552,17 @@
       "name": "Bursaspor",
       "club": null
      },
-     "played": 8,
+     "played": 9,
      "win": 6,
      "draw": 1,
-     "loss": 1,
-     "gf": 16,
-     "ga": 7,
-     "gd": 9,
+     "loss": 2,
+     "gf": 17,
+     "ga": 9,
+     "gd": 8,
      "points": 19,
-     "form": "WDWWW",
+     "form": "LWDWW",
      "group": "Lig A",
-     "updated": "2026-10-11 10:01:54"
+     "updated": "2026-10-12 10:00:50"
     },
     {
      "rank": 3,
@@ -580,7 +580,7 @@
      "points": 19,
      "form": "WDWWW",
      "group": "Lig A",
-     "updated": "2026-10-11 10:01:54"
+     "updated": "2026-10-12 10:00:50"
     },
     {
      "rank": 4,
@@ -598,7 +598,7 @@
      "points": 16,
      "form": "WDDWW",
      "group": "Lig A",
-     "updated": "2026-10-11 10:01:54"
+     "updated": "2026-10-12 10:00:50"
     },
     {
      "rank": 5,
@@ -616,7 +616,7 @@
      "points": 16,
      "form": "LLLWW",
      "group": "Lig A",
-     "updated": "2026-10-11 10:01:54"
+     "updated": "2026-10-12 10:00:50"
     }
    ],
    "standings_limited": true,
@@ -1287,17 +1287,17 @@
       "name": "Manchester City",
       "club": "man-city"
      },
-     "played": 5,
-     "win": 5,
+     "played": 6,
+     "win": 6,
      "draw": 0,
      "loss": 0,
-     "gf": 13,
+     "gf": 16,
      "ga": 5,
-     "gd": 8,
-     "points": 15,
+     "gd": 11,
+     "points": 18,
      "form": "WWWWW",
      "group": "Premier League",
-     "updated": "2026-10-11 10:00:11"
+     "updated": "2026-10-12 10:00:07"
     },
     {
      "rank": 2,
@@ -1315,7 +1315,7 @@
      "points": 15,
      "form": "WLWWW",
      "group": "Premier League",
-     "updated": "2026-10-11 10:00:11"
+     "updated": "2026-10-12 10:00:07"
     },
     {
      "rank": 3,
@@ -1333,7 +1333,7 @@
      "points": 13,
      "form": "WWWDL",
      "group": "Premier League",
-     "updated": "2026-10-11 10:00:11"
+     "updated": "2026-10-12 10:00:07"
     },
     {
      "rank": 4,
@@ -1351,25 +1351,25 @@
      "points": 10,
      "form": "DWDDD",
      "group": "Premier League",
-     "updated": "2026-10-11 10:00:11"
+     "updated": "2026-10-12 10:00:07"
     },
     {
      "rank": 5,
      "team": {
-      "name": "Chelsea",
-      "club": "chelsea"
+      "name": "Everton",
+      "club": null
      },
      "played": 6,
-     "win": 3,
-     "draw": 1,
-     "loss": 2,
-     "gf": 15,
-     "ga": 13,
-     "gd": 2,
+     "win": 2,
+     "draw": 4,
+     "loss": 0,
+     "gf": 8,
+     "ga": 5,
+     "gd": 3,
      "points": 10,
-     "form": "WLDLW",
+     "form": "DWDDD",
      "group": "Premier League",
-     "updated": "2026-10-11 10:00:11"
+     "updated": "2026-10-12 10:00:07"
     }
    ],
    "standings_limited": true,
@@ -1851,7 +1851,7 @@
      "points": 24,
      "form": "WWWWW",
      "group": "La Liga",
-     "updated": "2026-10-11 10:00:04"
+     "updated": "2026-10-12 10:00:07"
     },
     {
      "rank": 2,
@@ -1869,10 +1869,28 @@
      "points": 19,
      "form": "WWWWL",
      "group": "La Liga",
-     "updated": "2026-10-11 10:00:04"
+     "updated": "2026-10-12 10:00:07"
     },
     {
      "rank": 3,
+     "team": {
+      "name": "Real Betis",
+      "club": null
+     },
+     "played": 8,
+     "win": 6,
+     "draw": 1,
+     "loss": 1,
+     "gf": 14,
+     "ga": 9,
+     "gd": 5,
+     "points": 19,
+     "form": "WDWWW",
+     "group": "La Liga",
+     "updated": "2026-10-12 10:00:07"
+    },
+    {
+     "rank": 4,
      "team": {
       "name": "Real Madrid",
       "club": "real-madrid"
@@ -1887,25 +1905,7 @@
      "points": 18,
      "form": "WLWWL",
      "group": "La Liga",
-     "updated": "2026-10-11 10:00:04"
-    },
-    {
-     "rank": 4,
-     "team": {
-      "name": "Real Betis",
-      "club": null
-     },
-     "played": 7,
-     "win": 5,
-     "draw": 1,
-     "loss": 1,
-     "gf": 9,
-     "ga": 7,
-     "gd": 2,
-     "points": 16,
-     "form": "DWWWL",
-     "group": "La Liga",
-     "updated": "2026-10-11 10:00:04"
+     "updated": "2026-10-12 10:00:07"
     },
     {
      "rank": 5,
@@ -1923,7 +1923,7 @@
      "points": 13,
      "form": "LWWDL",
      "group": "La Liga",
-     "updated": "2026-10-11 10:00:04"
+     "updated": "2026-10-12 10:00:07"
     }
    ],
    "standings_limited": true,
@@ -2405,43 +2405,43 @@
      "points": 16,
      "form": "WDWWW",
      "group": "Serie A",
-     "updated": "2026-10-11 10:00:14"
+     "updated": "2026-10-12 10:00:09"
     },
     {
      "rank": 2,
      "team": {
-      "name": "Roma",
-      "club": "roma"
+      "name": "Lazio",
+      "club": null
      },
-     "played": 5,
-     "win": 4,
+     "played": 6,
+     "win": 5,
      "draw": 1,
      "loss": 0,
-     "gf": 14,
-     "ga": 3,
-     "gd": 11,
-     "points": 13,
-     "form": "DWWWW",
+     "gf": 11,
+     "ga": 4,
+     "gd": 7,
+     "points": 16,
+     "form": "WWDWW",
      "group": "Serie A",
-     "updated": "2026-10-11 10:00:14"
+     "updated": "2026-10-12 10:00:09"
     },
     {
      "rank": 3,
      "team": {
-      "name": "Lazio",
-      "club": null
+      "name": "Roma",
+      "club": "roma"
      },
-     "played": 5,
+     "played": 6,
      "win": 4,
-     "draw": 1,
+     "draw": 2,
      "loss": 0,
-     "gf": 8,
+     "gf": 14,
      "ga": 3,
-     "gd": 5,
-     "points": 13,
-     "form": "WDWWW",
+     "gd": 11,
+     "points": 14,
+     "form": "DDWWW",
      "group": "Serie A",
-     "updated": "2026-10-11 10:00:14"
+     "updated": "2026-10-12 10:00:09"
     },
     {
      "rank": 4,
@@ -2449,17 +2449,17 @@
       "name": "Cagliari",
       "club": null
      },
-     "played": 5,
+     "played": 6,
      "win": 4,
-     "draw": 0,
+     "draw": 1,
      "loss": 1,
-     "gf": 5,
-     "ga": 2,
+     "gf": 6,
+     "ga": 3,
      "gd": 3,
-     "points": 12,
-     "form": "WWWLW",
+     "points": 13,
+     "form": "DWWWL",
      "group": "Serie A",
-     "updated": "2026-10-11 10:00:14"
+     "updated": "2026-10-12 10:00:09"
     },
     {
      "rank": 5,
@@ -2467,17 +2467,17 @@
       "name": "AC Milan",
       "club": "milan"
      },
-     "played": 5,
+     "played": 6,
      "win": 3,
-     "draw": 2,
+     "draw": 3,
      "loss": 0,
-     "gf": 10,
-     "ga": 4,
+     "gf": 11,
+     "ga": 5,
      "gd": 6,
-     "points": 11,
-     "form": "WDDWW",
+     "points": 12,
+     "form": "DWDDW",
      "group": "Serie A",
-     "updated": "2026-10-11 10:00:14"
+     "updated": "2026-10-12 10:00:09"
     }
    ],
    "standings_limited": true,
@@ -2943,6 +2943,24 @@
     {
      "rank": 1,
      "team": {
+      "name": "Freiburg",
+      "club": null
+     },
+     "played": 5,
+     "win": 4,
+     "draw": 1,
+     "loss": 0,
+     "gf": 14,
+     "ga": 4,
+     "gd": 10,
+     "points": 13,
+     "form": "WDWWW",
+     "group": "Bundesliga",
+     "updated": "2026-10-12 10:00:09"
+    },
+    {
+     "rank": 2,
+     "team": {
       "name": "Borussia Dortmund",
       "club": "dortmund"
      },
@@ -2956,10 +2974,10 @@
      "points": 13,
      "form": "DWWWW",
      "group": "Bundesliga",
-     "updated": "2026-10-11 10:00:09"
+     "updated": "2026-10-12 10:00:09"
     },
     {
-     "rank": 2,
+     "rank": 3,
      "team": {
       "name": "Bayern Munich",
       "club": "bayern"
@@ -2974,25 +2992,7 @@
      "points": 11,
      "form": "DWWDW",
      "group": "Bundesliga",
-     "updated": "2026-10-11 10:00:09"
-    },
-    {
-     "rank": 3,
-     "team": {
-      "name": "Freiburg",
-      "club": null
-     },
-     "played": 4,
-     "win": 3,
-     "draw": 1,
-     "loss": 0,
-     "gf": 12,
-     "ga": 3,
-     "gd": 9,
-     "points": 10,
-     "form": "DWWW",
-     "group": "Bundesliga",
-     "updated": "2026-10-11 10:00:09"
+     "updated": "2026-10-12 10:00:09"
     },
     {
      "rank": 4,
@@ -3010,7 +3010,7 @@
      "points": 10,
      "form": "WWDWL",
      "group": "Bundesliga",
-     "updated": "2026-10-11 10:00:09"
+     "updated": "2026-10-12 10:00:09"
     },
     {
      "rank": 5,
@@ -3028,7 +3028,7 @@
      "points": 9,
      "form": "WLWLW",
      "group": "Bundesliga",
-     "updated": "2026-10-11 10:00:09"
+     "updated": "2026-10-12 10:00:09"
     }
    ],
    "standings_limited": true,
@@ -3646,7 +3646,7 @@
      "points": 14,
      "form": "DWDWW",
      "group": "Ligue 1",
-     "updated": "2026-10-11 10:00:09"
+     "updated": "2026-10-12 10:00:09"
     },
     {
      "rank": 2,
@@ -3664,10 +3664,28 @@
      "points": 13,
      "form": "WLWWD",
      "group": "Ligue 1",
-     "updated": "2026-10-11 10:00:09"
+     "updated": "2026-10-12 10:00:09"
     },
     {
      "rank": 3,
+     "team": {
+      "name": "Rennes",
+      "club": null
+     },
+     "played": 6,
+     "win": 4,
+     "draw": 1,
+     "loss": 1,
+     "gf": 12,
+     "ga": 10,
+     "gd": 2,
+     "points": 13,
+     "form": "WLWWW",
+     "group": "Ligue 1",
+     "updated": "2026-10-12 10:00:09"
+    },
+    {
+     "rank": 4,
      "team": {
       "name": "Lyon",
       "club": null
@@ -3682,10 +3700,10 @@
      "points": 11,
      "form": "LWDWD",
      "group": "Ligue 1",
-     "updated": "2026-10-11 10:00:09"
+     "updated": "2026-10-12 10:00:09"
     },
     {
-     "rank": 4,
+     "rank": 5,
      "team": {
       "name": "Paris FC",
       "club": null
@@ -3700,25 +3718,7 @@
      "points": 11,
      "form": "LWDWW",
      "group": "Ligue 1",
-     "updated": "2026-10-11 10:00:09"
-    },
-    {
-     "rank": 5,
-     "team": {
-      "name": "Paris Saint-Germain",
-      "club": "psg"
-     },
-     "played": 6,
-     "win": 3,
-     "draw": 2,
-     "loss": 1,
-     "gf": 11,
-     "ga": 8,
-     "gd": 3,
-     "points": 11,
-     "form": "WWWLD",
-     "group": "Ligue 1",
-     "updated": "2026-10-11 10:00:09"
+     "updated": "2026-10-12 10:00:09"
     }
    ],
    "standings_limited": true,
