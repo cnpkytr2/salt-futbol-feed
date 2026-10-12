@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-12T17:17:33+00:00",
+ "generated_at": "2026-10-12T19:17:38+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -511,10 +511,10 @@
        },
        "score": {
         "home": 0,
-        "away": 1
+        "away": 4
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Recep Tayyip Erdoğan Stadyumu"
       }
      ]
@@ -1458,7 +1458,7 @@
    "season": "2026-2027",
    "tsdb_id": 4328,
    "last_round": 6,
-   "next_round": 6,
+   "next_round": 7,
    "current_round": 6,
    "standings": [
     {
@@ -1996,10 +1996,209 @@
         "name": "Newcastle United",
         "club": null
        },
+       "score": {
+        "home": 1,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
+       "venue": "The Coventry Building Society Arena"
+      }
+     ]
+    },
+    {
+     "round": 7,
+     "label": "7. Hafta",
+     "matches": [
+      {
+       "id": "2494063",
+       "round": 7,
+       "kickoff": "2026-10-17T11:30:00Z",
+       "time_known": true,
+       "date_local": "2026-10-17",
+       "home": {
+        "name": "Everton",
+        "club": null
+       },
+       "away": {
+        "name": "Chelsea",
+        "club": "chelsea"
+       },
        "score": null,
        "status": "scheduled",
        "status_raw": "NS",
-       "venue": "The Coventry Building Society Arena"
+       "venue": "Hill Dickinson Stadium"
+      },
+      {
+       "id": "2494067",
+       "round": 7,
+       "kickoff": "2026-10-17T14:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-17",
+       "home": {
+        "name": "Brentford",
+        "club": null
+       },
+       "away": {
+        "name": "Liverpool",
+        "club": "liverpool"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Brentford Community Stadium"
+      },
+      {
+       "id": "2494062",
+       "round": 7,
+       "kickoff": "2026-10-17T14:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-17",
+       "home": {
+        "name": "Fulham",
+        "club": null
+       },
+       "away": {
+        "name": "Hull City",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Craven Cottage"
+      },
+      {
+       "id": "2494065",
+       "round": 7,
+       "kickoff": "2026-10-17T14:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-17",
+       "home": {
+        "name": "Manchester City",
+        "club": "man-city"
+       },
+       "away": {
+        "name": "Ipswich Town",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Etihad Stadium"
+      },
+      {
+       "id": "2494060",
+       "round": 7,
+       "kickoff": "2026-10-17T16:30:00Z",
+       "time_known": true,
+       "date_local": "2026-10-17",
+       "home": {
+        "name": "Newcastle United",
+        "club": null
+       },
+       "away": {
+        "name": "Aston Villa",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "St James Park"
+      },
+      {
+       "id": "2494061",
+       "round": 7,
+       "kickoff": "2026-10-18T13:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-18",
+       "home": {
+        "name": "Bournemouth",
+        "club": null
+       },
+       "away": {
+        "name": "Sunderland",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Vitality Stadium"
+      },
+      {
+       "id": "2494066",
+       "round": 7,
+       "kickoff": "2026-10-18T13:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-18",
+       "home": {
+        "name": "Brighton and Hove Albion",
+        "club": null
+       },
+       "away": {
+        "name": "Crystal Palace",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "American Express Stadium"
+      },
+      {
+       "id": "2494068",
+       "round": 7,
+       "kickoff": "2026-10-18T13:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-18",
+       "home": {
+        "name": "Leeds United",
+        "club": null
+       },
+       "away": {
+        "name": "Manchester United",
+        "club": "man-united"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Elland Road"
+      },
+      {
+       "id": "2494069",
+       "round": 7,
+       "kickoff": "2026-10-18T15:30:00Z",
+       "time_known": true,
+       "date_local": "2026-10-18",
+       "home": {
+        "name": "Nottingham Forest",
+        "club": null
+       },
+       "away": {
+        "name": "Arsenal",
+        "club": "arsenal"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "City Ground"
+      },
+      {
+       "id": "2494064",
+       "round": 7,
+       "kickoff": "2026-10-19T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-19",
+       "home": {
+        "name": "Tottenham Hotspur",
+        "club": "tottenham"
+       },
+       "away": {
+        "name": "Coventry City",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Tottenham Hotspur Stadium"
       }
      ]
     }
@@ -2012,7 +2211,7 @@
    "season": "2026-2027",
    "tsdb_id": 4335,
    "last_round": 8,
-   "next_round": 8,
+   "next_round": 9,
    "current_round": 8,
    "standings": [
     {
@@ -2550,10 +2749,209 @@
         "name": "Sevilla",
         "club": null
        },
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
+       "venue": "Estadio Ciudad de Valencia"
+      }
+     ]
+    },
+    {
+     "round": 9,
+     "label": "9. Hafta",
+     "matches": [
+      {
+       "id": "2506256",
+       "round": 9,
+       "kickoff": "2026-10-16T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-16",
+       "home": {
+        "name": "Deportivo de A Coruña",
+        "club": null
+       },
+       "away": {
+        "name": "Levante",
+        "club": null
+       },
        "score": null,
        "status": "scheduled",
        "status_raw": "NS",
-       "venue": "Estadio Ciudad de Valencia"
+       "venue": "Estadio Abanca-Riazor"
+      },
+      {
+       "id": "2506253",
+       "round": 9,
+       "kickoff": "2026-10-17T12:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-17",
+       "home": {
+        "name": "Espanyol",
+        "club": null
+       },
+       "away": {
+        "name": "Atlético Madrid",
+        "club": "atletico"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "RCDE Stadium"
+      },
+      {
+       "id": "2506250",
+       "round": 9,
+       "kickoff": "2026-10-17T14:15:00Z",
+       "time_known": true,
+       "date_local": "2026-10-17",
+       "home": {
+        "name": "Villarreal",
+        "club": null
+       },
+       "away": {
+        "name": "Elche",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estadio de la Cerámica"
+      },
+      {
+       "id": "2506255",
+       "round": 9,
+       "kickoff": "2026-10-17T16:30:00Z",
+       "time_known": true,
+       "date_local": "2026-10-17",
+       "home": {
+        "name": "Real Betis",
+        "club": null
+       },
+       "away": {
+        "name": "Barcelona",
+        "club": "barcelona"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estadio de La Cartuja"
+      },
+      {
+       "id": "2506249",
+       "round": 9,
+       "kickoff": "2026-10-17T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-17",
+       "home": {
+        "name": "Valencia",
+        "club": null
+       },
+       "away": {
+        "name": "Athletic Bilbao",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estadio de Mestalla"
+      },
+      {
+       "id": "2506258",
+       "round": 9,
+       "kickoff": "2026-10-18T12:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-18",
+       "home": {
+        "name": "Osasuna",
+        "club": null
+       },
+       "away": {
+        "name": "Racing de Santander",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estadio El Sadar"
+      },
+      {
+       "id": "2506252",
+       "round": 9,
+       "kickoff": "2026-10-18T14:15:00Z",
+       "time_known": true,
+       "date_local": "2026-10-18",
+       "home": {
+        "name": "Celta Vigo",
+        "club": null
+       },
+       "away": {
+        "name": "Deportivo Alavés",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estadio Abanca-Balaídos"
+      },
+      {
+       "id": "2506251",
+       "round": 9,
+       "kickoff": "2026-10-18T16:30:00Z",
+       "time_known": true,
+       "date_local": "2026-10-18",
+       "home": {
+        "name": "Málaga",
+        "club": null
+       },
+       "away": {
+        "name": "Real Sociedad",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estadio La Rosaleda"
+      },
+      {
+       "id": "2506254",
+       "round": 9,
+       "kickoff": "2026-10-18T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-18",
+       "home": {
+        "name": "Real Madrid",
+        "club": "real-madrid"
+       },
+       "away": {
+        "name": "Sevilla",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estadio Santiago Bernabéu"
+      },
+      {
+       "id": "2506257",
+       "round": 9,
+       "kickoff": "2026-10-19T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-19",
+       "home": {
+        "name": "Getafe",
+        "club": null
+       },
+       "away": {
+        "name": "Rayo Vallecano",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estadio Coliseum"
       }
      ]
     }
@@ -2566,7 +2964,7 @@
    "season": "2026-2027",
    "tsdb_id": 4332,
    "last_round": 6,
-   "next_round": 6,
+   "next_round": 7,
    "current_round": 6,
    "standings": [
     {
@@ -3086,8 +3484,8 @@
         "home": 3,
         "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "New Balance Arena"
       },
       {
@@ -3104,10 +3502,209 @@
         "name": "Udinese",
         "club": null
        },
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
+       "venue": "Stadio Olimpico Grande Torino"
+      }
+     ]
+    },
+    {
+     "round": 7,
+     "label": "7. Hafta",
+     "matches": [
+      {
+       "id": "2482204",
+       "round": 7,
+       "kickoff": "2026-10-16T18:45:00Z",
+       "time_known": true,
+       "date_local": "2026-10-16",
+       "home": {
+        "name": "Frosinone",
+        "club": null
+       },
+       "away": {
+        "name": "Sassuolo",
+        "club": null
+       },
        "score": null,
        "status": "scheduled",
        "status_raw": "NS",
-       "venue": "Stadio Olimpico Grande Torino"
+       "venue": "Stadio Benito Stirpe"
+      },
+      {
+       "id": "2482205",
+       "round": 7,
+       "kickoff": "2026-10-17T13:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-17",
+       "home": {
+        "name": "Venezia",
+        "club": null
+       },
+       "away": {
+        "name": "Napoli",
+        "club": "napoli"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Pierluigi Penzo"
+      },
+      {
+       "id": "2482202",
+       "round": 7,
+       "kickoff": "2026-10-17T16:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-17",
+       "home": {
+        "name": "Bologna",
+        "club": null
+       },
+       "away": {
+        "name": "Inter Milan",
+        "club": "inter"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Renato Dall'Ara"
+      },
+      {
+       "id": "2482201",
+       "round": 7,
+       "kickoff": "2026-10-17T18:45:00Z",
+       "time_known": true,
+       "date_local": "2026-10-17",
+       "home": {
+        "name": "Roma",
+        "club": "roma"
+       },
+       "away": {
+        "name": "Genoa",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Olimpico"
+      },
+      {
+       "id": "2482199",
+       "round": 7,
+       "kickoff": "2026-10-18T10:30:00Z",
+       "time_known": true,
+       "date_local": "2026-10-18",
+       "home": {
+        "name": "Udinese",
+        "club": null
+       },
+       "away": {
+        "name": "Lecce",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Bluenergy Stadium"
+      },
+      {
+       "id": "2482203",
+       "round": 7,
+       "kickoff": "2026-10-18T13:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-18",
+       "home": {
+        "name": "Fiorentina",
+        "club": null
+       },
+       "away": {
+        "name": "Como",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Artemio Franchi"
+      },
+      {
+       "id": "2482198",
+       "round": 7,
+       "kickoff": "2026-10-18T16:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-18",
+       "home": {
+        "name": "AC Milan",
+        "club": "milan"
+       },
+       "away": {
+        "name": "Atalanta",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Giuseppe Meazza"
+      },
+      {
+       "id": "2482200",
+       "round": 7,
+       "kickoff": "2026-10-18T18:45:00Z",
+       "time_known": true,
+       "date_local": "2026-10-18",
+       "home": {
+        "name": "Juventus",
+        "club": "juventus"
+       },
+       "away": {
+        "name": "Lazio",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Allianz Stadium Turin"
+      },
+      {
+       "id": "2482207",
+       "round": 7,
+       "kickoff": "2026-10-19T16:30:00Z",
+       "time_known": true,
+       "date_local": "2026-10-19",
+       "home": {
+        "name": "Monza",
+        "club": null
+       },
+       "away": {
+        "name": "Cagliari",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "U-Power Stadium"
+      },
+      {
+       "id": "2482206",
+       "round": 7,
+       "kickoff": "2026-10-19T18:45:00Z",
+       "time_known": true,
+       "date_local": "2026-10-19",
+       "home": {
+        "name": "Parma",
+        "club": null
+       },
+       "away": {
+        "name": "Torino",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Ennio Tardini"
       }
      ]
     }
