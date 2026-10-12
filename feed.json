@@ -1,65 +1,61 @@
 {
  "schema": 1,
- "generated_at": "2026-10-12T07:43:25+00:00",
+ "generated_at": "2026-10-12T10:43:20+00:00",
  "edition": {
   "date": "2026-10-12",
   "label": "guncel",
   "title": "Güncel bülten",
-  "time_local": "10:43"
+  "time_local": "13:43"
  },
  "stats": {
   "sources_ok": 58,
   "sources_total": 59,
-  "articles_football": 308,
-  "stories": 21
+  "articles_football": 351,
+  "stories": 17
  },
  "image_base": "https://raw.githubusercontent.com/cnpkytr2/salt-futbol-feed/main/img/",
  "top_n": 30,
  "stories": [
   {
-   "id": "s0066",
+   "id": "s0035",
    "rank": 1,
-   "key": "1f08d9d4301e8d96",
-   "title": "Galatasaray, Şampiyonlar Ligi'nde yarın RAMS Park'ta Barcelona'yı ağırlayacak",
+   "key": "fd7cb9824ae05f29",
+   "title": "Galatasaray, Şampiyonlar Ligi'nde yarın Barcelona'yı ağırlayacak; hakem Marco Guida",
    "summarized": true,
-   "intro": "Galatasaray, UEFA Şampiyonlar Ligi'nin ikinci haftasında 13 Ekim Salı günü saat 22.00'de RAMS Park'ta Barcelona ile karşılaşacak. Maçı İtalyan hakem Marco Guida yönetecek ve karşılaşma TRT 1'de şifresiz yayımlanacak. Sarı-kırmızılılar ilk maçta Sporting'e deplasmanda 3-1 yenilmişti. Barcelona ise sezonun ilk Avrupa maçında Feyenoord'u 5-1 mağlup etti. Her iki takımda da sakatlık kaynaklı eksikler var.",
+   "intro": "Galatasaray, UEFA Şampiyonlar Ligi'nin ikinci haftasında 13 Ekim Salı günü saat 22.00'de RAMS Park'ta İspanya temsilcisi Barcelona ile karşılaşacak. Maçı İtalyan hakem Marco Guida yönetecek. Lig aşamasındaki ilk maçında deplasmanda Sporting'e 3-1 yenilen Galatasaray, Barcelona'yı sahasında ağırlıyor; Barcelona ise ilk maçında Feyenoord'u 5-1 yenmişti. Karşılaşma TRT 1 ve tabii platformundan yayımlanacak.",
    "bullets": [
-    "Maç TRT 1, tabii platformu ve TRT Radyo 1'den canlı yayınlanacak. Galatasaray bu sezon 36 takımlı lig aşamasında doğrudan yer alıyor.",
-    "Galatasaray'da Wilfried Singo sakatlığı nedeniyle oynayamayacak. Kaan Ayhan, Kazımcan Karataş, Arda Ünyay, Eyüp Aydın ve Can Armando Güner UEFA'ya bildirilen kadroda olmadıkları için görev alamayacak.",
-    "Barcelona'da Raphinha, Roony Bardghji ve Andreas Christensen sakatlıkları yüzünden yok. Sezon başından beri sakat olan Frenkie de Jong takımla yeni çalışmaya başladı ve yarın oynaması beklenmiyor.",
-    "Fotomaç'a göre Okan Buruk'un planı orta sahada Lemina ve Torreira ile yoğun baskı yapıp Barcelona'nın top çevirmesini zorlaştırmak. Gazetenin yazdığı muhtemel ilk 11: Uğurcan, Sallai, Sanchez, Abdülkerim, Jakobs, Lemina, Torreira, Yunus, Barış Alper, Leao, Osimhen.",
-    "Buruk, Galatasaray'daki 150. galibiyetini bu maçta almak istiyor. Teknik adam 211 maçta 149 galibiyet, 29 beraberlik ve 33 yenilgi yaşadı.",
-    "İlkay Gündoğan, Buruk şans verirse eski takımına karşı sahaya çıkabilir. 35 yaşındaki oyuncu 2023-24'te Barcelona'da 51 maçta 5 gol atmıştı.",
-    "Galatasaray'ın Barcelona karşısındaki tek galibiyeti 23 Kasım 1994'te 2-1 geldi. Buruk o maça 58. dakikada oyuncu olarak girmişti.",
-    "Barcelona son resmi maçında LaLiga'da Getafe'yi 3-0 yendi. Gordon 2., Jesus 30. dakikada gol attı. Galatasaray ise Süper Lig'de Kasımpaşa'yı yenerek geldi."
+    "Guida'nın yardımcı hakemleri Giorgio Peretti ve Giuseppe Perrotti, dördüncü hakem Fabio Maresca. VAR'da Marco Di Bello görev yapacak, yardımcısı Aleandro Di Paolo olacak.",
+    "Guida, Galatasaray'ın geçen sezon Eintracht Frankfurt'a deplasmanda 5-1 kaybettiği maçı ve 2023-2024'te Olimpija Ljubljana'yı 1-0 yendiği 3. eleme turu rövanşını yönetmişti.",
+    "Galatasaray'dan Wilfried Singo sakatlığı nedeniyle oynayamayacak. Kaan Ayhan, Kazımcan Karataş, Arda Ünyay, Eyüp Aydın ve Can Armando Güner UEFA'ya bildirilen kadroda olmadığı için forma giyemeyecek.",
+    "Barcelona'da Raphinha, Roony Bardghji ve Andreas Christensen sakatlıkları nedeniyle yok. Sezon başından beri sakat olan Frenkie de Jong'un da oynaması beklenmiyor.",
+    "Barcelona son resmi maçında LaLiga'nın 8. haftasında Getafe'yi 3-0 yendi. Galatasaray ise Süper Lig'de Kasımpaşa'yı yenmişti.",
+    "Galatasaray, Şampiyonlar Ligi'nde son 10 iç saha maçında 4 galibiyet, 4 beraberlik ve 2 yenilgi aldı. Avrupa kupalarındaki son 11 iç saha maçında ise yalnızca Union Saint-Gilloise'a yenildi.",
+    "Okan Buruk Galatasaray'daki 150. galibiyetini arıyor; 211 maçta 149 galibiyet, 29 beraberlik ve 33 yenilgi yaşadı. 35 yaşındaki İlkay Gündoğan, Buruk şans verirse eski takımına karşı sahaya çıkabilir.",
+    "Galatasaray'ın Barcelona'ya karşı tek galibiyeti 23 Kasım 1994'teki Şampiyonlar Ligi maçında 2-1 geldi; Buruk o maçta 58. dakikada oyuna girmişti."
    ],
-   "why": "Sporting deplasmanındaki yenilginin ardından Galatasaray için puan kaybetmemek önem taşıyor. Barcelona'nın bazı önemli isimlerden yoksun olması taraftara rekabetçi bir maç beklentisi veriyor. Buruk'un taktik tercihleri ve Singo'nun yokluğu sonucu etkileyebilir.",
+   "why": "Galatasaray ilk haftadaki yenilginin ardından lig aşamasında puan kaybetmek istemeyecek ve Avrupa'nın güçlü ekiplerinden biriyle sahasında oynayacak. Singo'nun yokluğu ve Barcelona'daki eksikler, maçın kadro dengesini etkileyebilecek unsurlar olarak öne çıkıyor.",
    "raw_summary": null,
    "category": "mac",
    "category_name": "Maç",
    "status": "resmi",
    "clubs": [
     {
-     "slug": "barcelona",
-     "name": "Barcelona"
-    },
-    {
      "slug": "galatasaray",
      "name": "Galatasaray"
     },
     {
-     "slug": "liverpool",
-     "name": "Liverpool"
+     "slug": "barcelona",
+     "name": "Barcelona"
     }
    ],
    "leagues": [
     {
-     "slug": "la-liga",
-     "name": "La Liga"
+     "slug": "avrupa-ligi",
+     "name": "Avrupa Ligi"
     },
     {
-     "slug": "premier-lig",
-     "name": "Premier Lig"
+     "slug": "la-liga",
+     "name": "La Liga"
     },
     {
      "slug": "sampiyonlar-ligi",
@@ -69,11 +65,6 @@
    "sources": [
     {
      "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/galatasaray/2026/10/12/galatasaraydan-barcelonaya-liverpool-tarifesi",
-     "published": "2026-10-11T21:40:19+00:00"
-    },
-    {
-     "name": "Fotomaç",
      "url": "https://www.fotomac.com.tr/sampiyonlarligi/2026/10/11/galatasaray-barcelona-macinin-hakemi-belli-oldu",
      "published": "2026-10-11T21:48:55+00:00"
     },
@@ -81,11 +72,6 @@
      "name": "CNN Türk",
      "url": "https://www.cnnturk.com/spor/futbol/galatasaray-barcelona-maci-ne-zaman-sampiyonlar-ligi-galatasaray-barcelona-maci-saat-kacta-hangi-kanalda-rams-parkta-dev-gece-3477686",
      "published": "2026-10-12T06:04:30+00:00"
-    },
-    {
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/12/galatasarayin-sampiyonlar-ligindeki-rakibi-barcelona",
-     "published": "2026-10-12T06:36:01+00:00"
     },
     {
      "name": "Anadolu Ajansı",
@@ -106,715 +92,53 @@
      "name": "Anadolu Ajansı",
      "url": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-2-hafta-heyecani-yarin-baslayacak/4085605",
      "published": "2026-10-12T06:59:17+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/uefa-sampiyonlar-liginde-ikinci-hafta-maclari-basliyor-3477923",
+     "published": "2026-10-12T07:06:02+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/ispanya/barcelona/barcelona-galatasaray-kadrosunu-acikladi-SXHBQ1178875SXQ",
+     "published": "2026-10-12T07:22:00+00:00"
     }
    ],
-   "n_sources": 10,
-   "first_published": "2026-10-11T21:40:19+00:00",
-   "last_published": "2026-10-12T07:40:29+00:00",
+   "n_sources": 13,
+   "first_published": "2026-10-11T21:48:55+00:00",
+   "last_published": "2026-10-12T10:33:49+00:00",
    "image": {
-    "url": "https://image.cnnturk.com/i/cnnturk/75/1200x675/6acb83d7d028a5e7bf58149e.jpg",
+    "url": "https://iaftm.tmgrup.com.tr/263319/1200/675/0/0/1280/720?u=https://iftm.tmgrup.com.tr/2026/10/11/galatasaray-barcelona-macinin-hakemi-belli-oldu-1791707029867.jpeg",
     "kind": "source",
-    "label": "Fotoğraf: CNN Türk",
-    "credit": "CNN Türk",
-    "source_url": "https://www.cnnturk.com/spor/futbol/galatasaray-barcelona-maci-ne-zaman-sampiyonlar-ligi-galatasaray-barcelona-maci-saat-kacta-hangi-kanalda-rams-parkta-dev-gece-3477686"
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/sampiyonlarligi/2026/10/11/galatasaray-barcelona-macinin-hakemi-belli-oldu"
    },
-   "score": 44.33,
+   "score": 76.89,
    "importance": 8,
    "popular": true
   },
   {
-   "id": "s0060",
+   "id": "s0072",
    "rank": 2,
-   "key": "c3476f950e6560ec",
-   "title": "İlkay Gündoğan, Galatasaray'dan ayrılacağı iddialarını yalanladı",
+   "key": "e107fe3b0d81edac",
+   "title": "Aston Villa-Fenerbahçe maçını Slovak hakem Kruzliak yönetecek; Villa'da sol bek sorunu",
    "summarized": true,
-   "intro": "Galatasaray'ın tecrübeli orta saha oyuncusu İlkay Gündoğan, Barcelona maçı öncesinde İspanyol basınına, Mundo Deportivo'ya konuştu. Kış transfer döneminde ayrılacağı yönündeki söylentilere yanıt veren Gündoğan, bu iddiaların doğru olmadığını söyledi. Bu sezon çok az süre alan oyuncunun, Kasımpaşa maçı sonrası karma alanda verdiği sitemkar yanıt ve eşi Sara Gündoğan'ın daha önceki sözleri, takımdan gönderileceği yönündeki iddiaları gündeme getirmişti. Galatasaray, Şampiyonlar Ligi'nin ikinci haftasında 13 Ekim Salı günü Barcelona'yı konuk edecek.",
+   "intro": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin 2. haftasında 14 Ekim Çarşamba günü deplasmanda Aston Villa ile oynayacak. Karşılaşmayı Slovak hakem Ivan Kruzliak yönetecek. Ev sahibi Aston Villa ise hafta sonu Premier Lig'de Brentford ile 2-2 berabere kaldığı maçta sol bek Matteo Ruggeri'nin sakatlanmasıyla sol bek bölgesinde eksik sorunu yaşıyor. Teknik direktör Unai Emery, oyuncunun durumunun henüz netleşmediğini söyledi.",
    "bullets": [
-    "Gündoğan'ın sözleri: \"Transfer söylentileri doğru değil. Kış transfer döneminden sonra da burada kalmak ve Galatasaray'la bir şampiyonluk daha kazanmak için her şeyimi vermek istiyorum.\"",
-    "Ajansspor, oyuncunun bu sezon toplamda yalnızca 11 dakika süre aldığını yazdı. Sporx ise Kaan Ayhan ile Gündoğan'ın bu sezon forma bulamadığını belirtti.",
-    "Kasımpaşa maçı sonrası \"Barcelona maçına hazır mısın?\" sorusuna Gündoğan, \"Oynamıyorum ki niye hazır olayım\" diye karşılık vermişti.",
-    "Eşi Sara Gündoğan daha önce, neden oynamadığını merak edenlerin kendisine değil hocaya sorması gerektiğini söylemişti.",
-    "Gündoğan, Barcelona'yı Avrupa'nın en iyi takımı ve Şampiyonlar Ligi'nin açık ara favorisi olarak niteledi; savunmada kusursuz, topla oynarken cesur olmak gerektiğini söyledi.",
-    "Galatasaray'ın en büyük gücünün RAMS Park'taki taraftar enerjisi olduğunu, hücum hattında da bireysel kalitenin yüksek olduğunu belirtti.",
-    "Eski takım arkadaşı Rodri'yi yıllardır dünyanın en eksiksiz defansif orta sahası olarak niteledi; Lamine Yamal için de ilk antrenmandan beri büyük yetenek olduğunu, bu yaşta gösterdiği olgunluğun şaşırtıcı olduğunu söyledi."
+    "Kruzliak daha önce Fenerbahçe'nin 3 maçında görev yaptı. Sarı-lacivertliler bu maçlarda 1 galibiyet, 1 beraberlik ve 1 mağlubiyet yaşadı.",
+    "Geçmiş maçlar: Lokomotiv Moskova 1-1 Fenerbahçe (25 Şubat 2016), Krasnodar 1-0 Fenerbahçe (16 Şubat 2017), HJK Helsinki 2-5 Fenerbahçe (26 Ağustos 2021).",
+    "Ruggeri, Brentford maçına ilk 11'de başladı ve devrede Aaron Wan-Bissaka ile değiştirildi. Emery, İtalyan oyuncunun hamstring kasında sorun yaşadığını ve kontrollerin yapılacağını belirtti.",
+    "Emery, Wan-Bissaka'nın bazen sol bekte oynayabildiğini, sağ tarafta Lamare Bogarde'ın bulunduğunu söyledi. İki sol ayaklı bek olmadan yapıyı başka seçeneklerle korumaya çalışacağını ekledi.",
+    "Diğer sol bek Ian Maatsen eylülde Nottingham Forest maçında sakatlandı ve bir süre sahalardan uzak kalacağı açıklanmıştı.",
+    "Villa'da Modou Keba Cisse ile çapraz bağ sakatlığı bulunan Amado Onana'nın da sakatlığı sürüyor. Goretzka ve Brian Madjo'nun takım antrenmanlarına başladığı daha önce duyurulmuştu.",
+    "Emery, takımın gelişimini sürdürmesi ve pozitif kalması gerektiğini söyledi. Ekibin Pazartesi günü Fenerbahçe maçı hazırlıklarına başlayacağını belirtti."
    ],
-   "why": "Gündoğan'ın açıklaması, forma sıkıntısı nedeniyle gündeme gelen ayrılık söylentilerini oyuncu cephesinden yalanlıyor. Taraftar açısından büyük Barcelona maçı öncesinde tecrübeli ismin takımda kalma ve şampiyonluk isteği öne çıkıyor. Ancak süre alamaması konusu ve kış dönemi gelişmeleri takip edilmeye devam edecek.",
-   "raw_summary": null,
-   "category": "transfer",
-   "category_name": "Transfer",
-   "status": "yalanlama",
-   "clubs": [
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "dunya-kupasi",
-     "name": "Dünya Kupası"
-    },
-    {
-     "slug": "la-liga",
-     "name": "La Liga"
-    },
-    {
-     "slug": "sampiyonlar-ligi",
-     "name": "Şampiyonlar Ligi"
-    }
-   ],
-   "sources": [
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/galatasaray/2026/10/11/galatasarayda-ilkay-gundogandan-ayrilik-iddialarina-yanit",
-     "published": "2026-10-11T20:45:43+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/ilkay-gundogan-galatasaraydaki-gelecegini-acikladi-736434",
-     "published": "2026-10-11T21:06:06+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-ve-ilkay-gundogan-gece-yarisi-noktayi-koydu-431119",
-     "published": "2026-10-12T04:32:46+00:00"
-    },
-    {
-     "name": "Posta",
-     "url": "https://www.posta.com.tr/galeri/ilkay-gundogandan-ayrilik-iddialarina-yanit-galatasaray-kararini-acikladi-3050322",
-     "published": "2026-10-12T05:09:13+00:00"
-    },
-    {
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/galatasaray-in-dunya-yildizindan-gece-yarisi-ayrilik-aciklamasi-p368260",
-     "published": "2026-10-12T05:19:40+00:00"
-    },
-    {
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/12/ilkay-gundogan-acikladi-galatasarayda-kalacak-mi",
-     "published": "2026-10-12T05:59:27+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/ilkay-gundogan-ayrilik-iddialarina-cevap-verdi-3477884",
-     "published": "2026-10-12T06:09:00+00:00"
-    },
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/galatasaray/galatasaray-da-kayip-iki-yildiz-SXHBQ1178878SXQ",
-     "published": "2026-10-12T07:35:57+00:00"
-    }
-   ],
-   "n_sources": 8,
-   "first_published": "2026-10-11T20:45:43+00:00",
-   "last_published": "2026-10-12T07:35:57+00:00",
-   "image": {
-    "url": "https://iaaspr.tmgrup.com.tr/dfb668/1200/675/0/0/2048/1151?u=https://iaspr.tmgrup.com.tr/2026/10/11/galatasarayda-ilkay-gundogandan-ayrilik-iddialarina-yanit-1791751367063.jpg",
-    "kind": "source",
-    "label": "Fotoğraf: A Spor",
-    "credit": "A Spor",
-    "source_url": "https://www.aspor.com.tr/galatasaray/2026/10/11/galatasarayda-ilkay-gundogandan-ayrilik-iddialarina-yanit"
-   },
-   "score": 42.69,
-   "importance": 7,
-   "popular": false
-  },
-  {
-   "id": "s0120",
-   "rank": 3,
-   "key": "d4d3849b68601b94",
-   "title": "Galatasaray, Okan Buruk'a 2 yıllık yeni sözleşme teklif edecek",
-   "summarized": true,
-   "intro": "Galatasaray yönetiminin, devre arası öncesinde iç transfer planlarını belirlediği aktarıldı. Haberlere göre sezon sonunda sözleşmesi bitecek olan teknik direktör Okan Buruk ile ilk olarak bir görüşme yapılacak. Başkan Dursun Özbek'in Buruk'a yeni bir teklif sunacağı, Buruk'un da bu fikre sıcak baktığı öğrenildi. Sözleşme süresinin 2 yıl olması bekleniyor. Bu gelişme resmi bir açıklamaya değil, basın kaynaklı bilgilere dayanıyor.",
-   "bullets": [
-    "Mevcut sözleşmesi sezon sonunda sona erecek olan Okan Buruk, yönetimin iç transferdeki öncelikli gündem maddesi olarak gösteriliyor.",
-    "Başkan Dursun Özbek'in Buruk'a yeni teklif sunacağı belirtiliyor; bekleniyen sözleşme süresi 2 yıl.",
-    "Buruk'un yeni anlaşmaya sıcak baktığı öğrenildi. Sözcü, Akşam'a dayandırdığı haberinde tarafların kısa sürede anlaşmasının beklendiğini yazdı.",
-    "Buruk, Galatasaray ile son 4 sezondur ligde şampiyonluk yaşadı ve bu süreçte toplam 6 kupa kazandı.",
-    "Sözcü'ye göre yönetimin görüşeceği bir diğer isim, 26 yaşındaki milli futbolcu Barış Alper Yılmaz. Oyuncunun 2028'de bitecek sözleşmesinin uzatılması planlanıyor.",
-    "Aynı habere göre uzatmada oyuncunun maaş şartlarında iyileştirme yapılacak.",
-    "Barış Alper'in sezon başında Avrupa'dan ciddi teklifler almasına rağmen takımda tutulduğu, yönetimin 40 milyon Euro'nun altındaki teklifleri değerlendirmeyeceği kaydedildi."
-   ],
-   "why": "Son 4 şampiyonlukta teknik direktörlük yapan Buruk'un geleceği, takımın sezon sonrası planlaması açısından kritik. Barış Alper Yılmaz'ın da uzun vadeli bağlanması planlanıyor; bu, kadro istikrarı için önemli. Ancak haberler henüz resmi açıklamaya değil, basın bilgilerine dayanıyor.",
-   "raw_summary": null,
-   "category": "transfer",
-   "category_name": "Transfer",
-   "status": "soylenti",
-   "clubs": [
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/galatasaray/galatasaray-da-okan-buruk-a-yeni-sozlesme-SXHBQ1178861SXQ",
-     "published": "2026-10-12T05:30:47+00:00"
-    },
-    {
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/galatasaray-dan-okan-buruk-karari-p368270",
-     "published": "2026-10-12T05:47:20+00:00"
-    },
-    {
-     "name": "Star",
-     "url": "https://www.star.com.tr/spor/galatasarayda-okan-buruk-icin-yeni-sozlesme-yolda-haber-2045999",
-     "published": "2026-10-12T06:13:00+00:00"
-    }
-   ],
-   "n_sources": 3,
-   "first_published": "2026-10-12T05:30:47+00:00",
-   "last_published": "2026-10-12T06:13:00+00:00",
-   "image": {
-    "url": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/obrukjpg-_OF0MMzQh0iwoG2A8vK15g.jpg?w=1270&h=675&mode=crop&scale=both",
-    "kind": "source",
-    "label": "Fotoğraf: Sözcü",
-    "credit": "Sözcü",
-    "source_url": "https://www.sozcu.com.tr/galatasaray-dan-okan-buruk-karari-p368270"
-   },
-   "score": 20.79,
-   "importance": 7,
-   "popular": false
-  },
-  {
-   "id": "s0130",
-   "rank": 4,
-   "key": "fd62e4a79f58f160",
-   "title": "Beşiktaş'ın Kocaelispor galibiyeti spor yazarlarınca değerlendirildi",
-   "summarized": true,
-   "intro": "Trendyol Süper Lig'in 7. haftasında Beşiktaş, sahasında Kocaelispor'u 2-1 yenerek 3 puan aldı ve puanını 15'e yükselterek ikinci sıraya yerleşti. Maçın ardından birçok spor yazarı takımın performansını ve hakem kararlarını değerlendirdi. Yazarların ortak vurgusu, galibiyetin milli ara dönüşü ve Trabzonspor deplasmanı öncesinde değerli olduğu, buna karşın savunma ve oyun kontrolü konusunda eksiklerin sürdüğü yönünde. Beşiktaş'ı Perşembe günü Hoffenheim maçı, ardından Trabzonspor deplasmanı bekliyor.",
-   "bullets": [
-    "Kaynaklara göre Orkun Kökçü'nün golüyle öne geçen Beşiktaş, kalecinin hatasıyla 1-1'e düşti; ardından penaltıdan Vlahovic'in golüyle yeniden öne geçti.",
-    "Sinan Vardar ve Mustafa Çulcu, Tayfur'un kornerde Djalo'yu tutup çekmesi nedeniyle verilen penaltının doğru olduğunu belirtti.",
-    "Çulcu, 48. dakikada Nübel'in Metehan'ın ayağını tutmasının net penaltı ve kırmızı kart olduğunu savundu; VAR'ın karışmamasını eleştirdi. Hakem Buğra Taşkınsoy'u da zayıf buldu.",
-    "Halil Özer, Vlahovic'in sahada gölgesiyle kavga ettiğini ve faul almaya çalışırken antipatik göründüğünü yazdı; Orkun'u sahanın en iyisi, Djalo'yu takımı sürükleyen oyuncu olarak niteledi.",
-    "Güntekin Onay, ilk kez 11'de başlayan Miretti'yi ve genç İlhan Fakılı'nın gelişimini öne çıkardı; Hoffenheim maçında Italiano'dan ciddi rotasyon beklediğini söyledi.",
-    "Fatih Doğan ve Murat Özbostan, Kocaelispor'un direncinin Beşiktaş'ın savunma ve oyun kontrolü sorunlarını görünür kıldığını yazdı. Özbostan'a göre Beşiktaş kalite, Kocaelispor mücadele gücüyle ayakta kaldı.",
-    "Ömer Üründül, iki bek ve stoperlerin iyi olmadığını belirterek Avrupa Ligi maçına dikkat edilmesi gerektiğini söyledi; Olaitan'a şu an çok ihtiyaç olduğunu savundu.",
-    "Turgay Demir, Beşiktaş'ın iyi bir takım olduğunu ancak tüm parçaların henüz birleşmediğini, zaman zaman oyundan koptuğunu yazdı."
-   ],
-   "why": "Beşiktaş taraftarı için galibiyet, milli ara öncesi yaşanan kaybın ardından moral ve ikinci sıra anlamına geliyor. Yazarların işaret ettiği savunma ve oyun kontrolü eksikleri ise Hoffenheim ve Trabzonspor maçları öncesinde teknik ekip için çözülmesi gereken başlıklar olarak öne çıkıyor.",
-   "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
-   "status": "belirsiz",
-   "clubs": [
-    {
-     "slug": "besiktas",
-     "name": "Beşiktaş"
-    },
-    {
-     "slug": "kocaelispor",
-     "name": "Kocaelispor"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "avrupa-ligi",
-     "name": "Avrupa Ligi"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/besiktas/2026/10/12/spor-yazarlari-besiktas-kocaelispor-macini-yorumladi-tum-parcalar-birlesmis-degil",
-     "published": "2026-10-12T05:43:55+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-kocaelispor-maci-sonrasi-hoffenheim-iddiasi-spor-yazarlari-besiktas-icin-ne-dedi-431127",
-     "published": "2026-10-12T05:48:10+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/besiktas/2026/10/12/spor-yazarlari-besiktas-kocaelispor-macini-degerlendirdi",
-     "published": "2026-10-12T05:59:40+00:00"
-    },
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/besiktas/yazarlardan-besiktas-degerlendirmesi-SXHBQ1178865SXQ",
-     "published": "2026-10-12T06:07:15+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/spor-yazirlari-besiktas-icin-ne-dedi-or-geometri-muhim-736439",
-     "published": "2026-10-12T06:34:18+00:00"
-    },
-    {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/foto/spor-yazarlari-besiktas-in-kocaelispor-galibiyetini-degerlendirdi-ilk-yaridaki-oyun-tamam-3918998",
-     "published": "2026-10-12T06:36:35+00:00"
-    },
-    {
-     "name": "Yeni Şafak",
-     "url": "https://www.yenisafak.com/galeri/spor/penalti-var-mi-erman-toroglu-besiktas-kocaelispor-macindaki-pozisyonu-degerlendirdi-4863555",
-     "published": "2026-10-12T06:52:03+00:00"
-    }
-   ],
-   "n_sources": 7,
-   "first_published": "2026-10-12T05:43:55+00:00",
-   "last_published": "2026-10-12T06:52:03+00:00",
-   "image": {
-    "url": "https://iaaspr.tmgrup.com.tr/4cb31d/1200/675/0/0/800/449?u=https://iaspr.tmgrup.com.tr/2026/10/12/spor-yazarlari-besiktas-kocaelispor-macini-yorumladi-tum-parcalar-birlesmis-degil-1791783792853.jpeg",
-    "kind": "source",
-    "label": "Fotoğraf: A Spor",
-    "credit": "A Spor",
-    "source_url": "https://www.aspor.com.tr/besiktas/2026/10/12/spor-yazarlari-besiktas-kocaelispor-macini-yorumladi-tum-parcalar-birlesmis-degil"
-   },
-   "score": 25.88,
-   "importance": 4,
-   "popular": false
-  },
-  {
-   "id": "s0018",
-   "rank": 5,
-   "key": "59141ae2d07131da",
-   "title": "Beşiktaş Kocaelispor'u 2-1 yendi; Vlahovic ve Orkun maç sonrası konuştu",
-   "summarized": true,
-   "intro": "Beşiktaş, Trendyol Süper Lig'in 7. haftasında evinde Kocaelispor'u 2-1 mağlup etti. Maçın ardından kaptan Orkun Kökçü, Dusan Vlahovic ve Tiago Djalo açıklamalarda bulundu. Orkun Kökçü, sakatlığında sorun olmadığını ancak istediği ritimde olmadığını söyledi. Vlahovic ise Opta verilerine göre elde ettiği rekoru takım arkadaşı Orkun'a atfetti.",
-   "bullets": [
-    "Orkun Kökçü, milli ara sonrası alınan 3 puana sevindiklerini belirtti; takımdan uzak kalmanın dengeleri bozabileceğini ve çok sayıda oyuncunun milli takımlara gittiğini hatırlattı.",
-    "Orkun, oyunlarının iyi olmadığını, daha iyi performans gösterebileceklerini söyledi. Rakibin hata yapmadığını, kendilerinin de hata lüksü olmadığını ekledi.",
-    "Orkun, sakatlığında sorun olmadığını ama ritminin istediği seviyede olmadığını, bunu maç içinde hissettiğini aktardı: \"Yüzde yüz değilim.\"",
-    "Orkun, milli arada hiç çalışmadan İtalya maçına çıktığını, ardından ayrılıp tedaviye devam ettiğini ve bu maça 3 antrenmanla geldiğini söyledi. Daha fazla maç oynayarak eski seviyesine döneceğini belirtti.",
-    "Vlahovic, sezon başından beri yalnızca 4 gol yiyen sağlam savunmalı bir rakibe karşı zor bir maç oynadıklarını söyledi ve sonuçtan memnun olduklarını belirtti.",
-    "Opta'ya göre Vlahovic, Opta'nın Süper Lig verisine sahip olduğu 2000/01'den bu yana Beşiktaş formasıyla ilk 11 başladığı ilk dört maçta da gol atan ilk oyuncu oldu. Önceki rekor Pascal Nouma'daydı.",
-    "Vlahovic'in golleri: Kocaelispor, Amed SF ve Fenerbahçe'ye birer, Çorum FK'ye üç gol. Vlahovic rekor için \"Orkun'un adını yazın\" dedi ve ona minnettar olduğunu söyledi.",
-    "Djalo, maçın zor geçtiğini, son bölümü daha iyi yönetebileceklerini ve toplu-topsuz daha iyi oynayabileceklerini belirtti; en önemlisinin galibiyet olduğunu söyledi."
-   ],
-   "why": "Beşiktaş milli ara sonrası zorlu bir maçta 3 puanı aldı, ancak oyuncular performanstan tam memnun değil. Kaptan Orkun'un ritim sorunu, önündeki önemli Avrupa maçı öncesinde takımın form durumu açısından dikkat çekiyor. Vlahovic'in dört maçlık gol serisi ise hücum hattı için olumlu bir işaret.",
+   "why": "Hakem ataması ve rakibin sakatlık durumu, Fenerbahçe taraftarı için Çarşamba günkü deplasman maçının koşullarını anlamak açısından önemli. Villa'nın sol bek bölgesindeki eksikleri rakibin diziliş seçeneklerini etkileyebilir. Ruggeri'nin durumu ise maça kadar netleşecek.",
    "raw_summary": null,
    "category": "mac",
    "category_name": "Maç",
    "status": "resmi",
-   "clubs": [
-    {
-     "slug": "besiktas",
-     "name": "Beşiktaş"
-    },
-    {
-     "slug": "kocaelispor",
-     "name": "Kocaelispor"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/besiktas/2026/10/11/orkun-kokcuden-sakatlik-aciklamasi-yuzde-yuz-degilim",
-     "published": "2026-10-11T18:25:37+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/besiktas/2026/10/11/dusan-vlahovicten-orkun-kokcuye-tesekkur-orkuna-minnettarim-bu-rekor-orkunundur",
-     "published": "2026-10-11T18:28:50+00:00"
-    },
-    {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/dusan-vlahovic-bu-rekor-benim-degil-orkunun-43338035",
-     "published": "2026-10-11T18:29:00+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/dusan-vlahovic-rekor-orkun-kokcunundur-736424",
-     "published": "2026-10-11T18:30:22+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/besiktas/2026/10/11/dusan-vlahovicten-mac-sonu-orkun-kokcu-ovgusu",
-     "published": "2026-10-11T21:46:16+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/besiktas/2026/10/11/besiktasta-orkun-kokcuden-flas-sakatlik-aciklamasi",
-     "published": "2026-10-11T21:54:48+00:00"
-    }
-   ],
-   "n_sources": 4,
-   "first_published": "2026-10-11T18:25:37+00:00",
-   "last_published": "2026-10-11T21:54:48+00:00",
-   "image": {
-    "url": "https://iaaspr.tmgrup.com.tr/b755df/1200/675/0/0/638/358?u=https://iaspr.tmgrup.com.tr/2026/10/11/orkun-kokcuden-sakatlik-aciklamasi-yuzde-yuz-degilim-1791743102015.jpeg",
-    "kind": "source",
-    "label": "Fotoğraf: A Spor",
-    "credit": "A Spor",
-    "source_url": "https://www.aspor.com.tr/besiktas/2026/10/11/orkun-kokcuden-sakatlik-aciklamasi-yuzde-yuz-degilim"
-   },
-   "score": 15.9,
-   "importance": 5,
-   "popular": true
-  },
-  {
-   "id": "s0089",
-   "rank": 6,
-   "key": "f02edcc865aabecf",
-   "title": "Galatasaray, Manchester United'dan Bruno Fernandes'i yeniden gündemine aldı",
-   "summarized": true,
-   "intro": "Galatasaray'ın, geçen sezondan beri ilgilendiği Manchester United'lı Portekizli orta saha Bruno Fernandes'i yeniden gündemine aldığı ileri sürüldü. Fanatik'in haberine dayanan aktarımlara göre 32 yaşındaki oyuncu, İngiliz kulübüyle sözleşmesindeki bir yıllık uzatma opsiyonunun kullanılmasını istemiyor. Mevcut kontratı sezon sonunda bitecek olan futbolcunun serbest kalma ihtimali, sarı-kırmızılı yönetimin ocak ayında yeniden görüşme zemini aramasına imkân tanıyabilir. Konuyla ilgili resmi bir açıklama bulunmuyor; haberler iddia niteliğinde.",
-   "bullets": [
-    "Opsiyon kullanılmazsa Fernandes sezon sonunda serbest kalabilecek; Galatasaray da bu durumda bonservis ödemeden transfer ihtimalini değerlendirecek.",
-    "Fanatik'in haberine göre Galatasaray, opsiyonun devreye girmemesi halinde devre arasında harekete geçmeyi planlıyor.",
-    "Manchester United sözleşmeyi uzatırsa Galatasaray'ın sezon sonunda makul bir bonservis teklifi sunması planlanıyor.",
-    "Fichajes'e dayandırılan habere göre Galatasaray'ın en önemli rakibi Atletico Madrid olacak; Milan ve Juventus'un da oyuncuyu yakından izlediği belirtildi.",
-    "Galatasaray'da forma giymeye başlayan Rafael Leao'nun, Sporting ve Portekiz Milli Takımı'ndan arkadaşı Fernandes'in kararını etkileyebileceği ileri sürüldü.",
-    "Leao, Norveç deplasmanındaki Portekiz maçında tribünlerden gelen 'Galatasaray'a gel Fernandes' çağrılarına gülümseyerek karşılık vermişti.",
-    "Fernandes bu sezon Manchester United formasıyla 7 maçta 4 gol ve 1 asist üretti; güncel piyasa değeri 35 milyon Euro olarak gösteriliyor.",
-    "A Spor'a göre Fernandes daha önce en zorlu deplasman sorusuna Galatasaray deplasmanı yanıtını vermişti ve RAMS Park atmosferine hayran kalmıştı."
-   ],
-   "why": "Galatasaray taraftarı için, deneyimli ve tanınmış bir 10 numaranın sezon sonunda bonservissiz gelebilme ihtimali önemli bir transfer gündemi oluşturuyor. Leao'nun varlığı ve Avrupa'daki rakip kulüplerin ilgisi, sürecin rekabetçi geçebileceğine işaret ediyor. Yine de her şey iddia aşamasında; Manchester United'ın opsiyon kararı belirleyici olacak.",
-   "raw_summary": null,
-   "category": "transfer",
-   "category_name": "Transfer",
-   "status": "soylenti",
-   "clubs": [
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/galatasaray/2026/10/12/galatasarayda-bruno-fernandes-gelismesi-transferin-onundeki-engeller-belli-oldu",
-     "published": "2026-10-12T03:40:49+00:00"
-    },
-    {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/galatasaraya-fernandes-mujdesi-opsiyonu-reddetti-leao-etkileyecek-43338237",
-     "published": "2026-10-12T06:25:14+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/bruno-fernandesten-galatasarayi-yeniden-harekete-geciren-karar-736440",
-     "published": "2026-10-12T06:55:04+00:00"
-    },
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/galatasaray/galatasaray-a-bruno-fernandes-firsati-SXHBQ1178872SXQ",
-     "published": "2026-10-12T06:57:20+00:00"
-    }
-   ],
-   "n_sources": 4,
-   "first_published": "2026-10-12T03:40:49+00:00",
-   "last_published": "2026-10-12T06:57:20+00:00",
-   "image": {
-    "url": "https://iaaspr.tmgrup.com.tr/c20fce/1200/675/0/0/800/450?u=https://iaspr.tmgrup.com.tr/2026/10/12/galatasarayda-bruno-fernandes-gelismesi-transferin-onundeki-engeller-belli-oldu-1791755755432.jpeg",
-    "kind": "source",
-    "label": "Fotoğraf: A Spor",
-    "credit": "A Spor",
-    "source_url": "https://www.aspor.com.tr/galatasaray/2026/10/12/galatasarayda-bruno-fernandes-gelismesi-transferin-onundeki-engeller-belli-oldu"
-   },
-   "score": 16.15,
-   "importance": 4,
-   "popular": false
-  },
-  {
-   "id": "s0119",
-   "rank": 7,
-   "key": "d17b40de38f0fe9e",
-   "title": "Galatasaray, Barış Alper Yılmaz ile yeni sözleşme için masaya oturacak",
-   "summarized": true,
-   "intro": "Galatasaray yönetiminin, milli futbolcu Barış Alper Yılmaz ile yeni sözleşme görüşmesi yapmayı planladığı aktarıldı. Haberlere göre sarı-kırmızılılar, 2028'de bitecek mevcut sözleşmeyi uzun süreli olarak güncellemek istiyor. Plan, oyuncunun Kasımpaşa galibiyetindeki öne çıkan performansının ardından gündeme geldi. 26 yaşındaki oyuncunun bu sezon başında önemli kulüplerden ciddi teklifler aldığı, ancak satılmadığı belirtiliyor. Haberler resmi bir açıklamaya değil, basın kaynaklı aktarımlara dayanıyor.",
-   "bullets": [
-    "Yönetimin, Barış Alper'in 2028'de sona erecek sözleşmesini uzun vadeli olarak yenilemek istediği aktarıldı.",
-    "Oyuncunun sezon başında önemli kulüplerden ciddi teklifler aldığı, ancak takımdan ayrılmadığı belirtildi.",
-    "Haberlere göre Galatasaray, oyuncuyu 40 milyon euronun altındaki bir bedelle göndermeyi düşünmüyor.",
-    "Barış Alper bu sezon 8 maçta süre buldu ve 1 gol attı.",
-    "2021'den bu yana Galatasaray forması giyen oyuncu, toplam 213 maçta 38 gol ve 36 asist üretti.",
-    "Sporx'un ayrı haberine göre Galatasaray, Barış Alper'in sağ bekte görev aldığı 10 maçta yalnızca 1 kez yenildi.",
-    "Aynı habere göre oyuncu sağ bek oynadığı bu maçlarda 2 gol attı ve 1 asist yaptı."
-   ],
-   "why": "Barış Alper, Galatasaray'ın uzun süredir forma giyen ve hem kanatta hem sağ bekte görev yapabilen isimlerinden biri. Sözleşmenin uzatılması hâlinde oyuncunun kulüpteki geleceği netleşebilir. Taraftar açısından, geçmişte gelen tekliflere rağmen oyuncunun takımda tutulması ve bu konuda belirlenen bedel de dikkat çekiyor.",
-   "raw_summary": null,
-   "category": "yonetim",
-   "category_name": "Yönetim",
-   "status": "soylenti",
-   "clubs": [
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/galatasaray/galatasaray-da-baris-alper-yilmaz-plani-SXHBQ1178860SXQ",
-     "published": "2026-10-12T05:23:21+00:00"
-    },
-    {
-     "name": "Star",
-     "url": "https://www.star.com.tr/spor/galatasarayda-ic-transfer-operasyonu-baris-alper-yilmaz-imzayi-atiyor-haber-2046001",
-     "published": "2026-10-12T06:23:00+00:00"
-    },
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/galatasaray/baris-alper-yilmaz-sag-bekte-bambaska-SXHBQ1178873SXQ",
-     "published": "2026-10-12T07:13:00+00:00"
-    }
-   ],
-   "n_sources": 2,
-   "first_published": "2026-10-12T05:23:21+00:00",
-   "last_published": "2026-10-12T07:13:00+00:00",
-   "image": {
-    "url": "https://imgs.stargazete.com/imgsdisk/2026/10/12/galatasarayda-ic-transfer-168_2-41.jpg",
-    "kind": "source",
-    "label": "Fotoğraf: Star",
-    "credit": "Star",
-    "source_url": "https://www.star.com.tr/spor/galatasarayda-ic-transfer-operasyonu-baris-alper-yilmaz-imzayi-atiyor-haber-2046001"
-   },
-   "score": 12.46,
-   "importance": 6,
-   "popular": false
-  },
-  {
-   "id": "s0111",
-   "rank": 8,
-   "key": "605991a646bba3b2",
-   "title": "Galatasaray'da Barcelona maçının muhtemel 11'i belli oldu: Osimhen forma giyecek",
-   "summarized": true,
-   "intro": "Şampiyonlar Ligi'nde salı günü Barcelona'yı ağırlayacak Galatasaray'da teknik direktör Okan Buruk'un ilk 11'i büyük ölçüde belirlediği öğrenildi. Sarı-kırmızılılar Süper Lig'de Kasımpaşa'yı 3-1 yendikten sonra gözünü Avrupa karşılaşmasına çevirdi. Haberlere göre Barış Alper Yılmaz sağ bekte oynamaya devam edecek, Victor Osimhen ise forvette yer alacak. Bilgiler resmi bir açıklamaya değil, basında çıkan aktarımlara dayanıyor.",
-   "bullets": [
-    "Barış Alper Yılmaz, Kasımpaşa maçındaki performansının ardından Barcelona karşısında da sağ bekte görev alacak. Kaynaklar bunu aktarırken Milliyet'e atıf yapıyor.",
-    "Roland Sallai iyileşmesine rağmen sağ bekte tercih edilmeyecek. Barış Alper'in formu ve Macar oyuncunun sakatlıktan yeni çıkmış olması bu kararda etkili görülüyor.",
-    "Kalede Uğurcan Çakır'ın oynayacağı belirtiliyor. Savunmada stoper ikilisi Davinson Sanchez ve Abdülkerim Bardakcı olacak, sol bekte Ismail Jakobs görev yapacak.",
-    "Kasımpaşa maçında sonradan oyuna girip olumlu görüntü veren Mario Lemina, orta sahada Lucas Torreira ile birlikte başlayacak.",
-    "Hücum hattında sağ kanatta Yunus Akgün, sol kanatta Rafael Leao yer alacak. 10 numara pozisyonunda Aleksey Batrakov'un oynayacağı belirtiliyor.",
-    "Victor Osimhen, takımın en önemli gol silahı olarak en uçta görev alacak."
-   ],
-   "why": "Taraftar için Buruk'un Barcelona gibi güçlü bir rakibe karşı hangi dizilişle çıkacağı büyük merak konusuydu. Barış Alper'in sağ bekte kalması ve Osimhen'in ilk 11'e dönmesi, takımın hem savunma hem hücum planının ana hatlarını gösteriyor. Dizilişin kesinleşmesi için maç günü beklenmeli.",
-   "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
-   "status": "soylenti",
-   "clubs": [
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
-    },
-    {
-     "slug": "barcelona",
-     "name": "Barcelona"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "la-liga",
-     "name": "La Liga"
-    },
-    {
-     "slug": "sampiyonlar-ligi",
-     "name": "Şampiyonlar Ligi"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/galatasaray/galatasaray-da-barcelona-11-i-netlesiyor-SXHBQ1178858SXQ",
-     "published": "2026-10-12T04:54:00+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-barcelona-oncesi-galatasarayda-en-buyuk-2-soru-cevap-buldu-osimhen-ve-baris-alper-gelismesi-431130",
-     "published": "2026-10-12T06:54:07+00:00"
-    }
-   ],
-   "n_sources": 2,
-   "first_published": "2026-10-12T04:54:00+00:00",
-   "last_published": "2026-10-12T06:54:07+00:00",
-   "image": {
-    "path": "pool/diger-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 11.07,
-   "importance": 7,
-   "popular": false
-  },
-  {
-   "id": "s0020",
-   "rank": 9,
-   "key": "403ea09cc2c1ba48",
-   "title": "Manchester City, Anfield'da Liverpool'u 3-0 yenerek liderliğini sürdürdü",
-   "summarized": true,
-   "intro": "Premier Lig'de lider Manchester City, deplasmanda Liverpool'u 3-0 mağlup etti. Karşılaşma 11 Ekim 2026'da Anfield'da oynandı. İlk yarı golsüz bitti. İkinci yarıda Ryan Gravenberch'in 62. dakikada ikinci sarı kartla oyundan atılması maçın seyrini değiştirdi. City, 65, 68 ve 78. dakikalarda bulduğu gollerle maçı kazandı.",
-   "bullets": [
-    "Gravenberch, Jeremy Doku'ya yaptığı faul sonrası 62. dakikada ikinci sarı kartı görüp oyundan atıldı ve Liverpool 10 kişi kaldı.",
-    "65. dakikada Doku'nun şutu Erling Haaland'a döndü, Norveçli golcü topu ağlara göndererek skoru 1-0 yaptı.",
-    "68. dakikada Doku sol kanattan içeri kat edip Alisson'un üzerinden uzak köşeye attığı şutla farkı ikiye çıkardı.",
-    "78. dakikada Rayan Cherki, Josko Gvardiol'un pasıyla ceza sahasına girip skoru 3-0'a getirdi.",
-    "City ligdeki 6 maçını da kazanarak 18 puana ulaştı ve liderliğini korudu. CNN Türk'e göre galibiyet serisi 8 maça çıktı.",
-    "Liverpool sezonun ilk yenilgisini aldı ve 9 puanda kaldı. Fotomaç, ekibin 9. sırada olduğunu yazdı.",
-    "CNN Türk, sonucu City'nin mali kurallar ihlali kararının ardından sahada verdiği mesaj olarak yorumladı. Teknik direktörler olarak City'de Enzo Maresca, Liverpool'da Andoni Iraola'yı andı. Haftanın sırası kaynaklarda 6. ve 7. hafta olarak farklı aktarılıyor."
-   ],
-   "why": "City, rakibinin ligdeki en zorlu deplasmanlarından birinde kazanarak liderlikteki konumunu güçlendirdi. Liverpool için ise sezonun ilk yenilgisi, ilk 10'un dışında kalmalarına yol açtı. Puan farkı ve kırmızı kart, taraftarlar açısından şampiyonluk yarışının seyrini ve Liverpool'un toparlanma ihtiyacını gündemde tutuyor.",
-   "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
-   "status": "resmi",
-   "clubs": [
-    {
-     "slug": "man-city",
-     "name": "Manchester City"
-    },
-    {
-     "slug": "liverpool",
-     "name": "Liverpool"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "premier-lig",
-     "name": "Premier Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/manchester-city-gergin-mactan-kayipsiz-ayrildi-33543232",
-     "published": "2026-10-11T18:30:00+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/ingilterepremierlig/2026/10/11/manchester-city-deplasmanda-liverpoolu-farkli-yendi",
-     "published": "2026-10-11T21:46:14+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/ozet-manchester-city-deplasmanda-liverpoolu-dagitti-3477870",
-     "published": "2026-10-12T05:09:12+00:00"
-    }
-   ],
-   "n_sources": 3,
-   "first_published": "2026-10-11T18:30:00+00:00",
-   "last_published": "2026-10-12T05:09:12+00:00",
-   "image": {
-    "url": "https://iaftm.tmgrup.com.tr/c2c993/1200/675/0/38/800/488?u=https://iftm.tmgrup.com.tr/2026/10/11/manchester-city-deplasmanda-liverpoolu-farkli-yendi-1791739689126.jpeg",
-    "kind": "source",
-    "label": "Fotoğraf: Fotomaç",
-    "credit": "Fotomaç",
-    "source_url": "https://www.fotomac.com.tr/ingilterepremierlig/2026/10/11/manchester-city-deplasmanda-liverpoolu-farkli-yendi"
-   },
-   "score": 10.67,
-   "importance": 7,
-   "popular": false
-  },
-  {
-   "id": "s0065",
-   "rank": 10,
-   "key": "574bd582563175f0",
-   "title": "Samsunspor Başkanı Yıldırım: Alınan sonuçlardan en az taraftarlar kadar rahatsızım",
-   "summarized": true,
-   "intro": "Samsunspor Başkanı Yüksel Yıldırım, takımın kötü gidişatının ardından taraftarlara yönelik bir açıklama yaptı. Kaynaklara göre Samsunspor son 5 maçını kaybetti; NTV Spor'a göre evinde Trabzonspor'a 3-0 yenilen takım 4 puanla düşme hattına geriledi. Yıldırım, son iki gündür Samsun'da İcra Kurulu ve teknik ekiple kapsamlı değerlendirmeler yaptığını belirtti. Açıklamada sonuçlardan duyduğu rahatsızlığı dile getirip birlik ve beraberlik çağrısı yaptı.",
-   "bullets": [
-    "Yıldırım, açıklamasını \"Değerli Samsunspor Taraftarları ve Büyük Samsunspor Ailesi\" başlığıyla yaptı; NTV Spor'a göre paylaşımı X hesabından yaptı.",
-    "Başkan, İcra Kurulu ve teknik ekiple son dönemdeki tabloyu \"tüm detaylarıyla masaya yatırdıklarını\" söyledi.",
-    "Yıldırım, beklentilerin gerisinde kaldıklarını ve taraftarı mutlu edemediklerini kabul etti; eksiklerin bilindiğini ve bunları gidermek için \"kararlı adımlar\" atılmaya başlandığını belirtti. Bu adımların ne olduğu aktarılmadı.",
-    "Taraftar gruplarının temsilcileriyle \"samimi ve yapıcı\" bir görüşme yapıldığını, kırgınlıkların geride bırakılıp kenetlenme konusunda fikir birliğine varıldığını açıkladı.",
-    "Daha önce görevinden ayrılan Tonguç Ali Anıl ile istişarelerin tamamlandığını, yola geçmişte olduğu gibi birlikte devam edileceğini söyledi. Anıl'ın hangi görevden ayrıldığı kaynaklarda belirtilmedi.",
-    "Yıldırım, taraftar grupları ile bireysel taraftarların aynı derecede değerli olduğunu vurguladı ve bugünün \"geçmişin hesaplarını yapma günü\" olmadığını söyledi.",
-    "Başkan, takımın yeniden ayağa kalkacağına ve kötü gidişatın birlikte geride bırakılacağına inandığını ifade etti."
-   ],
-   "why": "Düşme hattına gerileyen Samsunspor'da yönetim, sonuçların sorumluluğunu kabul ederek taraftarla ilişkileri onarmaya çalışıyor. Atılacak adımların içeriği belli olmasa da yönetimin taraftar gruplarıyla uzlaşma mesajı vermesi, zorlu dönemde tribün desteği açısından önem taşıyor.",
-   "raw_summary": null,
-   "category": "yonetim",
-   "category_name": "Yönetim",
-   "status": "resmi",
-   "clubs": [
-    {
-     "slug": "samsunspor",
-     "name": "Samsunspor"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-dusme-hattina-gerileyen-samsunspor-icin-yuksel-yildirimdan-aciklama-431123",
-     "published": "2026-10-11T21:39:13+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/samsunspor-baskani-yuksel-yildirim-alinan-sonuclardan-ben-de-rahatsizim-3477859",
-     "published": "2026-10-12T04:10:58+00:00"
-    },
-    {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/yuksel-yildirim-alinan-sonuclardan-rahatsizim-3919002",
-     "published": "2026-10-12T06:34:51+00:00"
-    }
-   ],
-   "n_sources": 3,
-   "first_published": "2026-10-11T21:39:13+00:00",
-   "last_published": "2026-10-12T06:34:51+00:00",
-   "image": {
-    "url": "https://image.cnnturk.com/i/cnnturk/75/1200x675/6a94fe5e262d9ec9712980b0.jpg",
-    "kind": "source",
-    "label": "Fotoğraf: CNN Türk",
-    "credit": "CNN Türk",
-    "source_url": "https://www.cnnturk.com/spor/futbol/samsunspor-baskani-yuksel-yildirim-alinan-sonuclardan-ben-de-rahatsizim-3477859"
-   },
-   "score": 11.39,
-   "importance": 6,
-   "popular": false
-  },
-  {
-   "id": "s0158",
-   "rank": 11,
-   "key": "8c085636f98b8d5a",
-   "title": "Aston Villa'da sol bek sıkıntısı: Ruggeri hamstring sakatlığıyla devre arasında çıktı",
-   "summarized": true,
-   "intro": "Fenerbahçe'nin Şampiyonlar Ligi'ndeki rakibi Aston Villa, 14 Ekim Çarşamba günü oynanacak maç öncesinde sol bek pozisyonunda eksik yaşıyor. Takım hafta sonu Premier Lig'de sahasında Brentford ile 2-2 berabere kaldı. Bu maçta ilk 11'de başlayan Matteo Ruggeri, devre arasında yerini Aaron Wan-Bissaka'ya bıraktı. Teknik direktör Unai Emery, İtalyan futbolcunun hamstring kasında sorun yaşadığını söyledi ve kontrollerin yapılacağını belirtti.",
-   "bullets": [
-    "Emery, Ruggeri için \"Hamstring kasında bir problem yaşadı. Kontrollerini yapacağız.\" dedi; sakatlığın süresi ve Fenerbahçe maçına yetişip yetişmeyeceği açıklanmadı.",
-    "Diğer sol bek Ian Maatsen, eylül ayında Nottingham Forest maçında sakatlanmıştı ve bir süre sahalardan uzak kalacağı belirtilmişti.",
-    "Emery'ye göre Wan-Bissaka zaman zaman sol bekte oynayabiliyor; teknik adam, Brentford maçının onun için bir antrenman gibi geçtiğini ve iyi oynadığını söyledi.",
-    "Emery, sağ bekte oynayabilecek Lamare Bogarde'nin bulunduğunu belirtti; ancak iki sol ayaklı bek olmadan yapıyı başka seçeneklerle korumaya çalışacağını ifade etti.",
-    "Takımda Modou Keba Cisse ve çapraz bağ sakatlığı bulunan Amado Onana'nın da sakatlıkları sürüyor.",
-    "Emery'nin daha önce açıklamasına göre Goretzka ve Brian Madjo takım antrenmanlarına başladı. Kaynaklarda isim Lean ve Leon Goretzka olarak farklı yazılmış.",
-    "Emery, Fenerbahçe maçı için motive olduklarını söyledi ve ekibin pazartesi günü yeniden çalışmaya başlayıp maça hazırlanacağını belirtti."
-   ],
-   "why": "Fenerbahçe taraftarı için rakibin sol bek rotasyonundaki sıkıntı, Aston Villa'nın muhtemel diziliş ve oyun planı açısından ipucu veriyor. Ruggeri'nin durumu henüz netleşmediği için rakibin Çarşamba günkü kadrosu belirsizliğini koruyor.",
-   "raw_summary": null,
-   "category": "sakatlik",
-   "category_name": "Sakatlık",
-   "status": "belirsiz",
    "clubs": [
     {
      "slug": "fenerbahce",
@@ -845,11 +169,41 @@
      "name": "Sözcü",
      "url": "https://www.sozcu.com.tr/fenerbahce-maci-oncesi-aston-villada-kriz-cikti-kirmizi-alarm-verildi-p368315",
      "published": "2026-10-12T07:13:09+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/fenerbahce/2026/10/12/aston-villa-fenerbahce-macinin-hakemi-aciklandi",
+     "published": "2026-10-12T08:14:00+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/fenerbahce/aston-villa-fenerbahce-macinin-hakemi-belli-oldu-SXHBQ1178884SXQ",
+     "published": "2026-10-12T08:16:15+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/12/aston-villa-fenerbahce-macinin-hakemi-belli-oldu",
+     "published": "2026-10-12T08:18:14+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/fenerbahcenin-aston-villa-ile-oynayacagi-maca-slovak-hakem-431137",
+     "published": "2026-10-12T08:19:22+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/aston-villa-fenerbahce-macina-slovak-hakem-p368352",
+     "published": "2026-10-12T08:20:07+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/aston-villa-fenerbahce-macina-slovak-hakem-33552347",
+     "published": "2026-10-12T08:21:00+00:00"
     }
    ],
-   "n_sources": 2,
+   "n_sources": 12,
    "first_published": "2026-10-12T06:27:02+00:00",
-   "last_published": "2026-10-12T07:13:09+00:00",
+   "last_published": "2026-10-12T09:54:41+00:00",
    "image": {
     "url": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/416jpg-9jQHrLejjEGTHVM32jiPDw.jpg?w=1270&h=675&mode=crop&scale=both",
     "kind": "source",
@@ -857,31 +211,736 @@
     "credit": "Sözcü",
     "source_url": "https://www.sozcu.com.tr/fenerbahce-maci-oncesi-aston-villada-kriz-cikti-kirmizi-alarm-verildi-p368315"
    },
-   "score": 10.24,
+   "score": 44.82,
+   "importance": 8,
+   "popular": true
+  },
+  {
+   "id": "s0125",
+   "rank": 3,
+   "key": "afe6d6b0cc90ccc7",
+   "title": "Salah, Trabzonspor formasıyla Avrupa'daki ilk golü KuPS maçında arayacak",
+   "summarized": true,
+   "intro": "Trabzonspor'un Mısırlı yıldızı Muhammed Salah, 15 Ekim Perşembe günü UEFA Konferans Ligi'nde Finlandiya'nın KuPS Kuopio takımına deplasmanda konuk olacak. Salah, bu maçta gol atarsa bordo-mavili formayla Avrupa Kupaları'ndaki ilk golünü kaydedecek. 34 yaşındaki futbolcu, Süper Lig'in ilk 7 haftasında Trabzonspor'un attığı 16 golün 7'sinde imza sahibi ve gol krallığı yarışında Amed Sportif Faaliyetler'den Orban ile zirveyi paylaşıyor. Salah, milli ara dönüşünde Samsunspor deplasmanında da skora katkı yaparak ligdeki formunu sürdürdü.",
+   "bullets": [
+    "Salah, Trabzonspor formasıyla Avrupa Kupaları'nda 3. maçına çıkacak. Önceki iki maç, UEFA Avrupa Ligi play-off turunda Ferencvaros'a karşı oynandı.",
+    "Ferencvaros karşısında Trabzonspor evinde 1-0 yenildi, Salah 90 dakika oynadı. Deplasmandaki rövanşı 4-0 kaybeden takımda 64 dakika sahada kaldı.",
+    "Salah'ın Şampiyonlar Ligi'nde 50, Şampiyonlar Ligi eleme turlarında 4, Avrupa Ligi'nde 10 golü bulunuyor.",
+    "Süper Lig'e Kasımpaşa deplasmanında 58. dakikada oyuna girerek başladı. İkinci haftada Başakşehir'e karşı 2 gol attığı maçı takım 2-1 kazandı.",
+    "Amed Sportif Faaliyetler'e 2-1 kaybedilen maçta 1, Gençlerbirliği'ni 5-0 yendikleri dördüncü haftada penaltıdan 1 gol attı. Galatasaray maçındaki hat-trick ile gol sayısını 7'ye taşıdı.",
+    "Sporx'a göre Salah ligde 3 asist de yaptı. Samsunspor deplasmanında Franculio Dju'nun golünde asist yaptı.",
+    "Sporx'a göre Trabzonspor, Galatasaray ve Samsunspor maçlarının ilk yarılarında üst üste 3'er gol attı. Haberde bunun Ekim 1990'dan sonra ilk kez yaşandığı belirtiliyor.",
+    "Sporx, teknik direktör Thomas Reis'in Salah'ın bireysel yeteneklerini öne çıkaracak özel taktikler üzerinde durduğunu ve gol-asist sayısını artırmayı hedeflediğini yazdı."
+   ],
+   "why": "Trabzonspor taraftarı için Salah, hücum hattındaki en belirleyici isim olarak öne çıkıyor. Ligdeki gol katkısını Avrupa'ya da taşıyıp taşıyamayacağı, Konferans Ligi'ndeki deplasman maçında merak konusu. Ferencvaros'a elenme sonrası bu turnuvadaki performans takım için ayrı bir önem taşıyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "avrupa-ligi",
+     "name": "Avrupa Ligi"
+    },
+    {
+     "slug": "konferans-ligi",
+     "name": "Konferans Ligi"
+    },
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/trabzonspor/trabzonspor-da-salah-varsa-sorun-yok-SXHBQ1178883SXQ",
+     "published": "2026-10-12T08:06:28+00:00"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/muhammed-salah-trabzonspor-formasiyla-avrupada-ilk-gol-pesinde/4085813",
+     "published": "2026-10-12T08:24:48+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/muhammed-salah-trabzonspor-formasiyla-avrupada-ilk-pesinde-4863589",
+     "published": "2026-10-12T08:31:47+00:00"
+    },
+    {
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/12/muhammed-salah-trabzonspor-formasiyla-avrupada-ilk-gol-pesinde",
+     "published": "2026-10-12T08:33:38+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/12/trabzonsporda-muhammed-salah-icin-onemli-karar",
+     "published": "2026-10-12T08:36:56+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/trabzonspor/salah-avrupa-da-ilk-golunu-ariyor-SXHBQ1178890SXQ",
+     "published": "2026-10-12T08:51:28+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/salah-trabzonspor-ile-avrupa-da-ilk-pesinde-p368367",
+     "published": "2026-10-12T08:51:35+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/mohamed-salah-trabzonspor-formasiyla-ilk-pesinde-736452",
+     "published": "2026-10-12T09:05:13+00:00"
+    }
+   ],
+   "n_sources": 11,
+   "first_published": "2026-10-12T08:06:28+00:00",
+   "last_published": "2026-10-12T10:18:25+00:00",
+   "image": {
+    "url": "https://img.piri.net/piri/upload/3/2026/10/12/8aa1bf36-muhammed-salah-trabzonspor-formasiyla-avrupada-ilk-pesinde.webp",
+    "kind": "source",
+    "label": "Fotoğraf: Yeni Şafak",
+    "credit": "Yeni Şafak",
+    "source_url": "https://www.yenisafak.com/spor/muhammed-salah-trabzonspor-formasiyla-avrupada-ilk-pesinde-4863589"
+   },
+   "score": 41.9,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0205",
+   "rank": 4,
+   "key": "7b7745ffaf0d9d45",
+   "title": "Samsunspor, teknik direktör Thorsten Fink ile yollarını ayırdı",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig ekibi Samsunspor'da teknik direktör Thorsten Fink ile yollar ayrıldı. Haber, 12 Ekim 2026 sabahı birçok yayın organında yer aldı. Ayrılığın ardında sezon başından beri süren kötü gidişat ve sahasında Trabzonspor'a 3-0 yenilmesi var. Sabah'a göre kulübün resmi açıklamayı kısa süre içinde yapması bekleniyor.",
+   "bullets": [
+    "Samsunspor, ligin ilk 7 haftasında 1 galibiyet, 1 beraberlik ve 5 yenilgiyle 4 puan topladı. Ajansspor'a göre takım bu puanla 16. sırada.",
+    "Sporx'a göre kırmızı-beyazlılar ligde üst üste 5 maç kaybetti. Sonuncusu Trabzonspor'a evinde alınan 3-0'lık mağlubiyet oldu.",
+    "Yönetim, Trabzonspor yenilgisinin ardından olağanüstü toplandı. Sporx'a göre bu toplantıda ayrılık kararı çıkmadı. Karar, Başkan Yüksel Yıldırım'ın Fink ile yaptığı görüşmenin ardından verildi.",
+    "58 yaşındaki Alman teknik adam, Şubat 2026'da Thomas Reis'in ardından göreve gelmişti. Görev süresi yaklaşık 8 ay sürdü.",
+    "Sabah'a göre Fink, Samsunspor'da 25 maçta 11 galibiyet, 4 beraberlik ve 10 mağlubiyet yaşadı.",
+    "Fink daha önce Basel, Hamburg, Austria Wien, Vissel Kobe ve Genk gibi takımları çalıştırmıştı.",
+    "Sporx'a göre Yüksel Yıldırım 4-5 teknik direktör adayıyla görüşecek ve bu kez yine yabancı bir isim tercih edilecek.",
+    "Yönetimin önceliği, yeni hocayı pazar günü oynanacak Kasımpaşa maçına yetiştirmek."
+   ],
+   "why": "Samsunspor taraftarı için kötü başlayan sezonda teknik direktör değişikliği yeni bir döneme işaret ediyor. Takım 7 haftada yalnızca 4 puan topladı ve alt sıralarda yer alıyor. Yeni hocanın kim olacağı ve Kasımpaşa maçına yetişip yetişmeyeceği önümüzdeki günlerde belli olacak.",
+   "raw_summary": null,
+   "category": "teknik",
+   "category_name": "Teknik Direktör",
+   "status": "belirsiz",
+   "clubs": [
+    {
+     "slug": "samsunspor",
+     "name": "Samsunspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-son-dakika-super-ligde-bir-teknik-direktor-ayriligi-daha-431144",
+     "published": "2026-10-12T10:22:18+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/samsunspor/samsunspor-da-thorsten-fink-donemi-sona-erdi-SXHBQ1178904SXQ",
+     "published": "2026-10-12T10:26:00+00:00"
+    },
+    {
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/12/son-dakika-samsunsporda-thorsten-fink-donemi-sona-erdi",
+     "published": "2026-10-12T10:31:06+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/super-ligde-bir-teknik-direktor-ayriligi-daha-kotu-gidisat-sonu-oldu-p368407",
+     "published": "2026-10-12T10:31:27+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/samsunspor/2026/10/12/samsunsporda-thorsten-fink-ile-yollar-ayrildi",
+     "published": "2026-10-12T10:31:49+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/samsunsporda-fink-donemi-bitti-4863627",
+     "published": "2026-10-12T10:31:57+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/samsunsporda-teknik-direktor-thorsten-fink-ile-yollar-ayrildi-736458",
+     "published": "2026-10-12T10:39:26+00:00"
+    }
+   ],
+   "n_sources": 7,
+   "first_published": "2026-10-12T10:22:18+00:00",
+   "last_published": "2026-10-12T10:39:26+00:00",
+   "image": {
+    "url": "https://iasbh.tmgrup.com.tr/f40bf8/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/12/1791800915123.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Sabah",
+    "credit": "Sabah",
+    "source_url": "https://www.sabah.com.tr/spor/futbol/2026/10/12/son-dakika-samsunsporda-thorsten-fink-donemi-sona-erdi"
+   },
+   "score": 26.99,
+   "importance": 8,
+   "popular": false
+  },
+  {
+   "id": "s0001",
+   "rank": 5,
+   "key": "e2e488f5fe0460cb",
+   "title": "İlkay Gündoğan, Galatasaray'dan ayrılık iddialarını yalanladı",
+   "summarized": true,
+   "intro": "Galatasaray'ın tecrübeli orta saha oyuncusu İlkay Gündoğan, Barcelona ile oynanacak Şampiyonlar Ligi maçı öncesinde İspanyol Mundo Deportivo'ya konuştu. Bu sezon çok az süre alan oyuncunun ara transfer döneminde takımdan ayrılacağı iddia ediliyordu. Gündoğan bu iddiaların doğru olmadığını söyledi ve Galatasaray'da kalıp bir şampiyonluk daha kazanmak istediğini belirtti. İddialar, Süper Lig'de Kasımpaşa karşısında alınan 3-1'lik galibiyetin ardından oyuncunun stadyumdan ayrılırken söylediği sözlerle gündeme gelmişti.",
+   "bullets": [
+    "Gündoğan'ın sözleri: \"Transfer haberleri doğru değil. Kış transfer döneminden sonra da burada olmak ve Galatasaray ile bir şampiyonluk daha kazanmak için elimden gelen her şeyi yapmak istiyorum.\"",
+    "Ajansspor ve CNN Türk'e göre oyuncu bu sezon toplam 11 dakika süre aldı. CNN Türk bu sürenin 2 maça yayıldığını aktarıyor. Ocak ayında ayrılık ihtimalinin konuşulduğu da belirtiliyor.",
+    "Kasımpaşa maçı sonrası karma alanda \"Barcelona maçına hazır mısın?\" sorusuna Gündoğan, \"Oynamıyorum ki niye hazır olayım\" diye yanıt vermişti. Bu cevap iddiaları alevlendirmişti.",
+    "Eşi Sara Gündoğan da daha önce \"Neden oynamadığını sormak istiyorsanız, bana değil hocanıza sorun\" demişti. CNN Türk bu sözün teknik direktör Okan Buruk'u işaret ettiğini yazıyor.",
+    "Gündoğan, Barcelona'yı Avrupa'nın en iyi takımı ve Şampiyonlar Ligi'nin en büyük favorisi olarak niteledi. Kusursuz savunma yapmak ve top ayaktayken cesur davranmak gerektiğini söyledi.",
+    "Galatasaray'ın en büyük gücü olarak hücum hattındaki bireysel kaliteyi ve RAMS Park'ta taraftar önünde yakalanan enerjiyi gösterdi. Savunmada kompakt kalınırsa her rakibe sorun çıkarılabileceğini belirtti.",
+    "Rakip kadroda eski takım arkadaşlarını görmenin kendisi için özel bir duygu olduğunu, gergin olmadığını ve maç öncesi ya da sonrası arkadaşlarıyla buluşmayı beklediğini söyledi."
+   ],
+   "why": "Forma şansı bulamayan bir tecrübeli oyuncunun ayrılığı kış transfer dönemine doğru sık sık gündeme gelebilir. Gündoğan'ın açıklaması ocak ayında takımdan ayrılma planı olmadığını gösteriyor. Oyuncunun rolü ve teknik heyetle ilişkisi ise Barcelona maçı ve sonrasında merak konusu olmaya devam edecek.",
+   "raw_summary": null,
+   "category": "transfer",
+   "category_name": "Transfer",
+   "status": "yalanlama",
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/galatasaray/2026/10/11/galatasarayda-ilkay-gundogandan-ayrilik-iddialarina-yanit",
+     "published": "2026-10-11T20:45:43+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/ilkay-gundogan-galatasaraydaki-gelecegini-acikladi-736434",
+     "published": "2026-10-11T21:06:06+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/ilkay-gundogan-ayrilik-iddialarina-cevap-verdi-3477884",
+     "published": "2026-10-12T06:09:00+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/galatasarayda-ilkay-gundogandan-ayrilik-iddialarina-yanit-43338252",
+     "published": "2026-10-12T07:30:00+00:00"
+    }
+   ],
+   "n_sources": 4,
+   "first_published": "2026-10-11T20:45:43+00:00",
+   "last_published": "2026-10-12T07:30:00+00:00",
+   "image": {
+    "url": "https://iaaspr.tmgrup.com.tr/dfb668/1200/675/0/0/2048/1151?u=https://iaspr.tmgrup.com.tr/2026/10/11/galatasarayda-ilkay-gundogandan-ayrilik-iddialarina-yanit-1791751367063.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: A Spor",
+    "credit": "A Spor",
+    "source_url": "https://www.aspor.com.tr/galatasaray/2026/10/11/galatasarayda-ilkay-gundogandan-ayrilik-iddialarina-yanit"
+   },
+   "score": 20.54,
    "importance": 7,
    "popular": false
   },
   {
-   "id": "s0193",
-   "rank": 12,
-   "key": "f87005e478461922",
-   "title": "Lukaku'nun Aston Villa karşısındaki geçmişi: 11 maçta 9 gol, 2 asist",
+   "id": "s0016",
+   "rank": 6,
+   "key": "403ea09cc2c1ba48",
+   "title": "Manchester City, Anfield'da Liverpool'u 3-0 yenerek liderliğini sürdürdü",
    "summarized": true,
-   "intro": "Fenerbahçe forveti Romelu Lukaku, çarşamba günü oynanacak Aston Villa maçı öncesinde İngiliz ekibine karşı kariyer istatistikleriyle öne çıkıyor. 33 yaşındaki Belçikalı golcü, Villa'ya karşı çıktığı 11 resmi maçta 9 gol attı ve 2 asist yaptı. Haberlere göre Lukaku, Devler Ligi'ndeki bu karşılaşmada teknik direktör İsmail Kartal'dan daha fazla süre bekliyor. Mücadelenin Villa Park'ta oynanacağı ve oyuncunun ilk 11'de başlayabileceği belirtiliyor.",
+   "intro": "Premier Lig'de Manchester City, deplasmanda Liverpool'u 3-0 mağlup etti. Goller Erling Haaland, Jeremy Doku ve Rayan Cherki'den geldi ve üçü de ikinci yarının ilk yarım saatinde atıldı. Maçın dönüm noktası, Liverpool'dan Ryan Gravenberch'in 62. dakikada ikinci sarı kartla oyundan atılması oldu. Bu sonuçla City ligdeki 6 maçı da kazanarak 18 puanla zirvedeki yerini korudu. Liverpool ise 9 puanda kaldı.",
    "bullets": [
-    "Lukaku profesyonel kulüp kariyerinde 107 farklı takıma karşı gol sevinci yaşadı.",
-    "Aston Villa, Lukaku'nun kariyerinde en çok gol attığı ikinci takım konumunda.",
-    "Lukaku'nun takımları Villa karşısında 11 maçta yalnızca 1 kez yenildi; bilanço 8 galibiyet ve 2 beraberlik şeklinde.",
-    "Belçikalı forvet bu rakibe karşı 11 maçta toplam 11 skor katkısı (9 gol, 2 asist) verdi.",
-    "Lukaku, milli ara döneminde Belçika Milli Takımı'nda 3 maça çıktı.",
-    "İsmail Kartal, Rize maçında Lukaku'yu yedek kulübesinde başlatmış ve oyuncuya yalnızca 10 dakika süre vermişti.",
-    "Kartal'ın Devler Ligi maçında Lukaku'dan daha fazla yararlanması bekleniyor; ilk 11 ihtimali dile getiriliyor."
+    "İlk yarı golsüz bitti. İkinci yarıda tempo arttı ancak Gravenberch'in Doku'ya yaptığı faulle kırmızı kart görmesine kadar skor 0-0'dı.",
+    "Haaland, Doku'nun şutunun kendisine dönmesiyle 65. dakikada City'yi öne geçirdi. Gol, kırmızı karttan üç dakikadan kısa süre sonra geldi.",
+    "Doku 68. dakikada sol kanattan içeri girip uzak köşeye attığı şutla farkı ikiye çıkardı. Top, kaleci Alisson'un üzerinden filelere gitti.",
+    "Cherki 78. dakikada Josko Gvardiol'un pasıyla ceza sahasına girip skoru 3-0'a getirdi.",
+    "CNN Türk'e göre City'nin galibiyet serisi 8 maça çıktı. Aynı habere göre Enzo Maresca'nın ekibi, mali kurallar dosyasının yarattığı gürültünün ardından sahada olumlu bir cevap verdi.",
+    "Liverpool, CNN Türk'e göre Andoni Iraola yönetiminde sezonun ilk yenilgisini aldı. Fotomaç, takımın 9 puanla 9. sırada olduğunu yazdı.",
+    "Arsenal, Leeds United'ı 2-1 yenerek 15 puanla City'nin ardından ikinci sırada yer aldı. 13 puanlı Brighton üçüncü oldu.",
+    "Aynı hafta sonunda LaLiga'da Barcelona, Getafe'yi 3-0 yenip 8 maçta 8 galibiyete ulaştı. Barcelona 24 puanla lider."
    ],
-   "why": "Fenerbahçe taraftarı için Lukaku'nun Villa'ya karşı geçmişteki golcü performansı, Devler Ligi'ndeki zorlu deplasman öncesinde olumlu bir veri sunuyor. Kartal'ın ilk 11 tercihi, takımın hücum planı açısından yakından izlenecek.",
+   "why": "City, rakibinin sahasında ve eksik oyuncuyla oynayan Liverpool karşısında kayıpsız gidişini sürdürdü. Liderlik yarışında Arsenal'a karşı üç puanlık fark yarattı. Liverpool taraftarı için ise sezonun ilk yenilgisi ve alt sıralarda kalan puan durumu dikkat çekici.",
    "raw_summary": null,
    "category": "mac",
    "category_name": "Maç",
-   "status": "belirsiz",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "man-city",
+     "name": "Manchester City"
+    },
+    {
+     "slug": "barcelona",
+     "name": "Barcelona"
+    },
+    {
+     "slug": "liverpool",
+     "name": "Liverpool"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "bundesliga",
+     "name": "Bundesliga"
+    },
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    },
+    {
+     "slug": "ligue-1",
+     "name": "Ligue 1"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/ingilterepremierlig/2026/10/11/manchester-city-deplasmanda-liverpoolu-farkli-yendi",
+     "published": "2026-10-11T21:46:14+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/ozet-manchester-city-deplasmanda-liverpoolu-dagitti-3477870",
+     "published": "2026-10-12T05:09:12+00:00"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/barcelona-ve-manchester-city-kayipsiz-zirvede-yer-aldi/4085842",
+     "published": "2026-10-12T08:51:48+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/5-buyuk-ligde-son-durum-33552993",
+     "published": "2026-10-12T09:22:00+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/ingiltere/manchester-city/manchester-city-ve-barcelona-kayipsiz-devam-ediyor-SXHBQ1178898SXQ",
+     "published": "2026-10-12T09:33:26+00:00"
+    }
+   ],
+   "n_sources": 5,
+   "first_published": "2026-10-11T21:46:14+00:00",
+   "last_published": "2026-10-12T09:33:26+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/c2c993/1200/675/0/38/800/488?u=https://iftm.tmgrup.com.tr/2026/10/11/manchester-city-deplasmanda-liverpoolu-farkli-yendi-1791739689126.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/ingilterepremierlig/2026/10/11/manchester-city-deplasmanda-liverpoolu-farkli-yendi"
+   },
+   "score": 20.29,
+   "importance": 7,
+   "popular": false
+  },
+  {
+   "id": "s0085",
+   "rank": 7,
+   "key": "43d73a70ded66e59",
+   "title": "Galatasaray-Barcelona maçı öncesi karaborsa bilet operasyonu: gözaltılar var",
+   "summarized": true,
+   "intro": "UEFA Şampiyonlar Ligi'nin 2. haftasında Galatasaray'ın RAMS Park'ta Barcelona'yı ağırlayacağı maç öncesinde karaborsa bilet satışına yönelik bir operasyon düzenlendi. İstanbul Emniyet Müdürlüğü Spor Güvenliği Şube Müdürlüğü ekipleri, İstanbul Cumhuriyet Başsavcılığının koordinesinde çalışma yürüttü. Kaynakların çoğu 9 şüphelinin gözaltına alındığını aktarırken, NTV Spor'un haberinde ve başsavcılık açıklamasında sayı 10 olarak geçiyor. Şüpheliler işlemleri için emniyete götürüldü.",
+   "bullets": [
+    "Operasyon, RAMS Park'ta oynanacak maçta karaborsa bilet satışı yapıldığı bilgisi üzerine başlatıldı; ekipler adres ve kimlikleri tespit edilen şüphelileri gözaltına aldı.",
+    "Gözaltı sayısı kaynaklarda farklı: Sporx, CNN Türk, Ajansspor ve Fotomaç 9 kişiden söz ederken NTV Spor 10 kişi olduğunu yazdı.",
+    "NTV Spor'un aktardığı başsavcılık açıklamasına göre soruşturmayı İstanbul Cumhuriyet Başsavcılığı Yasa Dışı Bahis ve Spor Suçları Soruşturma Bürosu yürütüyor.",
+    "Başsavcılık, sosyal medyada yapılan açık kaynak araştırmasında 6222 sayılı Kanun'un 15/6. maddesi (uygun görülen yerler ve görevliler dışında bilet satışı) kapsamında suç içerikli paylaşım yaptığı değerlendirilen şüphelilerin belirlendiğini belirtti.",
+    "Açıklamaya göre şüphelilerin kendilerine ait kombine maç biletlerini fahiş fiyatlarla başkalarına sattığı tespit edildi.",
+    "Başsavcılık toplam 10 kişi hakkında arama, el koyma ve gözaltı kararı verildiğini duyurdu.",
+    "Başsavcılık açıklamasında maç tarihi 13 Ekim 2026 olarak belirtildi; haberler maçın ertesi gün oynanacağını yazıyor."
+   ],
+   "why": "Maç biletlerinin fahiş fiyatlarla yeniden satılması, taraftarların tribüne ulaşma çabasında mağduriyet yaratabiliyor. Operasyon, büyük Avrupa maçları öncesinde bilet satışına yönelik denetimlerin sürdüğünü gösteriyor. Gözaltı sayısındaki fark ise kesin rakamın netleşmesini gerektiriyor.",
+   "raw_summary": null,
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "barcelona",
+     "name": "Barcelona"
+    },
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    },
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/galatasaray/galatasaray-barcelona-maci-oncesi-9-gozalti-SXHBQ1178871SXQ",
+     "published": "2026-10-12T06:43:48+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/karaborsa-operasyonu-galatasaray-barcelona-maci-oncesi-9-supheli-gozaltina-alindi-3477948",
+     "published": "2026-10-12T07:12:54+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-galatasaray-barcelona-maci-oncesi-operasyon-10-kisi-gozaltinda-431132",
+     "published": "2026-10-12T07:16:05+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/galatasaray-barcelona-maci-oncesi-karaborsa-bilet-operasyonu-9-gozalti-736445",
+     "published": "2026-10-12T07:58:42+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/10/12/galatasaray-barcelona-maci-oncesi-karaborsa-bilet-operasyounu-9-gozalti",
+     "published": "2026-10-12T08:51:46+00:00"
+    }
+   ],
+   "n_sources": 5,
+   "first_published": "2026-10-12T06:43:48+00:00",
+   "last_published": "2026-10-12T08:51:46+00:00",
+   "image": {
+    "url": "https://image.cnnturk.com/i/cnnturk/75/1200x675/6a7eaf9ff246b5ddad090cc3.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: CNN Türk",
+    "credit": "CNN Türk",
+    "source_url": "https://www.cnnturk.com/spor/futbol/karaborsa-operasyonu-galatasaray-barcelona-maci-oncesi-9-supheli-gozaltina-alindi-3477948"
+   },
+   "score": 19.63,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0070",
+   "rank": 8,
+   "key": "1593337832e757ea",
+   "title": "Galatasaray, Bruno Fernandes'i yeniden gündemine aldı; opsiyon kararı belirleyici olacak",
+   "summarized": true,
+   "intro": "Galatasaray'ın, geçen sezondan bu yana ilgilendiği Manchester United'ın Portekizli oyuncusu Bruno Fernandes'i yeniden gündemine aldığı ileri sürüldü. Haberlere göre 32 yaşındaki futbolcu, İngiliz kulübüyle olan sözleşmesindeki bir yıllık uzatma opsiyonunun kullanılmasını istemiyor. Sözleşmesi sezon sonunda bitecek oyuncu için United henüz opsiyon konusunda karar vermiş değil. Bu durumun, sarı-kırmızılı yönetime ocak ayında yeniden görüşme zemini arama fırsatı doğurduğu belirtiliyor. Bilgiler resmi bir açıklamaya değil, basın haberlerine dayanıyor.",
+   "bullets": [
+    "Fernandes'in opsiyonun kullanılmasını istemediği iddia ediliyor; United tarafında henüz opsiyonla ilgili bir karar alınmadı.",
+    "Opsiyon devreye girmezse oyuncu sezon sonunda serbest kalabilecek ve Galatasaray bonservis ödemeden transfer ihtimalini değerlendirecek.",
+    "United sözleşmeyi uzatırsa Galatasaray'ın sezon sonunda makul bir bonservis teklifi sunmayı planladığı aktarılıyor.",
+    "Galatasaray'da forma giymeye başlayan Rafael Leao'nun vatandaşı Fernandes'in kararını etkileyebileceği ileri sürüldü.",
+    "Portekiz Milli Takımı'yla Norveç deplasmanına çıkan Fernandes, tribünlerden gelen \"Galatasaray'a gel Fernandes\" çağrılarına gülümseyerek karşılık verdi.",
+    "Fernandes bu sezon United formasıyla 7 maçta 4 gol ve 1 asist üretti; piyasa değeri 35 milyon Euro olarak gösteriliyor.",
+    "Yönetimin oyuncunun sözleşme durumunu yakından izlediği ve transferin mali şartlarını değerlendireceği belirtiliyor."
+   ],
+   "why": "Galatasaray taraftarı için Fernandes, yıldız transferlerin sürebileceğine işaret eden bir gelişme olarak öne çıkıyor. Opsiyon kararı, transferin ocakta mı yoksa sezon sonunda bedelsiz mi gündeme geleceğini belirleyebilir. Ancak süreç henüz iddia aşamasında ve United'ın kararına bağlı.",
+   "raw_summary": null,
+   "category": "transfer",
+   "category_name": "Transfer",
+   "status": "soylenti",
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/galatasaraya-fernandes-mujdesi-opsiyonu-reddetti-leao-etkileyecek-43338237",
+     "published": "2026-10-12T06:25:14+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/bruno-fernandesten-galatasarayi-yeniden-harekete-geciren-karar-736440",
+     "published": "2026-10-12T06:55:04+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/galatasaray/galatasaray-a-bruno-fernandes-firsati-SXHBQ1178872SXQ",
+     "published": "2026-10-12T06:57:20+00:00"
+    },
+    {
+     "name": "Takvim",
+     "url": "https://www.takvim.com.tr/spor/galatasaray/2026/10/12/galatasaraydan-bruno-fernandes-icin-yeni-hamle",
+     "published": "2026-10-12T09:40:32+00:00"
+    }
+   ],
+   "n_sources": 4,
+   "first_published": "2026-10-12T06:25:14+00:00",
+   "last_published": "2026-10-12T09:40:32+00:00",
+   "image": {
+    "url": "https://www.sporx.com/img/2026/10/12/galatasaray-a_firsat_dogdu_caebd_800.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Sporx",
+    "credit": "Sporx",
+    "source_url": "https://www.sporx.com/futbol/superlig/galatasaray/galatasaray-a-bruno-fernandes-firsati-SXHBQ1178872SXQ"
+   },
+   "score": 15.93,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0000",
+   "rank": 9,
+   "key": "701456e5a7281464",
+   "title": "Kocaelispor Başkanı Durul'dan Beşiktaş maçı sonrası VAR ve hakem eleştirisi",
+   "summarized": true,
+   "intro": "Kocaelispor Başkanı Recep Durul, Trendyol Süper Lig'in 7. haftasında deplasmanda Beşiktaş'a 2-1 yenildikleri maçın ardından sosyal medya hesabından bir paylaşım yaptı. Durul, bu paylaşımda VAR sistemini ve hakem kararlarını eleştirdi. Başkan, çifte standart olduğunu savundu ve penaltı ile kırmızı kart kararlarının \"renklere göre değiştiğini\" düşündüğünü belirtti. Aynı maçın ardından teknik direktör Selçuk İnan'ın da hakem konusunda tepki gösterdiği aktarıldı.",
+   "bullets": [
+    "Durul paylaşımına \"Bu VAR niye var, kimler için var?\" sorusuyla başladı.",
+    "Başkan, çifte standart konusunda \"iyiler, iyi çalışıyorlar\" ifadesini kullandı.",
+    "Durul'a göre futbol, birinin hakkını alıp diğerine vermek değil; alın terine, mücadeleye ve adalete vermektir.",
+    "Durul, \"Penaltı ve kırmızı kart sanırım renklere göre değişmiş\" dedi. Hangi pozisyonlardan söz ettiğini kaynaklar ayrıntılandırmıyor.",
+    "Başkan, takımını, oyuncuları ve taraftarı onurlu mücadele nedeniyle kutladı ve Kocaelispor'un alnı açık, başı dik olduğunu söyledi.",
+    "Durul, Türk futbolunda adaleti tesis etme yönünde her zaman var olduklarını belirtti. Hakkını elinden alanın karşısında duracaklarını ve hesabını sormaya devam edeceklerini ekledi.",
+    "Teknik direktör Selçuk İnan'ın maç sonrası hakem tepkisinin içeriği, elimizdeki kaynaklarda yer almıyor."
+   ],
+   "why": "Kulüp başkanının hakem ve VAR kararlarını açıkça eleştirmesi, haftanın hakem tartışmalarına yeni bir boyut kazandırdı. Kocaelispor taraftarı için yönetimin tepkisi, kulübün bu konuda hak arama yönünde ısrarcı olacağının işareti. Başkanın \"hesabını sormaya devam edeceğiz\" sözlerinin somut bir adıma dönüşüp dönüşmeyeceği ise henüz belli değil.",
+   "raw_summary": null,
+   "category": "hakem",
+   "category_name": "Hakem / VAR",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "kocaelispor",
+     "name": "Kocaelispor"
+    },
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/bu-var-niye-var-kimler-icin-var-33545287",
+     "published": "2026-10-11T20:42:00+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/recep-duruldan-hakem-kararlarina-tepki-bu-var-niye-var-kimler-icin-var-736433",
+     "published": "2026-10-11T20:42:43+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/kocaelispor/2026/10/11/kocaelispor-baskani-recep-duruldan-hakem-tepkisi",
+     "published": "2026-10-11T21:10:00+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/11/kocaelispor-baskani-recep-duruldan-besiktas-maci-sonrasi-olay-sozler",
+     "published": "2026-10-11T21:12:19+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/kocaelispor/2026/10/11/kocaelisporda-selcuk-inandan-hakem-tepkisi",
+     "published": "2026-10-11T21:46:59+00:00"
+    }
+   ],
+   "n_sources": 4,
+   "first_published": "2026-10-11T20:42:00+00:00",
+   "last_published": "2026-10-11T21:46:59+00:00",
+   "image": {
+    "url": "https://cdn.ajansspor.com/ajansspor/photo/2026/10/c411d6db-571f-4456-a0c7-7d1c4f5a9126.webp",
+    "kind": "source",
+    "label": "Fotoğraf: Ajansspor",
+    "credit": "Ajansspor",
+    "source_url": "https://ajansspor.com/haber/recep-duruldan-hakem-kararlarina-tepki-bu-var-niye-var-kimler-icin-var-736433"
+   },
+   "score": 11.49,
+   "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0090",
+   "rank": 10,
+   "key": "da34922a42098f92",
+   "title": "Galatasaray'ın Barcelona maçı ilk 11 planı: Osimhen ve Barış Alper öne çıkıyor",
+   "summarized": true,
+   "intro": "Galatasaray, Şampiyonlar Ligi'nde yarın konuk edeceği Barcelona maçının hazırlıklarını sürdürüyor. Süper Lig'de Kasımpaşa'yı 3-1 yenen sarı-kırmızılılarda teknik direktör Okan Buruk'un ilk 11'i büyük oranda belirlediği aktarılıyor. Kaynaklara göre Victor Osimhen'in ilk 11'e dönmesi bekleniyor, Barış Alper Yılmaz'ın ise sağ bekte oynaması öne çıkan ihtimal. Savunma hattı ve kanat tercihleri konusunda iki kaynağın aktardıkları birbirinden farklı, Buruk'un nihai kararını maç günü vereceği belirtiliyor.",
+   "bullets": [
+    "Barış Alper Yılmaz, Kasımpaşa maçındaki gibi Barcelona karşısında da sağ bekte görev alabilir. Roland Sallai'nin iyileşmesine ve maça yetişmesinin beklenmesine rağmen Buruk'un tercihinin Barış Alper'den yana olabileceği aktarılıyor.",
+    "Victor Osimhen'in ilk 11'de yer alması kesin gözle bakılan bir durum olarak aktarılıyor. NTV Spor, Osimhen'i Galatasaray'ın gol ayağı olarak tanımlıyor.",
+    "10 numara bölgesinde iki kaynak da Batrakov'un forma giyeceğini belirtiyor.",
+    "Kanatlarda Rafael Leao'nun başlaması bekleniyor. Diğer kanat için NTV Spor Yunus Akgün'ü yazarken, Hürriyet'e göre Yunus Akgün ile Leroy Sane arasında rekabet var ve Yunus bir adım önde.",
+    "Kalede Uğurcan Çakır'ın görev yapması bekleniyor. NTV Spor'a göre Davinson Sanchez ile Abdülkerim Bardakçı stoper ikilisini oluşturacak, solda Ismail Jakobs oynayacak.",
+    "Hürriyet ise Sporting Lizbon deplasmanındaki gibi Jakobs'un stoperde Bardakçı'nın yerine oynaması ve sol bekte Eren Elmalı'nın forma giymesini ihtimaller arasında sayıyor. Savunma planı konusunda kaynaklar farklı aktarıyor.",
+    "NTV Spor'a göre Mario Lemina, Kasımpaşa maçında oyuna sonradan girip iyi performans gösterdi ve Barcelona karşısında Lucas Torreira ile orta sahada başlayacak.",
+    "Hürriyet, Buruk'un ilk 11'e dair nihai kararını maç günü vereceğini yazıyor."
+   ],
+   "why": "Barcelona gibi güçlü bir rakibe karşı savunma dizilişi ve kanat tercihleri Galatasaray'ın oyun planını belirleyecek. Osimhen'in ilk 11'e dönmesi ve Barış Alper'in rolü taraftar için en çok merak edilen başlıklar. Kadro kararı maç gününe kadar değişebilir.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "soylenti",
+   "clubs": [
+    {
+     "slug": "barcelona",
+     "name": "Barcelona"
+    },
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    },
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-barcelona-oncesi-galatasarayda-en-buyuk-2-soru-cevap-buldu-osimhen-ve-baris-alper-gelismesi-431130",
+     "published": "2026-10-12T06:54:07+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/galatasarayda-barcelona-plani-osimhen-kesin-43338429",
+     "published": "2026-10-12T08:18:00+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-10-12T06:54:07+00:00",
+   "last_published": "2026-10-12T08:18:00+00:00",
+   "image": {
+    "path": "pool/mac-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 10.27,
+   "importance": 7,
+   "popular": false
+  },
+  {
+   "id": "s0162",
+   "rank": 11,
+   "key": "2441da3402287a7b",
+   "title": "Carlo Holse hat-trick yaptı, St. Louis LA Galaxy'yi 6-2 yendi",
+   "summarized": true,
+   "intro": "Yaz transfer döneminde Samsunspor'dan MLS ekibi St. Louis'e geçen Danimarkalı oyuncu Carlo Holse, LA Galaxy karşısında hat-trick yaptı. Batı Konferansı'nın 28. haftasında oynanan maçı St. Louis 6-2 kazandı. Holse'nin golleri 2., 7. ve 21. dakikalarda geldi. Kaynaklar hat-trick'in süresini 19 ya da 21 dakika olarak farklı aktarıyor. Samsunspor ise ligde istediği başlangıcı yapamadı ve Holse'nin boşluğunu dolduramadığı yazıldı.",
+   "bullets": [
+    "Holse 27 yaşında, Danimarkalı bir 10 numara. Samsunspor'da 3 sezon forma giydi.",
+    "Samsunspor, Holse'nin St. Louis'e transferinden 5.2 milyon euro gelir elde etti.",
+    "Holse'nin üç golü maçın ilk 21 dakikasında geldi ve St. Louis ilk yarıda maçta ipi öne aldı.",
+    "Maçta toplam 8 gol atıldı, skor 6-2 oldu.",
+    "Galibiyetle St. Louis puanını 50'ye çıkardı ve lider Vancouver'ın 1 puan gerisinde Batı Konferansı'nda ikinci sıraya yerleşti.",
+    "Holse, St. Louis formasıyla çıktığı 10 maçta 6 gol ve 1 asist üretti.",
+    "Ajansspor'a göre Samsunspor ligde 7 maçta 5 yenilgi aldı ve 16. sırada bulunuyor."
+   ],
+   "why": "Samsunspor taraftarı için Holse'nin ayrılığı sonrası oluşan boşluk, hem sahadaki sonuçlar hem de oyuncunun yeni takımındaki performansı üzerinden yeniden gündeme geldi. Holse'nin MLS'teki hızlı başlangıcı, transferin sportif yönünün tartışılmasına zemin hazırlıyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "samsunspor",
+     "name": "Samsunspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-carlo-holse-samsunsporu-bin-pisman-ettirdi-20-dakikada-maci-bitirdi-tam-8-gol-431138",
+     "published": "2026-10-12T09:11:24+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/samsunspordan-mls-ligine-transfer-olan-carlo-holse-abdde-sov-yapiyor-736454",
+     "published": "2026-10-12T09:45:42+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-10-12T09:11:24+00:00",
+   "last_published": "2026-10-12T09:45:42+00:00",
+   "image": {
+    "url": "https://cdn.ajansspor.com/ajansspor/photo/2026/10/f2732dc7-8519-4b08-8091-18f39ec93175.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Ajansspor",
+    "credit": "Ajansspor",
+    "source_url": "https://ajansspor.com/haber/samsunspordan-mls-ligine-transfer-olan-carlo-holse-abdde-sov-yapiyor-736454"
+   },
+   "score": 11.0,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0099",
+   "rank": 12,
+   "key": "f87005e478461922",
+   "title": "Fenerbahçe, Aston Villa deplasmanında Lukaku'ya şans vermeye hazırlanıyor",
+   "summarized": true,
+   "intro": "Fenerbahçe, Şampiyonlar Ligi'nin ikinci haftasında çarşamba günü İngiliz ekibi Aston Villa'ya konuk olacak. Teknik direktör İsmail Kartal'ın kritik maç için ilk 11'i belirlemeye başladığı aktarılıyor. Star'a göre Kartal, hücum hattında Romelu Lukaku'ya şans verecek. Sporx ise Belçikalı golcünün Villa karşısındaki geçmişine dikkat çekiyor; Lukaku'nun Villa Park'ta ilk 11'de başlayabileceği belirtiliyor.",
+   "bullets": [
+    "Star'ın aktardığı beklenen ilk 11'de kalede Ederson, sağ bekte Nelson Semedo, sol bekte Archie Brown yer alıyor. Stoper ikilisinin Milan Skriniar ve Nathan Ake olması bekleniyor.",
+    "Orta sahada Matteo Guendouzi, İsmail Yüksek ve N'Golo Kante'nin şans bulması bekleniyor. Sağ kanatta Mason Greenwood, sol kanatta Oğuz Aydın'ın forma giymesi planlanıyor.",
+    "33 yaşındaki Lukaku, profesyonel kulüp kariyerinde 107 farklı takıma gol attı. Sporx'a göre Aston Villa, en sevdiği rakipler arasında.",
+    "Lukaku, Villa'ya karşı 11 resmi maçta 9 gol attı ve 2 asist yaptı; yani bu maçlarda toplam 11 skor katkısı verdi.",
+    "Aston Villa, Lukaku'nun takımlarına karşı yalnızca 1 kez kazanabildi. Bu karşılaşmalarda 2 beraberlik ve 8 yenilgi yaşadı.",
+    "Villa, Lukaku'nun en çok gol attığı ikinci takım konumunda.",
+    "Sporx'a göre Kartal, milli arada Belçika Milli Takımı'nda 3 maça çıkan Lukaku'ya Rize'de yalnızca 10 dakika süre vermiş, yedek kulübesinde başlatmıştı. Şampiyonlar Ligi maçında ondan daha fazla yararlanması bekleniyor."
+   ],
+   "why": "Fenerbahçe için Avrupa'daki zorlu deplasman sınavında forvet tercihi belirleyici olabilir. Lukaku'nun Aston Villa'ya karşı güçlü geçmişi, taraftar açısından kadro tercihini daha dikkat çekici kılıyor. İlk 11 bilgileri henüz beklenti düzeyinde ve resmi kadro maç günü netleşecek.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "soylenti",
    "clubs": [
     {
      "slug": "fenerbahce",
@@ -905,14 +964,14 @@
      "published": "2026-10-12T07:19:00+00:00"
     },
     {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/lukaku-korkusu-sardi-11-mac-11-gol-gozler-ismail-kartalda-43338324",
-     "published": "2026-10-12T07:20:35+00:00"
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/ismail-kartal-kararini-verdi-aston-villa-macinin-kozu-romelu-lukaku-haber-2046063",
+     "published": "2026-10-12T09:16:00+00:00"
     }
    ],
    "n_sources": 2,
    "first_published": "2026-10-12T07:19:00+00:00",
-   "last_published": "2026-10-12T07:20:35+00:00",
+   "last_published": "2026-10-12T09:16:00+00:00",
    "image": {
     "url": "https://cdn.sporx.com/img/59/2026/hqfmcfaxyaaozqc-1791789546.jpg",
     "kind": "source",
@@ -920,27 +979,26 @@
     "credit": "Sporx",
     "source_url": "https://www.sporx.com/futbol/superlig/fenerbahce/aston-villa-da-fenerbahce-maci-oncesi-romelu-lukaku-korkusu-SXHBQ1178874SXQ"
    },
-   "score": 11.33,
+   "score": 10.73,
    "importance": 5,
    "popular": false
   },
   {
-   "id": "s0064",
+   "id": "s0006",
    "rank": 13,
    "key": "1691cbc607828d72",
    "title": "Cagliari ile Juventus Serie A'nın 6. haftasında 1-1 berabere kaldı",
    "summarized": true,
-   "intro": "Serie A'nın 6. haftasında Juventus, deplasmanda Cagliari ile 1-1 berabere kaldı. Unipol Domus Stadyumu'nda oynanan maçta ev sahibi ekip 20. dakikada Daniel Maldini'nin golüyle öne geçti. Juventus, eşitliği 81. dakikada Kolo Muani'nin golüyle buldu. Bu sonuçla Cagliari 13 puanla dördüncü, Juventus ise 11 puanla altıncı sırada yer aldı.",
+   "intro": "Serie A'nın 6. haftasında Cagliari, sahasında Juventus'u konuk etti ve maç 1-1 sona erdi. Ev sahibi ekip 20. dakikada Daniel Maldini'nin golüyle öne geçti. Juventus, beraberlik golünü 81. dakikada Kolo Muani ile buldu. Bu sonuçla Cagliari 13 puanla dördüncü, Juventus ise 11 puanla altıncı sırada yer aldı.",
    "bullets": [
-    "Cagliari'nin golünü atan Daniel Maldini, Milan'ın efsane isimlerinden Paolo Maldini'nin oğlu. Bu sezon 4. golüne ulaştı.",
-    "Kolo Muani'nin Juventus'taki golü 81. dakikada geldi. Fransız forvet bu sezon çıktığı 7 maçta 2 gol ve 2 asistlik katkı verdi.",
-    "Ilk yarı Cagliari'nin 1-0 üstünlüğüyle tamamlandı. Juventus ikinci yarıda beraberlik için baskısını artırdı.",
-    "Milli futbolcu Zeki Çelik Juventus'un ilk 11'inde başladı ve 64. dakikada oyundan çıktı.",
-    "Sakatlığı süren milli futbolcu Kenan Yıldız maçta forma giymedi.",
-    "NTV Spor'a göre maçın sonunda teknik direktörler Pisacane ve Spalletti kırmızı kart gördü.",
-    "Juventus'un sıradaki maçları Avrupa Ligi'nde Celta Vigo deplasmanı ve ligde sahasında Lazio karşılaşması olacak."
+    "Cagliari'nin golünü atan Daniel Maldini, Milan'ın efsane futbolcularından Paolo Maldini'nin oğlu; bu sezon 4. kez fileleri havalandırdı.",
+    "Cagliari ilk yarıyı 1-0 önde tamamladı; Juventus ikinci yarıda baskısını artırdı.",
+    "Kolo Muani'nin 81. dakikadaki golü onun sezonki 2. golü oldu. Fransız forvet bu sezon 7 maçta 2 gol ve 2 asistlik katkı verdi.",
+    "Sakatlığı süren milli futbolcu Kenan Yıldız karşılaşmada forma giymedi.",
+    "Milli futbolcu Zeki Çelik maça ilk 11'de başladı ve 64. dakikada teknik heyetin kararıyla oyundan çıkarıldı.",
+    "Juventus'un sıradaki maçları Avrupa Ligi'nde Celta Vigo deplasmanı ve ligde Lazio ile evindeki karşılaşma olacak."
    ],
-   "why": "Juventus kritik bir deplasmanda puan kaybederek ilk sıraların biraz gerisinde kaldı; Cagliari ise üst sıralardaki yerini korudu. Kenan Yıldız'ın sakatlığının sürmesi ve Zeki Çelik'in ilk 11'de görev alması Türk taraftar açısından da yakından izlenen başlıklar. Avrupa Ligi ve Lazio maçları takımın form arayışı için önemli olacak.",
+   "why": "Juventus deplasmanda geriye düşüp bir puanı kurtardı ancak ligde üst sıralarla arasındaki farkı kapatma fırsatını kaçırdı. Kenan Yıldız'ın sakatlığının sürmesi Türk taraftarlar için dikkat çeken bir başlık olmaya devam ediyor. Celta Vigo ve Lazio maçları takımın sezon gidişatı açısından önem taşıyor.",
    "raw_summary": null,
    "category": "mac",
    "category_name": "Maç",
@@ -968,17 +1026,12 @@
      "published": "2026-10-11T21:25:40+00:00"
     },
     {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/juventus-cagliariye-takildi-431121",
-     "published": "2026-10-11T21:26:51+00:00"
-    },
-    {
      "name": "Fotomaç",
      "url": "https://www.fotomac.com.tr/italyaseriea/2026/10/11/juventus-cagliari-engelini-gecemedi",
      "published": "2026-10-11T21:50:03+00:00"
     }
    ],
-   "n_sources": 3,
+   "n_sources": 2,
    "first_published": "2026-10-11T21:25:40+00:00",
    "last_published": "2026-10-11T21:50:03+00:00",
    "image": {
@@ -988,36 +1041,94 @@
     "credit": "Ajansspor",
     "source_url": "https://ajansspor.com/haber/cagliari-juventus-1-1-mac-sonucu-yazili-ozet-736435"
    },
-   "score": 9.29,
+   "score": 7.57,
    "importance": 6,
    "popular": false
   },
   {
-   "id": "s0025",
+   "id": "s0154",
    "rank": 14,
-   "key": "24752a4f45215424",
-   "title": "Selçuk İnan, Beşiktaş yenilgisinin ardından hakem grubunu eleştirdi",
+   "key": "2fe760e9f25d2afa",
+   "title": "Bayern Münih, Jamal Musiala ile sözleşmeyi 2030'a kadar uzattı",
    "summarized": true,
-   "intro": "Süper Lig'in 7. haftasında Kocaelispor, Beşiktaş'a 2-1 mağlup oldu. Maçın ardından basın toplantısına çıkan Kocaelispor Teknik Direktörü Selçuk İnan, hakem grubunun iyi niyetli olmadığını söyledi. İnan, oyuncularını tebrik ettiğini, soyunma odasında onlardan özür dilediğini belirtti ve \"Hakemi de size havale ediyorum\" dedi. Beşiktaş'ı galibiyetinden ve taraftarını yarattığı atmosferden dolayı da tebrik etti.",
+   "intro": "Bayern Münih, genç yıldız Jamal Musiala ile sözleşmeyi 2030 yılına kadar uzattığını açıkladı. 21 yaşındaki on numara, 2019'da Chelsea altyapısından Bayern'e transfer olmuştu. Oyuncu, 2020'de A takıma yükselmesinin ardından hem kulübün hem de Almanya Milli Takımı'nın önemli isimlerinden biri haline geldi. Musiala, yeni sözleşmenin ardından kulübe ve taraftara yönelik duygularını paylaştı.",
    "bullets": [
-    "Ajansspor'a göre Beşiktaş'ın gollerini Orkun ve Vlahovic, Kocaelispor'un golünü Show attı. Galibiyetle Beşiktaş puanını 15'e çıkardı.",
-    "İnan, maç öncesinde oyunla ilgili teknik konuşmak istemediğini, ancak sahanın içinden gelen biri olarak oyuncularına teşekkür etmeden geçemeyeceğini söyledi.",
-    "Teknik adam, oyuncularının sahada haklarını verdiğini, kendisinin ise teknik direktör olarak saha dışında bu hakları koruyamadığını belirterek onlardan özür dilediğini aktardı.",
-    "İnan, kendilerinden hep saygılı, sakin ve sessiz olmalarının beklendiğini, bunu hakaret etmeden yapmaya çalıştığını ancak haksızlık hissedildiğinde isyan etmemenin zor olduğunu söyledi.",
-    "\"Hakemler bugün iyi niyetli değildi\" diyen İnan, bunun Beşiktaş'la ilgisi olmadığını ve kendisi için büyük bir hayal kırıklığı ve endişe günü olduğunu belirtti.",
-    "Hakemleri sevdiğini ve onlara güvendiğini, genelleme yapmak istemediğini söyleyen İnan, hakemlere işlerine odaklanmaları, niyet okumamaları ve iyi niyetli olmaları yönünde tavsiyede bulundu.",
-    "İnan, kötü niyetin eninde sonunda sahibini bulduğunu söyleyerek haksız durumlarda seslerini çıkarmaya devam edeceklerini vurguladı.",
-    "Kaynaklarda İnan'ın hangi hakem kararlarına itiraz ettiğine dair somut bir ayrıntı yer almıyor."
+    "Yeni sözleşme 2030 yılına kadar geçerli olacak; Bayern bunu resmen duyurdu.",
+    "Musiala, 2019'da Chelsea altyapısından Bayern Münih'e transfer edilmişti.",
+    "Oyuncu 2020'de A takıma yükseldi ve o tarihten bu yana Bayern ile Almanya Milli Takımı'nın vazgeçilmezleri arasında gösteriliyor.",
+    "Bayern formasıyla çıktığı 193 resmi maçta 58 gol attı, 38 asist yaptı.",
+    "Bir kaynağa göre bu sezon 30 maça çıktı, 15 gol attı ve 8 asist yaptı.",
+    "Aynı kaynağa göre yeni sözleşmeyle Musiala'nın yıllık kazancı 26 milyon euroya yükseldi.",
+    "Musiala, Bayern'in dünyanın en büyük kulüplerinden biri olduğunu ve profesyonel futbola burada ilk adımını attığını söyledi.",
+    "Oyuncu şu sözleri kullandı: \"Bayern Münih ile büyük işler başarabileceğimize inanıyorum.\""
    ],
-   "why": "Kocaelispor teknik direktörünün hakem grubuna yönelik açık eleştirisi, haftanın hakemlik tartışmaları arasında yer alabilir. Beşiktaş taraftarı için maçın sonucu zirve yarışında önemli, ancak tartışma konusu olan kararların neler olduğu kaynaklarda belirtilmiyor.",
+   "why": "Bayern taraftarı için kulübün genç yıldızlarından birinin uzun vadeli bağlanması, ilerleyen yıllar için kadro istikrarı anlamına geliyor. Musiala'nın Münih'te kendini evinde hissettiğini söylemesi ve hedeflerinin büyük olduğunu vurgulaması da olumlu bir mesaj veriyor.",
    "raw_summary": null,
-   "category": "hakem",
-   "category_name": "Hakem / VAR",
+   "category": "transfer",
+   "category_name": "Transfer",
    "status": "resmi",
    "clubs": [
     {
-     "slug": "besiktas",
-     "name": "Beşiktaş"
+     "slug": "bayern",
+     "name": "Bayern Münih"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "bundesliga",
+     "name": "Bundesliga"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Posta",
+     "url": "https://www.posta.com.tr/spor/musiala-bayern-munihle-sozlesmesini-uzatti-2829991",
+     "published": "2026-10-12T09:00:43+00:00"
+    },
+    {
+     "name": "Posta",
+     "url": "https://www.posta.com.tr/spor/bayern-munih-jamal-musiala-ile-2030a-kadar-sozlesme-yeniledi-2828556",
+     "published": "2026-10-12T10:15:17+00:00"
+    }
+   ],
+   "n_sources": 1,
+   "first_published": "2026-10-12T09:00:43+00:00",
+   "last_published": "2026-10-12T10:15:17+00:00",
+   "image": {
+    "url": "https://image.posta.com.tr/i/posta/75/0x0/67b72e956128d53a8be85c32.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Posta",
+    "credit": "Posta",
+    "source_url": "https://www.posta.com.tr/spor/musiala-bayern-munihle-sozlesmesini-uzatti-2829991"
+   },
+   "score": 5.24,
+   "importance": 8,
+   "popular": false
+  },
+  {
+   "id": "s0114",
+   "rank": 15,
+   "key": "65487a0eecb66161",
+   "title": "Trabzonspor, 7 haftada attığı 16 golün 12'sini ilk yarıda buldu",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 7. haftasında Trabzonspor, deplasmanda Samsunspor'u 3-0 yendi. Haberlere göre bordo-mavililer, ligde geride kalan 7 haftada attığı 16 golün 12'sini ilk yarıda kaydetti. Bu oran, gol üretiminin yüzde 75'ine denk geliyor. Takım maçlara hızlı başlayıp erken üstünlük kurarak rakiplerinin işini zorlaştırıyor. Sabah son iki haftada atılan 7 golün 6'sının ilk yarıda geldiğini de aktardı.",
+   "bullets": [
+    "Sabah'ın dağılımına göre 16 golün 5'i ilk 15 dakikada, 2'si 16-30 dakika arasında, 5'i de 31-45 dakika arasında atıldı.",
+    "İkinci yarıda toplam 4 gol var: 61-75 dakika arasında 2, uzatma dakikalarında 2 gol. 46-60 ve 76-90 dakika aralıklarında gol çıkmadı.",
+    "7 hafta sonunda maç başına gol ortalaması 2,29 oldu.",
+    "Trabzonspor kalesinde 7 haftada 5 gol gördü; bunların 3'ü ilk yarıda, 2'si ikinci yarıda geldi.",
+    "Sporx'a göre bu ilk yarı eğilimi Fatih Tekke döneminde başlamıştı ve Thomas Reis yönetiminde de sürdü. Alman teknik adam takımdaki sertliği de artırdı.",
+    "Sporx, Trabzonspor'un Samsunspor maçının ikinci yarısının tamamını bir kişi eksik oynadığını belirtti. Buna rağmen takım 57 ikili mücadele kazandı, Samsunspor 27'de kaldı."
+   ],
+   "why": "Trabzonspor'un maçlara iyi başlaması, sezonun ilk haftalarında takımın en belirgin özelliklerinden biri olarak öne çıkıyor. Taraftar açısından erken gol, maçın gidişatını kontrol etme ve ikinci yarıda eksik kalınsa bile üstünlüğü koruma anlamına geliyor. Savunmada 7 haftada yenen 5 gol de bu tablonun dengesini gösteriyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "belirsiz",
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
     }
    ],
    "leagues": [
@@ -1029,282 +1140,47 @@
    "sources": [
     {
      "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/11/selcuk-inan-hakemi-size-havale-ediyorum",
-     "published": "2026-10-11T18:42:03+00:00"
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/12/trabzonspor-fisi-ilk-yarida-cekiyor",
+     "published": "2026-10-12T07:40:16+00:00"
     },
     {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/selcuk-inandan-besiktas-maci-sonrasi-sert-hakem-tepkisi-736428",
-     "published": "2026-10-11T18:48:17+00:00"
-    },
-    {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/selcuk-inandan-hakemlere-sert-elestiri-43338080",
-     "published": "2026-10-11T19:35:00+00:00"
-    },
-    {
-     "name": "Yeni Şafak",
-     "url": "https://www.yenisafak.com/spor/selcuk-inan-besiktas-yenilgisi-sonrasi-hakeme-yuklendi-iyi-niyetli-degildi-4863478",
-     "published": "2026-10-11T19:44:00+00:00"
-    }
-   ],
-   "n_sources": 4,
-   "first_published": "2026-10-11T18:42:03+00:00",
-   "last_published": "2026-10-11T19:44:00+00:00",
-   "image": {
-    "url": "https://iasbh.tmgrup.com.tr/5fd61c/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/11/selcuk-inan-hakemi-size-havale-ediyorum-1791744108669.jpg",
-    "kind": "source",
-    "label": "Fotoğraf: Sabah",
-    "credit": "Sabah",
-    "source_url": "https://www.sabah.com.tr/spor/futbol/2026/10/11/selcuk-inan-hakemi-size-havale-ediyorum"
-   },
-   "score": 11.21,
-   "importance": 4,
-   "popular": false
-  },
-  {
-   "id": "s0023",
-   "rank": 15,
-   "key": "c0f5bb72a8396bf1",
-   "title": "Italiano, Kocaelispor galibiyeti sonrası milli ara yorgunluğunu ve hakem tepkisini anlattı",
-   "summarized": true,
-   "intro": "Beşiktaş, Trendyol Süper Lig'in 7. haftasında sahasında Kocaelispor'u 2-1 yenerek puanını 15'e çıkardı ve haftayı ikinci sırada tamamladı. Teknik direktör Vincenzo Italiano, maçın ardından milli ara dönüşünün getirdiği zorlukları anlattı. İtalyan teknik adam, çok yorgun olduğunu söyleyip taraftara ve oyunculara övgüde bulundu. Basın toplantısında ise Alanyaspor maçına da atıfla hakemlik ve cezasız kalan yumruklar konusunda sert bir tepki gösterdi.",
-   "bullets": [
-    "Italiano, 17 oyuncuyu milli takıma gönderdiklerini, bazılarının cuma günü döndüğünü ve üç hafta boyunca oyuncularla bir arada çalışamadıklarını belirtti.",
-    "Teknik adam, ilk yarının iyi geçtiğini, ikinci yarıda ise takımın zorlandığını ve dalgalanmalar yaşadığını söyledi; rakibe az pozisyon verdiklerini de ekledi.",
-    "Italiano, milli aralar sonrasında İtalya'da kâğıt üstünde kolay görünen maçları kaybettiğini hatırlatarak bu galibiyeti çok değerli olarak nitelendirdi.",
-    "Kocaelispor için 'çok kaliteli bir takım' diyen Italiano, maç öncesinde endişeli olduğunu, ligde iyi bir konumda olsalar da yolun uzun olduğunu söyledi.",
-    "Italiano, 'Ayakta zor durabiliyorum' diyerek maç sonrası doğrudan içeri girip sıcak duş almak istediğini anlattı; taraftarın her maçta kendisini tüylerini diken diken ettiğini söyledi.",
-    "İç sahada hata yapmadıklarını belirten teknik adam, deplasman performansının düzeltilmesi gerektiğini vurguladı.",
-    "Basın toplantısında Alanyaspor maçına değinen Italiano, iki maçta yaşananları kabul edilemez bulduğunu ve yumrukların cezasız kalmasını anlamadığını söyledi.",
-    "Perşembe günü önemli bir Avrupa maçları olduğunu ve 7 maçlık zor bir fikstür ile uzun seyahatlerin önlerinde durduğunu belirtti."
-   ],
-   "why": "Beşiktaş, milli aranın yorgunluğuna rağmen iç sahadaki kayıpsız çizgisini sürdürerek ikinci sıradaki yerini korudu. Teknik direktörün deplasman performansına ve hakem kararlarına dair sözleri, yoğun fikstür öncesinde takımın öncelikleri ve gerginlik noktaları hakkında ipucu veriyor.",
-   "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
-   "status": "resmi",
-   "clubs": [
-    {
-     "slug": "besiktas",
-     "name": "Beşiktaş"
-    },
-    {
-     "slug": "kocaelispor",
-     "name": "Kocaelispor"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    },
-    {
-     "slug": "turkiye-kupasi",
-     "name": "Türkiye Kupası"
-    }
-   ],
-   "sources": [
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/11/besiktas-teknik-direktoru-vincenzo-italiano-ayakta-zor-durabiliyorum",
-     "published": "2026-10-11T18:36:12+00:00"
-    },
-    {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-italyada-kagit-uzerinde-kolay-maclari-kaybettim-43338053",
-     "published": "2026-10-11T18:41:00+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/vincenzo-italiano-bugun-cok-onemli-bir-galibiyet-aldik-3477746",
-     "published": "2026-10-11T19:47:21+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/nihat-kahvecinin-italiano-yorumu-gundem-oldu-736436",
-     "published": "2026-10-11T21:36:24+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/besiktas/2026/10/11/besiktasta-vincenzo-italiano-tuylerim-diken-diken-oluyor",
-     "published": "2026-10-11T21:47:04+00:00"
-    }
-   ],
-   "n_sources": 5,
-   "first_published": "2026-10-11T18:36:12+00:00",
-   "last_published": "2026-10-11T21:47:04+00:00",
-   "image": {
-    "url": "https://iaaspr.tmgrup.com.tr/ea1863/1200/675/0/0/800/449?u=https://iaspr.tmgrup.com.tr/2026/10/11/vincenzo-italiano-ayakta-zor-durabiliyorum-1791743990219.jpeg",
-    "kind": "source",
-    "label": "Fotoğraf: A Spor",
-    "credit": "A Spor",
-    "source_url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/11/besiktas-teknik-direktoru-vincenzo-italiano-ayakta-zor-durabiliyorum"
-   },
-   "score": 9.54,
-   "importance": 5,
-   "popular": false
-  },
-  {
-   "id": "s0032",
-   "rank": 16,
-   "key": "701456e5a7281464",
-   "title": "Selçuk İnan, Beşiktaş yenilgisi sonrası hakem yönetimine tepki gösterdi",
-   "summarized": true,
-   "intro": "Trendyol Süper Lig'in 7. haftasında Kocaelispor, deplasmanda Beşiktaş'a 2-1 yenildi. Maçın ardından Kocaelispor teknik direktörü Selçuk İnan, yayıncı kuruluşa yaptığı açıklamada hakem yönetimini sert sözlerle eleştirdi. İnan, oyun hakkında konuşmak istemediğini belirtip oyuncularını tebrik ederken, hakemlerin o gün iyi niyetli olmadığını söyledi. Kocaelisporlu futbolcuların da hakem Abdullah Buğra Taşkınsoy'un yönetimine tepki gösterdiği aktarıldı.",
-   "bullets": [
-    "Maç Tüpraş Stadı'nda oynandı ve Beşiktaş karşılaşmayı 2-1 kazandı. Kaynaklarda gol dakikaları ve goller hakkında bilgi yer almıyor.",
-    "İnan, oyun üzerine teknik değerlendirme yapmak istemediğini, maça dair sakinleşmediğini söyledi.",
-    "Teknik adam, oyuncularının sahada haklarını verdiğini ancak kendisinin hocaları olarak dışarıda bu hakları koruyamadığını belirtti. Oyuncularından özür dilediğini de aktardı.",
-    "İnan'ın sözlerinden biri şöyle: \"Hakemler bugün iyi niyetli değildi.\" Bunun Beşiktaş ile ilgisi olmadığını da vurguladı.",
-    "Teknik direktör, kendilerinden sürekli saygılı olmaları, sakin kalmaları ve susmaları beklendiğini söyledi. Hakkının yendiğini hisseden herkesin tepki göstereceğini savundu.",
-    "Maçı kazanan Beşiktaş'ı tebrik eden İnan, taraftarlarına teşekkür etti. Beşiktaş taraftarını da yarattığı atmosfer nedeniyle tebrik etti.",
-    "Açıklamasını hakemi \"Allah'a havale ettiğini\" söyleyerek bitirdi (CNN Türk'te ifade \"size havale ediyorum\" şeklinde aktarılmış).",
-    "Kocaelisporlu futbolcuların da hakem Abdullah Buğra Taşkınsoy'un yönetimine tepki gösterdiği bildirildi; ayrıntılar kaynaklarda yer almıyor."
-   ],
-   "why": "Kocaelispor taraftarı için hem bir yenilgi hem de teknik direktör ve oyuncuların hakem yönetimine açık tepkisi söz konusu. Açıklamaların Süper Lig'de hakem tartışmalarını gündemde tutması bekleniyor. Tepkilerin dayanağı olan pozisyonlar kaynaklarda belirtilmediği için konunun detayları sonraki değerlendirmelerle netleşebilir.",
-   "raw_summary": null,
-   "category": "hakem",
-   "category_name": "Hakem / VAR",
-   "status": "resmi",
-   "clubs": [
-    {
-     "slug": "kocaelispor",
-     "name": "Kocaelispor"
-    },
-    {
-     "slug": "besiktas",
-     "name": "Beşiktaş"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/kocaelispor/2026/10/11/kocaelisporda-selcuk-inandan-hakem-tepkisi",
-     "published": "2026-10-11T18:54:44+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/11/kocaelispor-teknik-direktoru-selcuk-inan-hakemler-bugun-iyi-niyetli-degildi",
-     "published": "2026-10-11T18:56:50+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/selcuk-inan-hakemler-bugun-iyi-niyetli-degildi-3477743",
-     "published": "2026-10-11T19:09:54+00:00"
-    },
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/selcuk-inandan-hakem-tepkisi-33544768",
-     "published": "2026-10-11T19:47:00+00:00"
-    },
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/kocaelisporlu-futbolculardan-tepki-33544771",
-     "published": "2026-10-11T20:01:00+00:00"
-    }
-   ],
-   "n_sources": 4,
-   "first_published": "2026-10-11T18:54:44+00:00",
-   "last_published": "2026-10-11T20:01:00+00:00",
-   "image": {
-    "url": "https://iaftm.tmgrup.com.tr/2b7015/1200/675/0/12/631/368?u=https://iftm.tmgrup.com.tr/2026/10/11/kocaelisporda-selcuk-inandan-hakem-tepkisi-1791744865605.jpeg",
-    "kind": "source",
-    "label": "Fotoğraf: Fotomaç",
-    "credit": "Fotomaç",
-    "source_url": "https://www.fotomac.com.tr/kocaelispor/2026/10/11/kocaelisporda-selcuk-inandan-hakem-tepkisi"
-   },
-   "score": 9.16,
-   "importance": 5,
-   "popular": false
-  },
-  {
-   "id": "s0002",
-   "rank": 17,
-   "key": "20433c689824191a",
-   "title": "Arca Çorum FK, deplasmanda Gaziantep FK'yı 3-0 yendi",
-   "summarized": true,
-   "intro": "Trendyol Süper Lig'in 7. haftasında Arca Çorum FK, deplasmanda Gaziantep FK'yı 3-0 mağlup etti. Konuk ekip ilk yarıyı 37. dakikada bulduğu golle 1-0 önde tamamladı, ikinci yarıda 60. ve 83. dakikalarda attığı gollerle farkı üçe çıkardı. TRT Spor'un aktardığına göre Çorum FK Teknik Direktörü Burak Yılmaz, bu galibiyetle ilk maçında kazanmış oldu.",
-   "bullets": [
-    "37. dakikada Kyziridis'in savunma arkasına yolladığı top savunmadan sekip Diomande'nin önüne düştü; Diomande'nin topuk pasını alan Cengiz Ünder'in vuruşuyla Çorum öne geçti: 0-1.",
-    "İlk yarıda Gaziantep FK'nın kaleci Tobiasz'ın önlediği ve auta giden iki yarım fırsatı vardı: 3. dakikada Cengiz Ünder'in şutu kalecide kaldı, 31. dakikada Sorescu'nun vuruşu auta gitti.",
-    "60. dakikada Ramirez'in pasıyla savunmanın arkasına sarkan Gökhan Sazdağı ceza alanına girdi; çevirdiği topu Kyziridis boş kaleye göndererek farkı 2'ye çıkardı: 0-2.",
-    "83. dakikada Karlsbakk'ın orta sahadan attığı pas Kyziridis'le buluştu; Kyziridis'in savunma arkasına gönderdiği topa Karlsbakk bekletmeden vurarak skoru 3-0 yaptı.",
-    "56. dakikada Sorescu'nun ortasında arka direkteki Kozlowski'nin şutu yan direğe çarpıp oyun alanına döndü; ev sahibi bu pozisyonda gol bulamadı.",
-    "52. dakikada Cengiz Ünder'in pasında Kyziridis'in şutunu Tobiasz uzaklaştırdı; 78. dakikada Kyziridis'in bir diğer şutu da Tobiasz'da kaldı.",
-    "Gaziantep FK'dan 67. dakikada Perez'in ceza yayından şutu auta çıktı, 82. dakikada Camara'nın plase vuruşunu ise kaleci Felipe kurtardı."
-   ],
-   "why": "Çorum FK taraftarı için deplasmanda gelen farklı skorlu galibiyet, ligdeki 7. haftada moral veren bir sonuç oldu. Burak Yılmaz'ın ilk maçında alınan 3 puan, yeni teknik direktör dönemine olumlu bir başlangıç anlamına geliyor. Gaziantep FK cephesi ise evinde gol atamadan yenilgi aldı.",
-   "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
-   "status": "resmi",
-   "clubs": [
-    {
-     "slug": "corum-fk",
-     "name": "Çorum FK"
-    },
-    {
-     "slug": "gaziantep-fk",
-     "name": "Gaziantep FK"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/corum-fk-3-puani-3-golle-aldi-33540267",
-     "published": "2026-10-11T17:56:00+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/superlig/2026/10/11/arca-corum-fk-deplasmanda-gaziantep-fkyi-yendi",
-     "published": "2026-10-11T21:46:42+00:00"
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/trabzonspor/trabzonspor-ilk-yarida-fisi-cekiyor-SXHBQ1178882SXQ",
+     "published": "2026-10-12T08:01:57+00:00"
     }
    ],
    "n_sources": 2,
-   "first_published": "2026-10-11T17:56:00+00:00",
-   "last_published": "2026-10-11T21:46:42+00:00",
+   "first_published": "2026-10-12T07:40:16+00:00",
+   "last_published": "2026-10-12T08:01:57+00:00",
    "image": {
-    "url": "https://iaftm.tmgrup.com.tr/f8cbbb/1200/675/0/38/800/488?u=https://iftm.tmgrup.com.tr/2026/10/11/arca-corum-fk-deplasmanda-gaziantep-fkyi-yendi-1791730621697.jpeg",
+    "url": "https://iasbh.tmgrup.com.tr/18056e/1200/675/0/6/800/456?u=https://isbh.tmgrup.com.tr/sbh/2026/10/12/trabzonspor-fisi-ilk-yarida-cekiyor-1791790744480.jpg",
     "kind": "source",
-    "label": "Fotoğraf: Fotomaç",
-    "credit": "Fotomaç",
-    "source_url": "https://www.fotomac.com.tr/superlig/2026/10/11/arca-corum-fk-deplasmanda-gaziantep-fkyi-yendi"
+    "label": "Fotoğraf: Sabah",
+    "credit": "Sabah",
+    "source_url": "https://www.sabah.com.tr/spor/futbol/2026/10/12/trabzonspor-fisi-ilk-yarida-cekiyor"
    },
-   "score": 8.07,
-   "importance": 6,
+   "score": 6.46,
+   "importance": 5,
    "popular": false
   },
   {
-   "id": "s0155",
-   "rank": 18,
+   "id": "s0069",
+   "rank": 16,
    "key": "eab3940f118fbd34",
-   "title": "TFF, A Milli Takım için Arda Turan'a teklif iletti; yanıt kulüp görüşmesine bağlı",
+   "title": "TFF, A Milli Takım için Arda Turan'a teklif iletti; yanıt bekleniyor",
    "summarized": true,
-   "intro": "Uluslar Ligi A Ligi'nde alınan 4 yenilgi sonrası Vincenzo Montella ile yollarını ayıran A Milli Takım'da yeni teknik direktör arayışı sürüyor. İddialara göre İbrahim Hacıosmanoğlu yönetimi, Shakhtar Donetsk'in başındaki 39 yaşındaki Arda Turan'a sözlü teklif götürdü. Turan'ın cuma günü Shakhtar'ın başında sahaya çıktıktan sonra cumartesi özel uçakla İstanbul'a geldiği aktarıldı. İlk temasta kulübünü savaş sürerken yarı yolda bırakmak istemediğini söylediği öğrenildi. Net kararını kulübüyle görüştükten sonra TFF'ye iletmesi bekleniyor.",
+   "intro": "Vincenzo Montella ile yollarını ayıran A Milli Takım'da yeni teknik direktör arayışı sürüyor. Haberlere göre TFF Başkanı İbrahim Hacıosmanoğlu yönetimi, ilk aday olarak Shakhtar Donetsk'in başındaki Arda Turan'a sözlü teklif iletti. Turan'ın cuma günü Shakhtar'ın başında sahaya çıktıktan sonra cumartesi günü özel uçakla İstanbul'a geldiği aktarıldı. İlk temasta Turan'ın kulübünü savaş koşullarında yarı yolda bırakmak istemediği yönünde görüş bildirdiği öğrenildi. Net karar, Turan'ın kulübüyle görüşmesinin ardından TFF'ye iletilecek.",
    "bullets": [
-    "Sporx'a göre yönetim kurulu, yeni teknik direktör konusunda Başkan Hacıosmanoğlu'na tam yetki verdi.",
-    "Aynı habere göre geçen günlerdeki toplantıda Türk hoca olarak yalnızca Arda Turan masaya geldi ve ona teklif yapılması kararlaştırıldı.",
-    "Turan'ın ilk temasta \"Kulübüm ayrılmamı istemez, ben de savaş varken yarı yolda bırakmam\" dediği öğrenildi.",
+    "Sporx'a göre yönetim kurulu, yeni teknik direktör seçimi için Başkan Hacıosmanoğlu'na tam yetki verdi.",
+    "Aynı habere göre yapılan toplantıda Türk hoca olarak yalnızca Arda Turan masaya geldi ve ona teklif yapılması kararlaştırıldı.",
+    "Turan'ın ilk temasta söylediği öğrenilen söz: \"Kulübüm ayrılmamı istemez, ben de savaş varken yarı yolda bırakmam.\"",
     "TFF'nin Turan'a \"Hem kulüp hem de milli takımı çalıştırabilirsin\" önerisini ilettiği belirtildi.",
-    "Turan'ın bu öneriyi değerlendirip Ukrayna kulübüyle görüşeceği, ardından net yanıtını TFF'ye vereceği bildirildi.",
-    "Turan olumlu yanıt vermezse TFF'nin yabancı teknik direktörlere yöneleceği, listede başka yerli aday bulunmadığı yazıldı. A Spor ise farklı yerli isimlerin de gündemde olduğunu belirtti.",
-    "A Spor'a göre Turan'ın Shakhtar ile sözleşmesi 30 Haziran 2027'de bitiyor; bu sezon 10 maçta 8 galibiyet, 1 beraberlik ve 1 yenilgi aldı.",
-    "A Spor, Turan'ın 25-26 sezonunda Shakhtar ile Ukrayna Ligi şampiyonu olduğunu ve Şampiyonlar Ligi'ne katılım hakkı kazandığını aktardı."
+    "39 yaşındaki Turan'ın bu öneriyi değerlendirip Ukrayna kulübüyle görüşeceği, ardından kararını TFF'ye bildireceği aktarıldı.",
+    "Turan teklifi kabul etmezse TFF'nin yabancı teknik direktörlere yöneleceği, listede başka yerli aday bulunmadığı belirtildi. A Spor ise farklı yerli isimlerin de gündemde olduğunu yazdı.",
+    "A Spor'a göre Montella ile yollar Uluslar Ligi A Ligi'nde alınan 4 mağlubiyetin ardından ayrıldı; Turan'ın Shakhtar ile sözleşmesi 30 Haziran 2027'de bitiyor.",
+    "A Spor'un aktardığına göre Turan yönetiminde bu sezon 10 maça çıkan Shakhtar 8 galibiyet, 1 beraberlik ve 1 yenilgi aldı ve 25-26 sezonunda Ukrayna Ligi şampiyonu oldu."
    ],
-   "why": "Milli takımın yeni teknik direktörü, Uluslar Ligi'ndeki kötü sonuçların ardından takımın gidişatını belirleyecek. Arda Turan'ın kararı, TFF'nin yerli mi yabancı mı hoca tercih edeceğini doğrudan etkileyecek. Kulüp ve milli takımı birlikte çalıştırma önerisi ise sürecin ana belirsizliği olarak öne çıkıyor.",
+   "why": "Milli takımın Montella sonrası kimin yönetiminde olacağı taraftarın en çok merak ettiği konulardan biri. Turan'ın yanıtı, TFF'nin yerli bir hocayla mı yoksa yabancı bir isimle mi ilerleyeceğini belirleyecek. Hem kulüp hem milli takım önerisi kabul edilirse alışılmışın dışında bir görev düzeni gündeme gelebilir.",
    "raw_summary": null,
    "category": "teknik",
    "category_name": "Teknik Direktör",
@@ -1326,11 +1202,16 @@
      "name": "A Spor",
      "url": "https://www.aspor.com.tr/milli-takim/2026/10/12/a-milli-takimin-yeni-hocasi-olacak-mi-arda-turandan-aciklama-geldi",
      "published": "2026-10-12T07:30:03+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/millitakim/2026/10/12/arda-turandan-ilk-aciklama-geldi-a-milli-takimi-calistiracak-mi",
+     "published": "2026-10-12T07:49:22+00:00"
     }
    ],
-   "n_sources": 2,
+   "n_sources": 3,
    "first_published": "2026-10-12T06:24:00+00:00",
-   "last_published": "2026-10-12T07:30:03+00:00",
+   "last_published": "2026-10-12T07:49:22+00:00",
    "image": {
     "url": "https://iaaspr.tmgrup.com.tr/5230e0/1200/675/0/0/921/517?u=https://iaspr.tmgrup.com.tr/2026/10/12/a-milli-takimin-yeni-hocasi-olacak-mi-arda-turandan-aciklama-geldi-1791789420002.jpeg",
     "kind": "source",
@@ -1338,87 +1219,27 @@
     "credit": "A Spor",
     "source_url": "https://www.aspor.com.tr/milli-takim/2026/10/12/a-milli-takimin-yeni-hocasi-olacak-mi-arda-turandan-aciklama-geldi"
    },
-   "score": 4.57,
+   "score": 4.46,
    "importance": 8,
    "popular": false
   },
   {
-   "id": "s0011",
-   "rank": 19,
-   "key": "c0212ee674330956",
-   "title": "Trabzonspor, kiralık kaleci Onana için Manchester United ile görüşmeye hazırlanıyor",
+   "id": "s0181",
+   "rank": 17,
+   "key": "eb0c17f68b05b853",
+   "title": "Beşiktaş Kocaelispor'u 2-1 yendi, iç sahada bu sezon hiç kaybetmedi",
    "summarized": true,
-   "intro": "Trabzonspor, Manchester United'dan kiraladığı Kamerunlu kaleci Andre Onana'yı kalıcı olarak kadrosuna katmak için İngiliz kulübüyle görüşmelere başladı ya da başlamaya hazırlanıyor. Kaynaklar, Onana'nın kiralık sözleşmesinde satın alma opsiyonu bulunmadığını aktarıyor. 30 yaşındaki kalecinin Manchester United ile kontratı sezon sonunda bitiyor. Bordo-mavililerin, başka kulüpler devreye girmeden önce bonservisi için hızlı hareket etmek istediği belirtiliyor.",
+   "intro": "Beşiktaş, Süper Lig'in 7. haftasında sahasında Kocaelispor'u 2-1 yenerek haftayı 3 puanla kapattı. Siyah-beyazlılar 7 maçta 5 galibiyet ve 2 mağlubiyetle 15 puana ulaştı ve ligde 2. sırada yer alıyor. Haberde, takımın iç sahadaki performansının deplasmandakinin belirgin biçimde üstünde olduğu vurgulanıyor. Aynı fark, bu sezon oynanan Avrupa maçlarında da görülüyor.",
    "bullets": [
-    "Fotomaç'a göre Onana'yı ikinci kez kiralayan Trabzonspor'un sözleşmesinde satın alma opsiyonu yok; bu yüzden transfer için Manchester United ile ayrıca pazarlık gerekiyor.",
-    "Onana'nın Manchester United ile sözleşmesi sezon sonunda bitiyor. Fotomaç'a göre İngiliz kulübü isterse 1 yıllık opsiyonu kullanıp kontratı 2028'e uzatabilir.",
-    "Teamtalk'un haberine dayandırılan bilgiye göre Trabzonspor, transferi yaklaşık 4 milyon euroluk bir bedelle tamamlamayı hedefliyor.",
-    "Fotomaç, Trabzonspor yönetiminin kalecinin hem performansından hem de karakterinden memnun olduğunu yazıyor.",
-    "Aktarılana göre Trabzonspor, Onana'nın da kulüpte devam etmek istediğini Manchester United'a iletecek.",
-    "Onana'nın da Manchester United yönetimiyle görüşüp bonservis konusunda kolaylık sağlanmasını isteyeceği kaydedildi.",
-    "Fotomaç'a göre Trabzonspor, bu transferle uzun yıllar kaleci pozisyonu için yeni bir arayışa girmeyi düşünmüyor.",
-    "Onana, Barcelona altyapısından yetişti, Ajax'ta parladı; Inter ve Manchester United dönemlerinin ardından Trabzonspor'a gelmişti."
+    "Beşiktaş'ın 15 puanının 12'si Dolmabahçe'de geldi. Takım iç sahada oynadığı Eyüpspor, Çorum FK, Erzurumspor ve Kocaelispor maçlarını kazandı.",
+    "Ligde deplasmanda 3 maçta 1 galibiyet, 2 mağlubiyet var. Alanyaspor ve Amedspor'a yenilen Beşiktaş'ın tek deplasman galibiyeti Kadıköy'de Fenerbahçe'ye karşı geldi.",
+    "Ligde iç sahada 4 maçta 12 gol atıp 3 gol yendi. Deplasmanda 4 gol atıp 5 gol yedi ve yalnızca 3 puan aldı.",
+    "Beşiktaş Avrupa Ligi'ne 2. eleme turundan başladı ve gruplara kalmak için 3 tur oynadı. Elemelerdeki 6 maçın 3'ü iç sahadaydı ve üçünü de kazandı.",
+    "Elemelerde iç sahada FC Midtjylland, Hradec Kralove ve Kauno Zalgiris'i yendi. Deplasmanda Midtjylland ve Hradec Kralove'yi geçti, tek mağlubiyetini Kauno Zalgiris deplasmanında aldı.",
+    "Grup aşamasındaki ilk maçında Dolmabahçe'de Marsilya'yı 4-1 yendi.",
+    "Bu sezon iç sahada oynadığı 8 maçın hepsini kazandı. 21 gol atıp 4 gol yedi. Deplasmandaki 6 maçta 3 galibiyet, 3 mağlubiyet aldı; 7 gol atıp 6 gol yedi."
    ],
-   "why": "Kaleci pozisyonu Trabzonspor için uzun vadeli planlamanın önemli parçalarından biri. Onana'nın kalıcı transferi gerçekleşirse takım bu bölgede istikrar sağlayabilir. Ancak henüz resmi bir anlaşma yok; 4 milyon euro rakamı da bir hedef olarak aktarılıyor.",
-   "raw_summary": null,
-   "category": "transfer",
-   "category_name": "Transfer",
-   "status": "soylenti",
-   "clubs": [
-    {
-     "slug": "trabzonspor",
-     "name": "Trabzonspor"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/12/onana-icin-masada",
-     "published": "2026-10-11T18:19:47+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/trabzonspor/2026/10/12/trabzonspordan-andre-onana-icin-transfer-gorusmesi-onerilecek-bonservis-belli-oldu",
-     "published": "2026-10-12T03:40:49+00:00"
-    }
-   ],
-   "n_sources": 2,
-   "first_published": "2026-10-11T18:19:47+00:00",
-   "last_published": "2026-10-12T03:40:49+00:00",
-   "image": {
-    "url": "https://iaftm.tmgrup.com.tr/9bc128/1200/675/0/72/600/409?u=https://iftm.tmgrup.com.tr/2026/10/12/trabzonsporda-onana-transferinde-flas-gelisme-bonservisi-1791753324817.jpeg",
-    "kind": "source",
-    "label": "Fotoğraf: Fotomaç",
-    "credit": "Fotomaç",
-    "source_url": "https://www.fotomac.com.tr/trabzonspor/2026/10/12/onana-icin-masada"
-   },
-   "score": 5.28,
-   "importance": 6,
-   "popular": false
-  },
-  {
-   "id": "s0010",
-   "rank": 20,
-   "key": "870915f372a46f56",
-   "title": "Beşiktaş, Kocaelispor'u 2-1 yenerek iç sahada 8 maçta 8 galibiyete ulaştı",
-   "summarized": true,
-   "intro": "Beşiktaş, Trendyol Süper Lig'in 7. haftasında Dolmabahçe'de Kocaelispor'u 2-1 mağlup etti. Gol perdesini Orkun Kökçü açtı, Dusan Vlahovic 31. dakikada penaltıdan attığı golle takımını öne geçirdi. Bu sonuçla siyah-beyazlılar puanını 15'e çıkararak ligde ikinci sıraya yükseldi. Beşiktaş, bu sezon hem Süper Lig'de hem UEFA Avrupa Ligi'nde iç sahada oynadığı 8 maçın hepsini kazanmış oldu. Maçta Vaclav Cerny'nin sakatlanarak oyundan çıkması da dikkat çekti.",
-   "bullets": [
-    "Orkun Kökçü, Süper Lig'deki 2. golünü attı. Ligdeki ilk golünü Diyarbakır'da Amed Sportif Faaliyetler karşısında atan oyuncunun sezondaki toplam gol sayısı 5'e çıktı.",
-    "Orkun'un diğer gollerinin ikisi Midtjylland, biri Kauno Zalgiris karşısında Avrupa Ligi'nde geldi.",
-    "Vlahovic 31. dakikadaki penaltı golüyle ligde üst üste 4. maçında fileleri havalandırdı ve lig golü sayısını 6'ya çıkardı. İlk gollerini Çorum FK maçında hat-trick ile atmıştı.",
-    "Vaclav Cerny 38. dakikada rakip yarı alanda yerde kaldı. Sağlık ekibinin müdahalesinin ardından teknik direktör Vincenzo Italiano 39. dakikada onun yerine İlhan Fakılı'yı oyuna aldı.",
-    "İç saha serisinde ligde Eyüpspor (1-0), Çorum FK (6-2), Erzurumspor FK (3-0) ve Kocaelispor (2-1) yenildi. Avrupa'da Midtjylland ve Hradec Kralove 1-0, Kauno Zalgiris 3-0, Marsilya 4-1 mağlup edildi.",
-    "Beşiktaş bu 8 iç saha maçında 21 gol attı, kalesinde 4 gol gördü.",
-    "Beşiktaş, Kocaelispor'a en son 6 Mart 1999'da 3-0 kaybetti. O tarihten bu yana 12 galibiyet ve 1 beraberlik aldı. Kulübün bu rakibe en farklı galibiyeti 1994-1995 sezonundaki 7-1'dir."
-   ],
-   "why": "Beşiktaş taraftarı için Dolmabahçe'deki kayıpsız gidişat ve ligde ikinci sıraya yükselmek, sezon hedefleri açısından moral verici. Vlahovic ve Orkun'un gol katkısı hücum hattındaki üretkenliği gösteriyor. Cerny'nin sakatlığının ciddiyeti ise kaynaklarda belirtilmediği için takip edilmesi gereken bir başlık.",
+   "why": "Beşiktaş Dolmabahçe'de hem ligde hem Avrupa'da sezon boyunca kayıpsız ve gol üretken bir görüntü veriyor. Deplasmandaki dengesiz sonuçlar ise takımın puan tablosundaki yerini korumak için üzerinde çalışması gereken ana alan olarak öne çıkıyor.",
    "raw_summary": null,
    "category": "mac",
    "category_name": "Maç",
@@ -1431,100 +1252,29 @@
    ],
    "leagues": [
     {
-     "slug": "avrupa-ligi",
-     "name": "Avrupa Ligi"
-    },
-    {
      "slug": "super-lig",
      "name": "Süper Lig"
     }
    ],
    "sources": [
     {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/besiktas-bu-sezon-dolmabahcede-8de-8-yapti-43338025",
-     "published": "2026-10-11T18:15:02+00:00"
-    },
-    {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/foto/besiktas-dolmabahce-de-kaybetmiyor-3918941",
-     "published": "2026-10-11T18:36:13+00:00"
-    }
-   ],
-   "n_sources": 2,
-   "first_published": "2026-10-11T18:15:02+00:00",
-   "last_published": "2026-10-11T18:36:13+00:00",
-   "image": {
-    "url": "https://im.haberturk.com/l/2026/10/11/ver1791743756/3918941/jpg/1200x628",
-    "kind": "source",
-    "label": "Fotoğraf: Habertürk",
-    "credit": "Habertürk",
-    "source_url": "https://www.haberturk.com/spor/foto/besiktas-dolmabahce-de-kaybetmiyor-3918941"
-   },
-   "score": 4.79,
-   "importance": 5,
-   "popular": false
-  },
-  {
-   "id": "s0167",
-   "rank": 21,
-   "key": "8d37f1f667907faf",
-   "title": "Arda Güler'in Real Madrid ile sözleşme uzatma konusunda anlaştığı bildirildi",
-   "summarized": true,
-   "intro": "Posta'nın aktardığına göre Real Madrid, Fenerbahçe'den transfer ettiği milli futbolcu Arda Güler ile sözleşme uzatma konusunda anlaşmaya vardı. Haber, İtalyan gazeteci Fabrizio Romano'ya dayandırılıyor. Güler'in geçen sezon ve bu sezon sergilediği performansla dikkat çektiği belirtiliyor. Kulübün sözleşme uzatımını resmi olarak duyurması bekleniyor.",
-   "bullets": [
-    "Bilgi, Fabrizio Romano'nun haberine dayanıyor; kaynakta kulüpten ya da oyuncudan henüz bir resmi açıklama yer almıyor.",
-    "Sözleşme görüşmelerinin başarıyla tamamlandığı aktarılıyor.",
-    "Real Madrid'in uzatmayı resmi olarak açıklaması bekleniyor.",
-    "Arda Güler'in Real Madrid'de yıllık 6.25 milyon Euro brüt ücret aldığı belirtiliyor.",
-    "Yeni sözleşmeyle birlikte yıllık ücrette belirgin bir artış olması bekleniyor.",
-    "Yeni sözleşmenin süresi ve diğer ayrıntıları kaynakta yer almıyor.",
-    "Güler bu sezon Real Madrid'le 7 resmi maça çıktı; 1 gol attı ve 3 asist yaptı."
-   ],
-   "why": "Taraftar için Arda Güler'in Real Madrid'deki geleceğinin uzun vadeli güvence altına alınması anlamına geliyor. Milli takımın önemli isimlerinden biri olan oyuncunun kulübündeki yerinin pekişmesi, performansının devamı açısından da önem taşıyor.",
-   "raw_summary": null,
-   "category": "transfer",
-   "category_name": "Transfer",
-   "status": "soylenti",
-   "clubs": [
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    },
-    {
-     "slug": "real-madrid",
-     "name": "Real Madrid"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "la-liga",
-     "name": "La Liga"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Posta",
-     "url": "https://www.posta.com.tr/spor/arda-guler-imzayi-atiyor-anlasmaya-varildi-3049318",
-     "published": "2026-10-12T06:36:04+00:00"
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/besiktas-ic-sahada-cosuyor-4863620",
+     "published": "2026-10-12T10:10:17+00:00"
     }
    ],
    "n_sources": 1,
-   "first_published": "2026-10-12T06:36:04+00:00",
-   "last_published": "2026-10-12T06:36:04+00:00",
+   "first_published": "2026-10-12T10:10:17+00:00",
+   "last_published": "2026-10-12T10:10:17+00:00",
    "image": {
-    "url": "https://image.posta.com.tr/i/posta/75/0x0/6ac79251612e0cd4a1ce657e.jpg",
+    "url": "https://img.piri.net/piri/upload/3/2026/10/12/3da14bb9-besiktas-ic-sahada-cosuyor.webp",
     "kind": "source",
-    "label": "Fotoğraf: Posta",
-    "credit": "Posta",
-    "source_url": "https://www.posta.com.tr/spor/arda-guler-imzayi-atiyor-anlasmaya-varildi-3049318"
+    "label": "Fotoğraf: Yeni Şafak",
+    "credit": "Yeni Şafak",
+    "source_url": "https://www.yenisafak.com/spor/besiktas-ic-sahada-cosuyor-4863620"
    },
-   "score": 3.9,
-   "importance": 7,
+   "score": 4.01,
+   "importance": 6,
    "popular": false
   }
  ]
