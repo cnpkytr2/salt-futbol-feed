@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-12T19:17:38+00:00",
+ "generated_at": "2026-10-12T21:17:39+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1997,11 +1997,11 @@
         "club": null
        },
        "score": {
-        "home": 1,
-        "away": 0
+        "home": 4,
+        "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "The Coventry Building Society Arena"
       }
      ]
@@ -2750,11 +2750,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
-        "away": 0
+        "home": 3,
+        "away": 3
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estadio Ciudad de Valencia"
       }
      ]
@@ -3503,11 +3503,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
-        "away": 0
+        "home": 2,
+        "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadio Olimpico Grande Torino"
       }
      ]
