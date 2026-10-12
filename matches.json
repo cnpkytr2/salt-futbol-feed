@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-12T11:17:31+00:00",
+ "generated_at": "2026-10-12T17:17:33+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -15,7 +15,7 @@
    "season": "2026-2027",
    "tsdb_id": 4339,
    "last_round": 7,
-   "next_round": 7,
+   "next_round": 8,
    "current_round": 7,
    "standings": [
     {
@@ -509,10 +509,190 @@
         "name": "Göztepe",
         "club": "goztepe"
        },
+       "score": {
+        "home": 0,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "1H",
+       "venue": "Recep Tayyip Erdoğan Stadyumu"
+      }
+     ]
+    },
+    {
+     "round": 8,
+     "label": "8. Hafta",
+     "matches": [
+      {
+       "id": "2527794",
+       "round": 8,
+       "kickoff": "2026-10-16T17:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-16",
+       "home": {
+        "name": "Çorum",
+        "club": "corum-fk"
+       },
+       "away": {
+        "name": "Rizespor",
+        "club": "rizespor"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Çorum Şehir Stadyumu"
+      },
+      {
+       "id": "2527792",
+       "round": 8,
+       "kickoff": "2026-10-17T10:30:00Z",
+       "time_known": true,
+       "date_local": "2026-10-17",
+       "home": {
+        "name": "Erzurumspor",
+        "club": "erzurumspor"
+       },
+       "away": {
+        "name": "Eyüpspor",
+        "club": "eyupspor"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Kazım Karabekir Stadyumu"
+      },
+      {
+       "id": "2527793",
+       "round": 8,
+       "kickoff": "2026-10-17T13:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-17",
+       "home": {
+        "name": "Amed",
+        "club": "amedspor"
+       },
+       "away": {
+        "name": "Konyaspor",
+        "club": "konyaspor"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Diyarbakır Stadyumu"
+      },
+      {
+       "id": "2527789",
+       "round": 8,
+       "kickoff": "2026-10-17T13:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-17",
+       "home": {
+        "name": "Gençlerbirliği",
+        "club": "genclerbirligi"
+       },
+       "away": {
+        "name": "Galatasaray",
+        "club": "galatasaray"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Eryaman Stadyumu"
+      },
+      {
+       "id": "2527788",
+       "round": 8,
+       "kickoff": "2026-10-17T16:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-17",
+       "home": {
+        "name": "Fenerbahçe",
+        "club": "fenerbahce"
+       },
+       "away": {
+        "name": "Alanyaspor",
+        "club": "alanyaspor"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Chobani Stadyumu"
+      },
+      {
+       "id": "2527791",
+       "round": 8,
+       "kickoff": "2026-10-18T10:30:00Z",
+       "time_known": true,
+       "date_local": "2026-10-18",
+       "home": {
+        "name": "Kasımpaşa",
+        "club": "kasimpasa"
+       },
+       "away": {
+        "name": "Samsunspor",
+        "club": "samsunspor"
+       },
        "score": null,
        "status": "scheduled",
        "status_raw": "NS",
        "venue": "Recep Tayyip Erdoğan Stadyumu"
+      },
+      {
+       "id": "2527795",
+       "round": 8,
+       "kickoff": "2026-10-18T13:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-18",
+       "home": {
+        "name": "Kocaelispor",
+        "club": "kocaelispor"
+       },
+       "away": {
+        "name": "Göztepe",
+        "club": "goztepe"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Kocaeli Stadyumu"
+      },
+      {
+       "id": "2527787",
+       "round": 8,
+       "kickoff": "2026-10-18T16:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-18",
+       "home": {
+        "name": "İstanbul Başakşehir",
+        "club": "basaksehir"
+       },
+       "away": {
+        "name": "Gaziantep",
+        "club": "gaziantep-fk"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Başakşehir Fatih Terim Stadyumu"
+      },
+      {
+       "id": "2527790",
+       "round": 8,
+       "kickoff": "2026-10-19T17:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-19",
+       "home": {
+        "name": "Trabzonspor",
+        "club": "trabzonspor"
+       },
+       "away": {
+        "name": "Beşiktaş",
+        "club": "besiktas"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Papara Park"
       }
      ]
     }
@@ -2902,9 +3082,12 @@
         "name": "Venezia",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 3,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "New Balance Arena"
       },
       {
@@ -5082,7 +5265,7 @@
    "tsdb_id": 4481,
    "last_round": 1,
    "next_round": 2,
-   "current_round": 1,
+   "current_round": 2,
    "standings": [],
    "standings_limited": true,
    "rounds": [
