@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-13T13:17:38+00:00",
+ "generated_at": "2026-10-13T15:17:40+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1049,8 +1049,8 @@
         "home": 1,
         "away": 1
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Bandırma 17 Eylül Stadyumu"
       },
       {
@@ -1067,9 +1067,12 @@
         "name": "Bodrum",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 3
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Yusuf Ziya Öniş Stadyumu"
       },
       {
