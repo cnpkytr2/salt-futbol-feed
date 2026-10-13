@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-13T13:43:22+00:00",
- "edition": "2026-10-13-guncel",
+ "generated_at": "2026-10-13T17:43:33+00:00",
+ "edition": "2026-10-13-aksam",
  "items": [
   {
-   "key": "ea74ffbc56590fcf",
-   "story_id": "s0005",
-   "title": "Galatasaray, Şampiyonlar Ligi'nin 2. haftasında Barcelona'yı RAMS Park'ta ağırlıyor",
-   "category": "mac",
-   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of yellow and red color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "944d47638c1630e5",
+   "story_id": "s0060",
+   "title": "Dört büyük kulübün halka açık şirketlerinin toplam borcu 108 milyar lirayı aştı",
+   "category": "yonetim",
+   "prompt": "A quiet boardroom at night with leather chairs around a polished table, a classic black-and-white football with plain unmarked panels resting on the table, city lights outside the window. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1782089693,
+   "seed": 603008111,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,16 +18,16 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/ea74ffbc56590fcf.png"
+   "out": "s/944d47638c1630e5.png"
   },
   {
-   "key": "75b538bb2d8ffba5",
-   "story_id": "s0086",
-   "title": "Dört büyüklerin toplam borcu 108 milyar lirayı aştı",
-   "category": "yonetim",
-   "prompt": "An empty press conference table with a row of microphones under a single spotlight in a dark room, a plain fabric backdrop in dark burgundy (deep claret) and light sky blue colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "befe8525dc973640",
+   "story_id": "s0041",
+   "title": "Okan Buruk: Barcelona maçı öncesi Yamal'ı durdurmak için planlarımız var",
+   "category": "mac",
+   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in yellow and red colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 81246310,
+   "seed": 1661467019,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -35,12 +35,12 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/75b538bb2d8ffba5.png"
+   "out": "s/befe8525dc973640.png"
   },
   {
    "key": "833014428f8384e3",
-   "story_id": "s0044",
-   "title": "Chris van Puyvelde'nin Çin Futbol Federasyonu ile anlaştığı iddia edildi",
+   "story_id": "s0038",
+   "title": "Chris van Puyvelde Çin Futbol Federasyonu ile 3 yıllık anlaşma imzaladı",
    "category": "yonetim",
    "prompt": "An empty press conference table with a row of microphones under a single spotlight in a dark room, a plain fabric backdrop in yellow and navy blue colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
@@ -53,6 +53,23 @@
    "steps": 8,
    "cfg_scale": 1.0,
    "out": "s/833014428f8384e3.png"
+  },
+  {
+   "key": "9806c83776adc410",
+   "story_id": "s0029",
+   "title": "Italiano, Hoffenheim maçı öncesi ilk 11 için kadro rotasyonuna gidecek",
+   "category": "mac",
+   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of black and white color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 692270642,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/9806c83776adc410.png"
   }
  ]
 }
