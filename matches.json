@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-12T21:17:39+00:00",
+ "generated_at": "2026-10-13T09:17:39+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -34,10 +34,28 @@
      "points": 16,
      "form": "WLWWW",
      "group": "Süper Lig",
-     "updated": "2026-10-11 10:01:43"
+     "updated": "2026-10-13 10:00:41"
     },
     {
      "rank": 2,
+     "team": {
+      "name": "Beşiktaş",
+      "club": "besiktas"
+     },
+     "played": 7,
+     "win": 5,
+     "draw": 0,
+     "loss": 2,
+     "gf": 16,
+     "ga": 8,
+     "gd": 8,
+     "points": 15,
+     "form": "WLWWW",
+     "group": "Süper Lig",
+     "updated": "2026-10-13 10:00:41"
+    },
+    {
+     "rank": 3,
      "team": {
       "name": "Amed",
       "club": "amedspor"
@@ -52,10 +70,10 @@
      "points": 14,
      "form": "DWWDW",
      "group": "Süper Lig",
-     "updated": "2026-10-11 10:01:43"
+     "updated": "2026-10-13 10:00:41"
     },
     {
-     "rank": 3,
+     "rank": 4,
      "team": {
       "name": "Fenerbahçe",
       "club": "fenerbahce"
@@ -70,10 +88,10 @@
      "points": 13,
      "form": "WWDLW",
      "group": "Süper Lig",
-     "updated": "2026-10-11 10:01:43"
+     "updated": "2026-10-13 10:00:41"
     },
     {
-     "rank": 4,
+     "rank": 5,
      "team": {
       "name": "Trabzonspor",
       "club": "trabzonspor"
@@ -88,25 +106,7 @@
      "points": 13,
      "form": "WWLWL",
      "group": "Süper Lig",
-     "updated": "2026-10-11 10:01:43"
-    },
-    {
-     "rank": 5,
-     "team": {
-      "name": "Beşiktaş",
-      "club": "besiktas"
-     },
-     "played": 6,
-     "win": 4,
-     "draw": 0,
-     "loss": 2,
-     "gf": 14,
-     "ga": 7,
-     "gd": 7,
-     "points": 12,
-     "form": "LWWWL",
-     "group": "Süper Lig",
-     "updated": "2026-10-11 10:01:43"
+     "updated": "2026-10-13 10:00:41"
     }
    ],
    "standings_limited": true,
@@ -1477,7 +1477,7 @@
      "points": 18,
      "form": "WWWWW",
      "group": "Premier League",
-     "updated": "2026-10-12 10:00:07"
+     "updated": "2026-10-13 10:00:02"
     },
     {
      "rank": 2,
@@ -1495,7 +1495,7 @@
      "points": 15,
      "form": "WLWWW",
      "group": "Premier League",
-     "updated": "2026-10-12 10:00:07"
+     "updated": "2026-10-13 10:00:02"
     },
     {
      "rank": 3,
@@ -1513,7 +1513,7 @@
      "points": 13,
      "form": "WWWDL",
      "group": "Premier League",
-     "updated": "2026-10-12 10:00:07"
+     "updated": "2026-10-13 10:00:02"
     },
     {
      "rank": 4,
@@ -1531,7 +1531,7 @@
      "points": 10,
      "form": "DWDDD",
      "group": "Premier League",
-     "updated": "2026-10-12 10:00:07"
+     "updated": "2026-10-13 10:00:02"
     },
     {
      "rank": 5,
@@ -1549,7 +1549,7 @@
      "points": 10,
      "form": "DWDDD",
      "group": "Premier League",
-     "updated": "2026-10-12 10:00:07"
+     "updated": "2026-10-13 10:00:02"
     }
    ],
    "standings_limited": true,
@@ -2229,8 +2229,8 @@
      "gd": 27,
      "points": 24,
      "form": "WWWWW",
-     "group": "La Liga",
-     "updated": "2026-10-12 10:00:07"
+     "group": "Primera División",
+     "updated": "2026-10-13 10:00:08"
     },
     {
      "rank": 2,
@@ -2247,8 +2247,8 @@
      "gd": 10,
      "points": 19,
      "form": "WWWWL",
-     "group": "La Liga",
-     "updated": "2026-10-12 10:00:07"
+     "group": "Primera División",
+     "updated": "2026-10-13 10:00:08"
     },
     {
      "rank": 3,
@@ -2265,8 +2265,8 @@
      "gd": 5,
      "points": 19,
      "form": "WDWWW",
-     "group": "La Liga",
-     "updated": "2026-10-12 10:00:07"
+     "group": "Primera División",
+     "updated": "2026-10-13 10:00:08"
     },
     {
      "rank": 4,
@@ -2283,8 +2283,8 @@
      "gd": 11,
      "points": 18,
      "form": "WLWWL",
-     "group": "La Liga",
-     "updated": "2026-10-12 10:00:07"
+     "group": "Primera División",
+     "updated": "2026-10-13 10:00:08"
     },
     {
      "rank": 5,
@@ -2292,17 +2292,17 @@
       "name": "Sevilla",
       "club": null
      },
-     "played": 7,
+     "played": 8,
      "win": 4,
-     "draw": 1,
+     "draw": 2,
      "loss": 2,
-     "gf": 10,
-     "ga": 9,
+     "gf": 13,
+     "ga": 12,
      "gd": 1,
-     "points": 13,
-     "form": "LWWDL",
-     "group": "La Liga",
-     "updated": "2026-10-12 10:00:07"
+     "points": 14,
+     "form": "DLWWD",
+     "group": "Primera División",
+     "updated": "2026-10-13 10:00:08"
     }
    ],
    "standings_limited": true,
@@ -2983,7 +2983,7 @@
      "points": 16,
      "form": "WDWWW",
      "group": "Serie A",
-     "updated": "2026-10-12 10:00:09"
+     "updated": "2026-10-13 10:00:01"
     },
     {
      "rank": 2,
@@ -3001,7 +3001,7 @@
      "points": 16,
      "form": "WWDWW",
      "group": "Serie A",
-     "updated": "2026-10-12 10:00:09"
+     "updated": "2026-10-13 10:00:01"
     },
     {
      "rank": 3,
@@ -3019,7 +3019,7 @@
      "points": 14,
      "form": "DDWWW",
      "group": "Serie A",
-     "updated": "2026-10-12 10:00:09"
+     "updated": "2026-10-13 10:00:01"
     },
     {
      "rank": 4,
@@ -3037,7 +3037,7 @@
      "points": 13,
      "form": "DWWWL",
      "group": "Serie A",
-     "updated": "2026-10-12 10:00:09"
+     "updated": "2026-10-13 10:00:01"
     },
     {
      "rank": 5,
@@ -3055,7 +3055,7 @@
      "points": 12,
      "form": "DWDDW",
      "group": "Serie A",
-     "updated": "2026-10-12 10:00:09"
+     "updated": "2026-10-13 10:00:01"
     }
    ],
    "standings_limited": true,
@@ -3736,7 +3736,7 @@
      "points": 13,
      "form": "WDWWW",
      "group": "Bundesliga",
-     "updated": "2026-10-12 10:00:09"
+     "updated": "2026-10-13 10:00:07"
     },
     {
      "rank": 2,
@@ -3754,7 +3754,7 @@
      "points": 13,
      "form": "DWWWW",
      "group": "Bundesliga",
-     "updated": "2026-10-12 10:00:09"
+     "updated": "2026-10-13 10:00:07"
     },
     {
      "rank": 3,
@@ -3772,7 +3772,7 @@
      "points": 11,
      "form": "DWWDW",
      "group": "Bundesliga",
-     "updated": "2026-10-12 10:00:09"
+     "updated": "2026-10-13 10:00:07"
     },
     {
      "rank": 4,
@@ -3790,7 +3790,7 @@
      "points": 10,
      "form": "WWDWL",
      "group": "Bundesliga",
-     "updated": "2026-10-12 10:00:09"
+     "updated": "2026-10-13 10:00:07"
     },
     {
      "rank": 5,
@@ -3808,7 +3808,7 @@
      "points": 9,
      "form": "WLWLW",
      "group": "Bundesliga",
-     "updated": "2026-10-12 10:00:09"
+     "updated": "2026-10-13 10:00:07"
     }
    ],
    "standings_limited": true,
@@ -4426,7 +4426,7 @@
      "points": 14,
      "form": "DWDWW",
      "group": "Ligue 1",
-     "updated": "2026-10-12 10:00:09"
+     "updated": "2026-10-13 10:00:00"
     },
     {
      "rank": 2,
@@ -4444,7 +4444,7 @@
      "points": 13,
      "form": "WLWWD",
      "group": "Ligue 1",
-     "updated": "2026-10-12 10:00:09"
+     "updated": "2026-10-13 10:00:00"
     },
     {
      "rank": 3,
@@ -4462,7 +4462,7 @@
      "points": 13,
      "form": "WLWWW",
      "group": "Ligue 1",
-     "updated": "2026-10-12 10:00:09"
+     "updated": "2026-10-13 10:00:00"
     },
     {
      "rank": 4,
@@ -4480,7 +4480,7 @@
      "points": 11,
      "form": "LWDWD",
      "group": "Ligue 1",
-     "updated": "2026-10-12 10:00:09"
+     "updated": "2026-10-13 10:00:00"
     },
     {
      "rank": 5,
@@ -4498,7 +4498,7 @@
      "points": 11,
      "form": "LWDWW",
      "group": "Ligue 1",
-     "updated": "2026-10-12 10:00:09"
+     "updated": "2026-10-13 10:00:00"
     }
    ],
    "standings_limited": true,
