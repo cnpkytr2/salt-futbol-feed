@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-13T17:17:41+00:00",
+ "generated_at": "2026-10-13T19:17:42+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1090,11 +1090,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
-        "away": 0
+        "home": 1,
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Pendik Stadyumu"
       },
       {
@@ -1995,7 +1995,7 @@
    "tsdb_id": 4335,
    "last_round": 8,
    "next_round": 9,
-   "current_round": 8,
+   "current_round": 9,
    "standings": [
     {
      "rank": 1,
@@ -2748,7 +2748,7 @@
    "tsdb_id": 4332,
    "last_round": 6,
    "next_round": 7,
-   "current_round": 6,
+   "current_round": 7,
    "standings": [
     {
      "rank": 1,
@@ -3501,7 +3501,7 @@
    "tsdb_id": 4331,
    "last_round": 5,
    "next_round": 6,
-   "current_round": 5,
+   "current_round": 6,
    "standings": [
     {
      "rank": 1,
@@ -4191,7 +4191,7 @@
    "tsdb_id": 4334,
    "last_round": 6,
    "next_round": 7,
-   "current_round": 6,
+   "current_round": 7,
    "standings": [
     {
      "rank": 1,
@@ -4905,10 +4905,10 @@
        },
        "score": {
         "home": 0,
-        "away": 1
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stade Bollaert-Delelis"
       },
       {
@@ -4926,11 +4926,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
+        "home": 2,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Bank Respublika Arena"
       },
       {
@@ -4947,9 +4947,12 @@
         "name": "Lille",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Emirates Stadium"
       },
       {
@@ -4966,9 +4969,12 @@
         "name": "Manchester United",
         "club": "man-united"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Riyadh Air Metropolitano"
       },
       {
@@ -4985,9 +4991,12 @@
         "name": "Barcelona",
         "club": "barcelona"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Rams Park"
       },
       {
@@ -5004,9 +5013,12 @@
         "name": "Club Brugge",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Stadio Giuseppe Meazza"
       },
       {
@@ -5023,9 +5035,12 @@
         "name": "PSV Eindhoven",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Red Bull Arena Leipzig"
       },
       {
@@ -5042,9 +5057,12 @@
         "name": "Bayern Munich",
         "club": "bayern"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Viking Stadion"
       },
       {
@@ -5061,9 +5079,12 @@
         "name": "Napoli",
         "club": "napoli"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Estadio de la Cerámica"
       },
       {
