@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-13T09:17:39+00:00",
+ "generated_at": "2026-10-13T13:17:38+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -704,7 +704,7 @@
    "kind": "league",
    "season": "2026-2027",
    "tsdb_id": 4676,
-   "last_round": 9,
+   "last_round": 10,
    "next_round": 10,
    "current_round": 10,
    "standings": [
@@ -801,232 +801,6 @@
    ],
    "standings_limited": true,
    "rounds": [
-    {
-     "round": 8,
-     "label": "8. Hafta",
-     "matches": [
-      {
-       "id": "2528883",
-       "round": 8,
-       "kickoff": "2026-09-18T13:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-18",
-       "home": {
-        "name": "Bandırmaspor",
-        "club": null
-       },
-       "away": {
-        "name": "Ümraniyespor",
-        "club": null
-       },
-       "score": {
-        "home": 0,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Bandırma 17 Eylül Stadyumu"
-      },
-      {
-       "id": "2528891",
-       "round": 8,
-       "kickoff": "2026-09-18T17:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-18",
-       "home": {
-        "name": "Muğlaspor",
-        "club": null
-       },
-       "away": {
-        "name": "Iğdır",
-        "club": null
-       },
-       "score": {
-        "home": 2,
-        "away": 2
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Muğla Atatürk Stadyumu"
-      },
-      {
-       "id": "2528884",
-       "round": 8,
-       "kickoff": "2026-09-19T14:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-19",
-       "home": {
-        "name": "Ankara Keçiörengücü",
-        "club": null
-       },
-       "away": {
-        "name": "Sivasspor",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Keçiören Aktepe Stadyumu"
-      },
-      {
-       "id": "2528887",
-       "round": 8,
-       "kickoff": "2026-09-19T14:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-19",
-       "home": {
-        "name": "Sarıyer",
-        "club": null
-       },
-       "away": {
-        "name": "Boluspor",
-        "club": null
-       },
-       "score": {
-        "home": 2,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Yusuf Ziya Öniş Stadyumu"
-      },
-      {
-       "id": "2528889",
-       "round": 8,
-       "kickoff": "2026-09-19T17:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-19",
-       "home": {
-        "name": "Batman Petrolspor",
-        "club": null
-       },
-       "away": {
-        "name": "Bursaspor",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 2
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Batman Yeni Şehir Stadyumu"
-      },
-      {
-       "id": "2528890",
-       "round": 8,
-       "kickoff": "2026-09-19T17:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-19",
-       "home": {
-        "name": "Esenler Erokspor",
-        "club": null
-       },
-       "away": {
-        "name": "Fatih Karagümrük",
-        "club": null
-       },
-       "score": {
-        "home": 0,
-        "away": 2
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Esenler Stadyumu"
-      },
-      {
-       "id": "2528885",
-       "round": 8,
-       "kickoff": "2026-09-20T14:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-20",
-       "home": {
-        "name": "Manisa",
-        "club": null
-       },
-       "away": {
-        "name": "İstanbulspor",
-        "club": null
-       },
-       "score": {
-        "home": 0,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Manisa 19 Mayıs Stadyumu"
-      },
-      {
-       "id": "2528886",
-       "round": 8,
-       "kickoff": "2026-09-20T14:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-20",
-       "home": {
-        "name": "Pendikspor",
-        "club": null
-       },
-       "away": {
-        "name": "Bodrum",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Pendik Stadyumu"
-      },
-      {
-       "id": "2528882",
-       "round": 8,
-       "kickoff": "2026-09-20T17:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-20",
-       "home": {
-        "name": "Antalyaspor",
-        "club": null
-       },
-       "away": {
-        "name": "Vanspor",
-        "club": null
-       },
-       "score": {
-        "home": 3,
-        "away": 0
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Corendon Airlines Park"
-      },
-      {
-       "id": "2528888",
-       "round": 8,
-       "kickoff": "2026-09-20T17:00:00Z",
-       "time_known": true,
-       "date_local": "2026-09-20",
-       "home": {
-        "name": "Mardin 1969",
-        "club": null
-       },
-       "away": {
-        "name": "Kayserispor",
-        "club": null
-       },
-       "score": {
-        "home": 0,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Mardin 21 Kasım Stadyumu"
-      }
-     ]
-    },
     {
      "round": 9,
      "label": "9. Hafta",
@@ -1271,9 +1045,12 @@
         "name": "Sivasspor",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Bandırma 17 Eylül Stadyumu"
       },
       {
