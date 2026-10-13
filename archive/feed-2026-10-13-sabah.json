@@ -1,0 +1,1274 @@
+{
+ "schema": 1,
+ "generated_at": "2026-10-13T04:43:06+00:00",
+ "edition": {
+  "date": "2026-10-13",
+  "label": "sabah",
+  "title": "Sabah bülteni",
+  "time_local": "07:43"
+ },
+ "stats": {
+  "sources_ok": 58,
+  "sources_total": 59,
+  "articles_football": 266,
+  "stories": 16
+ },
+ "image_base": "https://raw.githubusercontent.com/cnpkytr2/salt-futbol-feed/main/img/",
+ "top_n": 30,
+ "stories": [
+  {
+   "id": "s0002",
+   "rank": 1,
+   "key": "02dd35e87cbd02ec",
+   "title": "Galatasaray, Şampiyonlar Ligi'nde Barcelona'yı RAMS Park'ta konuk ediyor",
+   "summarized": true,
+   "intro": "UEFA Şampiyonlar Ligi'nin 2. haftasında Galatasaray, 13 Ekim Salı günü saat 22.00'de RAMS Park'ta Barcelona ile karşılaşacak. Galatasaray, hazırlıklarını 12 Ekim Pazartesi günü Kemerburgaz Metin Oktay Tesisleri'nde yaptığı antrenmanla tamamladı. Barcelona teknik direktörü Hansi Flick ise maç öncesi basın toplantısında Galatasaray'ın gücüne ve stadyumun atmosferine dikkat çekti. Sarı-kırmızılılar, Süper Lig'de Kasımpaşa karşısında aldıkları galibiyetin ardından Avrupa'daki bu sınava çıkıyor.",
+   "bullets": [
+    "Karşılaşma TRT 1 ekranından canlı ve şifresiz yayımlanacak.",
+    "Galatasaray'ın antrenmanı dinamik ısınmayla başladı, iki grup halinde 8'e 2 pas çalışmasıyla sürdü ve taktik çalışmayla sona erdi; idmanı Okan Buruk yönetti.",
+    "Flick, Galatasaray'ın büyük takım gibi oynadığını, kendilerini çok geliştirdiğini ve hücumda çok iyi oyuncuları olduğunu söyledi; sahada birlikte hareket etmeleri gerektiğini vurguladı.",
+    "Flick'e göre RAMS Park'taki atmosfer dünyanın en iyilerinden biri: \"Buradaki atmosfere hazır olmalıyız.\"",
+    "Flick, Galatasaray'ın yeni transferi Batrakov'un iyi bir transfer olduğunu düşündüğünü belirtti. Batrakov'un Barcelona'da oynama hayali kurduğu aktarılmıştı; Flick bunun için çok çalışmak gerektiğini söyledi.",
+    "Gabriel Jesus'un maça hazır olduğunu belirten Flick, oynayıp oynamayacağına maç öncesinde karar vereceklerini söyledi. Sporx'a göre Flick, Real Madrid sorusunu yanıtlamayı reddetti.",
+    "Pau Cubarsi, kariyerindeki ilk maçında Victor Osimhen'e karşı oynadığını hatırlatarak Galatasaray'ın kalitesini ve atmosferini bildiklerini söyledi.",
+    "Galatasaray'ın sonraki Şampiyonlar Ligi maçı 21 Ekim'de Lille deplasmanı; ardından Stuttgart (3 Kasım) ve Aston Villa (24 Kasım) karşılaşmaları geliyor."
+   ],
+   "why": "Galatasaray taraftarı için lig aşamasının en zorlu randevularından biri evinde oynanıyor. Rakip teknik direktörün atmosfere ve hücum gücüne yaptığı vurgu, maçın RAMS Park'taki havasının belirleyici olabileceğini gösteriyor. Sonuç, takımın sonraki Avrupa maçlarındaki hedefleri açısından da önem taşıyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    },
+    {
+     "slug": "barcelona",
+     "name": "Barcelona"
+    },
+    {
+     "slug": "liverpool",
+     "name": "Liverpool"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "avrupa-ligi",
+     "name": "Avrupa Ligi"
+    },
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    },
+    {
+     "slug": "milli-takim",
+     "name": "A Millî Takım"
+    }
+   ],
+   "sources": [
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/galatasaray-barcelona-maci-ne-zaman-sampiyonlar-ligi-galatasaray-barcelona-maci-saat-kacta-hangi-kanalda-rams-parkta-dev-gece-3477686",
+     "published": "2026-10-12T14:47:37+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/sampiyonlar-ligi/2026/10/12/barcelona-teknik-direktoru-hansi-flick-konusuyor-canli",
+     "published": "2026-10-12T15:37:18+00:00"
+    },
+    {
+     "name": "Galatasaray.org (resmi)",
+     "url": "https://www.galatasaray.org/haber/futbol/barcelona-maci-hazirliklari-tamamlandi/61120",
+     "published": "2026-10-12T15:55:00+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/galatasaray/hansi-flick-ten-galatasaray-ve-batrakov-sozleri-SXHBQ1178938SXQ",
+     "published": "2026-10-12T16:08:00+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/hansi-flickten-itiraf-galatasaray-cok-guclu-hazir-olmaliyiz-43339174",
+     "published": "2026-10-12T16:17:17+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/hansi-flickten-galatasaray-ve-batrakov-aciklamasi-736485",
+     "published": "2026-10-12T16:25:44+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/galatasaray-maci-oncesi-barcelona-teknik-direktoru-hansi-flick-batrakov-u-cok-fazla-izlemedim-ama-kasimpasa-macinda-iyi-oynadi-3919193",
+     "published": "2026-10-12T16:36:52+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/10/13/dev-macin-hazirliklari-tamamlandi",
+     "published": "2026-10-12T16:41:11+00:00"
+    }
+   ],
+   "n_sources": 12,
+   "first_published": "2026-10-12T14:47:37+00:00",
+   "last_published": "2026-10-13T03:56:46+00:00",
+   "image": {
+    "url": "https://image.cnnturk.com/i/cnnturk/75/1200x675/6acb83d7d028a5e7bf58149e.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: CNN Türk",
+    "credit": "CNN Türk",
+    "source_url": "https://www.cnnturk.com/spor/futbol/galatasaray-barcelona-maci-ne-zaman-sampiyonlar-ligi-galatasaray-barcelona-maci-saat-kacta-hangi-kanalda-rams-parkta-dev-gece-3477686"
+   },
+   "score": 52.48,
+   "importance": 8,
+   "popular": true
+  },
+  {
+   "id": "s0061",
+   "rank": 2,
+   "key": "481b29ddac5cf2a5",
+   "title": "Göztepe, Eyüpspor deplasmanında Henrique'nin hat-trick'iyle 4-0 kazandı",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 7. haftasının son maçında Göztepe, Esenyurt Necmi Kadıoğlu Stadı'nda Eyüpspor'u 4-0 yendi. Eyüpsporlu Abdullahi'nin 10. dakikada, korner sırasında rakibi Miroshi'nin boğazına sarılması nedeniyle kırmızı kart görmesi maçın seyrini belirledi. Aynı pozisyonda verilen penaltıyı Juan golle sonuçlandırdı. İkinci yarıda Henrique üç gol atarak hat-trick yaptı. Göztepe bu sonuçla sezonun ilk galibiyetini aldı.",
+   "bullets": [
+    "Hakem Atilla Karaoğlan, VAR uyarısının ardından pozisyonu izledi, Abdullahi'ye kırmızı kart gösterip penaltı verdi. Juan 11. dakikada penaltıdan 1-0'ı getirdi.",
+    "İlk yarıda Eyüpspor 10 kişi olmasına rağmen pozisyon buldu; Jules'in kafa vuruşu auta çıktı, Michalak'ın kafa vuruşunda kaleci Arda topu kornere çeldi.",
+    "Henrique 54. dakikada Akonnor'un ortasında, 59. dakikada Costa'nın geriye hatalı pasının ardından kaleciyle karşı karşıya golü buldu.",
+    "Henrique 75. dakikada ikinci penaltıdan hat-trick'i tamamladı. Penaltı, Arda Okan Kurtulan'ın Talha Ülvan'ın müdahalesiyle yerde kalması sonrası verildi.",
+    "Göztepe puanını 6'ya çıkardı. Tablonun son sırasındaki Eyüpspor 3 puanda kaldı. NTV Spor'a göre Göztepe düşme hattından çıktı.",
+    "Eyüpspor Teknik Direktörü Mustafa Dalcı, maçta iki bireysel hata ve iki penaltı olduğunu söyledi. Göztepe'yi atletik olarak ligin en iyi takımlarından biri diye niteledi.",
+    "Göztepe Teknik Direktörü Stanimir Stoilov, galibiyete ihtiyaçları olduğunu belirtti. Sezon başından beri kazanamadıklarını, oyuncuların bu yüzden baskı hissettiğini söyledi.",
+    "Sonraki haftada Göztepe, Kocaelispor'a konuk olacak; Eyüpspor ise Erzurumspor FK'yi ağırlayacak."
+   ],
+   "why": "Göztepe taraftarı için sezonun ilk galibiyeti, puan tablosunda alt sıralardan uzaklaşma ve moral açısından önemli. Eyüpspor ise son sırada kalmaya devam ederken Dalcı'nın sözleriyle toparlanma ihtiyacına işaret etti.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "goztepe",
+     "name": "Göztepe"
+    },
+    {
+     "slug": "eyupspor",
+     "name": "Eyüpspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/goztepe-deplasmanda-eyupsporu-farkli-yendi/4086543",
+     "published": "2026-10-12T18:01:56+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/goztepe/henrique-hat-trick-yapti-goztepe-ilk-kez-kazandi-SXHBQ1178943SXQ",
+     "published": "2026-10-12T18:56:00+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/goztepe-eyupsporu-4-0-yendi-henriqueden-hat-trick-736492",
+     "published": "2026-10-12T19:00:06+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/goztepe-eyupspor-deplasmaninda-nefes-aldi-p368534",
+     "published": "2026-10-12T19:06:31+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/eyupspor-0-4-goztepe-mac-sonucu-ve-ozeti-trendyol-super-lig-3919213",
+     "published": "2026-10-12T19:08:06+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-goztepeye-nefes-aldiran-galibiyet-eyupspor-deplasmaninda-geldi-431171",
+     "published": "2026-10-12T19:09:03+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/superlig/2026/10/12/goztepe-istanbulda-farkli-kazandi-3-puanla-tanisti",
+     "published": "2026-10-12T21:21:57+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/goztepe/2026/10/13/goztepe-sahlandi",
+     "published": "2026-10-12T21:52:23+00:00"
+    }
+   ],
+   "n_sources": 8,
+   "first_published": "2026-10-12T18:01:56+00:00",
+   "last_published": "2026-10-12T22:07:00+00:00",
+   "image": {
+    "path": "pool/mac-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 42.87,
+   "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0087",
+   "rank": 3,
+   "key": "8d7aa0b58711f028",
+   "title": "Sidiki Cherif, Coventry formasıyla Premier Lig'deki ilk golünü attı",
+   "summarized": true,
+   "intro": "Fenerbahçe'den bu yaz Coventry City'ye transfer olan genç forvet Sidiki Cherif, Premier Lig'in 6. haftasında Newcastle United'a karşı ilk kez ilk 11'de başladı. Maçın 6. dakikasında penaltı kazandıran Cherif, 48. dakikada da Coventry formasıyla ilk golünü kaydetti. Coventry City, evinde oynadığı karşılaşmayı 4-1 kazandı. Bu sonuç, takımın sezondaki ikinci üst üste galibiyeti oldu.",
+   "bullets": [
+    "Cherif'in kazandırdığı penaltıyı 6. dakikada Jack Rudoni gole çevirdi ve Coventry 1-0 öne geçti.",
+    "Cherif, 48. dakikada attığı golle Coventry'nin skorunu 2-0'a getirdi ve kulüpteki ilk golünü kaydetti.",
+    "Sporx'a göre Cherif 55. dakikada bir gole daha yaklaştı. Altıpas önünde yaptığı vuruşta top diğer ayağına çarpıp yandan dışarı çıktı.",
+    "Cherif 78. dakikada oyundan çıktı. Newcastle, 70. dakikada Sven Botman'ın golüyle farkı 1'e indirdi.",
+    "Coventry'nin diğer goller 81. dakikada Ellis Simms'ten ve 86. dakikada Stephen-Nevin Mutanda Mfuni'den geldi.",
+    "Ajansspor, 19 yaşındaki forvetin Fenerbahçe'den 24,5 milyon euro bonservis bedeliyle Coventry'ye transfer olduğunu aktardı.",
+    "Sporx'a göre Coventry sezonun ilk dört maçını kaybetmişti. Takım 6 puana ulaştı, Newcastle ise ikinci yenilgisiyle 8 puanda kaldı.",
+    "CNN Türk, bunun Coventry'nin sezondaki ilk iç saha galibiyeti olduğunu ve takımın küme düşme hattından uzaklaştığını yazdı. NTV Spor ise golün Cherif'in kulüpteki ikinci maçında geldiğini belirtti."
+   ],
+   "why": "Fenerbahçe taraftarı için eski forvetlerinden birinin yeni takımında hızla etkili olması, transferin sonraki performansını izleme açısından dikkat çekici. Cherif'in ilk 11 şansını gol ve penaltıyla karşılaması, Coventry'de rolünün büyüyebileceğine işaret ediyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "premier-lig",
+     "name": "Premier Lig"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/fenerbahce/sidiki-cherif-premier-lig-de-hesabi-acti-SXHBQ1178946SXQ",
+     "published": "2026-10-12T20:26:00+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/sidiiki-cherif-premier-ligde-hesabi-acti-muthis-gol-736500",
+     "published": "2026-10-12T20:27:50+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/fenerbahceden-ayrilan-sidiki-cherif-ingilterede-ilk-golunu-atti-haber-2046206",
+     "published": "2026-10-12T21:05:00+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-sidiki-cherif-premier-ligde-siftahi-muhtesem-golle-yapti-galibiyetin-mimari-oldu-431177",
+     "published": "2026-10-12T21:12:09+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/sidiki-cheriften-ilk-gol-coventry-city-newcastlei-farkli-gecti-haber-2046214",
+     "published": "2026-10-12T22:00:00+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/futbol/2026/10/12/eski-fenerbahceli-sidiki-cherif-premier-ligde-siftahi-sik-bir-golle-yapti",
+     "published": "2026-10-12T22:48:28+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/sidiki-cherif-premier-ligde-ilk-golunu-boyle-atti-3478439",
+     "published": "2026-10-13T04:06:56+00:00"
+    }
+   ],
+   "n_sources": 6,
+   "first_published": "2026-10-12T20:26:00+00:00",
+   "last_published": "2026-10-13T04:06:56+00:00",
+   "image": {
+    "url": "https://cdn.ajansspor.com/ajansspor/photo/2026/10/57e1a5b5-263e-416f-832b-7816a3175b46.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Ajansspor",
+    "credit": "Ajansspor",
+    "source_url": "https://ajansspor.com/haber/sidiiki-cherif-premier-ligde-hesabi-acti-muthis-gol-736500"
+   },
+   "score": 41.2,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0021",
+   "rank": 4,
+   "key": "35c301831d5cad64",
+   "title": "Beşiktaş, Cerny'nin sol arka adalesinde gerilme ve ödem tespit edildiğini açıkladı",
+   "summarized": true,
+   "intro": "Beşiktaş, Trendyol Süper Lig'in 7. haftasında Kocaelispor ile oynanan maçın 30. dakikasında sol uyluk arkasında ağrı hissederek oyundan çıkan Çek futbolcu Vaclav Cerny'nin sağlık durumunu açıkladı. Kulübün resmi açıklamasına göre Acıbadem Altunizade Hastanesi'nde yapılan MR görüntülemesinde sol uyluk arka adalesinde (biceps femoris) gerilme ve ödem saptandı. Oyuncunun tedavisine kulübün sağlık ekibi tarafından başlandı. Bazı kaynaklar 1-2 haftalık bir yokluk öngörüldüğünü aktarırken, Yeni Şafak oyuncunun ne zaman döneceğinin henüz duyurulmadığını belirtiyor.",
+   "bullets": [
+    "Cerny maçın ilk yarısında, 30. dakikada sol uyluk arkasındaki ağrı nedeniyle oyuna devam edemedi; NTV Spor'a göre kendini yere bıraktı.",
+    "NTV Spor'un aktardığına göre Cerny'nin yerine oyuna İlhan Fakılı girdi.",
+    "Sporx, Cerny'nin 1-2 hafta sahalardan uzak kalmasının öngörüldüğünü ve Hoffenheim ile Trabzonspor maçlarında forma giymesinin beklenmediğini yazdı; bu süre resmi açıklamada yer almıyor.",
+    "Ajansspor, oyuncunun Trabzonspor maçına yetişmeyebileceğini belirtti.",
+    "Teknik direktör Italiano maç sonrasında Cerny'nin perşembe günü oynamayacağını, o zamana kadar iyileşmesinin zor olduğunu söyledi; doktorların ertesi gün durumu anlatacağını da ekledi.",
+    "Italiano, önlerinde 7 zor maç, uzun yolculuklar ve saat farkları bulunduğunu belirterek rotasyon yapılacağını ve herkesin hazır olması gerektiğini vurguladı.",
+    "Sporx'a göre 28 yaşındaki Cerny bu sezon Beşiktaş'ta 14 maça çıktı, 4 gol attı ve 2 asist yaptı."
+   ],
+   "why": "Cerny sezonun başından beri hücum hattında skor katkısı veren bir isim; yokluğu önümüzdeki yoğun maç programında kadro rotasyonunu etkileyebilir. Hoffenheim ve Trabzonspor karşılaşmalarında oynayıp oynamayacağı taraftarın yakından takip edeceği bir konu olacak. Dönüş tarihi için kulüpten kesin bir açıklama beklenmeli.",
+   "raw_summary": null,
+   "category": "sakatlik",
+   "category_name": "Sakatlık",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    },
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/besiktas/besiktas-ta-vaclav-cerny-sakatlandi-SXHBQ1178936SXQ",
+     "published": "2026-10-12T15:49:00+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-besiktastan-vaclav-cerny-icin-sakatlik-aciklamasi-431164",
+     "published": "2026-10-12T15:50:19+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/besiktas/2026/10/12/besiktastan-vaclav-cerny-aciklamasi-iste-son-durumu",
+     "published": "2026-10-12T15:51:10+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/son-dakika-besiktas-tan-sakatlik-aciklamasi-vaclav-cerny-nin-son-durumu-belli-oldu-3919189",
+     "published": "2026-10-12T15:54:12+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/besiktastan-sakatlik-aciklamasi-trabzonspor-macina-yetismeyebilir-736484",
+     "published": "2026-10-12T16:12:58+00:00"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/besiktastan-vaclav-cernynin-saglik-durumuna-iliskin-aciklama/4086479",
+     "published": "2026-10-12T16:36:42+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/besiktastan-vaclav-cerny-aciklamasi-43339186",
+     "published": "2026-10-12T16:44:00+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/galeri/spor/maca-devam-edememisti-vaclav-cernynin-sakatligi-belli-oldu-4863721",
+     "published": "2026-10-12T16:54:23+00:00"
+    }
+   ],
+   "n_sources": 10,
+   "first_published": "2026-10-12T15:49:00+00:00",
+   "last_published": "2026-10-12T19:01:00+00:00",
+   "image": {
+    "url": "https://iaaspr.tmgrup.com.tr/adc6f9/1200/675/0/0/800/450?u=https://iaspr.tmgrup.com.tr/2026/10/12/besiktastan-vaclav-cerny-aciklamasi-iste-son-durumu-1791820388570.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: A Spor",
+    "credit": "A Spor",
+    "source_url": "https://www.aspor.com.tr/besiktas/2026/10/12/besiktastan-vaclav-cerny-aciklamasi-iste-son-durumu"
+   },
+   "score": 28.95,
+   "importance": 7,
+   "popular": false
+  },
+  {
+   "id": "s0036",
+   "rank": 5,
+   "key": "2d926145e61a0fd0",
+   "title": "Trabzonspor 31 Ağustos 2026 itibarıyla net borcunu 2,9 milyar TL olarak bildirdi",
+   "summarized": true,
+   "intro": "Trabzonspor Kulübü, 1 Haziran-31 Ağustos 2026 dönemine ait mali tablolarını 12 Ekim 2026'da Kamuyu Aydınlatma Platformu'nda (KAP) yayımladı. Kulüp, yaptığı açıklamada 31 Ağustos 2026 itibarıyla net borcunun 2,9 milyar TL olduğunu duyurdu. Hesaplamada dönen varlıkların, bazı alacakların ve enflasyon muhasebesinden kaynaklanan kalemlerin toplam borçtan düşüldüğü belirtildi. Kulüp ayrıca kamuoyunun bildiği kamulaştırma alacağının toplam borçlardan düşüldüğünü vurguladı.",
+   "bullets": [
+    "Mali tablolar 1 Haziran-31 Ağustos 2026 dönemini kapsıyor ve KAP'ta yayımlandı; net borç rakamı 31.08.2026 tarihli olarak verildi.",
+    "Kısa ve uzun vadeli borçlar toplamından 6,7 milyar TL tutarındaki dönen varlıklar toplamı düşüldü.",
+    "Kamulaştırma gelirlerinden Trabzonspor Kulübü uhdesinde olan ve Sportif A.Ş.'nin konsolide tablolarında yer almayan 2,6 milyar TL'lik alacak da hesapta netleştirildi.",
+    "Enflasyon muhasebesi kaynaklı, nakit çıkışı yaratmayacak 1,8 milyar TL tutarındaki işlemler de dikkate alındı.",
+    "Kulüp, 4,9 milyar TL tutarındaki kamulaştırma alacağının toplam borçlardan düşüldüğünü belirtti.",
+    "Açıklamaya göre rapor tarihi itibarıyla gerçekleşmiş bonservis borçlarının ileriye dönük tüm tutarları borç hesabına dahil edildi.",
+    "Habertürk, net borcun 5,9 milyar TL'den 2,95 milyar TL'ye gerilediğini aktardı; NTV Spor ise yaklaşık 2 milyar liralık bir gerilemeden söz etti. Bu karşılaştırma kulübün alıntılanan metninde yer almıyor."
+   ],
+   "why": "Taraftar açısından kulübün mali durumuna dair resmi bir rakam ortaya çıktı. Rakamın kamulaştırma alacağı ve enflasyon muhasebesi gibi kalemler düşülerek hesaplandığı, bonservis borçlarının ise tamamen dahil edildiği belirtildi; bu nedenle hesaplama yöntemi rakamı yorumlarken önem taşıyor.",
+   "raw_summary": null,
+   "category": "yonetim",
+   "category_name": "Yönetim",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/trabzonspor-net-borcunu-acikladi-SXHBQ1178939SXQ",
+     "published": "2026-10-12T17:14:00+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/trabzonsporun-net-borcu-aciklandi-736486",
+     "published": "2026-10-12T17:15:49+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/trabzonspor-un-borcu-5-9-milyar-tl-den-2-95-milyar-tl-ye-azaldi-3919199",
+     "published": "2026-10-12T17:18:27+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-trabzonsporun-borcu-aciklandi-2-milyar-liralik-gerileme-431167",
+     "published": "2026-10-12T17:20:20+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/trabzonspor/2026/10/12/trabzonsporun-net-borcu-29-milyar-tl",
+     "published": "2026-10-12T17:46:37+00:00"
+    },
+    {
+     "name": "Takvim",
+     "url": "https://www.takvim.com.tr/spor/2026/10/12/trabzonsporun-net-borcu-29-milyar-tl-olarak-aciklandi",
+     "published": "2026-10-12T17:50:21+00:00"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/trabzonsporun-net-borcunun-2-9-milyar-lira-oldugu-aciklandi/4086537",
+     "published": "2026-10-12T17:54:42+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/trabzonspor-net-borcu-kap-a-aciklandi-p368527",
+     "published": "2026-10-12T18:29:07+00:00"
+    }
+   ],
+   "n_sources": 10,
+   "first_published": "2026-10-12T17:14:00+00:00",
+   "last_published": "2026-10-12T20:21:00+00:00",
+   "image": {
+    "path": "pool/diger-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 29.95,
+   "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0055",
+   "rank": 6,
+   "key": "8b291445f962fbdc",
+   "title": "Trabzonspor ve Beşiktaş'tan deplasman yasağının kaldırılması için ortak çağrı",
+   "summarized": true,
+   "intro": "Trabzonspor, Trendyol Süper Lig'in 8. haftasında 19 Ekim Pazartesi günü Trabzon'da Beşiktaş ile oynayacağı maç öncesinde, deplasman yasağının kaldırılmasını isteyen bir açıklama yayımladı. Bordo-mavili kulüp, resmi internet sitesi ve sosyal medya hesabı üzerinden yaptığı çağrıda iki camia arasında taraftarların karşılıklı tribünde yer almasını engelleyecek bir sorun olmadığını belirtti. Açıklamanın ardından Beşiktaş da çağrıya katıldığını duyurdu. Böylece iki kulüp, taraftarların deplasman tribünlerinde takımlarını destekleyebilmesi yönünde aynı talebi dile getirmiş oldu.",
+   "bullets": [
+    "Trabzonspor, açıklamasını \"Deplasmana 'Yasak' Kaldırılsın!\" başlığıyla 12 Ekim 2026'da paylaştı.",
+    "Trabzonspor, Beşiktaş taraftarlarının Trabzon'da, kendi taraftarlarının da İstanbul'da oynanacak maçta takımlarını desteklemesini istediğini belirtti.",
+    "Trabzonspor, deplasman yasaklarının futbolun ve tribünlerin ruhuna yakışmadığını savundu ve Türk futbolundan tamamen kaldırılması gerektiğini söyledi.",
+    "Trabzonspor, Trabzon Valiliği başta olmak üzere ilgili tüm yetkililerden gerekli adımların atılması için destek beklediğini açıkladı.",
+    "Beşiktaş, aynı başlıkla yayımladığı açıklamada Trabzonspor'un çağrısına \"yürekten\" katıldığını duyurdu.",
+    "Beşiktaş, her renkten futbolseverin takımını ülkenin her yerindeki deplasman tribününde destekleyebilmesi gerektiğini vurguladı.",
+    "Beşiktaş, Trabzon'daki maçta kendi taraftarlarının deplasman tribününde olmasını istediğini, kendi evinde oynanacak maçta da Trabzonspor taraftarlarını ağırlamaktan mutluluk duyacağını belirtti.",
+    "Beşiktaş, uygulamanın bu çağrıların ardından sona ermesini temenni etti."
+   ],
+   "why": "Karar kulüplerde değil yetkililerde olduğundan, çağrının karşılık bulup bulmayacağı iki takımın taraftarlarını doğrudan ilgilendiriyor. Kaynaklarda yetkililerden gelen bir yanıt ya da alınmış bir karar yer almıyor; Trabzon'daki 19 Ekim maçında deplasman tribününün durumu henüz belirsiz.",
+   "raw_summary": null,
+   "category": "yonetim",
+   "category_name": "Yönetim",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    },
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/trabzonspor/trabzonspor-ve-besiktas-tan-ortak-cagri-deplasmana-yasak-kalksin-SXHBQ1178940SXQ",
+     "published": "2026-10-12T17:52:00+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/trabzonspor/2026/10/12/trabzonspordan-deplasman-yasagi-aciklamasi",
+     "published": "2026-10-12T18:19:17+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/trabzonspor-deplasmana-yasak-kaldirilsin-736497",
+     "published": "2026-10-12T19:31:13+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/besiktas/besiktas-tan-trabzonspor-un-cagrisina-destek-SXHBQ1178944SXQ",
+     "published": "2026-10-12T19:53:18+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-trabzonspordan-besiktas-maci-oncesi-cagri-turk-futbolundan-tamamen-kaldirin-431169",
+     "published": "2026-10-12T19:56:18+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/besiktas-deplasmana-yasak-kaldirilsin-736498",
+     "published": "2026-10-12T19:56:34+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/besiktas-maci-oncesi-trabzonspor-dan-deplasman-tribunu-talebi-3919210",
+     "published": "2026-10-12T19:59:19+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/12/trabzonspordan-deplasman-yasaginin-kaldirilmasi-icin-cagri",
+     "published": "2026-10-12T21:22:06+00:00"
+    }
+   ],
+   "n_sources": 9,
+   "first_published": "2026-10-12T17:52:00+00:00",
+   "last_published": "2026-10-12T23:54:00+00:00",
+   "image": {
+    "url": "https://cdn.ajansspor.com/ajansspor/photo/2026/10/0710a3bb-7402-41f4-9d95-591b8b3f59a5.webp",
+    "kind": "source",
+    "label": "Fotoğraf: Ajansspor",
+    "credit": "Ajansspor",
+    "source_url": "https://ajansspor.com/haber/trabzonspor-deplasmana-yasak-kaldirilsin-736497"
+   },
+   "score": 28.91,
+   "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0083",
+   "rank": 7,
+   "key": "05fb0c5aeff59f15",
+   "title": "Stoilov: Eyüpspor galibiyeti önemliydi ama oyundan memnun değilim",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 7. haftasının son maçında Göztepe, deplasmanda Eyüpspor'u 4-0 yendi. Maçın ardından Esenyurt Necmi Kadıoğlu Stadı'nda basın mensuplarına konuşan Göztepe Teknik Direktörü Stanimir Stoilov, sezon başından beri kazanamadıklarını ve bu galibiyete ihtiyaçları olduğunu söyledi. Stoilov, sonuçtan mutlu olduğunu belirtse de takımın sahadaki performansından çok memnun olmadığını ifade etti. Ayrıca milli ara döneminin oyuncuların toparlanması açısından faydalı geçtiğini ve bazı oyuncuların durumunu aktardı.",
+   "bullets": [
+    "Stoilov'a göre sezon başından beri galibiyet gelmemesi oyuncular üzerinde baskı yaratmıştı; futbolcular maça biraz gergin başladı.",
+    "Teknik direktör, penaltı ve kırmızı karttan sonra oyunun Göztepe için kolaylaştığını söyledi.",
+    "İlk yarıda ikinci golü arayan Göztepe bunu başaramadı; ikinci yarıda daha fazla pozisyon üretip üç gol buldu.",
+    "Stoilov, 10 kişiye karşı bile 4 gol atmanın kolay olmadığını belirtti.",
+    "Hoca, geçmiş yıllarda çok daha iyi maçlar oynadıklarını vurgulayarak son 2-3 yıldaki yüksek seviyeye bir an önce dönmeleri gerektiğini söyledi.",
+    "Normalde milli arayı sevmediğini belirten Stoilov, bu kez aranın oyuncuların toparlanması için iyi geldiğini ifade etti; Noah Sonko ve Novatus Miroshi takıma döndü.",
+    "Allan Godoi takıma dönmüştü ancak sabah antrenmanında ağrı hissettiğini söyledi; durumu bugün netleşecek. Stoilov, Godoi'nin savunmaya istikrar, agresiflik ve güç katacağını belirtti.",
+    "Ogün Bayrak'ın 2-3 hafta takımdan uzak kalacağı açıklandı; Miroshi ve Godoi'nin de sakatlıklar sonrası fiziksel olarak gelişmesi gerektiği vurgulandı."
+   ],
+   "why": "Sezon başından beri galibiyeti olmayan Göztepe için bu skor hem puan hem moral açısından önemli. Teknik direktörün oyun kalitesine dair eleştirisi, takımdan önceki seviyesine dönmesinin beklendiğini gösteriyor. Godoi'nin durumu ve Bayrak'ın yokluğu ise sonraki maçlar için kadro planlamasını etkileyebilir.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "eyupspor",
+     "name": "Eyüpspor"
+    },
+    {
+     "slug": "goztepe",
+     "name": "Göztepe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "milli-takim",
+     "name": "A Millî Takım"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/stoilov-cok-onemli-bir-galibiyetti-43339296",
+     "published": "2026-10-12T19:53:26+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-stanimir-stoilovdan-milli-ara-itirafi-normalde-sevmezdim-431175",
+     "published": "2026-10-12T20:04:42+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/goztepe-teknik-direktoru-stanimir-stoilov-oyuncularimiz-milli-ara-sayesinde-toparlandi-3919220",
+     "published": "2026-10-12T20:10:27+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/stanimir-stoilov-yuksek-seviyeye-en-kisa-surede-donmeliyiz-736502",
+     "published": "2026-10-12T20:37:27+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/goztepe/stoilov-bu-galibiyete-ihtiyacimiz-vardi-SXHBQ1178948SXQ",
+     "published": "2026-10-12T21:27:20+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/bu-galibiyete-ihtiyacimiz-vardi-33561695",
+     "published": "2026-10-12T23:04:00+00:00"
+    }
+   ],
+   "n_sources": 6,
+   "first_published": "2026-10-12T19:53:26+00:00",
+   "last_published": "2026-10-12T23:04:00+00:00",
+   "image": {
+    "url": "https://image.hurimg.com/i/hurriyet/90/0x0/6acd3ab48562bad6a4dfecd1.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Hürriyet",
+    "credit": "Hürriyet",
+    "source_url": "https://www.hurriyet.com.tr/sporarena/stoilov-cok-onemli-bir-galibiyetti-43339296"
+   },
+   "score": 20.67,
+   "importance": 4,
+   "popular": false
+  },
+  {
+   "id": "s0023",
+   "rank": 8,
+   "key": "dfd96353313c3edf",
+   "title": "Cubarsi: Galatasaray'ın kalitesini ve Rams Park atmosferini biliyoruz",
+   "summarized": true,
+   "intro": "UEFA Şampiyonlar Ligi'nin ikinci haftasında Galatasaray ile Barcelona, 13 Ekim Salı günü saat 22.00'de İstanbul'da karşılaşacak. Maç öncesi Rams Park'ta basın toplantısı düzenleyen 19 yaşındaki Barcelonalı stoper Pau Cubarsi, rakibin kalitesine ve stadın atmosferine vurgu yaptı. Genç savunmacı, Galatasaray'ın yıldız forveti Victor Osimhen'i de dünyanın en iyi santrforlarından biri olarak niteledi. Barcelona ise teknik direktör Hansi Flick yönetiminde stadyumdaki son antrenmanını yaptı.",
+   "bullets": [
+    "Cubarsi, Osimhen'e karşı birkaç yıl önceki ilk maçında oynadığını hatırlattı ve onu dünyanın en iyi forvetlerinden biri olarak tanımladı.",
+    "Genç stoper, Osimhen'in Napoli'den sonra çok değişiklik yaşasa da aynı kalite ve kişilikte bir oyuncu olduğunu söyledi.",
+    "Cubarsi'ye göre Barcelona, hücumda ne yapmak istediğini bilen ve kendi sahasında oynadığı belli olacak bir rakiple karşılaşacak.",
+    "Cubarsi, Pedri'nin yıllar önce bu stadda oynadığını ve atmosferin ne kadar zor olduğunu anlattığını söyledi. Pedri'nin oynadığı zamanı Sporx 5 yıl önce olarak aktardı.",
+    "Küçük detaylara odaklandıklarını belirten Cubarsi, bir oyuncuya göre değil takıma göre hareket edeceklerini ve kazanmak için birlikte çabalamak gerektiğini söyledi.",
+    "Fenerbahçe'den gelen Dominik Livakovic ile atmosferi konuşamadığını söyleyen Cubarsi, diğer oyuncuların buradaki baskıdan bahsettiğini aktardı.",
+    "Sporx'a göre Barcelona antrenmanının ilk 15 dakikası basına açıktı, kapalı bölümde Galatasaray maçının taktik provası yapıldı. Başkan Joan Laporta da antrenmanı izledi."
+   ],
+   "why": "Barcelona'nın genç savunma oyuncusunun açıklamaları, rakibin Rams Park atmosferini ve Osimhen'i ciddiye aldığını gösteriyor. Galatasaray taraftarı için, evinde yaratılan baskının rakip kamp tarafından da açıkça kabul edildiği anlamına geliyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    },
+    {
+     "slug": "barcelona",
+     "name": "Barcelona"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    },
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/pau-cubarsiden-galatasaray-taraftarina-ovgu-tum-dunya-biliyor-43339149",
+     "published": "2026-10-12T15:50:47+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/galatasaray/cubarsi-den-galatasaray-ve-osimhen-sozleri-SXHBQ1178937SXQ",
+     "published": "2026-10-12T15:52:00+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-cubarsiden-osimhene-ovgu-dunyanin-en-iyilerinden-431160",
+     "published": "2026-10-12T16:03:39+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/pau-cubarsi-bu-stadi-tum-dunya-biliyor-33558160",
+     "published": "2026-10-12T19:36:00+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/inanilmaz-bir-stadyumda-oynayacagiz-33558161",
+     "published": "2026-10-12T19:41:00+00:00"
+    }
+   ],
+   "n_sources": 4,
+   "first_published": "2026-10-12T15:50:47+00:00",
+   "last_published": "2026-10-12T19:41:00+00:00",
+   "image": {
+    "url": "https://images.ntvspor.net/images/pau-cubarsi-1-765893.jpg?format=webp",
+    "kind": "source",
+    "label": "Fotoğraf: NTV Spor",
+    "credit": "NTV Spor",
+    "source_url": "https://www.ntvspor.net/futbol/galeri-cubarsiden-osimhene-ovgu-dunyanin-en-iyilerinden-431160"
+   },
+   "score": 12.56,
+   "importance": 5,
+   "popular": true
+  },
+  {
+   "id": "s0086",
+   "rank": 9,
+   "key": "83838382bfee6ba6",
+   "title": "Dalcı, Göztepe yenilgisi sonrası: 85 dakika 10 kişi oynamak kolay değil",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 7. haftasının son maçında Eyüpspor, sahasında ağırladığı Göztepe'ye 4-0 yenildi. Maçın ardından basın toplantısına çıkan teknik direktör Mustafa Dalcı, ligde 85 dakika 10 kişi oynamanın kolay olmadığını söyledi. Dalcı, skorun ağır göründüğünü ancak sonucu getirecek bir oyun ortaya konmadığını savundu. Karşılaşma Esenyurt Necmi Kadıoğlu Stadı'nda oynandı. Teknik adam, takımın bir an önce toparlanmak istediğini vurguladı.",
+   "bullets": [
+    "Dalcı'ya göre maçta 2 penaltı ve 2 bireysel hata vardı; skoru bu duruma getirecek bir oyun olmadığını söyledi.",
+    "Eyüpspor ilk yarıda 10 kişi kalmasına rağmen oyunun dengeli geçtiğini belirten Dalcı, bunun yaklaşık 55. dakikaya kadar sürdüğünü aktardı.",
+    "Dalcı, 55. dakikada yaşanan bireysel hataya değindi; 2-0'dan sonra bazı şeyleri kontrol etmenin kolay olmadığını söyledi.",
+    "Göztepe'yi atletik açıdan ligin en iyi takımlarından biri olarak niteleyen Dalcı, rakibin bu gücünü avantaja çevirdiğini belirtti.",
+    "Teknik adam, 2-0'dan sonra yeterli direnç gösteremediklerini kabul etti ve bunu 'çok normal' diye değerlendirdi.",
+    "Dalcı, oyuncuları sahada daha güçlü hale getirmenin kendi işleri olduğunu söyledi ve oyun gücü oluşturmak istediklerini ifade etti.",
+    "Eyüpspor'un çalışmaya devam edeceğini, 'vazgeçmeden' oyuncularla birlikte bu işi yapacaklarını belirtti."
+   ],
+   "why": "Ağır yenilgi sonrası teknik direktörün açıklamaları, Eyüpspor'un durumu nasıl yorumladığını ve toparlanma niyetini gösteriyor. Taraftar için erken oyuncu kaybı ve bireysel hataların maçın seyrini belirlediği vurgulanıyor. Takımın bundan sonraki maçlarda daha dirençli bir performans ortaya koyup koymayacağı merak konusu.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "eyupspor",
+     "name": "Eyüpspor"
+    },
+    {
+     "slug": "goztepe",
+     "name": "Göztepe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/eyupspor-teknik-direktoru-mustafa-dalci-skoru-bu-duruma-getirecek-bir-oyun-yoktu-3919219",
+     "published": "2026-10-12T20:05:27+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-mustafa-dalcidan-yenilgi-yorumu-bir-an-once-toparlanmaliyiz-431176",
+     "published": "2026-10-12T20:05:30+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/mustafa-dalci-bir-an-once-toparlanmak-istiyoruz-736503",
+     "published": "2026-10-12T20:39:50+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/eyupspor/mustafa-dalci-bir-an-once-toparlanmak-istiyoruz-SXHBQ1178947SXQ",
+     "published": "2026-10-12T21:21:00+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/85-dakika-10-kisi-oynamak-kolay-degil-33561696",
+     "published": "2026-10-12T23:08:00+00:00"
+    }
+   ],
+   "n_sources": 5,
+   "first_published": "2026-10-12T20:05:27+00:00",
+   "last_published": "2026-10-12T23:08:00+00:00",
+   "image": {
+    "url": "https://im.haberturk.com/l/2026/10/12/ver1791835492/3919219/jpg/1200x628",
+    "kind": "source",
+    "label": "Fotoğraf: Habertürk",
+    "credit": "Habertürk",
+    "source_url": "https://www.haberturk.com/spor/eyupspor-teknik-direktoru-mustafa-dalci-skoru-bu-duruma-getirecek-bir-oyun-yoktu-3919219"
+   },
+   "score": 13.26,
+   "importance": 4,
+   "popular": false
+  },
+  {
+   "id": "s0080",
+   "rank": 10,
+   "key": "e341e5e50cdc9f2e",
+   "title": "Süper Lig'de 7. hafta tamamlandı: Galatasaray 16 puanla liderliği aldı",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 7. haftası, Göztepe'nin deplasmanda Eyüpspor'u 4-0 yenmesiyle sona erdi. Sahasında Kasımpaşa'yı 3-1 mağlup eden Galatasaray puanını 16'ya çıkararak liderliği devraldı. Kocaelispor'u 2-1 geçen Beşiktaş 15 puanla ikinciliğe yükselirken, milli araya averajla lider giren Amed Sportif Faaliyetler Gençlerbirliği ile 2-2 berabere kalıp 14 puanla üçüncü sıraya düştü. Fenerbahçe ve Trabzonspor ise 13'er puanla dördüncü ve beşinci sırada yer aldı.",
+   "bullets": [
+    "Galatasaray, son 4 sezonun şampiyonu olarak sahasında Kasımpaşa'yı 3-1 yendi ve zirveye çıktı.",
+    "Beşiktaş, Kocaelispor karşısında 2-1'lik galibiyetle puanını 15'e getirdi ve ikinci oldu.",
+    "Fenerbahçe, deplasmanda Çaykur Rizespor'u 0-3 yendi; Trabzonspor da Samsunspor'u deplasmanda 0-3 mağlup etti. İki takımın da puanı 13.",
+    "Gaziantep FK-Arca Çorum FK maçı 0-3 sona erdi; Çorum deplasmandan galibiyetle ayrıldı.",
+    "Corendon Alanyaspor-Erzurumspor ile TÜMOSAN Konyaspor-İstanbul Başakşehir maçları 0-0 bitti.",
+    "Haftada 9 maçta toplam 24 gol atıldı; 8 takım fileleri havalandıramadı.",
+    "Haftanın maçlarının yalnızca ikisini ev sahipleri kazandı; dört maçta konuk takımlar galip geldi, üç maç berabere bitti."
+   ],
+   "why": "İlk 5 sıra arasında yalnızca 3 puan fark bulunuyor; Galatasaray'ın liderliği çok dar bir farkla elde ettiği görülüyor. Fenerbahçe ve Trabzonspor'un deplasman galibiyetleri zirve yarışını sıkı tutuyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    },
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    },
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    },
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/trendyol-super-ligde-galatasaray-haftayi-lider-tamamladi/4086607",
+     "published": "2026-10-12T19:36:30+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-trendyol-super-ligde-7-hafta-panoramasi-fikstur-ve-puan-durumu-431174",
+     "published": "2026-10-12T19:41:13+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/galatasaray/super-lig-de-7-hafta-panoramasi-SXHBQ1178950SXQ",
+     "published": "2026-10-12T19:44:00+00:00"
+    }
+   ],
+   "n_sources": 3,
+   "first_published": "2026-10-12T19:36:30+00:00",
+   "last_published": "2026-10-12T19:44:00+00:00",
+   "image": {
+    "url": "https://images.ntvspor.net/images/trendyol-super-lig-top-futbol-228406.jpg?format=webp",
+    "kind": "source",
+    "label": "Fotoğraf: NTV Spor",
+    "credit": "NTV Spor",
+    "source_url": "https://www.ntvspor.net/futbol/galeri-trendyol-super-ligde-7-hafta-panoramasi-fikstur-ve-puan-durumu-431174"
+   },
+   "score": 8.63,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0008",
+   "rank": 11,
+   "key": "4d08b63731b4d0e4",
+   "title": "Samsunspor, teknik direktör Thorsten Fink ile karşılıklı anlaşarak ayrıldı",
+   "summarized": true,
+   "intro": "Süper Lig ekibi Samsunspor, Alman teknik direktör Thorsten Fink ile yolları ayırdı. Ayrılığın karşılıklı anlaşmayla gerçekleştiği belirtildi. Fotomaç'a göre Fink, son olarak Trabzonspor karşısında alınan mağlubiyetin ardından yönetimle yapılan görüşmeler sonucunda görevinden ayrıldı. Fink, geçen sezon şubat ayında Thomas Reis'in ardından göreve gelmişti.",
+   "bullets": [
+    "Fotomaç'a göre Fink, geçen sezon şubat ayında Thomas Reis ile yolların ayrılmasının ardından Samsunspor'un başına getirilmişti.",
+    "Geçen sezon takımın başında çıktığı 18 maçta 10 galibiyet, 3 beraberlik ve 5 yenilgi aldı.",
+    "Bu sezon 7 maçta 1 galibiyet, 1 beraberlik ve 5 yenilgi yaşandı.",
+    "Fink'in Samsunspor kariyerindeki puan ortalaması 1.48 olarak aktarıldı.",
+    "Haberde, üst üste 5 mağlubiyet aldığı belirtilen Fink'in son yenilgisi Trabzonspor karşısında geldi.",
+    "Yönetimin, beklenen başarı gelmediği için Fink'i kötü gidişat konusunda uyardığı ifade edildi.",
+    "Kulüp teşekkür mesajında Fink'in emeği, üstlendiği sorumluluk ve profesyonelliği için teşekkür etti ve ona başarılar diledi.",
+    "Kaynaklarda yeni teknik direktör ya da geçici çözümle ilgili bir bilgi yer almıyor."
+   ],
+   "why": "Kötü başlayan sezonun ardından teknik direktör değişikliği, Samsunspor'da yeni bir dönemin kapısını açıyor. Taraftarlar için sıradaki gündem, yeni hocanın kim olacağı ve takımın sonuç grafiğinin nasıl değişeceği olacak.",
+   "raw_summary": null,
+   "category": "teknik",
+   "category_name": "Teknik Direktör",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "samsunspor",
+     "name": "Samsunspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/samsunsporda-ayrilik-33554527",
+     "published": "2026-10-12T14:56:00+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/samsunspor/2026/10/13/thorsten-fink-donemi-bitti",
+     "published": "2026-10-12T17:21:12+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/samsunspor/2026/10/12/samsunsporda-thorsten-fink-ile-yollar-ayrildi",
+     "published": "2026-10-12T21:21:28+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-10-12T14:56:00+00:00",
+   "last_published": "2026-10-12T21:21:28+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/3ef88b/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/10/12/thorsten-fink-donemi-bitti-1791825646725.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/samsunspor/2026/10/13/thorsten-fink-donemi-bitti"
+   },
+   "score": 6.08,
+   "importance": 8,
+   "popular": false
+  },
+  {
+   "id": "s0034",
+   "rank": 12,
+   "key": "9f3b700f4e34bba6",
+   "title": "TFF, Anthony Taylor ve Alan Snoddy'nin hakem atama görevini sezon sonuna uzattı",
+   "summarized": true,
+   "intro": "Türkiye Futbol Federasyonu, Merkez Hakem Kurulu'ndaki görev dağılımını netleştirdi. İngiliz eski hakemler Anthony Taylor ve Alan Snoddy'nin Trendyol Süper Lig ve 1. Lig'deki hakem atama görevlerini sezon sonuna kadar sürdürmesine karar verildi. Görevlendirme başlangıçta geçici olarak düşünülmüştü. Karar, İstanbul Cumhuriyet Başsavcılığı'nın MHK'ye yönelik yürüttüğü soruşturma ve MHK Başkanı Ferhat Gündoğdu'nun istifa etmesinin ardından geldi.",
+   "bullets": [
+    "İstanbul Cumhuriyet Başsavcılığı, MHK'ye yönelik 'Hakemler Dosyası' adıyla bir soruşturma başlattı.",
+    "NTV Spor'un aktardığına göre MHK Başkanı Ferhat Gündoğdu soruşturma kapsamında önce gözaltına alındı, ardından tutuklandı.",
+    "Gündoğdu'nun istifasının ardından TFF, Taylor ve Snoddy'yi geçen haftaki maçların hakem atamaları için görevlendirmişti.",
+    "Sözcü, HT Spor'a atıfla federasyonun iki ismle sezon sonuna kadar anlaşma yaptığını yazdı.",
+    "Hürriyet'e göre Süper Lig atamalarından Taylor sorumlu olacak; 1. Lig atama sürecinde görev alan Snoddy ona eşlik edecek.",
+    "Kaynaklarda anlaşmanın mali ayrıntıları ve sözleşme şartları yer almıyor."
+   ],
+   "why": "Hakem atamalarının sezon sonuna kadar kimin elinde olacağı belirlendi; bu, MHK'deki belirsizliği azaltıyor. Taraftarlar için atama sürecinde sürekliliğin sağlanması önem taşıyor. Soruşturmanın seyri ise MHK'nin gelecekteki yapısını etkileyebilir.",
+   "raw_summary": null,
+   "category": "hakem",
+   "category_name": "Hakem / VAR",
+   "status": "resmi",
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    },
+    {
+     "slug": "tff-1-lig",
+     "name": "TFF 1. Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-gecici-olmasi-bekleniyordu-tffden-anthony-taylor-icin-flas-karar-431166",
+     "published": "2026-10-12T17:09:15+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/tff-den-anthony-taylor-karari-p368520",
+     "published": "2026-10-12T17:37:34+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/tffden-anthony-taylor-karari-mhkdeki-gorev-dagilimi-netlesti-43339227",
+     "published": "2026-10-13T04:00:00+00:00"
+    }
+   ],
+   "n_sources": 3,
+   "first_published": "2026-10-12T17:09:15+00:00",
+   "last_published": "2026-10-13T04:00:00+00:00",
+   "image": {
+    "url": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/d72c5d65dcd64cc98128086ff5e7a539jpg-xJrao3dYGECVcp-U377INQ.jpg?w=1270&h=675&mode=crop&scale=both",
+    "kind": "source",
+    "label": "Fotoğraf: Sözcü",
+    "credit": "Sözcü",
+    "source_url": "https://www.sozcu.com.tr/tff-den-anthony-taylor-karari-p368520"
+   },
+   "score": 5.99,
+   "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0096",
+   "rank": 13,
+   "key": "b343558d9238f02d",
+   "title": "Al-Nassr, Neftchi'yi 3-1 yendi; Ronaldo kariyerinin 981. golünü attı",
+   "summarized": true,
+   "intro": "AFC Şampiyonlar Ligi'nin ikinci haftasında Al-Nassr, sahasında Özbekistan ekibi Neftchi Fargona'yı 3-1 mağlup etti. Karşılaşma King Saud University Stadyumu'nda oynandı. Suudi ekibi turnuvadaki ilk galibiyetini alırken Neftchi ilk yenilgisini yaşadı. Al-Nassr'ın gollerinden birini 42. dakikada Cristiano Ronaldo attı. 41 yaşındaki Portekizli yıldız bu golle kariyerindeki gol sayısını 981'e çıkardı ve 1000 gol hedefine 19 gol kaldı.",
+   "bullets": [
+    "Al-Nassr'ın golleri 33. dakikada Angelo Gabriel, 42. dakikada Ronaldo ve 78. dakikada rakibin kendi kalesine attığı golle geldi. Kendi kalesine golü atan oyuncunun adı kaynaklarda farklı aktarılıyor.",
+    "Neftchi'nin tek golü 51. dakikada Odilov'dan geldi. Bu golü iki kaynak aktarıyor, üçüncü kaynakta Neftchi'nin golü yer almıyor.",
+    "Ajansspor'a göre Neftchi'den Ikromjon Alibaev 65. dakikada kırmızı kart gördü ve takımı 10 kişi kaldı. Bu bilgi diğer kaynaklarda yer almıyor.",
+    "Maç, AFC Şampiyonlar Ligi B Grubu'nun 2. haftasında oynandı.",
+    "Ajansspor'un dökümüne göre Ronaldo'nun 981 golünün dağılımı şöyle: Sporting 5, Manchester United 145, Real Madrid 450, Juventus 101, Al-Nassr 134, Portekiz Milli Takımı 146.",
+    "Ronaldo bu sezon 9 maçta 5 gol kaydetti.",
+    "Al-Nassr'ın bir sonraki maçı, Ajansspor'a göre 15 Ekim Perşembe günü saat 21.00'de Al-Ahli deplasmanında."
+   ],
+   "why": "Al-Nassr taraftarı için turnuvadaki ilk galibiyet, grupta işleri rahatlatan bir adım oldu. Ronaldo'nun 1000 gol hedefine 19 gol kalması, kariyerinin son bölümündeki en çok izlenen gelişmelerden biri olmayı sürdürüyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/al-nassr-fk-neftchi-3-1-mac-sonucu-yazili-ozet-736504",
+     "published": "2026-10-12T21:04:10+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/ronaldo-dan-981-gol-1000-e-19-kaldi-SXHBQ1178956SXQ",
+     "published": "2026-10-12T21:20:00+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-ronaldo-981-golunu-sampiyonlar-liginde-atti-431179",
+     "published": "2026-10-12T21:20:08+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/cristiano-ronaldodan-981-gol-1000-gole-19-kaldi-haber-2046215",
+     "published": "2026-10-12T22:13:00+00:00"
+    }
+   ],
+   "n_sources": 4,
+   "first_published": "2026-10-12T21:04:10+00:00",
+   "last_published": "2026-10-12T22:13:00+00:00",
+   "image": {
+    "url": "https://cdn.ajansspor.com/ajansspor/photo/2026/10/dd5c4ce0-1c5c-4145-9ab7-b4166a7a748b.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Ajansspor",
+    "credit": "Ajansspor",
+    "source_url": "https://ajansspor.com/haber/al-nassr-fk-neftchi-3-1-mac-sonucu-yazili-ozet-736504"
+   },
+   "score": 5.82,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0006",
+   "rank": 14,
+   "key": "54cb201fa1f80564",
+   "title": "Kulüpler Birliği Vakfı: Süper Lig yayın ihalesi hazırlıkları sürüyor",
+   "summarized": true,
+   "intro": "Kulüpler Birliği Vakfı Başkanı Ertuğrul Doğan, 12 Ekim 2026'da yaptığı yazılı açıklamayla Süper Lig yayın hakları ihalesine ilişkin çalışmaların sürdüğünü bildirdi. Doğan, vakfın Yayın İhale Komisyonu üyesi olarak süreci titizlikle yürüttüğünü belirtti. Açıklamada, Süper Lig'in hak ettiği ekonomik değere ulaşması için uluslararası uzman bir danışmanlık firmasıyla değer analizi yapıldığı ve yeni yayın sözleşmesine girecek teknik kriterlerin belirlendiği aktarıldı. İhalenin hangi tarihte yapılacağı ya da kimlerin teklif vereceği gibi ayrıntılar paylaşılmadı.",
+   "bullets": [
+    "Açıklama Kulüpler Birliği Vakfı Başkanı Ertuğrul Doğan imzasıyla yapıldı; vakıf, Yayın İhale Komisyonu üyesi sıfatıyla çalıştığını belirtti.",
+    "Süper Lig'in hak ettiği ekonomik değere ulaşması amacıyla uluslararası alanda uzman bir danışmanlık firmasıyla kapsamlı bir değer analizi çalışması yürütüldü. Firmanın adı verilmedi.",
+    "Çekim kriterleri, kamera özellikleri ve teknik şartlar Avrupa liglerinin uygulama ve düzenlemeleri esas alınarak, Türkiye'deki uzmanlarla iş birliği içinde değerlendirildi.",
+    "Bu çalışmalar sonucunda yeni yayın sözleşmesinde yer alması gereken yayın standartları ve teknik kriterler belirlendi.",
+    "İhaleye ilişkin diğer hazırlıklar kulüpler ve ilgili paydaşlarla koordinasyon içinde devam ediyor.",
+    "Vakıf, kulüplerin ortak iradesiyle ihalenin öngörülen takvim doğrultusunda, Türk futbolunun ve kulüplerin menfaatlerine en uygun koşullarda sonuçlandırılması için çalışmaya devam edeceğini bildirdi."
+   ],
+   "why": "Yayın geliri kulüplerin bütçeleri açısından belirleyici olduğundan ihalenin hazırlık süreci taraftarlar için de önem taşıyor. Açıklama, yeni dönemde görüntü kalitesi ve teknik standartların yükseltilmesinin hedeflendiğini gösteriyor. Ancak ihale takvimi ve tutarı gibi somut bilgiler henüz paylaşılmadı.",
+   "raw_summary": null,
+   "category": "yonetim",
+   "category_name": "Yönetim",
+   "status": "resmi",
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/kulupler-birliginden-super-lig-yayin-ihalesi-icin-aciklama-43339100",
+     "published": "2026-10-12T14:49:54+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/kulupler-birliginden-yayin-ihalesi-aciklamasi-33557277",
+     "published": "2026-10-12T18:43:00+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/superlig/2026/10/12/kulupler-birligi-vakfi-baskani-ertugrul-dogandan-yayin-ihalesi-icin-aciklama",
+     "published": "2026-10-12T21:21:45+00:00"
+    }
+   ],
+   "n_sources": 3,
+   "first_published": "2026-10-12T14:49:54+00:00",
+   "last_published": "2026-10-12T21:21:45+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/7cb286/1200/675/0/0/930/523?u=https://iftm.tmgrup.com.tr/2026/10/12/kulupler-birligi-vakfi-baskani-ertugrul-dogandan-yayin-ihalesi-icin-aciklama-1791814736700.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/superlig/2026/10/12/kulupler-birligi-vakfi-baskani-ertugrul-dogandan-yayin-ihalesi-icin-aciklama"
+   },
+   "score": 3.61,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0050",
+   "rank": 15,
+   "key": "45a7915eb4e1c843",
+   "title": "İsmail Kartal, Oğuz Aydın'ı Aston Villa maçında ilk 11'e almayı planlıyor",
+   "summarized": true,
+   "intro": "Fotomaç'ın haberine göre Fenerbahçe teknik direktörü İsmail Kartal, Aston Villa karşısındaki maçta Oğuz Aydın'ı ilk 11'de görevlendirme kararı aldı. Genç oyuncu, Çaykur Rizespor deplasmanında oyunda yalnızca son 10 dakika forma giymişti. Buna rağmen bu kısa sürede 1 gol ve 1 asistlik katkı vermişti. Haber 13 Ekim 2026 tarihli olup tek kaynağa dayanıyor; kararın resmi bir kulüp açıklamasıyla doğrulandığına dair bilgi yer almıyor.",
+   "bullets": [
+    "Haber, Fotomaç'ta 'Oğuz Aydın ilk 11'e dönüyor' başlığıyla yayımlandı.",
+    "Karar, teknik direktör İsmail Kartal'a atfediliyor.",
+    "Oğuz Aydın, Çaykur Rizespor deplasmanında son 10 dakikada görev yaptı.",
+    "Oyuncu bu kısa sürede 1 gol ve 1 asist üretti.",
+    "Aydın'ın Aston Villa karşısında ilk 11'de başlaması planlanıyor.",
+    "Başlıktaki 'dönüyor' ifadesi, oyuncunun daha önce de ilk 11'de yer aldığını düşündürüyor; ancak kaynakta ayrıntı verilmiyor."
+   ],
+   "why": "Kısa sürede etkili olan bir oyuncunun Aston Villa gibi büyük bir maçta ilk 11'e girmesi, taraftar açısından Kartal'ın kadro tercihlerine dair önemli bir ipucu sunuyor. Oğuz Aydın'ın bu fırsatı nasıl değerlendireceği merak konusu. Yine de bilgi tek haberden geliyor ve kesinleşmiş sayılmamalı.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "soylenti",
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    },
+    {
+     "slug": "rizespor",
+     "name": "Rizespor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/13/oguz-aydin-ilk-11e-donuyor",
+     "published": "2026-10-12T17:40:28+00:00"
+    }
+   ],
+   "n_sources": 1,
+   "first_published": "2026-10-12T17:40:28+00:00",
+   "last_published": "2026-10-12T17:40:28+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/a79614/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/10/12/oguz-aydin-ilk-11e-donuyor-1791826811125.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/fenerbahce/2026/10/13/oguz-aydin-ilk-11e-donuyor"
+   },
+   "score": 2.81,
+   "importance": 7,
+   "popular": false
+  },
+  {
+   "id": "s0017",
+   "rank": 16,
+   "key": "da1dce09a242fd84",
+   "title": "Konyaspor'da Adil Demirbağ'ın sağ diz ön çapraz bağında yırtık tespit edildi",
+   "summarized": true,
+   "intro": "Konyaspor, Süper Lig'in 7. haftasında Başakşehir ile oynanan maçta sakatlanarak oyundan çıkan Adil Demirbağ'ın sağ diz ön çapraz bağında yırtık tespit edildiğini resmen duyurdu. Kulüp, yapılan muayene ve MR görüntülemesinin ardından bu sonuca ulaşıldığını belirtti. Ajansspor'a göre 28 yaşındaki savunma oyuncusunun uzun süre sahalardan uzak kalması bekleniyor ve sezonu kapatabileceği öğrenildi. NTV Spor ise oyuncunun takımın kaptanı olduğunu aktardı.",
+   "bullets": [
+    "Sakatlık, Başakşehir FK karşılaşmasında oyundan çıkmak zorunda kalan Demirbağ'da yapılan muayene ve MR ile netleşti.",
+    "Kulübün açıklamasına göre teşhis, sağ diz ön çapraz bağında yırtık olarak konuldu.",
+    "Konyaspor, tedavi sürecinin sağlık ekibi tarafından planlandığını ve gelişmelerin ilerleyen günlerde kamuoyuyla paylaşılacağını bildirdi.",
+    "Ajansspor, 28 yaşındaki savunmacının uzun süre forma giyemeyeceğini ve sezonu kapatabileceğini yazdı; bu bilgi kulüp açıklamasında yer almıyor.",
+    "Demirbağ bu sezon 7 karşılaşmada forma giymişti.",
+    "NTV Spor, oyuncudan kaptan olarak söz etti ve deneyimli futbolcunun çapraz bağlarının koptuğunu yazdı.",
+    "Kulübün açıklamasında ameliyat veya kesin bir dönüş tarihi hakkında bilgi verilmedi."
+   ],
+   "why": "Kaptan ve savunmanın deneyimli isimlerinden birinin uzun süre yokluğu, Konyaspor'un sezonun geri kalanındaki savunma planını doğrudan etkileyebilir. Tedavi sürecine dair kulüp açıklamaları takip edilmeli; kesin sürenin netleşmesi taraftarın beklentileri açısından önemli.",
+   "raw_summary": null,
+   "category": "sakatlik",
+   "category_name": "Sakatlık",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "konyaspor",
+     "name": "Konyaspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/konyasporda-adil-demirbag-soku-sezonu-kapatabilir-736481",
+     "published": "2026-10-12T15:11:20+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-konyaspora-kaptanindan-kotu-haber-capraz-baglari-koptu-431163",
+     "published": "2026-10-12T15:32:19+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-10-12T15:11:20+00:00",
+   "last_published": "2026-10-12T15:32:19+00:00",
+   "image": {
+    "url": "https://images.ntvspor.net/images/adil-demirbag-242432.jpg?format=webp",
+    "kind": "source",
+    "label": "Fotoğraf: NTV Spor",
+    "credit": "NTV Spor",
+    "source_url": "https://www.ntvspor.net/futbol/galeri-konyaspora-kaptanindan-kotu-haber-capraz-baglari-koptu-431163"
+   },
+   "score": 2.44,
+   "importance": 6,
+   "popular": false
+  }
+ ]
+}
