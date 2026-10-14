@@ -1,6 +1,41 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-14T17:43:04+00:00",
- "edition": "2026-10-14-aksam",
- "items": []
+ "generated_at": "2026-10-14T20:43:13+00:00",
+ "edition": "2026-10-14-guncel",
+ "items": [
+  {
+   "key": "0b65d2e57bff8913",
+   "story_id": "s0004",
+   "title": "Trabzonspor, Konferans Ligi'nde yarın Finlandiya'da KuPS Kuopio'ya konuk olacak",
+   "category": "mac",
+   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in dark burgundy (deep claret) and light sky blue colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 625660967,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/0b65d2e57bff8913.png"
+  },
+  {
+   "key": "ede8880d655599c0",
+   "story_id": "s0122",
+   "title": "Kartal, Aston Villa maçında ilk 11'de üç değişikliğe gitti",
+   "category": "mac",
+   "prompt": "Wide view of an empty stadium bowl at night seen from the top row, rows of empty seats in yellow and navy blue colors filling the foreground, the pitch far below softly blurred in light haze. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 410945120,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/ede8880d655599c0.png"
+  }
+ ]
 }
