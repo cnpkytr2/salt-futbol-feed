@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-14T13:17:38+00:00",
+ "generated_at": "2026-10-14T15:17:34+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1115,8 +1115,8 @@
         "home": 4,
         "away": 2
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Batman Yeni Şehir Stadyumu"
       },
       {
@@ -1133,9 +1133,12 @@
         "name": "Boluspor",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Ümraniye Hekimbaşı Şehir Stadyumu"
       },
       {
