@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-14T15:17:34+00:00",
+ "generated_at": "2026-10-14T17:17:39+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1155,9 +1155,12 @@
         "name": "Iğdır",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Keçiören Aktepe Stadyumu"
       },
       {
@@ -1174,9 +1177,12 @@
         "name": "Kayserispor",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Corendon Airlines Park"
       },
       {
@@ -5107,9 +5113,12 @@
         "name": "Como",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Stadion Feyenoord"
       },
       {
@@ -5126,9 +5135,12 @@
         "name": "Liverpool",
         "club": "liverpool"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 2
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Raiffeisen Arena Linz"
       },
       {
