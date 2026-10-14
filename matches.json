@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-14T09:17:36+00:00",
+ "generated_at": "2026-10-14T13:17:38+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1111,9 +1111,12 @@
         "name": "İstanbulspor",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 4,
+        "away": 2
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Batman Yeni Şehir Stadyumu"
       },
       {
@@ -1242,7 +1245,7 @@
    "tsdb_id": 4328,
    "last_round": 6,
    "next_round": 7,
-   "current_round": 6,
+   "current_round": 7,
    "standings": [
     {
      "rank": 1,
