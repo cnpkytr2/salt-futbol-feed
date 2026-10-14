@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-14T17:17:39+00:00",
+ "generated_at": "2026-10-14T19:17:35+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1137,8 +1137,8 @@
         "home": 0,
         "away": 1
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "postponed",
+       "status_raw": "INT",
        "venue": "Ümraniye Hekimbaşı Şehir Stadyumu"
       },
       {
@@ -1159,8 +1159,8 @@
         "home": 0,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Keçiören Aktepe Stadyumu"
       },
       {
@@ -1179,10 +1179,10 @@
        },
        "score": {
         "home": 0,
-        "away": 1
+        "away": 4
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Corendon Airlines Park"
       },
       {
@@ -4892,7 +4892,7 @@
    "season": "2026-2027",
    "tsdb_id": 4480,
    "last_round": 2,
-   "next_round": 2,
+   "next_round": 3,
    "current_round": 2,
    "standings": [],
    "standings_limited": true,
@@ -5114,11 +5114,11 @@
         "club": null
        },
        "score": {
-        "home": 1,
-        "away": 1
+        "home": 3,
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadion Feyenoord"
       },
       {
@@ -5136,11 +5136,11 @@
         "club": "liverpool"
        },
        "score": {
-        "home": 0,
-        "away": 2
+        "home": 3,
+        "away": 6
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Raiffeisen Arena Linz"
       },
       {
@@ -5157,9 +5157,12 @@
         "name": "Fenerbahçe",
         "club": "fenerbahce"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Villa Park"
       },
       {
@@ -5176,9 +5179,12 @@
         "name": "Borussia Dortmund",
         "club": "dortmund"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Aspmyra Stadion"
       },
       {
@@ -5195,9 +5201,12 @@
         "name": "Paris Saint-Germain",
         "club": "psg"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Etihad Stadium"
       },
       {
@@ -5214,9 +5223,12 @@
         "name": "Porto",
         "club": "porto"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Estadio de La Cartuja"
       },
       {
@@ -5233,9 +5245,12 @@
         "name": "Real Madrid",
         "club": "real-madrid"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Stadio Olimpico"
       },
       {
@@ -5252,9 +5267,12 @@
         "name": "AEK Athens",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Stamford Bridge"
       },
       {
@@ -5271,10 +5289,361 @@
         "name": "Stuttgart",
         "club": null
        },
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
+       "venue": "Tehelné pole"
+      }
+     ]
+    },
+    {
+     "round": 3,
+     "label": "3. maç günü",
+     "matches": [
+      {
+       "id": "2594654",
+       "round": 3,
+       "kickoff": "2026-10-20T16:45:00Z",
+       "time_known": true,
+       "date_local": "2026-10-20",
+       "home": {
+        "name": "Fenerbahçe",
+        "club": "fenerbahce"
+       },
+       "away": {
+        "name": "Slavia Prague",
+        "club": null
+       },
        "score": null,
        "status": "scheduled",
        "status_raw": "NS",
-       "venue": "Tehelné pole"
+       "venue": "Chobani Stadyumu"
+      },
+      {
+       "id": "2594675",
+       "round": 3,
+       "kickoff": "2026-10-20T16:45:00Z",
+       "time_known": true,
+       "date_local": "2026-10-20",
+       "home": {
+        "name": "Sabah Baku",
+        "club": null
+       },
+       "away": {
+        "name": "Borussia Dortmund",
+        "club": "dortmund"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Bank Respublika Arena"
+      },
+      {
+       "id": "2594542",
+       "round": 3,
+       "kickoff": "2026-10-20T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-20",
+       "home": {
+        "name": "Liverpool",
+        "club": "liverpool"
+       },
+       "away": {
+        "name": "Villarreal",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Anfield"
+      },
+      {
+       "id": "2594550",
+       "round": 3,
+       "kickoff": "2026-10-20T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-20",
+       "home": {
+        "name": "Manchester City",
+        "club": "man-city"
+       },
+       "away": {
+        "name": "AEK Athens",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Etihad Stadium"
+      },
+      {
+       "id": "2594604",
+       "round": 3,
+       "kickoff": "2026-10-20T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-20",
+       "home": {
+        "name": "Napoli",
+        "club": "napoli"
+       },
+       "away": {
+        "name": "Bodø/Glimt",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Diego Armando Maradona"
+      },
+      {
+       "id": "2594560",
+       "round": 3,
+       "kickoff": "2026-10-20T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-20",
+       "home": {
+        "name": "Paris Saint-Germain",
+        "club": "psg"
+       },
+       "away": {
+        "name": "Barcelona",
+        "club": "barcelona"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Parc des Princes"
+      },
+      {
+       "id": "2594592",
+       "round": 3,
+       "kickoff": "2026-10-20T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-20",
+       "home": {
+        "name": "Porto",
+        "club": "porto"
+       },
+       "away": {
+        "name": "PSV Eindhoven",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estádio do Dragão"
+      },
+      {
+       "id": "2594610",
+       "round": 3,
+       "kickoff": "2026-10-20T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-20",
+       "home": {
+        "name": "Roma",
+        "club": "roma"
+       },
+       "away": {
+        "name": "Slovan Bratislava",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Olimpico"
+      },
+      {
+       "id": "2594576",
+       "round": 3,
+       "kickoff": "2026-10-20T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-20",
+       "home": {
+        "name": "Stuttgart",
+        "club": null
+       },
+       "away": {
+        "name": "Atlético Madrid",
+        "club": "atletico"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "MHP Arena"
+      },
+      {
+       "id": "2594667",
+       "round": 3,
+       "kickoff": "2026-10-21T16:45:00Z",
+       "time_known": true,
+       "date_local": "2026-10-21",
+       "home": {
+        "name": "Como",
+        "club": null
+       },
+       "away": {
+        "name": "Manchester United",
+        "club": "man-united"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Giuseppe Sinigaglia"
+      },
+      {
+       "id": "2594557",
+       "round": 3,
+       "kickoff": "2026-10-21T16:45:00Z",
+       "time_known": true,
+       "date_local": "2026-10-21",
+       "home": {
+        "name": "Lille",
+        "club": null
+       },
+       "away": {
+        "name": "Galatasaray",
+        "club": "galatasaray"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Decathlon Arena - Stade Pierre-Mauroy"
+      },
+      {
+       "id": "2594554",
+       "round": 3,
+       "kickoff": "2026-10-21T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-21",
+       "home": {
+        "name": "Aston Villa",
+        "club": null
+       },
+       "away": {
+        "name": "Viking",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Villa Park"
+      },
+      {
+       "id": "2594567",
+       "round": 3,
+       "kickoff": "2026-10-21T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-21",
+       "home": {
+        "name": "Bayern Munich",
+        "club": "bayern"
+       },
+       "away": {
+        "name": "Arsenal",
+        "club": "arsenal"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Allianz Arena"
+      },
+      {
+       "id": "2594645",
+       "round": 3,
+       "kickoff": "2026-10-21T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-21",
+       "home": {
+        "name": "Club Brugge",
+        "club": null
+       },
+       "away": {
+        "name": "Lens",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Jan Breydel Stadium"
+      },
+      {
+       "id": "2594613",
+       "round": 3,
+       "kickoff": "2026-10-21T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-21",
+       "home": {
+        "name": "Inter Milan",
+        "club": "inter"
+       },
+       "away": {
+        "name": "Shakhtar Donetsk",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Giuseppe Meazza"
+      },
+      {
+       "id": "2594632",
+       "round": 3,
+       "kickoff": "2026-10-21T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-21",
+       "home": {
+        "name": "Real Betis",
+        "club": null
+       },
+       "away": {
+        "name": "Feyenoord",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estadio de La Cartuja"
+      },
+      {
+       "id": "2594627",
+       "round": 3,
+       "kickoff": "2026-10-21T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-21",
+       "home": {
+        "name": "Real Madrid",
+        "club": "real-madrid"
+       },
+       "away": {
+        "name": "RB Leipzig",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estadio Santiago Bernabéu"
+      },
+      {
+       "id": "2594598",
+       "round": 3,
+       "kickoff": "2026-10-21T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-21",
+       "home": {
+        "name": "Sporting CP",
+        "club": null
+       },
+       "away": {
+        "name": "LASK",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estádio José Alvalade"
       }
      ]
     }
