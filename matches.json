@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-15T09:17:35+00:00",
+ "generated_at": "2026-10-15T15:17:41+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1199,9 +1199,12 @@
         "name": "Fatih Karagümrük",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Mardin 21 Kasım Stadyumu"
       },
       {
