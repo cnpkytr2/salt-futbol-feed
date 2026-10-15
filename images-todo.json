@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-14T20:43:13+00:00",
- "edition": "2026-10-14-guncel",
+ "generated_at": "2026-10-15T04:44:11+00:00",
+ "edition": "2026-10-15-sabah",
  "items": [
   {
-   "key": "0b65d2e57bff8913",
-   "story_id": "s0004",
-   "title": "Trabzonspor, Konferans Ligi'nde yarın Finlandiya'da KuPS Kuopio'ya konuk olacak",
+   "key": "7edda469a57ee65f",
+   "story_id": "s0126",
+   "title": "Şampiyonlar Ligi 2. hafta: Fenerbahçe Aston Villa'ya 6-0 yenildi",
    "category": "mac",
-   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in dark burgundy (deep claret) and light sky blue colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in neutral dark colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 625660967,
+   "seed": 1061964371,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,16 +18,16 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/0b65d2e57bff8913.png"
+   "out": "s/7edda469a57ee65f.png"
   },
   {
-   "key": "ede8880d655599c0",
-   "story_id": "s0122",
-   "title": "Kartal, Aston Villa maçında ilk 11'de üç değişikliğe gitti",
+   "key": "c86ae52432f3f2f9",
+   "story_id": "s0103",
+   "title": "Aston Villa, Şampiyonlar Ligi'nde Fenerbahçe'yi 6-0 yendi",
    "category": "mac",
-   "prompt": "Wide view of an empty stadium bowl at night seen from the top row, rows of empty seats in yellow and navy blue colors filling the foreground, the pitch far below softly blurred in light haze. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of yellow and navy blue color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 410945120,
+   "seed": 1765525357,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -35,7 +35,24 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/ede8880d655599c0.png"
+   "out": "s/c86ae52432f3f2f9.png"
+  },
+  {
+   "key": "2625715310b21864",
+   "story_id": "s0134",
+   "title": "Fenerbahçe, Şampiyonlar Ligi'nde Aston Villa deplasmanında 6-0 yenildi",
+   "category": "mac",
+   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of yellow and navy blue color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1530107017,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/2625715310b21864.png"
   }
  ]
 }
