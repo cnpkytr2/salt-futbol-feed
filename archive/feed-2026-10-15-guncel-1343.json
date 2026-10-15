@@ -1,0 +1,1333 @@
+{
+ "schema": 1,
+ "generated_at": "2026-10-15T10:43:08+00:00",
+ "edition": {
+  "date": "2026-10-15",
+  "label": "guncel",
+  "title": "Güncel bülten",
+  "time_local": "13:43"
+ },
+ "stats": {
+  "sources_ok": 58,
+  "sources_total": 59,
+  "articles_football": 341,
+  "stories": 16
+ },
+ "image_base": "https://raw.githubusercontent.com/cnpkytr2/salt-futbol-feed/main/img/",
+ "top_n": 30,
+ "stories": [
+  {
+   "id": "s0000",
+   "rank": 1,
+   "key": "25324061ac1973c4",
+   "title": "Fenerbahçe, Şampiyonlar Ligi'nde Aston Villa deplasmanında 6-0 yenildi",
+   "summarized": true,
+   "intro": "UEFA Şampiyonlar Ligi'nin 2. haftasında Fenerbahçe, deplasmanda Aston Villa'ya Villa Park'ta 6-0 mağlup oldu. Ev sahibi ekip ilk yarıyı 3-0 önde kapattı, ikinci yarıda üç gol daha buldu. Bu sonuçla Fenerbahçe iki maçta 1 puanda kalırken, Aston Villa 2'de 2 yaparak 6 puana yükseldi. Karşılaşmanın ardından tribündeki Fenerbahçe taraftarları teknik direktör İsmail Kartal'ı istifaya davet etti.",
+   "bullets": [
+    "Goller: 12. dakikada Manzambi, 31 ve 39. dakikalarda Jackson, 68 (penaltı) ve 72. dakikalarda Barkley, 90. dakikada Abraham kaydetti. Hakem Ivan Kruzliak penaltıyı İsmail Yüksek'in Manzambi'ye müdahalesi sonrası verdi.",
+    "İlk gol kornerden geldi: Guendouzi'nin uzaklaştıramadığı top Manzambi'nin önüne düştü, şutu Skriniar'a çarparak ağlara gitti. İkinci ve üçüncü goller ise orta alandaki top kayıplarından doğdu; kaynaklar bu kayıplarda İsmail Yüksek'i öne çıkarıyor.",
+    "Fenerbahçe'nin pozisyonları: 15. ve 17. dakikalarda Muric'in şutlarında kaleci Suzuki devreye girdi, 34. dakikada Oğuz Aydın'ın şutu üst direkten auta çıktı. 85. dakikada Oğuz'un şutunu da Suzuki kornere çeldi.",
+    "Teknik direktör İsmail Kartal, Rizespor maçının ilk 11'ine göre üç değişiklik yaptı: İsmail Yüksek, İrfan Can Kahveci ve Oğuz Aydın ilk 11'e girdi. Asensio sakatlığı nedeniyle kadroda yer almadı, Kante sakatlığına rağmen kadrodaydı ama başlamadı, Kerem Aktürkoğlu rotasyonla dışarıda kaldı.",
+    "Mert Müldür uzun süreli sakatlığı nedeniyle İngiltere'ye götürülmedi. Lukaku sakatlığına rağmen kadroda yer aldı ve oyuna dahil oldu.",
+    "Fotomaç'a göre Fenerbahçe bu sezon ilk kez kalesinde 2'den fazla gol gördü ve 15. resmi maçında 6 gol yedi. Takımın yaklaşık 3 yıl sonraki ilk farklı Avrupa yenilgisi bu oldu; önceki, Kartal yönetiminde Nordsjaelland'a 6-1 kaybedilen 30 Kasım 2023 maçıydı.",
+    "Fenerbahçe'nin Aston Villa ile 4. maçındaki 4. yenilgisi bu oldu. Taraftar tepkisi Fotomaç'a göre 78. dakikada geldi. Sıradaki maç 20 Ekim Salı günü Çekya temsilcisi Slavia Prag'a karşı evinde oynanacak."
+   ],
+   "why": "Ağır yenilgi, Fenerbahçe'nin lig aşamasındaki puan durumunu zorlaştırdı ve iki maçta topladığı puan 1'de kaldı. Taraftarın teknik direktöre açık tepki göstermesi, Slavia Prag maçını hem sportif hem de teknik heyet açısından önemli kılıyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    },
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "avrupa-ligi",
+     "name": "Avrupa Ligi"
+    },
+    {
+     "slug": "konferans-ligi",
+     "name": "Konferans Ligi"
+    },
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/aston-villa-6-0-fenerbahce-mac-ozeti-izle-video-4864329",
+     "published": "2026-10-14T20:48:00+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/14/fenerbahce-ingilterede-aston-villaya-farkli-maglup",
+     "published": "2026-10-14T20:49:00+00:00"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/fenerbahce-aston-villa-deplasmaninda-darmadagin/4089082",
+     "published": "2026-10-14T20:49:49+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/aston-villa-fenerbahce-mac-sonucu-iste-aston-villa-fenerbahce-maci-ozeti-ve-golleri-sampiyonlar-ligi-3919562",
+     "published": "2026-10-14T20:57:03+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-uefa-ulke-puaninda-son-durum-aston-villa-fenerbahce-macinin-ardindan-guncelleme-geldi-431298",
+     "published": "2026-10-14T21:01:55+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/fenerbahce/2026/10/14/iste-fenerbahcenin-sampiyonlar-liginde-kalan-maclari",
+     "published": "2026-10-14T21:05:01+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galeri/anasayfa/uefa-ulke-puani-guncellendi-aston-villa-fenerbahce-maci-sonrasi-siralamamiz",
+     "published": "2026-10-14T21:17:33+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/live-aston-villa-6-0-fenerbahce-mac-ozeti-temsilcimiz-farkli-maglup-3479029",
+     "published": "2026-10-14T22:01:27+00:00"
+    }
+   ],
+   "n_sources": 11,
+   "first_published": "2026-10-14T20:48:00+00:00",
+   "last_published": "2026-10-15T09:12:37+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/4be34a/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/14/fenerbahce-ingilterede-aston-villaya-farkli-maglup-1792011148336.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/fenerbahce/2026/10/14/fenerbahce-ingilterede-aston-villaya-farkli-maglup"
+   },
+   "score": 42.58,
+   "importance": 10,
+   "popular": true
+  },
+  {
+   "id": "s0038",
+   "rank": 2,
+   "key": "6ae1830c3f9943de",
+   "title": "Trabzonspor, Konferans Ligi'ne KuPS deplasmanında başlıyor",
+   "summarized": true,
+   "intro": "Trabzonspor, UEFA Konferans Ligi lig aşamasının ilk haftasında 15 Ekim Perşembe günü Finlandiya temsilcisi KuPS Kuopio'ya konuk olacak. Karşılaşma TSİ 19.45'te, Tampere'deki Tammelan Stadı'nda oynanacak ve TRT 1 ile tabii platformundan yayınlanacak. KuPS'ın kendi stadı UEFA standartlarına uymadığı için maç yaklaşık 300 km uzaklıktaki Tampere'de oynanıyor. Teknik direktör Thomas Reis yönetimindeki bordo-mavililer, Avrupa'da ilk kez Alman hocayla sahaya çıkacak ve lig aşamasına galibiyetle başlamayı hedefliyor.",
+   "bullets": [
+    "Trabzonspor, Avrupa Ligi play-off turunda Ferencvaros'a sahasında 1-0, deplasmanda 4-0 yenilerek elenmiş ve Konferans Ligi'ne yönelmişti. Bu sezonki üçüncü Avrupa maçına çıkacak.",
+    "Reis yönetiminde Süper Lig'de Galatasaray'ı evinde 4-0, Samsunspor'u deplasmanda 3-0 yenen takım, üst üste üçüncü resmi galibiyetin peşinde.",
+    "Trabzonspor'un Avrupa'daki son galibiyeti 1 Ağustos 2024'te Ruzomberok'a karşı 1-0 oldu. Ardından oynadığı 6 maçta 4 yenilgi, 2 beraberlik yaşadı.",
+    "Bordo-mavililer Avrupa kupalarında 158. maçına çıkacak; önceki 157 maçta 56 galibiyet, 39 beraberlik, 62 yenilgi var. Konferans Ligi'ndeki 9. maçı olacak ve önceki 8 maçta yalnızca 1 galibiyet aldı.",
+    "Trabzonspor'da Nwaiwu ve Cabral cezalı. Sporx'a göre Okay Yokuşlu ve Onuralp Çevikkan sakat; Ajansspor'un listesinde Malinovskyi, Umut, Savic, Batagov ve Mustafa da sakat görünüyor. Mendy ve Bouchouari Avrupa maçlarında kadroda yer alabilecek.",
+    "KuPS teknik direktörü Miika Nuutinen savunmaya çekilmeyeceklerini, galibiyet için oynayacaklarını söyledi. Muhammed Salah'ı durdurmak için bir planları olduğunu belirtti ve Trabzonspor'un kadrosunda dünya çapında oyuncular bulunduğunu ifade etti.",
+    "Maçı Maltalı hakem Ishmael Barbara yönetecek; yardımcıları Luke Portelli ve Duncan Spencer. Tammelan Stadı 8 bin kapasiteli ve zemini suni çim. Trabzonspor 34 yıl sonra bir Finlandiya takımıyla (en son 1992-93'te TPS Turku) eşleşiyor."
+   ],
+   "why": "Trabzonspor taraftarı için maç, uzun süredir galibiyet alamadığı Avrupa'da Reis dönemindeki ilk sınav niteliğinde. Süper Lig'deki yükselen performansın Avrupa'ya yansıyıp yansımayacağı ve lig aşamasına iyi başlangıç yapılıp yapılamayacağı bu maçla görülecek.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "avrupa-ligi",
+     "name": "Avrupa Ligi"
+    },
+    {
+     "slug": "konferans-ligi",
+     "name": "Konferans Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/kups-trabzonspor-maci-ne-zaman-hangi-kanalda-muhtemel-11ler-sakat-ve-cezalilar-736658",
+     "published": "2026-10-14T22:16:14+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/14/trabzonspor-maci-oncesi-kupstan-muhammed-salah-aciklamasi",
+     "published": "2026-10-14T22:21:36+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/konferans-ligi/2026/10/14/trabzonspor-haberleri-thomas-reistan-salah-aciklamasi-forma-giyecek-mi",
+     "published": "2026-10-14T22:21:48+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/trabzonspor/kups-kuopio-trabzonspor-muhtemel-11-ler-SXHBQ1179258SXQ",
+     "published": "2026-10-14T23:06:28+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/trabzonspor/2026/10/15/trabzonspor-konferans-ligine-galibiyetle-baslamak-istiyor-iste-reisin-muhtemel-11i",
+     "published": "2026-10-15T03:40:51+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-konferans-ligi-kups-trabzonspor-maci-ne-zaman-saat-kacta-hangi-kanalda-431309",
+     "published": "2026-10-15T05:11:13+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/15/kups-trabzonspor-maci-saat-kacta-hangi-kanalda",
+     "published": "2026-10-15T05:39:24+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/trabzonspor-uefa-konferans-ligi-mesaisine-basliyor-kups-kuopio-trabzonspor-maci-ne-zaman-saat-kacta-hangi-kanalda-3479225",
+     "published": "2026-10-15T06:21:37+00:00"
+    }
+   ],
+   "n_sources": 9,
+   "first_published": "2026-10-14T22:16:14+00:00",
+   "last_published": "2026-10-15T08:19:53+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/dabdb9/1200/675/0/0/2048/1151?u=https://iftm.tmgrup.com.tr/2026/10/14/trabzonspor-maci-oncesi-kupstan-muhammed-salah-aciklamasi-1791983299808.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/trabzonspor/2026/10/14/trabzonspor-maci-oncesi-kupstan-muhammed-salah-aciklamasi"
+   },
+   "score": 41.14,
+   "importance": 7,
+   "popular": true
+  },
+  {
+   "id": "s0197",
+   "rank": 3,
+   "key": "adeb6ff27aca8cc4",
+   "title": "Trabzonspor-Beşiktaş maçını Cihan Aydın yönetecek",
+   "summarized": true,
+   "intro": "Türkiye Futbol Federasyonu, Trendyol Süper Lig'in 8. haftasında görev yapacak hakemleri açıkladı. Trabzonspor-Beşiktaş karşılaşmasının hakemi Cihan Aydın oldu. Maç 19 Ekim Pazartesi günü saat 20.00'de oynanacak. Hafta, 16 Ekim Cuma günkü Çorum FK-Çaykur Rizespor maçıyla başlayıp 19 Ekim'e kadar sürecek.",
+   "bullets": [
+    "Cihan Aydın'ın yardımcılıklarını Bersan Duran ve Mustafa Savranlar yapacak; dördüncü hakem Mehmet Türkmen olacak (Sporx).",
+    "Sporx ve Fotomaç maçın Papara Park'ta oynanacağını yazdı. Takvim ise mekân için Akyazı ifadesini kullandı.",
+    "Takvim, iki takımı şampiyonluk adayları arasında sayarak karşılaşmayı haftanın dev maçı olarak niteledi.",
+    "Haftanın ilk maçı Çorum FK-Çaykur Rizespor 16 Ekim'de saat 20.00'de oynanacak; hakem Davut Dakul Çelik.",
+    "17 Ekim Cumartesi: Erzurumspor-Eyüpspor (Erdem Mertoğlu), Gençlerbirliği-Galatasaray (Reşat Onur Coşkunses), Amed SF-Konyaspor (Ozan Ergün), Fenerbahçe-Alanyaspor (Çağdaş Altay).",
+    "18 Ekim Pazar: Kasımpaşa-Samsunspor (Fatih Tokail), Kocaelispor-Göztepe (Alper Akarsu), Başakşehir-Gaziantep FK (Alpaslan Şen).",
+    "Atamalar TFF'nin resmi sitesinden duyuruldu; Yeni Şafak, açıklamayı Merkez Hakem Kurulu'na (MHK) atfetti."
+   ],
+   "why": "Derbi benzeri bir maçta hakem ataması taraftarların yakından izlediği bir konudur. Pazartesi akşamı oynanacak karşılaşmanın yönetici kadrosu artık belli. İki takımın hafta sonu sonrasındaki puan durumu açısından bu maç önemli.",
+   "raw_summary": null,
+   "category": "hakem",
+   "category_name": "Hakem / VAR",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    },
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    },
+    {
+     "slug": "tff-1-lig",
+     "name": "TFF 1. Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/15/son-dakika-haberi-trabzonspor-besiktas-macinin-hakemi-aciklandi",
+     "published": "2026-10-15T10:00:41+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/trabzonspor/trabzonspor-besiktas-derbisinin-hakemi-aciklandi-SXHBQ1179293SXQ",
+     "published": "2026-10-15T10:02:00+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/trabzonspor-besiktas-macinin-hakemi-aciklandi-4864541",
+     "published": "2026-10-15T10:02:51+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/super-ligde-8-hafta-maclarini-yonetecek-hakemler-aciklandi-43342668",
+     "published": "2026-10-15T10:03:00+00:00"
+    },
+    {
+     "name": "Takvim",
+     "url": "https://www.takvim.com.tr/spor/superlig/2026/10/15/trabzonspor-besiktas-derbisini-cihan-aydin-yonetecek",
+     "published": "2026-10-15T10:03:24+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/trabzonspor-besiktas-macinin-hakemi-belli-oldu-736676",
+     "published": "2026-10-15T10:03:41+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/trabzonspor-besiktas-maci-cihan-aydinin-33602395",
+     "published": "2026-10-15T10:04:00+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/superlig/2026/10/15/trabzonspor-besiktas-macinin-hakemi-aciklandi",
+     "published": "2026-10-15T10:07:11+00:00"
+    }
+   ],
+   "n_sources": 15,
+   "first_published": "2026-10-15T10:00:41+00:00",
+   "last_published": "2026-10-15T10:33:50+00:00",
+   "image": {
+    "url": "https://iasbh.tmgrup.com.tr/066606/1200/675/0/0/864/486?u=https://isbh.tmgrup.com.tr/sbh/2026/10/15/son-dakika-haberi-trabzonspor-besiktas-macinin-hakemi-aciklandi-1792059383316.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Sabah",
+    "credit": "Sabah",
+    "source_url": "https://www.sabah.com.tr/spor/futbol/2026/10/15/son-dakika-haberi-trabzonspor-besiktas-macinin-hakemi-aciklandi"
+   },
+   "score": 53.44,
+   "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0022",
+   "rank": 4,
+   "key": "5d730e4ec416f403",
+   "title": "Beşiktaş, Avrupa Ligi'nde Hoffenheim deplasmanında; Vlahovic kadroda yok",
+   "summarized": true,
+   "intro": "Beşiktaş, UEFA Avrupa Ligi lig aşamasının 2. haftasında 15 Ekim Perşembe günü TSİ 22.00'de Alman ekibi Hoffenheim'a konuk olacak. Karşılaşma TRT 1'den canlı yayınlanacak ve Belçikalı hakem Lawrence Visser yönetecek. Siyah-beyazlılar ilk haftada Olimpik Marsilya'yı 4-1 yenerek 3 puanla başlamıştı; Hoffenheim ise OFI Girit deplasmanında 2-0 yenilmişti. Beşiktaş'ta Cerny ve Rashica sakatlıkları nedeniyle yok. Mide rahatsızlığı yaşayan Dusan Vlahovic de kamp kadrosuna alınmadı.",
+   "bullets": [
+    "Cerny, Kocaelispor maçında sakatlanmıştı; MR'da sol uyluk arka adalesinde gerilme ve ödem saptandı. Rashica da tedavisi sürdüğü için Hoffenheim karşısında oynayamayacak.",
+    "Vlahovic mide rahatsızlığı nedeniyle serum tedavisi gördü ve idmana katılamadı. 24 kişilik kamp kadrosunda yer almadı. Teknik direktör Vincenzo Italiano basın toplantısında konuyu yanıtladı, ancak ayrıntıları kaynaklarda yok.",
+    "Muhtemel 11'ler: Hoffenheim Baumann, Coufal, Ozan, Machida, Rots, Avdullahu, Burger, Conte, De Cat, Hlozek, Lemperle; Beşiktaş Nübel, Murillo, Agbadou, Emirhan, Rıdvan, Salih, Poku, Olaitan, Orkun, Trossard, Oh.",
+    "Hoffenheim'da Wimmer ve Hajdari sakat. İki takımda da ceza sınırında oyuncu yok; Beşiktaş'ta Agbadou ve Miretti, Hoffenheim'da Coufal, De Cat ve Machida birer sarı kart görmüş durumda.",
+    "Orkun Kökçü bu sezon 13 maçta 5 gol attı. Beşiktaş bu sezon Avrupa'da oynadığı 7 maçın 6'sını kazandı, 12 gol attı, 2 gol yedi.",
+    "Hoffenheim'ın savunmasında eski Beşiktaşlı milli oyuncu Ozan Kabak var; bu sezon 7 maça çıktı ve 1 gol attı.",
+    "Ajansspor'a göre ilk haftanın ardından Hoffenheim puansız 30., Beşiktaş 3 puanla 4. sırada. Aynı kaynakta iddia oranları ev sahibi 1.80, beraberlik 3.56, deplasman 2.94.",
+    "Beşiktaş bu maçla Avrupa kupalarında 266. maçına çıkacak. Önceki 265 maçta 103 galibiyet, 50 beraberlik ve 112 yenilgi aldı. Stadyum adı kaynaklarda farklı geçiyor: Ajansspor SNP Arena, Sporx ve Posta Rhein-Neckar-Arena diyor."
+   ],
+   "why": "Beşiktaş taraftarı için maç, Avrupa Ligi'ndeki iyi başlangıcı sürdürüp 2'de 2 yapma fırsatı. Cerny, Rashica ve Vlahovic'in yokluğu Italiano'nun ilk 11 ve rotasyon tercihlerini belirleyecek. Vlahovic'in rahatsızlığının süresi ise önümüzdeki maçlar için de takip edilecek.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "avrupa-ligi",
+     "name": "Avrupa Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/hoffenheim-besiktas-maci-ne-zaman-hangi-kanalda-muhtemel-11ler-sakat-ve-cezalilar-736654",
+     "published": "2026-10-14T21:55:09+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/besiktas/2026/10/14/besiktasa-hoffenheim-maci-oncesi-vlahovic-soku",
+     "published": "2026-10-14T22:21:12+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/besiktas/2026/10/14/besiktasin-hoffenheim-maci-kamp-kadrosu-belli-oldu",
+     "published": "2026-10-14T22:21:30+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/avrupaligi/2026/10/14/besiktasta-vincenzo-italianodan-vlahovic-aciklamasi-son-durumu",
+     "published": "2026-10-14T22:21:59+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/besiktas/hoffenheim-besiktas-muhtemel-11-ler-SXHBQ1179259SXQ",
+     "published": "2026-10-14T23:20:00+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/besiktas/2026/10/15/besiktas-almanyada-3-puan-pesinde-iste-vincenzo-italianonun-hoffenheim-maci-muhtemel-11i",
+     "published": "2026-10-15T03:40:51+00:00"
+    },
+    {
+     "name": "Posta",
+     "url": "https://www.posta.com.tr/spor/kartalin-av-zamani-3051790",
+     "published": "2026-10-15T04:00:30+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-uefa-avrupa-ligi-hoffenheim-besiktas-maci-ne-zaman-saat-kacta-hangi-kanalda-431311",
+     "published": "2026-10-15T05:22:44+00:00"
+    }
+   ],
+   "n_sources": 10,
+   "first_published": "2026-10-14T21:55:09+00:00",
+   "last_published": "2026-10-15T09:24:47+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/1c71e6/1200/675/0/287/2048/1441?u=https://iftm.tmgrup.com.tr/2026/10/14/besiktasa-hoffenheim-maci-oncesi-vlahovic-soku-1791966258720.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/besiktas/2026/10/14/besiktasa-hoffenheim-maci-oncesi-vlahovic-soku"
+   },
+   "score": 33.41,
+   "importance": 8,
+   "popular": true
+  },
+  {
+   "id": "s0175",
+   "rank": 5,
+   "key": "353df135f720a23c",
+   "title": "Çaykur Rizespor, deplasman serisini Çorum FK maçında sürdürmeyi hedefliyor",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 8. haftasında Arca Çorum FK ile Çaykur Rizespor, 16 Ekim Cuma günü saat 20.00'de Çorum Şehir Stadı'nda karşılaşacak. Rizespor, bu sezon iç sahada oynadığı 3 maçta puan alamadı ve gol sevinci yaşayamadı. Buna karşılık Karadeniz ekibi, deplasmanda henüz yenilmeyen tek takım olarak ligin dış saha lideri konumunda. İki takım Süper Lig'de ilk kez karşı karşıya gelecek ve Rizespor deplasman karnesindeki iyi gidişatı sürdürmek istiyor.",
+   "bullets": [
+    "Rizespor sezona TÜMOSAN Konyaspor deplasmanında aldığı 1-0'lık galibiyetle başladı.",
+    "Evinde Samsunspor'a 2-0, Corendon Alanyaspor'a 1-0 ve Fenerbahçe'ye 3-0 yenilen takım, bu üç maçta kalesinde 6 gol gördü ve rakip fileleri havalandıramadı.",
+    "Dış sahada Gaziantep FK'yı 2-1, Eyüpspor'u 2-0 yenen Rizespor, Göztepe ile 2-2 berabere kaldı.",
+    "Ligdeki 10 puanın tamamını deplasmanda toplayan yeşil-mavililer, dış saha maçlarında 7 gol attı, 3 gol yedi.",
+    "Rizespor dış saha karnesinde ligin en iyi takımı olarak birinci sırada yer alıyor.",
+    "Karşılaşma, iki takımın Süper Lig'de ilk randevusu olacak.",
+    "Rizespor, Çorum deplasmanından puan ya da puanlarla dönmeyi hedefliyor."
+   ],
+   "why": "Rizespor taraftarı için takımın iç saha ve deplasman performansı arasındaki belirgin fark dikkat çekiyor. Çorum deplasmanı, dış sahadaki yenilmezlik serisinin devam edip etmeyeceğini gösterecek. Ligdeki 10 puanın tamamı deplasmandan geldiği için bu maçın sonucu puan tablosu açısından önem taşıyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "rizespor",
+     "name": "Rizespor"
+    },
+    {
+     "slug": "corum-fk",
+     "name": "Çorum FK"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/evinde-puan-alamayan-caykur-rizespor-deplasmanda-kaybetmiyor/4089425",
+     "published": "2026-10-15T08:45:47+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/15/evinde-puan-alamayan-caykur-rizespor-deplasmanda-kaybetmiyor",
+     "published": "2026-10-15T08:57:35+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/super-ligin-dis-saha-lideri-caykur-rizespor-yarin-corum-fk-deplasmaninda-haber-2046702",
+     "published": "2026-10-15T09:01:00+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/evinde-kazanamiyor-deplasmanda-kaybetmiyor-33601907",
+     "published": "2026-10-15T09:02:00+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/evinde-puan-alamayan-caykur-rizespor-deplasmanda-kaybetmiyor-4864526",
+     "published": "2026-10-15T09:03:28+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/corum-fk-yarin-caykur-rizesporu-konuk-edecek-4864542",
+     "published": "2026-10-15T10:15:09+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/galatasaray/super-lig-de-8-hafta-basliyor-SXHBQ1179295SXQ",
+     "published": "2026-10-15T10:33:16+00:00"
+    }
+   ],
+   "n_sources": 6,
+   "first_published": "2026-10-15T08:45:47+00:00",
+   "last_published": "2026-10-15T10:33:16+00:00",
+   "image": {
+    "url": "https://iaaspr.tmgrup.com.tr/ba88fe/1200/675/0/0/800/449?u=https://iaspr.tmgrup.com.tr/2026/10/15/evinde-puan-alamayan-caykur-rizespor-deplasmanda-kaybetmiyor-1792054629583.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: A Spor",
+    "credit": "A Spor",
+    "source_url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/15/evinde-puan-alamayan-caykur-rizespor-deplasmanda-kaybetmiyor"
+   },
+   "score": 42.17,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0023",
+   "rank": 6,
+   "key": "6bcacb79bcab74da",
+   "title": "Emery: Fenerbahçe 6-0 kaybetmeyi hak etmedi",
+   "summarized": true,
+   "intro": "UEFA Şampiyonlar Ligi'nin 2. haftasında Aston Villa, konuk ettiği Fenerbahçe'yi 6-0 yendi. Maçın ardından Villa Teknik Direktörü Unai Emery açıklamalarda bulundu. Emery, sonucun takımları için güçlü olduğunu söylerken rakibinin bu skoru hak etmediği görüşünü dile getirdi. Teknik adam ayrıca oyuncu değişikliklerine ve bazı oyuncularına dair değerlendirmeler yaptı. Açıklamalar, Türk basınında geniş yer buldu ve sosyal medyada gündem oldu.",
+   "bullets": [
+    "Emery maç için \"Genel olarak çok iyi bir maçtı\" dedi, ancak iyileştirilmesi gereken noktaların hâlâ bulunduğunu ekledi.",
+    "Teknik adam, \"Belki de Fenerbahçe o altı gol yemeyi hak etmedi\" ifadesini kullandı. Bazı kaynaklarda daha net aktarılan sözlerinde Fenerbahçe'nin bazı goller atabileceğini söyledi.",
+    "NTV Spor'un aktardığına göre Emery, skorun 6-0 olduğunu ancak ikinci yarıda Villa'nın 3 gol daha atabileceğini belirtti. Diğer kaynaklarda bu bölüm yer almıyor.",
+    "Emery, alınan sonucun takım için bir güven kaynağı olduğunu söyledi. Diğer oyuncuların özgüvenini artırmak ve süre almalarını sağlamak için bazı değişiklikler yaptıklarını açıkladı.",
+    "Nicolas Jackson hakkında, arka alana sızma gücü olduğunu ve geriye çekilip takıma yardım edebildiğini söyledi. Hücumda onun her zaman ceza sahasında olması gerektiğini vurguladı; Jackson'ı takımın forveti olarak tanımladı.",
+    "Emery, Brian Madjo'nun artık oynamaya hazır olduğunu belirtti.",
+    "Johan Manzambi için \"çok iyi bir oyuncu\", \"çok profesyonel\" ve \"çok iyi bir takım arkadaşı\" nitelemelerini yaptı; oyuncunun takıma uyumunu çok iyi sağladığını söyledi.",
+    "TRT Spor ve Ajansspor, Emery'nin evlerinde kazanmanın önemine değindiğini aktardı."
+   ],
+   "why": "Fenerbahçe taraftarı için ağır bir mağlubiyetin ardından rakip teknik direktörün oyunun gidişatına dair değerlendirmesi, skorun oyunun tamamını yansıtmadığı yönünde bir bakış sunuyor. Yine de sonuç, Şampiyonlar Ligi'ndeki puan ve averaj hesapları açısından Fenerbahçe için olumsuz bir tablo oluşturuyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/14/aston-villa-teknik-direktoru-unai-emery-fenerbahce-6-gol-yemeyi-hak-etmedi",
+     "published": "2026-10-14T21:57:16+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/unai-emery-fenerbahce-alti-gol-yemeyi-hak-etmedi-43342061",
+     "published": "2026-10-14T22:05:00+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-unai-emery-6-0lik-macin-ardindan-fenerbahce-hak-etmedi-diyerek-itirafta-bulundu-431305",
+     "published": "2026-10-14T22:15:45+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/unai-emery-fenerbahce-6-0-kaybetmeyi-hak-etmedi-33597485",
+     "published": "2026-10-14T22:28:00+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/unai-emery-fenerbahce-6-0-kaybetmeyi-hak-etmedi-736660",
+     "published": "2026-10-14T22:54:43+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/galeri/spor/unai-emeryden-fenerbahce-itirafi-cok-konusulacak-aciklama-4864490",
+     "published": "2026-10-15T07:25:18+00:00"
+    }
+   ],
+   "n_sources": 6,
+   "first_published": "2026-10-14T21:57:16+00:00",
+   "last_published": "2026-10-15T07:25:18+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/06c81a/1200/675/0/0/800/450?u=https://iaspr.tmgrup.com.tr/2026/10/15/aston-villa-teknik-direktoru-unai-emery-fenerbahce-6-gol-yemeyi-hak-etmedi-1792014872231.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/fenerbahce/2026/10/14/aston-villa-teknik-direktoru-unai-emery-fenerbahce-6-gol-yemeyi-hak-etmedi"
+   },
+   "score": 35.37,
+   "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0015",
+   "rank": 7,
+   "key": "c5f7ce1cd2421a7a",
+   "title": "İsmail Kartal, Aston Villa yenilgisi sonrası özür diledi: Sonuç kabul edilebilir değil",
+   "summarized": true,
+   "intro": "UEFA Şampiyonlar Ligi'nin ikinci haftasında deplasmanda Aston Villa ile karşılaşan Fenerbahçe, sahadan 6-0'lık mağlubiyetle ayrıldı. Maçın ardından teknik direktör İsmail Kartal açıklamalarda bulundu. Kartal, skorun kabul edilebilir olmadığını belirterek taraftarlardan ve camiadan özür diledi. Bireysel pas hatalarının ağır bedel getirdiğini söyleyen deneyimli teknik adam, ekibin bu maçtan ders çıkardığını ve odağın kısa süre sonra oynanacak Alanyaspor maçına çevrilmesi gerektiğini vurguladı.",
+   "bullets": [
+    "Kartal, maçın hakkının bu skor olmadığını söyledi; ancak en üst seviyede bu kadar basit pas hatası yapılmaması gerektiğini, yapıldığında rakibin çabuk cezalandırdığını ifade etti.",
+    "Teknik adam, 'Hepimize büyük ders oldu' diyerek bu sonucun Fenerbahçe camiası adına kabul edilebilir olmadığını belirtti.",
+    "Devre arasında değişiklik yapılmamasının nedeni sorulunca Kartal, 1-2 değişiklik planladıklarını söyledi. Takımın 62. dakikaya kadar iyi reaksiyon verdiğini, bir hata sonrası penaltı olunca oyunun koptuğunu aktardı.",
+    "Kartal'a göre N'Golo Kante ile konuşuldu; oyuncu yüzde yüz hazır olmadığını ve oynarsa risk olabileceğini söyledi. Kante'nin merkezde, daha tecrübeli bir oyuncuyla orayı tutma planı bu yüzden uygulanamadı.",
+    "Kartal, sahada bu hataların yapılacağının öngörülemeyeceğini, bunun taktikle ilgili olmadığını söyledi. İlk yarıda pozisyon üretildiğini, ancak değerlendirilemediğini, rakibin değerlendirdiğini belirtti.",
+    "Takım soyunma odasına 3-0 geriyle girdi; ikinci yarıdaki penaltı sonrası fark açıldı.",
+    "Kartal, birkaç gün sonra oynanacak önemli lig maçı için Alanyaspor karşılaşmasına konsantre olunması gerektiğini ve bu mağlubiyetin unutulması gerektiğini söyledi.",
+    "Teknik adam, Şampiyonlar Ligi'nde oynanacak başka maçlar olduğunu da hatırlattı."
+   ],
+   "why": "Ağır yenilgi Şampiyonlar Ligi'ndeki yolculuk açısından moral kaybı anlamına geliyor. Kartal'ın açıklamaları hataların bireysel olduğunu vurgulayarak ve Kante'nin hazır olmadığını belirterek kadro durumuna dair ipuçları veriyor. Takımın kısa sürede Alanyaspor maçında tepki vermesi taraftar açısından önem taşıyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/fenerbahce/2026/10/14/fenerbahcede-ismail-kartal-aston-villa-maci-sonrasi-konustu-kabul-edilebilir-degil",
+     "published": "2026-10-14T21:33:23+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/14/ismail-kartaldan-aston-villa-maci-sonrasi-aciklama-hepimize-ders-oldu",
+     "published": "2026-10-14T21:33:52+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/ismail-kartal-hakki-bu-degildi-kabul-edilir-degil-43342040",
+     "published": "2026-10-14T21:36:00+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/ismail-kartal-macin-hakki-bu-degildi-736653",
+     "published": "2026-10-14T21:42:08+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-kabul-edilebilir-bir-sonuc-degil-diyen-ismail-kartal-taraftardan-ozur-diledi-431302",
+     "published": "2026-10-14T21:42:35+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/aston-villa-fenerbahce-maci-sonrasi-ismail-kartal-macin-hakki-bu-degildi-3919809",
+     "published": "2026-10-14T21:50:36+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/kartal-kabul-edilebilir-bir-durum-degil-33597484",
+     "published": "2026-10-14T22:24:00+00:00"
+    }
+   ],
+   "n_sources": 7,
+   "first_published": "2026-10-14T21:33:23+00:00",
+   "last_published": "2026-10-14T22:24:00+00:00",
+   "image": {
+    "url": "https://iaaspr.tmgrup.com.tr/7ac7f7/1200/675/0/0/800/449?u=https://iaspr.tmgrup.com.tr/2026/10/15/fenerbahcede-ismail-kartal-aston-villa-maci-sonrasi-konustu-kabul-edilebilir-degil-1792013843740.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: A Spor",
+    "credit": "A Spor",
+    "source_url": "https://www.aspor.com.tr/fenerbahce/2026/10/14/fenerbahcede-ismail-kartal-aston-villa-maci-sonrasi-konustu-kabul-edilebilir-degil"
+   },
+   "score": 17.92,
+   "importance": 8,
+   "popular": false
+  },
+  {
+   "id": "s0004",
+   "rank": 8,
+   "key": "0e2727038516b02f",
+   "title": "Arda Turan'ın Shakhtar'ı Stamford Bridge'te AEK'yı 3-1 yendi",
+   "summarized": true,
+   "intro": "UEFA Şampiyonlar Ligi'nin ikinci haftasında Arda Turan'ın teknik direktörlüğünü yaptığı Shakhtar Donetsk, Londra'daki Stamford Bridge Stadı'nda Yunanistan'ın AEK takımını 3-1 mağlup etti. Konuk ekip 28. dakikada Lovro Majer'in golüyle öne geçti, Shakhtar ise penaltıdan gelen golle skoru eşitledi. İkinci yarıda 80. ve 86. dakikalarda bulunan gollerle Ukrayna ekibi maçı çevirdi. Shakhtar bu sezonki ilk galibiyetini alarak puanını 4'e çıkardı, AEK ise 3 puanda kaldı. Turan için bu, teknik direktörlük kariyerindeki ilk Şampiyonlar Ligi galibiyeti oldu.",
+   "bullets": [
+    "AEK maça baskılı başladı ve 3. dakikada Majer'in kullandığı kornerde Harold Moukoudi'nin kafa vuruşu yan direkten döndü.",
+    "9. dakikada Alisson Santana'nın ceza alanı dışından çektiği şutu kaleci Alberto Brignoli son anda kornere çeldi.",
+    "AEK, Stavros Pilios'un ceza alanına taşıdığı topu Majer'in yerden vuruşuyla 28. dakikada 1-0 öne geçti. Gol, Vinicius Tobias'ın topu kaptırmasıyla gelişen ataktan doğdu.",
+    "32. dakikada Filipe Relvas'ın Santana'ya ceza alanında müdahalesi sonrası VAR uyarısıyla hakem Chris Kavanagh penaltı verdi. Pedrinho 34. dakikada kaleciyi ters köşeye yatırarak 1-1'i getirdi.",
+    "80. dakikada Alisson'un pasıyla sağda topla buluşan Vinicius Tobias'ın dar açıdan vuruşu Brignoli'nin ayağına çarparak ağlara gitti: 2-1.",
+    "86. dakikada sol taraftan ceza alanına giren Gleiker Mendoza, topu sağ üst köşeye göndererek skoru 3-1 yaptı.",
+    "AEK, Avrupa'da çıktığı son 3 maçta gol yememişti. Turan'ın takımı ise ilk maçta deplasmanda PSV ile 1-1 berabere kalmıştı.",
+    "Turan, Atletico Madrid formasıyla 2013-2014 sezonunda aynı statta Chelsea'yi 3-1 yendikleri maçta 72. dakikada gol atmıştı. Maç sonunda Turan, \"Biraz duygularımıza yenik düştük\" dedi; galibiyetin lig aşamasının sonuna kadar umut taşıyacağını söyledi."
+   ],
+   "why": "Shakhtar, sezonun ilk galibiyetiyle lig aşamasında puan tablosunda önemli bir adım attı. Geriye düştüğü maçı çeviren genç takım, Turan'ın teknik direktörlük kariyerinde de önemli bir eşiği geçti. AEK ise puanını artıramayarak 3'te kaldı.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    },
+    {
+     "slug": "premier-lig",
+     "name": "Premier Lig"
+    },
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-shakhtar-donetsk-stamford-brigdete-ilk-galibiyetini-aldi-431297",
+     "published": "2026-10-14T20:58:05+00:00"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/teknik-direktor-arda-turandan-stamford-bridgete-tarihi-basari/4089097",
+     "published": "2026-10-14T21:02:34+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/shakhtar-donetsk-3-1-aek-uefa-sampiyonlar-ligi-arda-turan-43342022",
+     "published": "2026-10-14T21:18:54+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/arda-turanli-shakhtar-devler-liginde-galip-stamford-bridgede-tarihi-gece-4864403",
+     "published": "2026-10-14T21:25:44+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/arda-turandan-stamford-bridgete-tarihi-basari-33596327",
+     "published": "2026-10-14T21:32:00+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/sampiyonlar-ligi/2026/10/14/teknik-direktor-arda-turandan-stamford-bridgete-tarihi-basari",
+     "published": "2026-10-14T21:46:48+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/galeri/spor/arda-turandan-sampiyonlar-liginde-tarihi-basari-35-macta-ilk-kez-oldu-4864471",
+     "published": "2026-10-15T06:34:20+00:00"
+    },
+    {
+     "name": "Posta",
+     "url": "https://www.posta.com.tr/galeri/londrada-tarihi-gece-arda-turanin-devler-liginde-tarih-yazdi-3051960",
+     "published": "2026-10-15T06:56:23+00:00"
+    }
+   ],
+   "n_sources": 9,
+   "first_published": "2026-10-14T20:58:05+00:00",
+   "last_published": "2026-10-15T10:06:00+00:00",
+   "image": {
+    "url": "https://images.ntvspor.net/images/shakhtar-donetsk-2-977442(2).jpg?format=webp",
+    "kind": "source",
+    "label": "Fotoğraf: NTV Spor",
+    "credit": "NTV Spor",
+    "source_url": "https://www.ntvspor.net/futbol/galeri-shakhtar-donetsk-stamford-brigdete-ilk-galibiyetini-aldi-431297"
+   },
+   "score": 15.05,
+   "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0012",
+   "rank": 9,
+   "key": "fd418b8dd7295292",
+   "title": "Skriniar, Aston Villa yenilgisi sonrası: \"Bugün utanç vericiydi\"",
+   "summarized": true,
+   "intro": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin ikinci haftasında deplasmanda Aston Villa'ya 6-0 yenildi. Maçın ardından takımın kaptanı ve stoperi Milan Skriniar açıklamalarda bulundu. Slovak savunmacı, ortaya konan performansı sert sözlerle eleştirdi. Skriniar, takımın top kayıpları ve hatalarla dolu bir maç oynadığını, seviyenin yükseltilmesi gerektiğini söyledi.",
+   "bullets": [
+    "Skriniar, \"Yüzümüzü göstermeliyiz, saklanmamalıyız. Bugün utanç vericiydi\" diyerek yenilgiyi açıkça eleştirdi.",
+    "Deneyimli stoper, takımın top kayıpları yapmaması gerektiğini ve \"çok büyük hatalar\" yapıldığını belirtti.",
+    "Şampiyonlar Ligi'nde \"her detayın bedelinin ödendiğini\" vurgulayan Skriniar, seviyenin yukarı çıkarılması gerektiğini söyledi.",
+    "Skriniar'a göre Fenerbahçe ilk yarıda 2-3 net pozisyona girdi ancak bunları değerlendiremedi.",
+    "Takım devreye 3-0 geride girdi; Skriniar bunun böyle bir maçta kolay olmadığını söyledi.",
+    "İkinci yarıda maçı çevirmek için çabaladıklarını, ancak rakip yeniden gol bulunca işlerin zorlaştığını anlattı.",
+    "Skriniar, teknik heyet ve futbolcuların birlik olması gerektiğini belirtti; üç gün sonraki lig maçı öncesinde birlikte çalışmaya devam etmeyi hedeflediklerini söyledi."
+   ],
+   "why": "Kaptanın bu denli açık özeleştirisi, ağır yenilginin takım içinde ciddiye alındığını gösteriyor. Taraftar açısından asıl soru, takımın bu tepkiyi üç gün sonraki lig maçında sahaya yansıtıp yansıtamayacağı.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "milan",
+     "name": "Milan"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "serie-a",
+     "name": "Serie A"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/fenerbahce/2026/10/14/milan-skriniardan-aston-villa-maci-sonrasi-flas-sozler-utanc-vericiydi",
+     "published": "2026-10-14T21:25:37+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/milan-skriniar-utanc-vericiydi-736652",
+     "published": "2026-10-14T21:28:26+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/milan-skriniar-cok-buyuk-hatalar-yaptik-3919807",
+     "published": "2026-10-14T21:33:47+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/milan-skriniar-6-0lik-aston-villa-yenilgisini-degerlendirdi-bugun-utanc-vericiydi-43342030",
+     "published": "2026-10-14T21:40:31+00:00"
+    }
+   ],
+   "n_sources": 4,
+   "first_published": "2026-10-14T21:25:37+00:00",
+   "last_published": "2026-10-14T21:40:31+00:00",
+   "image": {
+    "url": "https://iaaspr.tmgrup.com.tr/d5ac44/1200/675/0/52/645/416?u=https://iaspr.tmgrup.com.tr/2026/10/15/1792013065125.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: A Spor",
+    "credit": "A Spor",
+    "source_url": "https://www.aspor.com.tr/fenerbahce/2026/10/14/milan-skriniardan-aston-villa-maci-sonrasi-flas-sozler-utanc-vericiydi"
+   },
+   "score": 10.97,
+   "importance": 7,
+   "popular": false
+  },
+  {
+   "id": "s0002",
+   "rank": 10,
+   "key": "22183bb34532e2d8",
+   "title": "Real Madrid, Roma deplasmanında 3-1'lik geriliği 4-3'e çevirdi; Arda Güler 2 asist yaptı",
+   "summarized": true,
+   "intro": "UEFA Şampiyonlar Ligi'nin 2. haftasında Real Madrid, Roma Olimpiyat Stadyumu'nda oynanan maçı 3-1 geriye düştükten sonra 4-3 kazandı. Milli futbolcu Arda Güler yedek başladığı maçta 59. dakikada oyuna girdi ve Real Madrid'in son üç golünden ikisinde asist yaptı. Madrid ekibi 83, 85 ve 90. dakikalarda bulduğu gollerle sonuca ulaştı. Galibiyetle Real Madrid puanını 6'ya yükseltti, Roma ise 1 puanda kaldı.",
+   "bullets": [
+    "Roma, 20. dakikada Marten de Roon'un golüyle öne geçti. Kylian Mbappe 25. dakikada skoru eşitledi.",
+    "İkinci yarıya iyi başlayan Roma, Donyell Malen'in 51. ve 57. dakikadaki golleriyle farkı ikiye çıkardı ve skor 3-1 oldu.",
+    "Arda Güler, Roma'nın üçüncü golünden hemen sonra, 59. dakikada oyuna girdi.",
+    "Real Madrid 83. dakikada Carlos Espi'nin golüyle farkı 1'e indirdi.",
+    "Arda'nın ortasında 85. dakikada Endrick, skoru 3-3'e getirdi.",
+    "Arda'nın bir diğer asistinde 90. dakikada Antonio Rüdiger golü atarak Real Madrid'i 4-3 öne geçirdi.",
+    "Roma'nın teknik direktörü Gian Piero Gasperini maç sonrası Arda Güler için övgü dolu sözler söyledi; İspanyol basını da oyuncuyu övdü.",
+    "Üçüncü haftada Real Madrid, Leipzig'i Bernabeu'da ağırlayacak. Roma ise Slovan Bratislava'yı konuk edecek."
+   ],
+   "why": "Real Madrid, Şampiyonlar Ligi'nde iki maçta iki galibiyet alarak 6 puana ulaştı. Arda Güler'in yedekten girip iki asistle maçın gidişatını değiştirmesi, Türk taraftar açısından da öne çıkan bir performans oldu. Roma ise ilk iki haftada yalnızca 1 puan topladı.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "real-madrid",
+     "name": "Real Madrid"
+    },
+    {
+     "slug": "roma",
+     "name": "Roma"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    },
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "serie-a",
+     "name": "Serie A"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/video-arda-gulerden-2-asist-real-madridden-tarihi-geri-donus-4864395",
+     "published": "2026-10-14T20:55:55+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/roma-3-real-madrid-4-mac-sonucu-ozeti-ve-golleri-3919803",
+     "published": "2026-10-14T21:09:33+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/sampiyonlar-ligi/2026/10/14/r-madridden-roma-karsisinda-harika-geri-donus-arda-macin-kaderini-degistirdi",
+     "published": "2026-10-14T21:21:33+00:00"
+    },
+    {
+     "name": "Takvim",
+     "url": "https://www.takvim.com.tr/spor/2026/10/14/arda-guler-romayi-2-asistle-bitirdi-real-madrid-hayat-buldu",
+     "published": "2026-10-14T22:04:14+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/sampiyonlarligi/2026/10/14/arda-gulerden-2-asist-real-madridden-roma-karsisinda-harika-geri-donus",
+     "published": "2026-10-14T22:22:06+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/galeri/spor/arda-guler-real-madridi-sirtladi-ispanyol-basini-yere-goge-sigdiramadi-4864463",
+     "published": "2026-10-15T06:13:21+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/galeri/spor/gasperiniden-arda-gulere-ovgu-dolu-sozler-butun-dunya-hayran-hayran-dinledi-4864496",
+     "published": "2026-10-15T07:45:33+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/arda-girdi-italyanlar-sustu-33601652",
+     "published": "2026-10-15T08:28:00+00:00"
+    }
+   ],
+   "n_sources": 6,
+   "first_published": "2026-10-14T20:55:55+00:00",
+   "last_published": "2026-10-15T08:28:00+00:00",
+   "image": {
+    "url": "https://img.piri.net/piri/upload/3/2026/10/14/fdab5108-i39dsxvqrc8c1j8xgjuuyl.webp",
+    "kind": "source",
+    "label": "Fotoğraf: Yeni Şafak",
+    "credit": "Yeni Şafak",
+    "source_url": "https://www.yenisafak.com/spor/video-arda-gulerden-2-asist-real-madridden-tarihi-geri-donus-4864395"
+   },
+   "score": 9.26,
+   "importance": 8,
+   "popular": false
+  },
+  {
+   "id": "s0006",
+   "rank": 11,
+   "key": "c2efc8d32c4a2d73",
+   "title": "Aston Villa-Fenerbahçe maçı öncesi izdiham: 2 Fenerbahçe taraftarı gözaltında",
+   "summarized": true,
+   "intro": "UEFA Şampiyonlar Ligi'nde Fenerbahçe'nin Aston Villa ile oynadığı maçın öncesinde bazı Türk taraftarlar çıkan arbede sonrası gözaltına alındı. Anadolu Ajansı, maç öncesi yaşanan izdihamda 2 Türk taraftarın gözaltına alındığını duyurdu. Sporx'un aktardığına göre olay, stadyuma ulaşımı sağlayan metro istasyonundaki gecikme ve izdihamın ardından çıktı. Gözaltına alınanlar arasında iki Fenerbahçe taraftarı bulunuyor. Kulüp yöneticileri ve Türk diplomatik temsilcilikleri taraftarların serbest bırakılması için girişimlerini sürdürüyor.",
+   "bullets": [
+    "Arbede, stada erişim sağlayan metro istasyonundaki gecikme ve ardından yaşanan izdiham sonrasında çıktı.",
+    "Haberde, taraftarların polisin orantısız müdahalesi nedeniyle yaralandığı belirtildi. Taraftarlardan birinin burnunun kırıldığı aktarıldı.",
+    "Taraftarların serbest bırakılması için Fenerbahçe Kulübü yöneticileri, Türkiye'nin Londra Büyükelçiliği ve Manchester Başkonsolosluğu yetkilileri girişimlerini sürdürüyor.",
+    "Kulüp Başkan Vekili Barış Göktürk, karakolda görüşmelerin sürdüğünü söyledi. Göktürk'ün aktarılan sözlerine göre gerekirse avukat masrafları ve uçak biletleri yönetim tarafından karşılanacak.",
+    "Göktürk, konsolosluk yetkilileri ile Fenerbahçe Yönetim Kurulu'nun süreci eş zamanlı takip ettiğini belirtti.",
+    "Kaynaklarda gözaltına alınan taraftarların kimlikleri ve haklarındaki olası suçlamalar yer almıyor."
+   ],
+   "why": "Deplasmana giden Fenerbahçe taraftarlarının güvenliği ve gözaltı süreci, kulüp ve diplomatik temsilcilikler düzeyinde takip ediliyor. Taraftarların ne zaman serbest bırakılacağı ve olayla ilgili yeni açıklamalar merakla bekleniyor.",
+   "raw_summary": null,
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/aston-villa-fenerbahce-maci-oncesi-yasanan-izdihamda-2-turk-taraftar-gozaltina-alindi/4089107",
+     "published": "2026-10-14T21:11:18+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/fenerbahce/aston-villa-fenerbahce-macinda-2-taraftar-gozaltina-alindi-SXHBQ1179256SXQ",
+     "published": "2026-10-14T22:42:48+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/son-dakika-hamdi-akin-in-oglu-gozaltina-alindi-p369426",
+     "published": "2026-10-15T10:31:01+00:00"
+    }
+   ],
+   "n_sources": 3,
+   "first_published": "2026-10-14T21:11:18+00:00",
+   "last_published": "2026-10-15T10:31:01+00:00",
+   "image": {
+    "url": "https://cdn.sporx.com/img/59/2026/thumbs-b-c-4e382e488dedc2ce0e3bb78196978aff.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Sporx",
+    "credit": "Sporx",
+    "source_url": "https://www.sporx.com/futbol/superlig/fenerbahce/aston-villa-fenerbahce-macinda-2-taraftar-gozaltina-alindi-SXHBQ1179256SXQ"
+   },
+   "score": 11.96,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0127",
+   "rank": 12,
+   "key": "84a7208c77ffbc1e",
+   "title": "Fenerbahçe'nin Aston Villa'ya 6-0 yenilgisi dünya basınında geniş yankı buldu",
+   "summarized": true,
+   "intro": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin 2. haftasında deplasmanda Aston Villa'ya Villa Park'ta 6-0 yenildi. Bu ağır skor, başta İngiltere olmak üzere Avrupa basınında geniş yer buldu. İngiliz, Fransız, İspanyol ve Alman gazeteleri maçı manşetlerine taşıdı. Yayınlarda genel olarak Aston Villa'nın üstünlüğü vurgulanırken Fenerbahçe için sert ifadeler kullanıldı.",
+   "bullets": [
+    "The Mirror, Nicolas Jackson ve Barkley'nin ikişer gol attığını belirterek Türk ekibinin \"yerle bir edildiğini\" yazdı.",
+    "The Sun, Greenwood'un Fenerbahçe'sinin Villa Park'ta \"darmadağın\" edildiğini yazdı.",
+    "BBC, Fenerbahçe'nin çaresiz kaldığını aktardı; Aston Villa'nın bu sonuçla sezonun ilk iç saha galibiyetini aldığını belirtti.",
+    "The Guardian, Aston Villa'nın Şampiyonlar Ligi'ndeki en farklı galibiyet rekorunu kırdığını yazdı; Fenerbahçe'nin rakibin hücum hızı ve fiziksel üstünlüğü karşısında varlık gösteremediğini ifade etti.",
+    "The Telegraph, Aston Villa'nın maça baştan sona hâkim olduğunu aktardı.",
+    "Fransız basınında Foot Mercato ve L'Equipe Aston Villa'nın rakibini ezdiğini yazdı; So Foot ise Lyon'u eleyen Fenerbahçe'nin belki de Avrupa Ligi'nde oynamayı tercih edeceğini belirtti.",
+    "İspanyol basınında AS, Unai Emery'nin takımını Türk ekibi karşısında \"buldozer\" gibi olarak niteledi; Marca da Aston Villa'nın rakibini yıkıp geçtiğini yazdı. Kicker de ezici galibiyete yer verdi."
+   ],
+   "why": "Ağır skor, Fenerbahçe'nin Şampiyonlar Ligi'ndeki performansına yönelik tartışmaları Avrupa ölçeğine taşıdı. Taraftar açısından sonuç, takımın üst düzey Avrupa rekabetindeki yerine dair eleştirilerin ve beklentilerin yeniden gündeme gelmesi anlamına geliyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-6-0lik-yenilgi-icin-olay-baslik-attilar-dunya-fenerbahcenin-bozguna-ugradigi-maci-konusuyor-431314",
+     "published": "2026-10-15T06:17:23+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/galeri/spor/fenerbahcenin-aston-villa-yenilgisi-dunya-basininda-gundem-oldu-cok-sert-ifadeler-var-4864477",
+     "published": "2026-10-15T06:55:23+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/fenerbahce/fenerbahce-nin-hazin-maglubiyeti-avrupa-da-mansetlerde-SXHBQ1179271SXQ",
+     "published": "2026-10-15T07:10:37+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/foto/fenerbahce-nin-hezimeti-avrupa-da-mansetlerde-aston-villa-rakibini-ezdi-gecti-3919900",
+     "published": "2026-10-15T08:45:30+00:00"
+    }
+   ],
+   "n_sources": 4,
+   "first_published": "2026-10-15T06:17:23+00:00",
+   "last_published": "2026-10-15T08:45:30+00:00",
+   "image": {
+    "url": "https://img.piri.net/piri/upload/3/2026/10/15/2ec0e96a-fenerbahcenin-aston-villa-yenilgisi-dunya-basininda-gundem.webp",
+    "kind": "source",
+    "label": "Fotoğraf: Yeni Şafak",
+    "credit": "Yeni Şafak",
+    "source_url": "https://www.yenisafak.com/galeri/spor/fenerbahcenin-aston-villa-yenilgisi-dunya-basininda-gundem-oldu-cok-sert-ifadeler-var-4864477"
+   },
+   "score": 6.67,
+   "importance": 5,
+   "popular": true
+  },
+  {
+   "id": "s0069",
+   "rank": 13,
+   "key": "fd42487776ddcd0a",
+   "title": "Trabzonspor, orta saha için Spartak Moskova'nın Gedson Fernandes'iyle ilgileniyor",
+   "summarized": true,
+   "intro": "Trabzonspor'un, ara transfer döneminde orta sahasını güçlendirmek için Spartak Moskova forması giyen Portekizli futbolcu Gedson Fernandes için harekete geçtiği aktarıldı. Fotomaç'ın haberine dayanan kaynaklara göre teknik direktör Thomas Reis'in de onay vermesinin ardından bordo-mavili yönetim, Rus kulübüyle ilk teması kurdu. 27 yaşındaki oyuncunun Spartak Moskova'dan ayrılmak istediğini yönetime bildirdiği belirtiliyor. Trabzonspor'un transferi devre arasında sonuçlandırmak istediği ifade ediliyor. Haberler resmi bir anlaşma ya da açıklama içermiyor, görüşmelerin başlangıç aşamasında olduğu anlaşılıyor.",
+   "bullets": [
+    "Gedson Fernandes'in Spartak Moskova ile sözleşmesi Haziran 2029'a kadar sürüyor. Güncel piyasa değeri 18 milyon euro olarak gösteriliyor.",
+    "Spartak Moskova oyuncu için 18 milyon euro talep ediyor. Trabzonspor, oyuncunun ayrılma isteğini göz önünde bulundurarak daha düşük bir rakamla anlaşmayı planlıyor.",
+    "Trabzonspor'un listesinde Midtjylland'dan Phillip Billing de var ve kaynaklarda güçlü aday olarak anılıyor.",
+    "Merkez orta saha oyuncusu aynı zamanda sağ kanatta da görev yapabiliyor. Bordo-mavili takımda oynamaya olumlu baktığı belirtiliyor.",
+    "Fernandes bu sezon Spartak Moskova ile Premier Liga'da 9 maça çıktı ve 1 gol attı. Rusya Kupası'nda 2 maçta forma giyip 1 asist yaptı.",
+    "Portekizli oyuncu Süper Lig'de Galatasaray, Beşiktaş ve Çaykur Rizespor formalarını giydi. Türkiye'yi ve ligi tanıması, Trabzonspor'un tercihinde önemli etken olarak gösteriliyor.",
+    "Yönetimin ocak transfer dönemi öncesinde Fernandes ile temaslarını sürdüreceği belirtiliyor. Oyuncunun görüşmeleri heyecanla takip ettiği aktarılıyor."
+   ],
+   "why": "Trabzonspor taraftarı için orta saha takviyesi, teknik direktör Reis'in isteği doğrultusunda ocak döneminin öncelikli başlıklarından biri görünüyor. Süper Lig'i tanıyan bir oyuncunun gündemde olması uyum süreci açısından avantaj olarak değerlendiriliyor. Ancak bonservis pazarlığı ve alternatif isimler nedeniyle sürecin nasıl sonuçlanacağı henüz belli değil.",
+   "raw_summary": null,
+   "category": "transfer",
+   "category_name": "Transfer",
+   "status": "soylenti",
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/trabzonspor/2026/10/15/trabzonsporda-hedef-gedson-fernandes-resmi-temaslar-basladi",
+     "published": "2026-10-15T03:40:51+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/trabzonspor/trabzonspor-dan-gedson-fernandes-harekati-SXHBQ1179287SXQ",
+     "published": "2026-10-15T09:19:10+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-10-15T03:40:51+00:00",
+   "last_published": "2026-10-15T09:19:10+00:00",
+   "image": {
+    "url": "https://iaaspr.tmgrup.com.tr/a67260/1200/675/0/0/730/411?u=https://iftm.tmgrup.com.tr/2026/10/14/gedson-temasi-1792008732852.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: A Spor",
+    "credit": "A Spor",
+    "source_url": "https://www.aspor.com.tr/trabzonspor/2026/10/15/trabzonsporda-hedef-gedson-fernandes-resmi-temaslar-basladi"
+   },
+   "score": 6.85,
+   "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0003",
+   "rank": 14,
+   "key": "32cd1120ed63ea10",
+   "title": "PSG, Manchester City deplasmanında 4-2 kazandı",
+   "summarized": true,
+   "intro": "UEFA Şampiyonlar Ligi'nin 2. haftasında Manchester City, sahasında PSG'ye 4-2 yenildi. Konuk ekip ilk yarıyı 3-0 önde kapattı. İkinci yarıda Manchester City Haaland'ın golleriyle geri dönmeye çalıştı ancak PSG farkı korudu. Bu sonuçla PSG, lig etabında iki maçta iki galibiyet aldı.",
+   "bullets": [
+    "PSG'nin gollerini ilk yarıda 13. dakikada Doue, 15. dakikada Dembele ve 32. dakikada Vitinha attı; takım soyunma odasına 3-0 önde gitti.",
+    "Manchester City ikinci yarıya daha iyi başladı. Haaland 53. dakikada skoru 3-1'e getirdi.",
+    "Akliouche'nin 62. dakikadaki golü, ev sahibinin geri dönüş umutlarını zayıflattı.",
+    "Haaland 75. dakikada ikinci golünü attı ve skor 4-2 oldu. Bu, maçın son golü olarak aktarıldı.",
+    "PSG, son iki sezonun Avrupa şampiyonu olarak anılıyor. Takımın bir sonraki rakibi üçüncü maçında Barcelona olacak; karşılaşma PSG'nin sahasında oynanacak.",
+    "PSG, lig etabının son maçında 27 Ocak'ta evinde Galatasaray'ı ağırlayacak.",
+    "Manchester City, Porto galibiyetinin ardından bu yenilgiyi aldı. Üçüncü maçında deplasmanda AEK ile oynayacak."
+   ],
+   "why": "Galatasaray taraftarı için PSG'nin ilk iki maçı kazanarak yükselen performansı, lig etabının son haftasında oynanacak 27 Ocak'taki karşılaşma açısından önem taşıyor. Manchester City ise ilk yenilgisinin ardından AEK deplasmanında puan kaybetmemek isteyecek.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "psg",
+     "name": "PSG"
+    },
+    {
+     "slug": "man-city",
+     "name": "Manchester City"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "ligue-1",
+     "name": "Ligue 1"
+    },
+    {
+     "slug": "premier-lig",
+     "name": "Premier Lig"
+    },
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/manchester-cityye-konuk-olan-psg-ilk-yarida-3-gol-atti-736649",
+     "published": "2026-10-14T20:56:44+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/psg-manchester-cityyi-4-golle-gecti-33596897",
+     "published": "2026-10-14T21:47:00+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-10-14T20:56:44+00:00",
+   "last_published": "2026-10-14T21:47:00+00:00",
+   "image": {
+    "url": "https://cdn.ajansspor.com/ajansspor/photo/2026/10/8eb7faa7-be4b-4de3-88d2-6f13042be4d3.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Ajansspor",
+    "credit": "Ajansspor",
+    "source_url": "https://ajansspor.com/haber/manchester-cityye-konuk-olan-psg-ilk-yarida-3-gol-atti-736649"
+   },
+   "score": 4.81,
+   "importance": 7,
+   "popular": false
+  },
+  {
+   "id": "s0094",
+   "rank": 15,
+   "key": "4c2ace6630151fdc",
+   "title": "Süper Lig'de 8. hafta yarın Çorum'da oynanacak maçla başlıyor",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'de 8. hafta, yarın oynanacak tek maçla start alacak. Haftanın açılış karşılaşmasında Arca Çorum FK, Çaykur Rizespor'u Çorum Şehir Stadı'nda konuk edecek. Maç saat 20.00'de başlayacak. Türkiye Futbol Federasyonunun açıkladığı programa göre hafta, 19 Ekim Pazartesi günü oynanacak Trabzonspor-Beşiktaş maçıyla tamamlanacak.",
+   "bullets": [
+    "Haftanın açılış maçı yarın saat 20.00'de Çorum Şehir Stadı'nda oynanacak: Arca Çorum FK-Çaykur Rizespor.",
+    "17 Ekim Cumartesi günü dört maç var: Erzurumspor FK-Eyüpspor 13.30'da, Gençlerbirliği-Galatasaray ile Amed Sportif Faaliyetler-TÜMOSAN Konyaspor 16.00'da, Fenerbahçe-Corendon Alanyaspor 19.00'da oynanacak.",
+    "Galatasaray'ın deplasman maçı Eryaman'da, Gençlerbirliği karşısında saat 16.00'da yapılacak.",
+    "Fenerbahçe-Corendon Alanyaspor maçı Cumartesi günü saat 19.00'da Chobani Stadı'nda oynanacak.",
+    "18 Ekim Pazar günü Kasımpaşa-Samsunspor 13.30'da, Kocaelispor-Göztepe 16.00'da, İstanbul Başakşehir-Gaziantep FK 19.00'da oynanacak.",
+    "Pazar günkü Başakşehir-Gaziantep FK maçı Başakşehir Fatih Terim Stadı'nda, Kasımpaşa-Samsunspor ise Recep Tayyip Erdoğan Stadı'nda yapılacak.",
+    "Haftanın son maçı 19 Ekim Pazartesi saat 20.00'de Papara Park'ta Trabzonspor ile Beşiktaş arasında oynanacak."
+   ],
+   "why": "Taraftarlar, 8. haftanın maç gün ve saatlerini önceden görerek planlarını yapabilir. Haftanın kapanış maçı Trabzonspor-Beşiktaş karşılaşması olacak; Galatasaray ve Fenerbahçe de hafta sonu sahaya çıkacak.",
+   "raw_summary": null,
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": "resmi",
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/super-ligde-8-haftanin-perdesi-yarin-acilacak/4089194",
+     "published": "2026-10-15T06:01:09+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/super-ligde-8-haftanin-perdesi-aciliyor-33600650",
+     "published": "2026-10-15T06:16:00+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/super-ligde-8-haftanin-perdesi-yarin-acilacak-iste-program-736665",
+     "published": "2026-10-15T06:45:46+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/super-ligde-8-haftanin-perdesi-yarin-acilacak-43342341",
+     "published": "2026-10-15T07:28:22+00:00"
+    }
+   ],
+   "n_sources": 4,
+   "first_published": "2026-10-15T06:01:09+00:00",
+   "last_published": "2026-10-15T07:28:22+00:00",
+   "image": {
+    "url": "https://cdn.ajansspor.com/ajansspor/photo/2026/10/1d6bd569-666d-42f9-baf6-414214581ec0.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Ajansspor",
+    "credit": "Ajansspor",
+    "source_url": "https://ajansspor.com/haber/super-ligde-8-haftanin-perdesi-yarin-acilacak-iste-program-736665"
+   },
+   "score": 5.77,
+   "importance": 4,
+   "popular": false
+  },
+  {
+   "id": "s0185",
+   "rank": 16,
+   "key": "4b83faeec6738f4f",
+   "title": "Beşiktaş, Avrupa Ligi'nde Hoffenheim deplasmanında; üç eksik var",
+   "summarized": true,
+   "intro": "Beşiktaş, UEFA Avrupa Ligi'nin ikinci haftasında Almanya'da Hoffenheim'a konuk oluyor. Karşılaşma Rhein-Neckar-Arena'da TSİ 22.00'de başlayacak ve TRT 1'den canlı yayımlanacak. Teknik direktör Vincenzo Italiano yönetimindeki siyah-beyazlılar, ilk haftada Olimpik Marsilya'yı 4-1 yenmişti ve ikinci galibiyetini arıyor. Takım, Vaclav Cerny, Milot Rashica ve Dusan Vlahovic'in yokluğunda sahaya çıkacak.",
+   "bullets": [
+    "Maçı Belçikalı hakem Lawrence Visser yönetecek.",
+    "Cerny, Süper Lig'in 7. haftasındaki Kocaelispor maçında sakatlandı. Sol uyluk arka adalesinde gerilme ve ödem tespit edildi, Almanya'ya götürülmeyecek.",
+    "Tedavisi süren Milot Rashica da maçta forma giyemeyecek.",
+    "Mide rahatsızlığı nedeniyle serum tedavisi gören Vlahovic son antrenmana katılamadı ve kamp kadrosuna alınmadı.",
+    "Muhtemel 11'de Beşiktaş: Nübel, Murillo, Agbadou, Emirhan, Rıdvan, Salih, Poku, Olaitan, Orkun, Trossard, Oh. Hoffenheim: Baumann, Coufal, Ozan, Machida, Rots, Avdullahu, Burger, Conte, De Cat, Hlozek, Lemperle.",
+    "Kaptan Orkun Kökçü bu sezon 13 maçta 5 gol attı ve takımın önemli hücum silahlarından biri oldu.",
+    "Beşiktaş bu sezon Avrupa'da 7 maçta 6 galibiyet aldı, 12 gol attı, 2 gol yedi. Tek yenilgi Kauno Zalgiris'e rövanşta 1-0 oldu; ilk maç 3-0 kazanılmıştı. Midtjylland ve Hradec Kralove elendi.",
+    "Hoffenheim maçı Beşiktaş'ın Avrupa'daki 266. karşılaşması olacak. Önceki 265 maçta 103 galibiyet, 50 beraberlik, 112 mağlubiyet var; 360 gol atıldı, 397 gol yendi."
+   ],
+   "why": "Beşiktaş, Avrupa Ligi lig aşamasında üst üste ikinci galibiyet için deplasmanda zorlu bir sınav verecek. Cerny, Rashica ve Vlahovic'in yokluğu Italiano'nun kadro seçimlerini ve hücum hattını belirleyecek. İyi gidişi sürdürmesi, takımın Avrupa'daki konumu açısından taraftar için önem taşıyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "belirsiz",
+   "clubs": [
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "avrupa-ligi",
+     "name": "Avrupa Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Takvim",
+     "url": "https://www.takvim.com.tr/spor/besiktas/2026/10/15/besiktas-avrupada-hoffenheim-deplasmaninda",
+     "published": "2026-10-15T09:21:50+00:00"
+    }
+   ],
+   "n_sources": 1,
+   "first_published": "2026-10-15T09:21:50+00:00",
+   "last_published": "2026-10-15T09:21:50+00:00",
+   "image": {
+    "path": "pool/mac-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 3.85,
+   "importance": 7,
+   "popular": false
+  }
+ ]
+}
