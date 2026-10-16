@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-16T10:43:27+00:00",
+ "generated_at": "2026-10-16T13:43:12+00:00",
  "edition": "2026-10-16-guncel",
  "items": [
   {
-   "key": "3c2f2b41c24b2997",
-   "story_id": "s0112",
-   "title": "Galatasaray'da Gençlerbirliği deplasmanı öncesi Renato Nhaga ilk 11 adayı",
-   "category": "mac",
-   "prompt": "Wide view of an empty stadium bowl at night seen from the top row, rows of empty seats in yellow and red colors filling the foreground, the pitch far below softly blurred in light haze. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "ed133e65aa3b991c",
+   "story_id": "s0016",
+   "title": "Avrupa maçları sonrası UEFA ülke puanı güncellendi, Türkiye 9. sırada",
+   "category": "diger",
+   "prompt": "A knitted scarf in black and white colors tied to the railing of an empty stadium stand at dusk, floodlights starting to glow. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1499630932,
+   "seed": 691025293,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,7 +18,41 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/3c2f2b41c24b2997.png"
+   "out": "s/ed133e65aa3b991c.png"
+  },
+  {
+   "key": "e21d8be15b3489c8",
+   "story_id": "s0093",
+   "title": "217 numaralı loca davasında mahkemeden dördüncü ret ve soruşturma kararı",
+   "category": "yonetim",
+   "prompt": "A quiet boardroom at night with leather chairs around a polished table, a classic black-and-white football with plain unmarked panels resting on the table, city lights outside the window. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1609839565,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/e21d8be15b3489c8.png"
+  },
+  {
+   "key": "b08951dfc441536f",
+   "story_id": "s0129",
+   "title": "Beşiktaş, Hoffenheim deplasmanında 3-2 kazanarak Avrupa Ligi'nde 6 puana ulaştı",
+   "category": "mac",
+   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of black and white color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 289280889,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/b08951dfc441536f.png"
   }
  ]
 }
