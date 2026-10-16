@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-16T21:23:15+00:00",
+ "generated_at": "2026-10-16T23:24:16+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -506,98 +506,7 @@
    "last_round": 10,
    "next_round": 11,
    "current_round": 10,
-   "standings": [
-    {
-     "rank": 1,
-     "team": {
-      "name": "Kayserispor",
-      "club": null
-     },
-     "played": 10,
-     "win": 8,
-     "draw": 1,
-     "loss": 1,
-     "gf": 22,
-     "ga": 5,
-     "gd": 17,
-     "points": 25,
-     "form": "WWWWW",
-     "group": "Lig A",
-     "updated": "2026-10-16 14:41:09"
-    },
-    {
-     "rank": 2,
-     "team": {
-      "name": "Bursaspor",
-      "club": null
-     },
-     "played": 10,
-     "win": 7,
-     "draw": 1,
-     "loss": 2,
-     "gf": 20,
-     "ga": 9,
-     "gd": 11,
-     "points": 22,
-     "form": "WLWDW",
-     "group": "Lig A",
-     "updated": "2026-10-16 14:41:09"
-    },
-    {
-     "rank": 3,
-     "team": {
-      "name": "Iğdır",
-      "club": null
-     },
-     "played": 10,
-     "win": 6,
-     "draw": 2,
-     "loss": 2,
-     "gf": 14,
-     "ga": 8,
-     "gd": 6,
-     "points": 20,
-     "form": "DWDWW",
-     "group": "Lig A",
-     "updated": "2026-10-16 14:41:09"
-    },
-    {
-     "rank": 4,
-     "team": {
-      "name": "Batman Petrolspor",
-      "club": null
-     },
-     "played": 10,
-     "win": 6,
-     "draw": 1,
-     "loss": 3,
-     "gf": 20,
-     "ga": 17,
-     "gd": 3,
-     "points": 19,
-     "form": "WLLLW",
-     "group": "Lig A",
-     "updated": "2026-10-16 14:41:09"
-    },
-    {
-     "rank": 5,
-     "team": {
-      "name": "Mardin 1969",
-      "club": null
-     },
-     "played": 10,
-     "win": 5,
-     "draw": 3,
-     "loss": 2,
-     "gf": 12,
-     "ga": 6,
-     "gd": 6,
-     "points": 18,
-     "form": "WWLLW",
-     "group": "Lig A",
-     "updated": "2026-10-16 14:41:09"
-    }
-   ],
+   "standings": [],
    "standings_limited": true,
    "rounds": [
     {
@@ -2459,7 +2368,7 @@
      "points": 16,
      "form": "WDWWW",
      "group": "Serie A",
-     "updated": "2026-10-16 14:36:57"
+     "updated": "2026-10-16 22:46:02"
     },
     {
      "rank": 2,
@@ -2477,7 +2386,7 @@
      "points": 16,
      "form": "WWDWW",
      "group": "Serie A",
-     "updated": "2026-10-16 14:36:57"
+     "updated": "2026-10-16 22:46:02"
     },
     {
      "rank": 3,
@@ -2495,10 +2404,28 @@
      "points": 14,
      "form": "DDWWW",
      "group": "Serie A",
-     "updated": "2026-10-16 14:36:57"
+     "updated": "2026-10-16 22:46:02"
     },
     {
      "rank": 4,
+     "team": {
+      "name": "Frosinone",
+      "club": null
+     },
+     "played": 7,
+     "win": 4,
+     "draw": 1,
+     "loss": 2,
+     "gf": 13,
+     "ga": 9,
+     "gd": 4,
+     "points": 13,
+     "form": "WLWDW",
+     "group": "Serie A",
+     "updated": "2026-10-16 22:46:02"
+    },
+    {
+     "rank": 5,
      "team": {
       "name": "Cagliari",
       "club": null
@@ -2513,25 +2440,7 @@
      "points": 13,
      "form": "DWWWL",
      "group": "Serie A",
-     "updated": "2026-10-16 14:36:57"
-    },
-    {
-     "rank": 5,
-     "team": {
-      "name": "AC Milan",
-      "club": "milan"
-     },
-     "played": 6,
-     "win": 3,
-     "draw": 3,
-     "loss": 0,
-     "gf": 11,
-     "ga": 5,
-     "gd": 6,
-     "points": 12,
-     "form": "DWDDW",
-     "group": "Serie A",
-     "updated": "2026-10-16 14:36:57"
+     "updated": "2026-10-16 22:46:02"
     }
    ],
    "standings_limited": true,
@@ -2989,7 +2898,7 @@
      "points": 13,
      "form": "WDWWW",
      "group": "Bundesliga",
-     "updated": "2026-10-16 14:36:57"
+     "updated": "2026-10-16 22:46:02"
     },
     {
      "rank": 2,
@@ -3007,7 +2916,7 @@
      "points": 13,
      "form": "DWWWW",
      "group": "Bundesliga",
-     "updated": "2026-10-16 14:36:57"
+     "updated": "2026-10-16 22:46:02"
     },
     {
      "rank": 3,
@@ -3025,7 +2934,7 @@
      "points": 11,
      "form": "DWWDW",
      "group": "Bundesliga",
-     "updated": "2026-10-16 14:36:57"
+     "updated": "2026-10-16 22:46:02"
     },
     {
      "rank": 4,
@@ -3043,7 +2952,7 @@
      "points": 10,
      "form": "WWDWL",
      "group": "Bundesliga",
-     "updated": "2026-10-16 14:36:57"
+     "updated": "2026-10-16 22:46:02"
     },
     {
      "rank": 5,
@@ -3061,7 +2970,7 @@
      "points": 9,
      "form": "WLWLW",
      "group": "Bundesliga",
-     "updated": "2026-10-16 14:36:57"
+     "updated": "2026-10-16 22:46:02"
     }
    ],
    "standings_limited": true,
@@ -4937,9 +4846,12 @@
         "name": "Hapoel Be'er Sheva",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 1
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "AFAS Stadion Alkmaar"
       },
       {
@@ -4956,9 +4868,12 @@
         "name": "Omonia Nicosia",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 3
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadion Z'dežele"
       },
       {
@@ -4975,9 +4890,12 @@
         "name": "Bayer Leverkusen",
         "club": "leverkusen"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 4
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "ENEA Stadion"
       },
       {
@@ -4994,9 +4912,12 @@
         "name": "Crystal Palace",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 3,
+        "away": 2
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Groupama Stadium"
       },
       {
@@ -5013,9 +4934,12 @@
         "name": "AC Milan",
         "club": "milan"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 4
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Red Bull Arena Salzburg"
       },
       {
@@ -5032,9 +4956,12 @@
         "name": "Lillestrøm",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 1
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "epet ARENA"
       },
       {
@@ -5051,9 +4978,12 @@
         "name": "Sunderland",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 2
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estádio Dr. Magalhães Pessoa"
       },
       {
@@ -5070,9 +5000,12 @@
         "name": "Real Sociedad",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 1
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "King Power at Den Dreef Stadion"
       },
       {
@@ -5089,9 +5022,12 @@
         "name": "Celtic",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 4,
+        "away": 1
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estádio da Luz"
       },
       {
@@ -5108,9 +5044,12 @@
         "name": "Sturm Graz",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 3,
+        "away": 0
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Vitality Stadium"
       },
       {
@@ -5127,9 +5066,12 @@
         "name": "Juventus",
         "club": "juventus"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 2
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estadio Abanca-Balaídos"
       },
       {
@@ -5146,9 +5088,12 @@
         "name": "Anderlecht",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 0
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadion Maksimir"
       },
       {
@@ -5165,9 +5110,12 @@
         "name": "Viktoria Plzeň",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 1
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Groupama Aréna"
       },
       {
@@ -5184,9 +5132,12 @@
         "name": "Beşiktaş",
         "club": "besiktas"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 3
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "PreZero Arena"
       },
       {
@@ -5203,9 +5154,12 @@
         "name": "Ararat-Armenia",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 3,
+        "away": 1
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Chorten Arena"
       },
       {
@@ -5222,9 +5176,12 @@
         "name": "Olympiacos",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 1
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Orange Vélodrome"
       },
       {
@@ -5241,9 +5198,12 @@
         "name": "Levski Sofia",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 1
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Goffertstadion"
       },
       {
@@ -5260,9 +5220,12 @@
         "name": "OFI",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 1
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Roazhon Park"
       }
      ]
