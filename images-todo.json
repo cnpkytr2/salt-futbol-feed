@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-17T10:43:50+00:00",
+ "generated_at": "2026-10-17T13:43:27+00:00",
  "edition": "2026-10-17-guncel",
  "items": [
   {
-   "key": "edf740d3bd0e0e2f",
-   "story_id": "s0140",
-   "title": "Mourinho, Sevilla maçı öncesi Arda Güler sorusuna sert yanıt verdi",
-   "category": "teknik",
-   "prompt": "A football head coach in a dark overcoat seen from directly behind at the edge of an empty floodlit pitch with arms crossed, empty stands with all white seats softly blurred behind him. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "d09ff932c644dae8",
+   "story_id": "s0047",
+   "title": "Chelsea kalecisi Martinez, Everton maçında kafasına darbe alıp sedyeyle çıktı",
+   "category": "sakatlik",
+   "prompt": "Neatly rolled white bandages, a blue ice pack and a folded white towel on a padded physiotherapy table in an empty, softly lit treatment room. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 23756138,
+   "seed": 417001768,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,16 +18,16 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/edf740d3bd0e0e2f.png"
+   "out": "s/d09ff932c644dae8.png"
   },
   {
-   "key": "aafc22b9d17b986d",
-   "story_id": "s0170",
-   "title": "Manchester United'ın 16 yaşındaki JJ Gabriel ayrılık talebinde bulundu",
-   "category": "transfer",
-   "prompt": "A traveller in a dark coat seen from directly behind at a large airport window at night, a travel bag on the shoulder and a knitted scarf in red colors around the neck, runway lights softly blurred outside. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "56f1e14028dfe406",
+   "story_id": "s0032",
+   "title": "Fenerbahçe'de Lukaku'nun Alanyaspor maçındaki durumu maç saatinde belli olacak",
+   "category": "mac",
+   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of yellow and navy blue color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 14579576,
+   "seed": 1262654942,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -35,14 +35,14 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/aafc22b9d17b986d.png"
+   "out": "s/56f1e14028dfe406.png"
   },
   {
    "key": "522c45365bcc7848",
-   "story_id": "s0126",
+   "story_id": "s0080",
    "title": "Fenerbahçe, Süper Lig 8. haftada Alanyaspor'u Chobani Stadı'nda ağırlıyor",
    "category": "mac",
-   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of yellow and navy blue color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of orange and green color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
    "seed": 716521985,
    "model": "z_image_turbo_1.0_i8x.ckpt",
@@ -53,6 +53,23 @@
    "steps": 8,
    "cfg_scale": 1.0,
    "out": "s/522c45365bcc7848.png"
+  },
+  {
+   "key": "28e0caa0c8e96378",
+   "story_id": "s0073",
+   "title": "Gençlerbirliği - Galatasaray maçı bugün 16.00'da: eksikler ve genel durum",
+   "category": "mac",
+   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of red and black color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1314116622,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/28e0caa0c8e96378.png"
   }
  ]
 }
