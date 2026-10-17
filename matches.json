@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-17T15:22:56+00:00",
+ "generated_at": "2026-10-17T17:22:58+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -24,20 +24,38 @@
       "name": "Galatasaray",
       "club": "galatasaray"
      },
-     "played": 7,
-     "win": 5,
+     "played": 8,
+     "win": 6,
      "draw": 1,
      "loss": 1,
-     "gf": 16,
+     "gf": 17,
      "ga": 11,
-     "gd": 5,
-     "points": 16,
-     "form": "WLWWW",
+     "gd": 6,
+     "points": 19,
+     "form": "WWLWW",
      "group": "Süper Lig",
-     "updated": "2026-10-17 11:02:51"
+     "updated": "2026-10-17 17:03:29"
     },
     {
      "rank": 2,
+     "team": {
+      "name": "Amed",
+      "club": "amedspor"
+     },
+     "played": 8,
+     "win": 5,
+     "draw": 2,
+     "loss": 1,
+     "gf": 18,
+     "ga": 9,
+     "gd": 9,
+     "points": 17,
+     "form": "WDWWD",
+     "group": "Süper Lig",
+     "updated": "2026-10-17 17:03:29"
+    },
+    {
+     "rank": 3,
      "team": {
       "name": "Beşiktaş",
       "club": "besiktas"
@@ -52,25 +70,7 @@
      "points": 15,
      "form": "WLWWW",
      "group": "Süper Lig",
-     "updated": "2026-10-17 11:02:51"
-    },
-    {
-     "rank": 3,
-     "team": {
-      "name": "Amed",
-      "club": "amedspor"
-     },
-     "played": 7,
-     "win": 4,
-     "draw": 2,
-     "loss": 1,
-     "gf": 17,
-     "ga": 9,
-     "gd": 8,
-     "points": 14,
-     "form": "DWWDW",
-     "group": "Süper Lig",
-     "updated": "2026-10-17 11:02:51"
+     "updated": "2026-10-17 17:03:29"
     },
     {
      "rank": 4,
@@ -88,7 +88,7 @@
      "points": 13,
      "form": "WWDLW",
      "group": "Süper Lig",
-     "updated": "2026-10-17 11:02:51"
+     "updated": "2026-10-17 17:03:29"
     },
     {
      "rank": 5,
@@ -106,7 +106,7 @@
      "points": 13,
      "form": "WWLWL",
      "group": "Süper Lig",
-     "updated": "2026-10-17 11:02:51"
+     "updated": "2026-10-17 17:03:29"
     }
    ],
    "standings_limited": true,
@@ -421,9 +421,12 @@
         "name": "Alanyaspor",
         "club": "alanyaspor"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Chobani Stadyumu"
       },
       {
@@ -532,7 +535,7 @@
      "points": 25,
      "form": "WWWWW",
      "group": "Lig A",
-     "updated": "2026-10-17 11:01:49"
+     "updated": "2026-10-17 18:02:44"
     },
     {
      "rank": 2,
@@ -550,7 +553,7 @@
      "points": 22,
      "form": "WLWDW",
      "group": "Lig A",
-     "updated": "2026-10-17 11:01:49"
+     "updated": "2026-10-17 18:02:44"
     },
     {
      "rank": 3,
@@ -568,7 +571,7 @@
      "points": 20,
      "form": "DWDWW",
      "group": "Lig A",
-     "updated": "2026-10-17 11:01:49"
+     "updated": "2026-10-17 18:02:44"
     },
     {
      "rank": 4,
@@ -586,7 +589,7 @@
      "points": 19,
      "form": "WLLLW",
      "group": "Lig A",
-     "updated": "2026-10-17 11:01:49"
+     "updated": "2026-10-17 18:02:44"
     },
     {
      "rank": 5,
@@ -604,7 +607,7 @@
      "points": 18,
      "form": "WWLLW",
      "group": "Lig A",
-     "updated": "2026-10-17 11:01:49"
+     "updated": "2026-10-17 18:02:44"
     }
    ],
    "standings_limited": true,
@@ -875,9 +878,12 @@
         "name": "Bandırmaspor",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Bodrum İlçe Stadyumu"
       },
       {
@@ -1816,7 +1822,7 @@
      "points": 24,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-17 10:46:08"
+     "updated": "2026-10-17 16:46:13"
     },
     {
      "rank": 2,
@@ -1824,17 +1830,17 @@
       "name": "Atlético Madrid",
       "club": "atletico"
      },
-     "played": 8,
-     "win": 6,
+     "played": 9,
+     "win": 7,
      "draw": 1,
      "loss": 1,
-     "gf": 18,
+     "gf": 19,
      "ga": 8,
-     "gd": 10,
-     "points": 19,
-     "form": "WWWWL",
+     "gd": 11,
+     "points": 22,
+     "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-17 10:46:08"
+     "updated": "2026-10-17 16:46:13"
     },
     {
      "rank": 3,
@@ -1852,7 +1858,7 @@
      "points": 19,
      "form": "WDWWW",
      "group": "Primera División",
-     "updated": "2026-10-17 10:46:08"
+     "updated": "2026-10-17 16:46:13"
     },
     {
      "rank": 4,
@@ -1870,7 +1876,7 @@
      "points": 18,
      "form": "WLWWL",
      "group": "Primera División",
-     "updated": "2026-10-17 10:46:08"
+     "updated": "2026-10-17 16:46:13"
     },
     {
      "rank": 5,
@@ -1888,7 +1894,7 @@
      "points": 14,
      "form": "DLWWD",
      "group": "Primera División",
-     "updated": "2026-10-17 10:46:08"
+     "updated": "2026-10-17 16:46:13"
     }
    ],
    "standings_limited": true,
@@ -2185,8 +2191,8 @@
         "home": 0,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "HT",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estadio de la Cerámica"
       },
       {
@@ -2203,9 +2209,12 @@
         "name": "Barcelona",
         "club": "barcelona"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 2
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Estadio de La Cartuja"
       },
       {
@@ -2352,7 +2361,7 @@
      "points": 16,
      "form": "WDWWW",
      "group": "Serie A",
-     "updated": "2026-10-17 01:46:01"
+     "updated": "2026-10-17 16:46:13"
     },
     {
      "rank": 2,
@@ -2370,7 +2379,7 @@
      "points": 16,
      "form": "WWDWW",
      "group": "Serie A",
-     "updated": "2026-10-17 01:46:01"
+     "updated": "2026-10-17 16:46:13"
     },
     {
      "rank": 3,
@@ -2388,7 +2397,7 @@
      "points": 14,
      "form": "DDWWW",
      "group": "Serie A",
-     "updated": "2026-10-17 01:46:01"
+     "updated": "2026-10-17 16:46:13"
     },
     {
      "rank": 4,
@@ -2406,7 +2415,7 @@
      "points": 13,
      "form": "WLWDW",
      "group": "Serie A",
-     "updated": "2026-10-17 01:46:01"
+     "updated": "2026-10-17 16:46:13"
     },
     {
      "rank": 5,
@@ -2424,7 +2433,7 @@
      "points": 13,
      "form": "DWWWL",
      "group": "Serie A",
-     "updated": "2026-10-17 01:46:01"
+     "updated": "2026-10-17 16:46:13"
     }
    ],
    "standings_limited": true,
@@ -2717,9 +2726,12 @@
         "name": "Inter Milan",
         "club": "inter"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Stadio Renato Dall'Ara"
       },
       {
@@ -3697,11 +3709,11 @@
         "club": "psg"
        },
        "score": {
-        "home": 0,
-        "away": 0
+        "home": 1,
+        "away": 3
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stade de la Meinau"
       },
       {
@@ -3849,7 +3861,7 @@
    "tsdb_id": 4480,
    "last_round": 2,
    "next_round": 3,
-   "current_round": 2,
+   "current_round": 3,
    "standings": [],
    "standings_limited": true,
    "rounds": [
