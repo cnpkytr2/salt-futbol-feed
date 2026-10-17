@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-17T19:22:57+00:00",
+ "generated_at": "2026-10-17T21:23:00+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -535,7 +535,7 @@
      "points": 25,
      "form": "WWWWW",
      "group": "Lig A",
-     "updated": "2026-10-17 18:02:44"
+     "updated": "2026-10-17 21:03:12"
     },
     {
      "rank": 2,
@@ -553,7 +553,7 @@
      "points": 22,
      "form": "WLWDW",
      "group": "Lig A",
-     "updated": "2026-10-17 18:02:44"
+     "updated": "2026-10-17 21:03:12"
     },
     {
      "rank": 3,
@@ -571,7 +571,7 @@
      "points": 20,
      "form": "DWDWW",
      "group": "Lig A",
-     "updated": "2026-10-17 18:02:44"
+     "updated": "2026-10-17 21:03:12"
     },
     {
      "rank": 4,
@@ -589,7 +589,7 @@
      "points": 19,
      "form": "WLLLW",
      "group": "Lig A",
-     "updated": "2026-10-17 18:02:44"
+     "updated": "2026-10-17 21:03:12"
     },
     {
      "rank": 5,
@@ -607,7 +607,7 @@
      "points": 18,
      "form": "WWLLW",
      "group": "Lig A",
-     "updated": "2026-10-17 18:02:44"
+     "updated": "2026-10-17 21:03:12"
     }
    ],
    "standings_limited": true,
@@ -1812,17 +1812,17 @@
       "name": "Barcelona",
       "club": "barcelona"
      },
-     "played": 8,
-     "win": 8,
+     "played": 9,
+     "win": 9,
      "draw": 0,
      "loss": 0,
-     "gf": 34,
-     "ga": 7,
-     "gd": 27,
-     "points": 24,
+     "gf": 39,
+     "ga": 9,
+     "gd": 30,
+     "points": 27,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-17 18:46:08"
+     "updated": "2026-10-17 20:46:06"
     },
     {
      "rank": 2,
@@ -1840,7 +1840,7 @@
      "points": 22,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-17 18:46:08"
+     "updated": "2026-10-17 20:46:06"
     },
     {
      "rank": 3,
@@ -1848,17 +1848,17 @@
       "name": "Real Betis",
       "club": null
      },
-     "played": 8,
+     "played": 9,
      "win": 6,
      "draw": 1,
-     "loss": 1,
-     "gf": 14,
-     "ga": 9,
-     "gd": 5,
+     "loss": 2,
+     "gf": 16,
+     "ga": 14,
+     "gd": 2,
      "points": 19,
-     "form": "WDWWW",
+     "form": "LWDWW",
      "group": "Primera División",
-     "updated": "2026-10-17 18:46:08"
+     "updated": "2026-10-17 20:46:06"
     },
     {
      "rank": 4,
@@ -1876,7 +1876,7 @@
      "points": 18,
      "form": "WLWWL",
      "group": "Primera División",
-     "updated": "2026-10-17 18:46:08"
+     "updated": "2026-10-17 20:46:06"
     },
     {
      "rank": 5,
@@ -1894,7 +1894,7 @@
      "points": 14,
      "form": "DLWWD",
      "group": "Primera División",
-     "updated": "2026-10-17 18:46:08"
+     "updated": "2026-10-17 20:46:06"
     }
    ],
    "standings_limited": true,
@@ -2235,8 +2235,8 @@
         "home": 0,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estadio de Mestalla"
       },
       {
@@ -2752,11 +2752,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
+        "home": 2,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadio Olimpico"
       },
       {
@@ -3737,11 +3737,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
+        "home": 1,
         "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Decathlon Arena - Stade Pierre-Mauroy"
       },
       {
@@ -3760,10 +3760,10 @@
        },
        "score": {
         "home": 1,
-        "away": 1
+        "away": 3
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stade de l'Aube"
       },
       {
