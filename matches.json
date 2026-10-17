@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-17T13:23:00+00:00",
+ "generated_at": "2026-10-17T15:22:56+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -378,11 +378,11 @@
         "club": "konyaspor"
        },
        "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Diyarbakır Stadyumu"
       },
       {
@@ -401,10 +401,10 @@
        },
        "score": {
         "home": 0,
-        "away": 0
+        "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Eryaman Stadyumu"
       },
       {
@@ -854,11 +854,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
+        "home": 1,
         "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Yeni Sivas 4 Eylül Stadyumu"
       },
       {
@@ -2161,10 +2161,10 @@
        },
        "score": {
         "home": 0,
-        "away": 0
+        "away": 1
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "RCDE Stadium"
       },
       {
@@ -2181,9 +2181,12 @@
         "name": "Elche",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "HT",
        "venue": "Estadio de la Cerámica"
       },
       {
@@ -2693,11 +2696,11 @@
         "club": "napoli"
        },
        "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadio Pierluigi Penzo"
       },
       {
@@ -3693,9 +3696,12 @@
         "name": "Paris Saint-Germain",
         "club": "psg"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Stade de la Meinau"
       },
       {
