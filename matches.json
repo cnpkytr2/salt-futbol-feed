@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-17T11:23:09+00:00",
+ "generated_at": "2026-10-17T13:23:00+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -356,11 +356,11 @@
         "club": "eyupspor"
        },
        "score": {
-        "home": 1,
+        "home": 2,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Kazım Karabekir Stadyumu"
       },
       {
@@ -377,9 +377,12 @@
         "name": "Konyaspor",
         "club": "konyaspor"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Diyarbakır Stadyumu"
       },
       {
@@ -396,9 +399,12 @@
         "name": "Galatasaray",
         "club": "galatasaray"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Eryaman Stadyumu"
       },
       {
@@ -506,238 +512,103 @@
    "kind": "league",
    "season": "2026-2027",
    "tsdb_id": 4676,
-   "last_round": 10,
+   "last_round": 11,
    "next_round": 11,
    "current_round": 11,
-   "standings": [],
+   "standings": [
+    {
+     "rank": 1,
+     "team": {
+      "name": "Kayserispor",
+      "club": null
+     },
+     "played": 10,
+     "win": 8,
+     "draw": 1,
+     "loss": 1,
+     "gf": 22,
+     "ga": 5,
+     "gd": 17,
+     "points": 25,
+     "form": "WWWWW",
+     "group": "Lig A",
+     "updated": "2026-10-17 11:01:49"
+    },
+    {
+     "rank": 2,
+     "team": {
+      "name": "Bursaspor",
+      "club": null
+     },
+     "played": 10,
+     "win": 7,
+     "draw": 1,
+     "loss": 2,
+     "gf": 20,
+     "ga": 9,
+     "gd": 11,
+     "points": 22,
+     "form": "WLWDW",
+     "group": "Lig A",
+     "updated": "2026-10-17 11:01:49"
+    },
+    {
+     "rank": 3,
+     "team": {
+      "name": "Iğdır",
+      "club": null
+     },
+     "played": 10,
+     "win": 6,
+     "draw": 2,
+     "loss": 2,
+     "gf": 14,
+     "ga": 8,
+     "gd": 6,
+     "points": 20,
+     "form": "DWDWW",
+     "group": "Lig A",
+     "updated": "2026-10-17 11:01:49"
+    },
+    {
+     "rank": 4,
+     "team": {
+      "name": "Batman Petrolspor",
+      "club": null
+     },
+     "played": 10,
+     "win": 6,
+     "draw": 1,
+     "loss": 3,
+     "gf": 20,
+     "ga": 17,
+     "gd": 3,
+     "points": 19,
+     "form": "WLLLW",
+     "group": "Lig A",
+     "updated": "2026-10-17 11:01:49"
+    },
+    {
+     "rank": 5,
+     "team": {
+      "name": "Mardin 1969",
+      "club": null
+     },
+     "played": 10,
+     "win": 5,
+     "draw": 3,
+     "loss": 2,
+     "gf": 12,
+     "ga": 6,
+     "gd": 6,
+     "points": 18,
+     "form": "WWLLW",
+     "group": "Lig A",
+     "updated": "2026-10-17 11:01:49"
+    }
+   ],
    "standings_limited": true,
    "rounds": [
-    {
-     "round": 9,
-     "label": "9. Hafta",
-     "matches": [
-      {
-       "id": "2528898",
-       "round": 9,
-       "kickoff": "2026-10-09T14:00:00Z",
-       "time_known": true,
-       "date_local": "2026-10-09",
-       "home": {
-        "name": "Bodrum",
-        "club": null
-       },
-       "away": {
-        "name": "Ankara Keçiörengücü",
-        "club": null
-       },
-       "score": {
-        "home": 0,
-        "away": 2
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Bodrum İlçe Stadyumu"
-      },
-      {
-       "id": "2528893",
-       "round": 9,
-       "kickoff": "2026-10-09T14:00:00Z",
-       "time_known": true,
-       "date_local": "2026-10-09",
-       "home": {
-        "name": "Sivasspor",
-        "club": null
-       },
-       "away": {
-        "name": "Pendikspor",
-        "club": null
-       },
-       "score": {
-        "home": 4,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Yeni Sivas 4 Eylül Stadyumu"
-      },
-      {
-       "id": "2528900",
-       "round": 9,
-       "kickoff": "2026-10-09T17:00:00Z",
-       "time_known": true,
-       "date_local": "2026-10-09",
-       "home": {
-        "name": "Vanspor",
-        "club": null
-       },
-       "away": {
-        "name": "Bandırmaspor",
-        "club": null
-       },
-       "score": {
-        "home": 0,
-        "away": 2
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Van Atatürk Stadyumu"
-      },
-      {
-       "id": "2528896",
-       "round": 9,
-       "kickoff": "2026-10-09T17:00:00Z",
-       "time_known": true,
-       "date_local": "2026-10-09",
-       "home": {
-        "name": "Ümraniyespor",
-        "club": null
-       },
-       "away": {
-        "name": "Sarıyer",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Ümraniye Hekimbaşı Şehir Stadyumu"
-      },
-      {
-       "id": "2528895",
-       "round": 9,
-       "kickoff": "2026-10-10T10:30:00Z",
-       "time_known": true,
-       "date_local": "2026-10-10",
-       "home": {
-        "name": "Boluspor",
-        "club": null
-       },
-       "away": {
-        "name": "Antalyaspor",
-        "club": null
-       },
-       "score": {
-        "home": 0,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Bolu Atatürk Stadyumu"
-      },
-      {
-       "id": "2528901",
-       "round": 9,
-       "kickoff": "2026-10-10T13:00:00Z",
-       "time_known": true,
-       "date_local": "2026-10-10",
-       "home": {
-        "name": "Iğdır",
-        "club": null
-       },
-       "away": {
-        "name": "Batman Petrolspor",
-        "club": null
-       },
-       "score": {
-        "home": 2,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Iğdır Şehir Stadyumu"
-      },
-      {
-       "id": "2528892",
-       "round": 9,
-       "kickoff": "2026-10-10T16:00:00Z",
-       "time_known": true,
-       "date_local": "2026-10-10",
-       "home": {
-        "name": "Kayserispor",
-        "club": null
-       },
-       "away": {
-        "name": "Manisa",
-        "club": null
-       },
-       "score": {
-        "home": 3,
-        "away": 2
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "RHG Enertürk Enerji Stadyumu"
-      },
-      {
-       "id": "2528897",
-       "round": 9,
-       "kickoff": "2026-10-10T16:00:00Z",
-       "time_known": true,
-       "date_local": "2026-10-10",
-       "home": {
-        "name": "İstanbulspor",
-        "club": null
-       },
-       "away": {
-        "name": "Esenler Erokspor",
-        "club": null
-       },
-       "score": {
-        "home": 0,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Esenyurt Necmi Kadıoğlu Stadyumu"
-      },
-      {
-       "id": "2528899",
-       "round": 9,
-       "kickoff": "2026-10-11T13:00:00Z",
-       "time_known": true,
-       "date_local": "2026-10-11",
-       "home": {
-        "name": "Fatih Karagümrük",
-        "club": null
-       },
-       "away": {
-        "name": "Muğlaspor",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Atatürk Olimpiyat Stadyumu"
-      },
-      {
-       "id": "2528894",
-       "round": 9,
-       "kickoff": "2026-10-11T16:00:00Z",
-       "time_known": true,
-       "date_local": "2026-10-11",
-       "home": {
-        "name": "Bursaspor",
-        "club": null
-       },
-       "away": {
-        "name": "Mardin 1969",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 2
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Yüzüncü Yıl Atatürk Stadyumu"
-      }
-     ]
-    },
     {
      "round": 10,
      "label": "10. Hafta",
@@ -982,9 +853,12 @@
         "name": "Sarıyer",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Yeni Sivas 4 Eylül Stadyumu"
       },
       {
@@ -1913,7 +1787,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "la-liga",
@@ -2284,9 +2159,12 @@
         "name": "Atlético Madrid",
         "club": "atletico"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "RCDE Stadium"
       },
       {
@@ -2471,7 +2349,7 @@
      "points": 16,
      "form": "WDWWW",
      "group": "Serie A",
-     "updated": "2026-10-16 22:46:02"
+     "updated": "2026-10-17 01:46:01"
     },
     {
      "rank": 2,
@@ -2489,7 +2367,7 @@
      "points": 16,
      "form": "WWDWW",
      "group": "Serie A",
-     "updated": "2026-10-16 22:46:02"
+     "updated": "2026-10-17 01:46:01"
     },
     {
      "rank": 3,
@@ -2507,7 +2385,7 @@
      "points": 14,
      "form": "DDWWW",
      "group": "Serie A",
-     "updated": "2026-10-16 22:46:02"
+     "updated": "2026-10-17 01:46:01"
     },
     {
      "rank": 4,
@@ -2525,7 +2403,7 @@
      "points": 13,
      "form": "WLWDW",
      "group": "Serie A",
-     "updated": "2026-10-16 22:46:02"
+     "updated": "2026-10-17 01:46:01"
     },
     {
      "rank": 5,
@@ -2543,7 +2421,7 @@
      "points": 13,
      "form": "DWWWL",
      "group": "Serie A",
-     "updated": "2026-10-16 22:46:02"
+     "updated": "2026-10-17 01:46:01"
     }
    ],
    "standings_limited": true,
@@ -2814,9 +2692,12 @@
         "name": "Napoli",
         "club": "napoli"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Stadio Pierluigi Penzo"
       },
       {
@@ -2973,8 +2854,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "bundesliga",
@@ -3463,7 +3343,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "ligue-1",
@@ -4716,8 +4597,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "avrupa-ligi",
@@ -5481,7 +5361,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "konferans-ligi",
@@ -5498,8 +5379,9 @@
   }
  ],
  "errors": [
-  "serie-a: HTTP 429 (eventspastleague.php)",
-  "sampiyonlar-ligi: HTTP 429 (eventspastleague.php)"
+  "premier-lig: HTTP 429 (eventspastleague.php)",
+  "bundesliga: HTTP 429 (eventsnextleague.php)",
+  "avrupa-ligi: HTTP 429 (eventspastleague.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
