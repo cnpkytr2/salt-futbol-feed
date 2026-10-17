@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-17T17:43:41+00:00",
- "edition": "2026-10-17-aksam",
+ "generated_at": "2026-10-17T20:44:04+00:00",
+ "edition": "2026-10-17-guncel",
  "items": [
   {
-   "key": "56f1e14028dfe406",
-   "story_id": "s0020",
-   "title": "Fenerbahçe'de Lukaku'nun Alanyaspor maçındaki durumu maç saatinde belli olacak",
+   "key": "bcabc423d61414eb",
+   "story_id": "s0001",
+   "title": "Union Berlin ile Borussia Dortmund Bundesliga'da 0-0 berabere kaldı",
    "category": "mac",
-   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of yellow and navy blue color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of yellow and black color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1262654942,
+   "seed": 201150006,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,24 +18,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/56f1e14028dfe406.png"
-  },
-  {
-   "key": "9540c6d7f89750a1",
-   "story_id": "s0174",
-   "title": "Fenerbahçe-Alanyaspor maçında İrfan Can'ın 2-0 golü VAR müdahalesiyle iptal edildi",
-   "category": "hakem",
-   "prompt": "A silver referee whistle, a plain yellow card and a plain red card lying on wet grass at the edge of a floodlit pitch, macro close-up. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 1171878692,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/9540c6d7f89750a1.png"
+   "out": "s/bcabc423d61414eb.png"
   }
  ]
 }
