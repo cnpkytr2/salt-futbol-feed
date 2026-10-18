@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-18T17:43:42+00:00",
- "edition": "2026-10-18-aksam",
+ "generated_at": "2026-10-18T20:44:15+00:00",
+ "edition": "2026-10-18-guncel",
  "items": [
   {
-   "key": "83e21446bad23d42",
+   "key": "0abb801357d5cca2",
    "story_id": "s0003",
-   "title": "Kasımpaşa, Samsunspor'u evinde 4-1 yendi; Bjelica'dan mağlubiyetle başlangıç",
+   "title": "Galatasaray, Gençlerbirliği deplasmanında 1-0 kazanarak liderliğini korudu",
    "category": "mac",
-   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of navy blue and white color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of yellow and red color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 395560534,
+   "seed": 443374921,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,24 +18,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/83e21446bad23d42.png"
-  },
-  {
-   "key": "ef928b6561c1410e",
-   "story_id": "s0036",
-   "title": "Trabzonspor-Beşiktaş maçı yarın Papara Park'ta: muhtemel 11'ler ve eksikler",
-   "category": "mac",
-   "prompt": "Wide view of an empty stadium bowl at night seen from the top row, rows of empty seats in black and white colors filling the foreground, the pitch far below softly blurred in light haze. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 97450792,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/ef928b6561c1410e.png"
+   "out": "s/0abb801357d5cca2.png"
   }
  ]
 }
