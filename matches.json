@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-18T11:22:58+00:00",
+ "generated_at": "2026-10-18T13:22:59+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -444,11 +444,11 @@
         "club": "samsunspor"
        },
        "score": {
-        "home": 2,
-        "away": 0
+        "home": 4,
+        "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Recep Tayyip Erdoğan Stadyumu"
       },
       {
@@ -465,9 +465,12 @@
         "name": "Göztepe",
         "club": "goztepe"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Kocaeli Stadyumu"
       },
       {
@@ -904,11 +907,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Iğdır Şehir Stadyumu"
       },
       {
@@ -925,9 +928,12 @@
         "name": "Batman Petrolspor",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "RHG Enertürk Enerji Stadyumu"
       },
       {
@@ -944,9 +950,12 @@
         "name": "Ümraniyespor",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Van Atatürk Stadyumu"
       },
       {
@@ -1828,7 +1837,7 @@
      "points": 27,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-17 22:46:02"
+     "updated": "2026-10-18 13:46:04"
     },
     {
      "rank": 2,
@@ -1846,7 +1855,7 @@
      "points": 22,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-17 22:46:02"
+     "updated": "2026-10-18 13:46:04"
     },
     {
      "rank": 3,
@@ -1864,7 +1873,7 @@
      "points": 19,
      "form": "LWDWW",
      "group": "Primera División",
-     "updated": "2026-10-17 22:46:02"
+     "updated": "2026-10-18 13:46:04"
     },
     {
      "rank": 4,
@@ -1882,7 +1891,7 @@
      "points": 18,
      "form": "WLWWL",
      "group": "Primera División",
-     "updated": "2026-10-17 22:46:02"
+     "updated": "2026-10-18 13:46:04"
     },
     {
      "rank": 5,
@@ -1900,7 +1909,7 @@
      "points": 14,
      "form": "DLWWD",
      "group": "Primera División",
-     "updated": "2026-10-17 22:46:02"
+     "updated": "2026-10-18 13:46:04"
     }
    ],
    "standings_limited": true,
@@ -2259,9 +2268,12 @@
         "name": "Racing de Santander",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Estadio El Sadar"
       },
       {
@@ -2781,10 +2793,10 @@
        },
        "score": {
         "home": 0,
-        "away": 2
+        "away": 3
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Bluenergy Stadium"
       },
       {
@@ -2801,9 +2813,12 @@
         "name": "Como",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Stadio Artemio Franchi"
       },
       {
@@ -3789,9 +3804,12 @@
         "name": "Marseille",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Stade Raymond Kopa"
       },
       {
@@ -5419,7 +5437,7 @@
  ],
  "errors": [
   "premier-lig: HTTP 429 (eventspastleague.php)",
-  "bundesliga: HTTP 429 (eventsnextleague.php)",
+  "bundesliga: HTTP 429 (eventspastleague.php)",
   "avrupa-ligi: HTTP 429 (eventspastleague.php)"
  ],
  "badges": {
