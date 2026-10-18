@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-18T15:22:58+00:00",
+ "generated_at": "2026-10-18T17:22:58+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -487,9 +487,12 @@
         "name": "Gaziantep",
         "club": "gaziantep-fk"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Başakşehir Fatih Terim Stadyumu"
       },
       {
@@ -531,17 +534,17 @@
       "name": "Kayserispor",
       "club": null
      },
-     "played": 10,
+     "played": 11,
      "win": 8,
-     "draw": 1,
+     "draw": 2,
      "loss": 1,
-     "gf": 22,
-     "ga": 5,
+     "gf": 24,
+     "ga": 7,
      "gd": 17,
-     "points": 25,
-     "form": "WWWWW",
+     "points": 26,
+     "form": "DWWWW",
      "group": "Lig A",
-     "updated": "2026-10-18 15:01:57"
+     "updated": "2026-10-18 18:02:55"
     },
     {
      "rank": 2,
@@ -559,7 +562,7 @@
      "points": 23,
      "form": "WDWDW",
      "group": "Lig A",
-     "updated": "2026-10-18 15:01:57"
+     "updated": "2026-10-18 18:02:55"
     },
     {
      "rank": 3,
@@ -577,7 +580,7 @@
      "points": 22,
      "form": "WLWDW",
      "group": "Lig A",
-     "updated": "2026-10-18 15:01:57"
+     "updated": "2026-10-18 18:02:55"
     },
     {
      "rank": 4,
@@ -585,17 +588,17 @@
       "name": "Batman Petrolspor",
       "club": null
      },
-     "played": 10,
+     "played": 11,
      "win": 6,
-     "draw": 1,
+     "draw": 2,
      "loss": 3,
-     "gf": 20,
-     "ga": 17,
+     "gf": 22,
+     "ga": 19,
      "gd": 3,
-     "points": 19,
-     "form": "WLLLW",
+     "points": 20,
+     "form": "DWLLL",
      "group": "Lig A",
-     "updated": "2026-10-18 15:01:57"
+     "updated": "2026-10-18 18:02:55"
     },
     {
      "rank": 5,
@@ -613,7 +616,7 @@
      "points": 18,
      "form": "WWLLW",
      "group": "Lig A",
-     "updated": "2026-10-18 15:01:57"
+     "updated": "2026-10-18 18:02:55"
     }
    ],
    "standings_limited": true,
@@ -972,9 +975,12 @@
         "name": "Antalyaspor",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Esenyurt Necmi Kadıoğlu Stadyumu"
       },
       {
@@ -1837,7 +1843,7 @@
      "points": 27,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-18 13:46:04"
+     "updated": "2026-10-18 16:46:07"
     },
     {
      "rank": 2,
@@ -1855,7 +1861,7 @@
      "points": 22,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-18 13:46:04"
+     "updated": "2026-10-18 16:46:07"
     },
     {
      "rank": 3,
@@ -1873,7 +1879,7 @@
      "points": 19,
      "form": "LWDWW",
      "group": "Primera División",
-     "updated": "2026-10-18 13:46:04"
+     "updated": "2026-10-18 16:46:07"
     },
     {
      "rank": 4,
@@ -1891,7 +1897,7 @@
      "points": 18,
      "form": "WLWWL",
      "group": "Primera División",
-     "updated": "2026-10-18 13:46:04"
+     "updated": "2026-10-18 16:46:07"
     },
     {
      "rank": 5,
@@ -1909,7 +1915,7 @@
      "points": 14,
      "form": "DLWWD",
      "group": "Primera División",
-     "updated": "2026-10-18 13:46:04"
+     "updated": "2026-10-18 16:46:07"
     }
    ],
    "standings_limited": true,
@@ -2291,11 +2297,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
-        "away": 0
+        "home": 2,
+        "away": 1
        },
-       "status": "live",
-       "status_raw": "HT",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estadio Abanca-Balaídos"
       },
       {
@@ -2312,9 +2318,12 @@
         "name": "Real Sociedad",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 2
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Estadio La Rosaleda"
       },
       {
@@ -2385,7 +2394,7 @@
      "points": 19,
      "form": "WWDWW",
      "group": "Serie A",
-     "updated": "2026-10-18 14:46:07"
+     "updated": "2026-10-18 17:46:06"
     },
     {
      "rank": 2,
@@ -2403,7 +2412,7 @@
      "points": 17,
      "form": "WDDWW",
      "group": "Serie A",
-     "updated": "2026-10-18 14:46:07"
+     "updated": "2026-10-18 17:46:06"
     },
     {
      "rank": 3,
@@ -2421,10 +2430,28 @@
      "points": 16,
      "form": "WWDWW",
      "group": "Serie A",
-     "updated": "2026-10-18 14:46:07"
+     "updated": "2026-10-18 17:46:06"
     },
     {
      "rank": 4,
+     "team": {
+      "name": "Como",
+      "club": null
+     },
+     "played": 7,
+     "win": 4,
+     "draw": 2,
+     "loss": 1,
+     "gf": 12,
+     "ga": 7,
+     "gd": 5,
+     "points": 14,
+     "form": "WDLWW",
+     "group": "Serie A",
+     "updated": "2026-10-18 17:46:06"
+    },
+    {
+     "rank": 5,
      "team": {
       "name": "Frosinone",
       "club": null
@@ -2439,25 +2466,7 @@
      "points": 13,
      "form": "WLWDW",
      "group": "Serie A",
-     "updated": "2026-10-18 14:46:07"
-    },
-    {
-     "rank": 5,
-     "team": {
-      "name": "Cagliari",
-      "club": null
-     },
-     "played": 6,
-     "win": 4,
-     "draw": 1,
-     "loss": 1,
-     "gf": 6,
-     "ga": 3,
-     "gd": 3,
-     "points": 13,
-     "form": "DWWWL",
-     "group": "Serie A",
-     "updated": "2026-10-18 14:46:07"
+     "updated": "2026-10-18 17:46:06"
     }
    ],
    "standings_limited": true,
@@ -2838,9 +2847,12 @@
         "name": "Atalanta",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Stadio Giuseppe Meazza"
       },
       {
@@ -3420,7 +3432,7 @@
      "points": 14,
      "form": "WWWWL",
      "group": "Ligue 1",
-     "updated": "2026-10-18 01:46:02"
+     "updated": "2026-10-18 16:46:07"
     },
     {
      "rank": 2,
@@ -3438,7 +3450,7 @@
      "points": 14,
      "form": "DWLWW",
      "group": "Ligue 1",
-     "updated": "2026-10-18 01:46:02"
+     "updated": "2026-10-18 16:46:07"
     },
     {
      "rank": 3,
@@ -3456,7 +3468,7 @@
      "points": 14,
      "form": "DWDWW",
      "group": "Ligue 1",
-     "updated": "2026-10-18 01:46:02"
+     "updated": "2026-10-18 16:46:07"
     },
     {
      "rank": 4,
@@ -3474,7 +3486,7 @@
      "points": 13,
      "form": "WLWWW",
      "group": "Ligue 1",
-     "updated": "2026-10-18 01:46:02"
+     "updated": "2026-10-18 16:46:07"
     },
     {
      "rank": 5,
@@ -3492,7 +3504,7 @@
      "points": 11,
      "form": "LWDWD",
      "group": "Ligue 1",
-     "updated": "2026-10-18 01:46:02"
+     "updated": "2026-10-18 16:46:07"
     }
    ],
    "standings_limited": true,
@@ -3830,11 +3842,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
-        "away": 0
+        "home": 1,
+        "away": 3
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stade Océane"
       },
       {
@@ -3852,11 +3864,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stade du Moustoir"
       },
       {
@@ -3873,9 +3885,12 @@
         "name": "Rennes",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 3,
+        "away": 3
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Stade Jean-Bouin"
       },
       {
