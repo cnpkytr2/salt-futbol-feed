@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-18T13:43:10+00:00",
- "edition": "2026-10-18-guncel",
+ "generated_at": "2026-10-18T17:43:42+00:00",
+ "edition": "2026-10-18-aksam",
  "items": [
   {
-   "key": "1deefdbd771a16fc",
-   "story_id": "s0086",
-   "title": "Samsunspor Başkanı Yıldırım: Reis'le yollar sözleşme maddeleri yüzünden ayrıldı",
-   "category": "yonetim",
-   "prompt": "A quiet boardroom at night with leather chairs around a polished table, a classic black-and-white football with plain unmarked panels resting on the table, city lights outside the window. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "83e21446bad23d42",
+   "story_id": "s0003",
+   "title": "Kasımpaşa, Samsunspor'u evinde 4-1 yendi; Bjelica'dan mağlubiyetle başlangıç",
+   "category": "mac",
+   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of navy blue and white color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1792052411,
+   "seed": 395560534,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,16 +18,16 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/1deefdbd771a16fc.png"
+   "out": "s/83e21446bad23d42.png"
   },
   {
-   "key": "2de8a5f31b71c4ee",
-   "story_id": "s0110",
-   "title": "Real Madrid - Sevilla maçı öncesi Arda Güler'in ilk 11 ihtimali gündemde",
+   "key": "ef928b6561c1410e",
+   "story_id": "s0036",
+   "title": "Trabzonspor-Beşiktaş maçı yarın Papara Park'ta: muhtemel 11'ler ve eksikler",
    "category": "mac",
-   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in all white colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "Wide view of an empty stadium bowl at night seen from the top row, rows of empty seats in black and white colors filling the foreground, the pitch far below softly blurred in light haze. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 426774895,
+   "seed": 97450792,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -35,41 +35,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/2de8a5f31b71c4ee.png"
-  },
-  {
-   "key": "cacd7d784e3df097",
-   "story_id": "s0073",
-   "title": "Galatasaray'ın Lille deplasmanı öncesi Fransa'daki protestolar gündemde",
-   "category": "mac",
-   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in yellow and red colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 1473196119,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/cacd7d784e3df097.png"
-  },
-  {
-   "key": "47affb4cc372936d",
-   "story_id": "s0111",
-   "title": "Beşiktaş'ta Trabzonspor deplasmanı öncesi Kökçü'nün yerine Miretti öne çıkıyor",
-   "category": "mac",
-   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of black and white color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 1358891778,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/47affb4cc372936d.png"
+   "out": "s/ef928b6561c1410e.png"
   }
  ]
 }
