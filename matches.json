@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-19T19:25:30+00:00",
+ "generated_at": "2026-10-19T21:25:26+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1998,11 +1998,11 @@
         "club": null
        },
        "score": {
-        "home": 1,
-        "away": 0
+        "home": 3,
+        "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Tottenham Hotspur Stadium"
       }
      ]
@@ -2786,7 +2786,7 @@
      "points": 19,
      "form": "WWDWW",
      "group": "Serie A",
-     "updated": "2026-10-19 01:46:08"
+     "updated": "2026-10-19 20:46:02"
     },
     {
      "rank": 2,
@@ -2804,7 +2804,7 @@
      "points": 19,
      "form": "WWWDW",
      "group": "Serie A",
-     "updated": "2026-10-19 01:46:08"
+     "updated": "2026-10-19 20:46:02"
     },
     {
      "rank": 3,
@@ -2822,7 +2822,7 @@
      "points": 17,
      "form": "WDDWW",
      "group": "Serie A",
-     "updated": "2026-10-19 01:46:08"
+     "updated": "2026-10-19 20:46:02"
     },
     {
      "rank": 4,
@@ -2840,7 +2840,7 @@
      "points": 15,
      "form": "WDWDD",
      "group": "Serie A",
-     "updated": "2026-10-19 01:46:08"
+     "updated": "2026-10-19 20:46:02"
     },
     {
      "rank": 5,
@@ -2858,7 +2858,7 @@
      "points": 14,
      "form": "WDLWW",
      "group": "Serie A",
-     "updated": "2026-10-19 01:46:08"
+     "updated": "2026-10-19 20:46:02"
     }
    ],
    "standings_limited": true,
@@ -3307,10 +3307,10 @@
        },
        "score": {
         "home": 0,
-        "away": 2
+        "away": 3
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadio Ennio Tardini"
       }
      ]
@@ -6441,7 +6441,7 @@
   "tff-1-lig: HTTP 429 (eventsround.php)",
   "la-liga: HTTP 429 (eventsround.php)",
   "bundesliga: HTTP 429 (eventsround.php)",
-  "avrupa-ligi: HTTP 429 (eventsnextleague.php)"
+  "avrupa-ligi: HTTP 429 (eventspastleague.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
