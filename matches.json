@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-19T17:23:25+00:00",
+ "generated_at": "2026-10-19T19:25:30+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -34,7 +34,7 @@
      "points": 19,
      "form": "WWLWW",
      "group": "Süper Lig",
-     "updated": "2026-10-19 10:05:17"
+     "updated": "2026-10-19 20:02:31"
     },
     {
      "rank": 2,
@@ -52,7 +52,7 @@
      "points": 17,
      "form": "WDWWD",
      "group": "Süper Lig",
-     "updated": "2026-10-19 10:05:17"
+     "updated": "2026-10-19 20:02:31"
     },
     {
      "rank": 3,
@@ -70,43 +70,43 @@
      "points": 16,
      "form": "WWWDL",
      "group": "Süper Lig",
-     "updated": "2026-10-19 10:05:17"
+     "updated": "2026-10-19 20:02:31"
     },
     {
      "rank": 4,
      "team": {
-      "name": "Beşiktaş",
-      "club": "besiktas"
+      "name": "Trabzonspor",
+      "club": "trabzonspor"
      },
-     "played": 7,
+     "played": 8,
      "win": 5,
-     "draw": 0,
+     "draw": 1,
      "loss": 2,
-     "gf": 16,
-     "ga": 8,
-     "gd": 8,
-     "points": 15,
-     "form": "WLWWW",
+     "gf": 18,
+     "ga": 5,
+     "gd": 13,
+     "points": 16,
+     "form": "WWWLW",
      "group": "Süper Lig",
-     "updated": "2026-10-19 10:05:17"
+     "updated": "2026-10-19 20:02:31"
     },
     {
      "rank": 5,
      "team": {
-      "name": "Trabzonspor",
-      "club": "trabzonspor"
+      "name": "Beşiktaş",
+      "club": "besiktas"
      },
-     "played": 7,
-     "win": 4,
-     "draw": 1,
-     "loss": 2,
+     "played": 8,
+     "win": 5,
+     "draw": 0,
+     "loss": 3,
      "gf": 16,
-     "ga": 5,
-     "gd": 11,
-     "points": 13,
-     "form": "WWLWL",
+     "ga": 10,
+     "gd": 6,
+     "points": 15,
+     "form": "LWLWW",
      "group": "Süper Lig",
-     "updated": "2026-10-19 10:05:17"
+     "updated": "2026-10-19 20:02:31"
     }
    ],
    "standings_limited": true,
@@ -510,11 +510,11 @@
         "club": "besiktas"
        },
        "score": {
-        "home": 0,
+        "home": 2,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Papara Park"
       }
      ]
@@ -1449,7 +1449,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "premier-lig",
@@ -1458,7 +1459,7 @@
    "season": "2026-2027",
    "tsdb_id": 4328,
    "last_round": 7,
-   "next_round": 7,
+   "next_round": 8,
    "current_round": 7,
    "standings": [
     {
@@ -1996,15 +1997,213 @@
         "name": "Coventry City",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Tottenham Hotspur Stadium"
       }
      ]
+    },
+    {
+     "round": 8,
+     "label": "8. Hafta",
+     "matches": [
+      {
+       "id": "2494075",
+       "round": 8,
+       "kickoff": "2026-10-23T19:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-23",
+       "home": {
+        "name": "Ipswich Town",
+        "club": null
+       },
+       "away": {
+        "name": "Nottingham Forest",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Portman Road"
+      },
+      {
+       "id": "2494077",
+       "round": 8,
+       "kickoff": "2026-10-24T11:30:00Z",
+       "time_known": true,
+       "date_local": "2026-10-24",
+       "home": {
+        "name": "Aston Villa",
+        "club": null
+       },
+       "away": {
+        "name": "Manchester City",
+        "club": "man-city"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Villa Park"
+      },
+      {
+       "id": "2494072",
+       "round": 8,
+       "kickoff": "2026-10-24T14:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-24",
+       "home": {
+        "name": "Arsenal",
+        "club": "arsenal"
+       },
+       "away": {
+        "name": "Everton",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Emirates Stadium"
+      },
+      {
+       "id": "2494079",
+       "round": 8,
+       "kickoff": "2026-10-24T14:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-24",
+       "home": {
+        "name": "Coventry City",
+        "club": null
+       },
+       "away": {
+        "name": "Fulham",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "The Coventry Building Society Arena"
+      },
+      {
+       "id": "2494073",
+       "round": 8,
+       "kickoff": "2026-10-24T16:30:00Z",
+       "time_known": true,
+       "date_local": "2026-10-24",
+       "home": {
+        "name": "Chelsea",
+        "club": "chelsea"
+       },
+       "away": {
+        "name": "Tottenham Hotspur",
+        "club": "tottenham"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stamford Bridge"
+      },
+      {
+       "id": "2494074",
+       "round": 8,
+       "kickoff": "2026-10-25T14:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-25",
+       "home": {
+        "name": "Crystal Palace",
+        "club": null
+       },
+       "away": {
+        "name": "Newcastle United",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Selhurst Park"
+      },
+      {
+       "id": "2494076",
+       "round": 8,
+       "kickoff": "2026-10-25T14:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-25",
+       "home": {
+        "name": "Hull City",
+        "club": null
+       },
+       "away": {
+        "name": "Brentford",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "The MKM Stadium"
+      },
+      {
+       "id": "2494071",
+       "round": 8,
+       "kickoff": "2026-10-25T14:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-25",
+       "home": {
+        "name": "Liverpool",
+        "club": "liverpool"
+       },
+       "away": {
+        "name": "Brighton and Hove Albion",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Anfield"
+      },
+      {
+       "id": "2494070",
+       "round": 8,
+       "kickoff": "2026-10-25T14:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-25",
+       "home": {
+        "name": "Manchester United",
+        "club": "man-united"
+       },
+       "away": {
+        "name": "Bournemouth",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Old Trafford"
+      },
+      {
+       "id": "2494078",
+       "round": 8,
+       "kickoff": "2026-10-25T16:30:00Z",
+       "time_known": true,
+       "date_local": "2026-10-25",
+       "home": {
+        "name": "Sunderland",
+        "club": null
+       },
+       "away": {
+        "name": "Leeds United",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadium of Light"
+      }
+     ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "la-liga",
@@ -2558,7 +2757,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "serie-a",
@@ -2567,7 +2767,7 @@
    "season": "2026-2027",
    "tsdb_id": 4332,
    "last_round": 7,
-   "next_round": 7,
+   "next_round": 8,
    "current_round": 7,
    "standings": [
     {
@@ -3084,11 +3284,11 @@
         "club": null
        },
        "score": {
-        "home": 1,
+        "home": 4,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "U-Power Stadium"
       },
       {
@@ -3105,10 +3305,209 @@
         "name": "Torino",
         "club": null
        },
+       "score": {
+        "home": 0,
+        "away": 2
+       },
+       "status": "live",
+       "status_raw": "1H",
+       "venue": "Stadio Ennio Tardini"
+      }
+     ]
+    },
+    {
+     "round": 8,
+     "label": "8. Hafta",
+     "matches": [
+      {
+       "id": "2482214",
+       "round": 8,
+       "kickoff": "2026-10-23T18:45:00Z",
+       "time_known": true,
+       "date_local": "2026-10-23",
+       "home": {
+        "name": "Torino",
+        "club": null
+       },
+       "away": {
+        "name": "Monza",
+        "club": null
+       },
        "score": null,
        "status": "scheduled",
        "status_raw": "NS",
-       "venue": "Stadio Ennio Tardini"
+       "venue": "Stadio Olimpico Grande Torino"
+      },
+      {
+       "id": "2482209",
+       "round": 8,
+       "kickoff": "2026-10-24T13:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-24",
+       "home": {
+        "name": "Cagliari",
+        "club": null
+       },
+       "away": {
+        "name": "Bologna",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Unipol Domus"
+      },
+      {
+       "id": "2482217",
+       "round": 8,
+       "kickoff": "2026-10-24T13:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-24",
+       "home": {
+        "name": "Como",
+        "club": null
+       },
+       "away": {
+        "name": "Sassuolo",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Giuseppe Sinigaglia"
+      },
+      {
+       "id": "2482210",
+       "round": 8,
+       "kickoff": "2026-10-24T16:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-24",
+       "home": {
+        "name": "Napoli",
+        "club": "napoli"
+       },
+       "away": {
+        "name": "Roma",
+        "club": "roma"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Diego Armando Maradona"
+      },
+      {
+       "id": "2482208",
+       "round": 8,
+       "kickoff": "2026-10-24T18:45:00Z",
+       "time_known": true,
+       "date_local": "2026-10-24",
+       "home": {
+        "name": "Lazio",
+        "club": null
+       },
+       "away": {
+        "name": "Parma",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Olimpico"
+      },
+      {
+       "id": "2482215",
+       "round": 8,
+       "kickoff": "2026-10-25T11:30:00Z",
+       "time_known": true,
+       "date_local": "2026-10-25",
+       "home": {
+        "name": "Inter Milan",
+        "club": "inter"
+       },
+       "away": {
+        "name": "Fiorentina",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Giuseppe Meazza"
+      },
+      {
+       "id": "2482213",
+       "round": 8,
+       "kickoff": "2026-10-25T14:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-25",
+       "home": {
+        "name": "Atalanta",
+        "club": null
+       },
+       "away": {
+        "name": "Frosinone",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "New Balance Arena"
+      },
+      {
+       "id": "2482212",
+       "round": 8,
+       "kickoff": "2026-10-25T14:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-25",
+       "home": {
+        "name": "Genoa",
+        "club": null
+       },
+       "away": {
+        "name": "Venezia",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Luigi Ferraris"
+      },
+      {
+       "id": "2482216",
+       "round": 8,
+       "kickoff": "2026-10-25T17:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-25",
+       "home": {
+        "name": "Lecce",
+        "club": null
+       },
+       "away": {
+        "name": "Juventus",
+        "club": "juventus"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Via del mare"
+      },
+      {
+       "id": "2482211",
+       "round": 8,
+       "kickoff": "2026-10-25T19:45:00Z",
+       "time_known": true,
+       "date_local": "2026-10-25",
+       "home": {
+        "name": "Udinese",
+        "club": null
+       },
+       "away": {
+        "name": "AC Milan",
+        "club": "milan"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Bluenergy Stadium"
       }
      ]
     }
@@ -6021,7 +6420,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "konferans-ligi",
@@ -6038,8 +6438,10 @@
   }
  ],
  "errors": [
-  "premier-lig: HTTP 429 (eventsnextleague.php)",
-  "bundesliga: HTTP 429 (eventsround.php)"
+  "tff-1-lig: HTTP 429 (eventsround.php)",
+  "la-liga: HTTP 429 (eventsround.php)",
+  "bundesliga: HTTP 429 (eventsround.php)",
+  "avrupa-ligi: HTTP 429 (eventsnextleague.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
