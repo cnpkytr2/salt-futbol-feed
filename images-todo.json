@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-20T04:43:31+00:00",
- "edition": "2026-10-20-sabah",
+ "generated_at": "2026-10-20T07:43:47+00:00",
+ "edition": "2026-10-20-guncel",
  "items": [
   {
-   "key": "047ed5a7a774f4ec",
-   "story_id": "s0082",
-   "title": "UEFA, Galatasaray'ın Lille maçının ertelenmesi yönündeki başvurusunu kabul etmedi",
+   "key": "b3eaf1ca4f61f1ae",
+   "story_id": "s0019",
+   "title": "Trabzonspor, Thomas Reis yönetiminde 4 maçta 4 galibiyet aldı",
    "category": "mac",
-   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of yellow and red color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in dark burgundy (deep claret) and light sky blue colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1608424201,
+   "seed": 76875971,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,7 +18,41 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/047ed5a7a774f4ec.png"
+   "out": "s/b3eaf1ca4f61f1ae.png"
+  },
+  {
+   "key": "aa25b669785baa6b",
+   "story_id": "s0160",
+   "title": "Rıdvan Dilmen'den Sergen Yalçın ve A Milli Takım değerlendirmesi",
+   "category": "teknik",
+   "prompt": "A football head coach in a dark overcoat seen from directly behind at the edge of an empty floodlit pitch with arms crossed, empty stands with red and white seats softly blurred behind him. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 525857258,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/aa25b669785baa6b.png"
+  },
+  {
+   "key": "30d5bf743faf329d",
+   "story_id": "s0038",
+   "title": "Süper Lig'de 8. hafta tamamlandı: Galatasaray lider, Trabzonspor 4. sırada",
+   "category": "mac",
+   "prompt": "Wide view of an empty stadium bowl at night seen from the top row, rows of empty seats in neutral dark colors filling the foreground, the pitch far below softly blurred in light haze. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 420834680,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/30d5bf743faf329d.png"
   }
  ]
 }
