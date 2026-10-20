@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-20T09:25:30+00:00",
+ "generated_at": "2026-10-20T15:23:29+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -724,10 +724,28 @@
      "points": 26,
      "form": "DWWWW",
      "group": "Lig A",
-     "updated": "2026-10-19 18:04:28"
+     "updated": "2026-10-19 21:19:41"
     },
     {
      "rank": 2,
+     "team": {
+      "name": "Bursaspor",
+      "club": null
+     },
+     "played": 11,
+     "win": 8,
+     "draw": 1,
+     "loss": 2,
+     "gf": 22,
+     "ga": 9,
+     "gd": 13,
+     "points": 25,
+     "form": "WWLWD",
+     "group": "Lig A",
+     "updated": "2026-10-19 21:19:41"
+    },
+    {
+     "rank": 3,
      "team": {
       "name": "Iğdır",
       "club": null
@@ -742,25 +760,7 @@
      "points": 23,
      "form": "WDWDW",
      "group": "Lig A",
-     "updated": "2026-10-19 18:04:28"
-    },
-    {
-     "rank": 3,
-     "team": {
-      "name": "Bursaspor",
-      "club": null
-     },
-     "played": 10,
-     "win": 7,
-     "draw": 1,
-     "loss": 2,
-     "gf": 20,
-     "ga": 9,
-     "gd": 11,
-     "points": 22,
-     "form": "WLWDW",
-     "group": "Lig A",
-     "updated": "2026-10-19 18:04:28"
+     "updated": "2026-10-19 21:19:41"
     },
     {
      "rank": 4,
@@ -778,7 +778,7 @@
      "points": 20,
      "form": "WDWDD",
      "group": "Lig A",
-     "updated": "2026-10-19 18:04:28"
+     "updated": "2026-10-19 21:19:41"
     },
     {
      "rank": 5,
@@ -796,7 +796,7 @@
      "points": 20,
      "form": "DWLLL",
      "group": "Lig A",
-     "updated": "2026-10-19 18:04:28"
+     "updated": "2026-10-19 21:19:41"
     }
    ],
    "standings_limited": true,
@@ -1222,11 +1222,11 @@
         "club": null
        },
        "score": {
-        "home": 1,
+        "home": 2,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Yüzüncü Yıl Atatürk Stadyumu"
       },
       {
@@ -1244,11 +1244,11 @@
         "club": null
        },
        "score": {
-        "home": 1,
-        "away": 0
+        "home": 4,
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Esenler Stadyumu"
       }
      ]
@@ -1449,8 +1449,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "premier-lig",
@@ -6438,10 +6437,9 @@
   }
  ],
  "errors": [
-  "tff-1-lig: HTTP 429 (eventsround.php)",
   "la-liga: HTTP 429 (eventsround.php)",
   "bundesliga: HTTP 429 (eventsround.php)",
-  "avrupa-ligi: HTTP 429 (eventsnextleague.php)"
+  "avrupa-ligi: HTTP 429 (eventspastleague.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
