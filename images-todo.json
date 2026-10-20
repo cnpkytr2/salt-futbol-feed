@@ -1,6 +1,24 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-19T20:44:28+00:00",
- "edition": "2026-10-19-guncel",
- "items": []
+ "generated_at": "2026-10-20T04:43:31+00:00",
+ "edition": "2026-10-20-sabah",
+ "items": [
+  {
+   "key": "047ed5a7a774f4ec",
+   "story_id": "s0082",
+   "title": "UEFA, Galatasaray'ın Lille maçının ertelenmesi yönündeki başvurusunu kabul etmedi",
+   "category": "mac",
+   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of yellow and red color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1608424201,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/047ed5a7a774f4ec.png"
+  }
+ ]
 }

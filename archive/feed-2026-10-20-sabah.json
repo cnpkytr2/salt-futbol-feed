@@ -1,0 +1,1669 @@
+{
+ "schema": 1,
+ "generated_at": "2026-10-20T04:43:31+00:00",
+ "edition": {
+  "date": "2026-10-20",
+  "label": "sabah",
+  "title": "Sabah bülteni",
+  "time_local": "07:43"
+ },
+ "stats": {
+  "sources_ok": 58,
+  "sources_total": 59,
+  "articles_football": 360,
+  "stories": 21
+ },
+ "image_base": "https://raw.githubusercontent.com/cnpkytr2/salt-futbol-feed/main/img/",
+ "top_n": 30,
+ "stories": [
+  {
+   "id": "s0003",
+   "rank": 1,
+   "key": "d53496e69a1aebe0",
+   "title": "Slavia Prag Teknik Direktörü Trpisovsky: Fenerbahçe'ye karşı hata yapmamalıyız",
+   "summarized": true,
+   "intro": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında Slavia Prag, 20 Ekim'de saat 19.45'te Chobani Stadı'nda Fenerbahçe'ye konuk olacak. Maç öncesi stadda basın toplantısı düzenleyen Çek ekibinin teknik direktörü Jindrich Trpisovsky, Fenerbahçe'nin 2022'de karşılaştıkları döneme göre çok güçlendiğini söyledi. Trpisovsky, Avrupa'da puan almanın zor olduğunu belirterek takımının bu fırsatı değerlendirmesi ve hata yapmaması gerektiğini vurguladı. Toplantıya savunma oyuncusu David Zima da katıldı. Slavia Prag, Chobani Stadı'ndaki antrenmanla hazırlıklarını tamamladı; Fenerbahçe de maç öncesi hazırlıklarını bitirdi.",
+   "bullets": [
+    "Trpisovsky, Fenerbahçe'nin bütçe olarak kendilerinin üstünde olduğunu kabul etti; ancak ona göre futbolda belirleyici olan bütçe değil, sahadaki performans, hazırlık ve şans.",
+    "Teknik direktör, Romelu Lukaku'yu çok sevdiğini belirtti ve onu \"olağanüstü güçlü\" bir oyuncu olarak niteledi. Lukaku'ya \"1 santimetre alan bile\" bırakılmaması gerektiğini söyledi.",
+    "Trpisovsky, Fenerbahçe karşısında 4. maçına çıkacak. İstanbul'a ilk kez geldiğini, 4 yıl önceki maça hasta olduğu için gelemediğini ve Kadıköy atmosferini dört gözle beklediğini anlattı.",
+    "Trpisovsky, Fenerbahçe'nin kendileri gibi değişimden geçen bir takım olduğunu söyledi. Ona göre Fenerbahçe'nin yarınki kadrosu, karşılaştıkları maçlardaki en güçlü takım olabilir.",
+    "David Zima, Şampiyonlar Ligi'nin en üst seviyede olduğunu söyledi. Slavia Prag'ın önceki 2 maçı mağlubiyetle bittiği hatırlatılınca \"Baskı altında kalmamalıyız\" dedi.",
+    "Zima, Lukaku'nun agresif ve çok iyi bir oyuncu olduğunu belirtti. Alan bulması halinde zorlanacaklarını söyledi.",
+    "Slavia Prag'ın antrenmanının ilk 15 dakikası basına açıktı. Oyuncular iki gruba ayrılıp ısınma, top kapma ve pas çalışması yaptı; kapalı bölümde taktik ağırlıklı çalışıldı."
+   ],
+   "why": "Rakip teknik direktörün Fenerbahçe'yi güçlü bulması ve Lukaku'ya özel vurgu yapması, Slavia Prag'ın maça temkinli ve dikkatli gireceğini gösteriyor. Slavia Prag'ın önceki iki maçını kaybetmiş olması, Kadıköy'deki karşılaşmayı rakip için puan arayışı açısından önemli kılıyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/trpisovsky-fenerbahcenin-yarinki-takimi-onlarla-karsi-karsiya-geldigimiz-maclardaki-en-guclu-takimi-olabilir/4093693",
+     "published": "2026-10-19T14:52:44+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/slavia-prag-da-jindrich-trpisovsky-bu-atmosferi-yasamayi-dort-gozle-bekliyorum-3920888",
+     "published": "2026-10-19T14:58:18+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/19/trpisovsky-lukakuya-1-santimetre-saha-birakmamalisiniz",
+     "published": "2026-10-19T15:08:43+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/jindrich-trpisovsky-fenerbahce-bizim-gibi-degisimden-gecmis-bir-ekip-3481607",
+     "published": "2026-10-19T15:08:55+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/slavia-prag-hocasindan-fenerbahce-itirafi-736950",
+     "published": "2026-10-19T15:20:49+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/fenerbahce-slavia-prag-macinin-hazirliklarini-tamamladi-431555",
+     "published": "2026-10-19T16:58:04+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/fenerbahce-slavia-prag-macina-hazir-3920919",
+     "published": "2026-10-19T17:14:14+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/jindrich-trpisovsky-fenerbahce-karsisinda-hata-yapmamaliyiz-43347745",
+     "published": "2026-10-19T17:18:00+00:00"
+    }
+   ],
+   "n_sources": 12,
+   "first_published": "2026-10-19T14:52:44+00:00",
+   "last_published": "2026-10-20T03:40:48+00:00",
+   "image": {
+    "url": "https://im.haberturk.com/l/2026/10/19/ver1792421877/3920888/jpg/1200x628",
+    "kind": "source",
+    "label": "Fotoğraf: Habertürk",
+    "credit": "Habertürk",
+    "source_url": "https://www.haberturk.com/spor/slavia-prag-da-jindrich-trpisovsky-bu-atmosferi-yasamayi-dort-gozle-bekliyorum-3920888"
+   },
+   "score": 42.81,
+   "importance": 7,
+   "popular": false
+  },
+  {
+   "id": "s0001",
+   "rank": 2,
+   "key": "635c5e08c4845bfb",
+   "title": "Trabzonspor, Batagov'un sol uyluğunda kas ve tendon yaralanması tespit edildiğini açıkladı",
+   "summarized": true,
+   "intro": "Trabzonspor, Ukraynalı savunma oyuncusu Arseniy Batagov'un yeniden sakatlandığını 19 Ekim 2026'da duyurdu. Sağ diz ameliyatının ardından tedavi ve rehabilitasyon sürecini tamamlayıp takımla antrenmanlara dönen futbolcu, antrenman sırasında sol uyluğunun ön kısmında ağrı hissetti. Yapılan muayene ve MR görüntülemesinde sol uyluktaki rektus femoris kası ve kas içi tendonunda yaralanmaya bağlı yaygın kanama ve ödem saptandı. Tedaviye kulübün sağlık ekibi tarafından başlandı.",
+   "bullets": [
+    "Açıklama, kulübün Sağlık Kurulu Başkanı Prof. Dr. Ahmet Beşir aracılığıyla yapıldı; kulübün resmi duyurusunda sakatlığın kapsamı bu şekilde tanımlandı.",
+    "Batagov'un son maçı, geçen sezon 9 Mart 2026'da Kayserispor'a karşı oynadığı karşılaşma oldu; o maçta yaşadığı sakatlık sonrası ameliyat olmuştu.",
+    "Takvim, 24 yaşındaki oyuncunun sakatlığının Beşiktaş ile oynanacak derbi öncesinde duyurulduğunu aktardı.",
+    "Kulübün açıklamasında Batagov'un ne kadar süre sahalardan uzak kalacağına dair bir bilgi yer almadı.",
+    "Ajansspor, A Spor'un haberine dayanarak oyuncunun yaklaşık 2 ay sahalardan uzak kalmasının beklendiğini yazdı; bu bilgi resmi değil ve iyileşme sürecine göre değişebilir.",
+    "Ajansspor'a göre gelişme Trabzonspor'un savunma planlamasını ve teknik heyetin önümüzdeki dönemdeki tercihlerini etkileyebilir."
+   ],
+   "why": "Batagov uzun bir diz ameliyatı sürecinin ardından sahalara dönmeye hazırlanırken yeni bir sakatlıkla karşılaştı; bu da stoper rotasyonunu ve oyuncunun dönüş takvimini belirsizleştiriyor. Taraftar için asıl soru, resmi bir süre açıklanmadığı için dönüşün ne zaman olacağı.",
+   "raw_summary": null,
+   "category": "sakatlik",
+   "category_name": "Sakatlık",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/trabzonspordan-sakatlik-aciklamasi-43347631",
+     "published": "2026-10-19T14:48:05+00:00"
+    },
+    {
+     "name": "Takvim",
+     "url": "https://www.takvim.com.tr/spor/trabzonspor/2026/10/19/trabzonspordan-arseniy-batagov-icin-sakatlik-aciklamasi",
+     "published": "2026-10-19T14:49:02+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/trabzonspora-kotu-haber-arseniy-batagovun-sakatligi-duyuruldu-736949",
+     "published": "2026-10-19T15:02:13+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/trabzonspor-da-arseniy-batagov-yeniden-sakatlandi-3920891",
+     "published": "2026-10-19T15:06:08+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-sahalara-donmeye-hazirlaniyordu-batagovdan-trabzonspora-kotu-haber-431547",
+     "published": "2026-10-19T15:20:42+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/trabzonspora-kotu-haber-33669108",
+     "published": "2026-10-19T17:48:00+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/20/sok-batagov-sakatlandi",
+     "published": "2026-10-19T20:46:01+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/19/trabzonspordan-sakatlik-aciklamasi-arseniy-batagov",
+     "published": "2026-10-19T21:10:40+00:00"
+    }
+   ],
+   "n_sources": 7,
+   "first_published": "2026-10-19T14:48:05+00:00",
+   "last_published": "2026-10-19T21:10:40+00:00",
+   "image": {
+    "url": "https://iatkv.tmgrup.com.tr/2aecac/1200/675/0/77/2048/1230?u=https%3a%2f%2fitkv.tmgrup.com.tr%2f2026%2f10%2f19%2ftrabzonspordan-arsenii-batagov-icin-sakatlik-aciklamasi-1792421163303.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Takvim",
+    "credit": "Takvim",
+    "source_url": "https://www.takvim.com.tr/spor/trabzonspor/2026/10/19/trabzonspordan-arseniy-batagov-icin-sakatlik-aciklamasi"
+   },
+   "score": 29.55,
+   "importance": 7,
+   "popular": false
+  },
+  {
+   "id": "s0021",
+   "rank": 3,
+   "key": "746b10b8157d194e",
+   "title": "Italiano maç öncesi Trabzonspor'a hazır olduklarını söyledi, maç 2-0 bitti",
+   "summarized": true,
+   "intro": "Beşiktaş Teknik Direktörü Vincenzo Italiano, Süper Lig'in 8. haftasında Trabzonspor deplasmanı öncesinde yoğun fikstüre değinip takımın hazır olduğunu söyledi. Maç sonunda Beşiktaş, Trabzonspor'a 2-0 yenildi. Italiano maç sonrasında deplasmandaki konsantrasyon eksikliğine dikkat çekti. Kaynaklarda maçın detayları ve Italiano'nun maç sonu sözlerinin tamamı yer almıyor; başlıklar performansından memnun olduğunu, ancak deplasmanda istenen seviyeyi yakalayamadıklarını gösteriyor.",
+   "bullets": [
+    "Maç öncesi Italiano, Trabzonspor'un perşembe günü Avrupa'da oynadığını, Beşiktaş'ın ise Almanya'dan döndükten sonra tek idmanla deplasmana geldiğini belirtti.",
+    "Italiano'ya göre en önemli unsur mental hazırlıktı; iyi performansla 3 puanın alınabileceğini söyleyip \"Hazırız\" dedi.",
+    "Orkun'un önceki maçta yerini Miretti'ye bıraktığını hatırlatan Italiano, Miretti'nin performansından ve fiziksel durumundan memnun olduğunu söyledi.",
+    "Perşembe günü oynamayan Cerny'nin ve Vlahovic'in (\"Dusan\") dinlenmiş ve hazır olduğunu aktardı.",
+    "Italiano, rakiple doğrudan oynanan maçın önemli ve zor olduğunu belirterek şimdiye kadar yapılanların anlam kazanması için iyi sonuç gerektiğini söyledi.",
+    "Maç sonrası Italiano, konsantrasyonun daha yüksek olması gerektiğini belirtti: evlerinde bunun çok yüksek olduğunu, deplasmanda ise yapamadıklarını söyledi.",
+    "NTV Spor başlığına göre Italiano \"Bunu çözebiliriz\" dedi; ayrı bir haberde kendisini sinirlendiren bir noktayı açıkladı ve \"Beni yormaya başladı\" ifadesini kullandı, ancak ayrıntılar özetlerde yer almıyor.",
+    "Fotomaç başlığında Italiano önceki yenilgilerde çok sinirlendiğini söylüyor; Ajansspor ise performanstan memnun olduğunu aktarıyor."
+   ],
+   "why": "Beşiktaş taraftarı için sonuç, takımın deplasmandaki sorununun sürdüğünü gösteriyor. Teknik direktörün sorunu konsantrasyonla ilişkilendirmesi ve çözülebileceğini söylemesi, sonraki deplasman maçlarına bakışı belirleyecek.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    },
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/besiktas/vincenzo-italiano-dan-isim-isim-aciklama-SXHBQ1179877SXQ",
+     "published": "2026-10-19T16:19:00+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/besiktas/2026/10/19/vincenzo-italianodan-trabzonspor-maci-oncesi-vaclav-cerny-aciklamasi",
+     "published": "2026-10-19T16:19:58+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/vincenzo-italianodan-cerny-ve-vlahovic-sozleri-736953",
+     "published": "2026-10-19T16:29:44+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/besiktas/2026/10/19/vincenzo-italiano-bundan-onceki-maglubiyetlerde-cok-sinirleniyordum-ama",
+     "published": "2026-10-19T19:39:09+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-vincenzo-italianodan-deplasman-itirafi-bunu-cozebiliriz-diyerek-acikladi-431560",
+     "published": "2026-10-19T19:40:58+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-daha-iyi-olmaliyiz-deplasmanda-yapamiyoruz-43347837",
+     "published": "2026-10-19T19:42:57+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/vincenzo-italiano-performansimizdan-memnunum-736964",
+     "published": "2026-10-19T19:52:35+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-beni-yormaya-basladi-dedi-vincenzo-italiano-kendisini-sinirlendiren-noktayi-acikladi-431569",
+     "published": "2026-10-19T20:08:47+00:00"
+    }
+   ],
+   "n_sources": 10,
+   "first_published": "2026-10-19T16:19:00+00:00",
+   "last_published": "2026-10-20T00:04:00+00:00",
+   "image": {
+    "url": "https://iaaspr.tmgrup.com.tr/406d4d/1200/675/0/0/800/449?u=https://iaspr.tmgrup.com.tr/2026/10/19/vincenzo-italianodan-trabzonspor-maci-oncesi-vaclav-cerny-aciklamasi-1792426758773.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: A Spor",
+    "credit": "A Spor",
+    "source_url": "https://www.aspor.com.tr/besiktas/2026/10/19/vincenzo-italianodan-trabzonspor-maci-oncesi-vaclav-cerny-aciklamasi"
+   },
+   "score": 31.65,
+   "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0060",
+   "rank": 4,
+   "key": "b3eaf1ca4f61f1ae",
+   "title": "Trabzonspor, Thomas Reis yönetiminde 4 resmi maçta 4 galibiyet aldı",
+   "summarized": true,
+   "intro": "Trabzonspor, Trendyol Süper Lig'de sahasında Beşiktaş'ı 2-0 yenerek teknik direktör Thomas Reis yönetinde oynadığı dört resmi maçın dördünü de kazandı. Reis, Fatih Tekke'nin ardından göreve gelen Alman teknik adam. Bu galibiyetle bordo-mavililer 16 puana ulaşıp dördüncü sıraya yükseldi ve Beşiktaş'ı geride bıraktı. Reis ayrıca, Trabzonspor tarihinde göreve başladığı ilk üç Süper Lig maçını kazanan ilk yabancı teknik direktör olarak anıldı.",
+   "bullets": [
+    "Reis dönemindeki sonuçlar: Trabzonspor 4-0 Galatasaray, Samsunspor 0-3 Trabzonspor, KuPS 2-4 Trabzonspor ve Trabzonspor 2-0 Beşiktaş.",
+    "Üç galibiyet Süper Lig'de geldi; KuPS (Kups Kuopio) deplasmanındaki 4-2'lik zafer UEFA Konferans Ligi'nde alındı ve Finlandiya'da oynandı.",
+    "Beşiktaş maçında Trabzonspor'un ilk golünü Ozan Tufan attı. Maç sonrası orta sahada takım arkadaşlarıyla üçlü çektirdi.",
+    "Muhammed Salah ligde 8. golüne ulaşarak gol krallığı yarışında zirvede yer alıyor; resmi maçlardaki gol sayısı 9 oldu.",
+    "Beşiktaş 15 puanda kalarak beşinci sıraya geriledi. Siyah-beyazlılar dış sahadaki dördüncü maçında üçüncü yenilgisini yaşadı.",
+    "Anadolu Ajansı ve NTV Spor'a göre Trabzonspor bu seriyle şampiyonluk yarışındaki iddiasını ortaya koydu."
+   ],
+   "why": "Teknik direktör değişikliğinin ardından gelen dört galibiyet, Trabzonspor taraftarı için takımın hızla toparlandığına işaret ediyor. Galatasaray ve Beşiktaş gibi rakiplere karşı alınan sonuçlar ve Salah'ın gol katkısı, takımın üst sıralardaki iddiasını güçlendiriyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "konferans-ligi",
+     "name": "Konferans Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/trabzonspor/trabzonspor-da-thomas-reis-ile-firtina-SXHBQ1179887SXQ",
+     "published": "2026-10-19T19:02:00+00:00"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/trabzonspor-thomas-reis-yonetiminde-durdurulamiyor/4093898",
+     "published": "2026-10-19T19:40:19+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-trabzonspor-thomas-reis-yonetiminde-durdurulamiyor-4te-4-yapti-431568",
+     "published": "2026-10-19T19:58:23+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/foto/thomas-reis-dumene-gecti-trabzonspor-dan-4-te-4-3920949",
+     "published": "2026-10-19T20:02:20+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/20/reis-tarih-yazdi",
+     "published": "2026-10-19T20:27:49+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/thomas-reis-sadece-3-macta-tarihe-gecti-736968",
+     "published": "2026-10-19T20:43:34+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/thomas-reis-3-macta-kulup-tarihine-gecti-trabzonspor-da-bunu-basaran-ilk-teknik-direktor-oldu-p370764",
+     "published": "2026-10-19T20:44:54+00:00"
+    },
+    {
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/spor/trabzonspor/tarihe-gecti-7684304",
+     "published": "2026-10-19T21:54:14+00:00"
+    }
+   ],
+   "n_sources": 9,
+   "first_published": "2026-10-19T19:02:00+00:00",
+   "last_published": "2026-10-19T22:40:00+00:00",
+   "image": {
+    "url": "https://images.ntvspor.net/images/thomasreis-908585.JPG?format=webp",
+    "kind": "source",
+    "label": "Fotoğraf: NTV Spor",
+    "credit": "NTV Spor",
+    "source_url": "https://www.ntvspor.net/futbol/galeri-trabzonspor-thomas-reis-yonetiminde-durdurulamiyor-4te-4-yapti-431568"
+   },
+   "score": 28.36,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0064",
+   "rank": 5,
+   "key": "17e3249a792ae2da",
+   "title": "Beşiktaş'ta Salih Özcan ve Rıdvan Yılmaz, Trabzonspor yenilgisini değerlendirdi",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 8. haftasında Beşiktaş, deplasmanda Trabzonspor'a 2-0 mağlup oldu. Maçın ardından siyah-beyazlı futbolculardan Salih Özcan ve Rıdvan Yılmaz açıklamalarda bulundu. İki oyuncu da takımın pozisyon bulduğunu ancak bunları skora çeviremediğini vurguladı. Özcan, yenilgide iki basit golün etkili olduğunu söyledi.",
+   "bullets": [
+    "Salih Özcan, istediklerini yapamadıklarını ve 3 puanı alamadıklarını belirterek mağlubiyetle eve döndüklerini söyledi.",
+    "Özcan'a göre takım \"iki basit gol\" yedi; rakip attı, Beşiktaş atamadı.",
+    "Milli oyuncu, maçta şansları olduğunu ancak bunları değerlendiremediklerini belirtti.",
+    "Özcan, yenen iki golün kontra ataktan geldiğini söyledi.",
+    "Sol bek Rıdvan Yılmaz, zor bir maç olacağını bildiklerini ifade etti.",
+    "Rıdvan Yılmaz, \"Çok kötü oynamadık, pozisyonlarımız vardı ama skoru bulamadık\" dedi.",
+    "Sporx'a göre Rıdvan, fırsatları değerlendiremedikleri için üzgün olduklarını belirtti."
+   ],
+   "why": "Beşiktaşlı oyuncuların açıklamaları, takımın deplasmanda üretkenlik ve kontra savunması konusunda sorun yaşadığını gösteriyor. Taraftar için yenilgi, bulunan pozisyonların gole çevrilememesi ve kontralarda yenen goller üzerinden okunuyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    },
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/besiktas/salih-ozcan-iki-basit-gol-yedik-SXHBQ1179888SXQ",
+     "published": "2026-10-19T19:10:20+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/besiktas/2026/10/19/besiktasta-salih-ozcan-iki-basit-gol-yedik",
+     "published": "2026-10-19T19:12:17+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/salih-ozcan-skoru-bizim-tarafimiza-getiremedik-736959",
+     "published": "2026-10-19T19:17:53+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-salih-ozcandan-derbi-maglubiyeti-yorumu-iki-basit-gol-yedik-431563",
+     "published": "2026-10-19T19:32:45+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/besiktas/ridvan-yilmaz-cok-kotu-oynamadik-SXHBQ1179894SXQ",
+     "published": "2026-10-19T19:33:57+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/ridvan-yilmaz-cok-kotu-oynamadik-43347834",
+     "published": "2026-10-19T19:36:02+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/ridvan-yilmaz-zor-bir-mac-olacagini-biliyorduk-3920950",
+     "published": "2026-10-19T19:44:30+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/besiktas/2026/10/20/salih-uzgunuz",
+     "published": "2026-10-19T20:09:08+00:00"
+    }
+   ],
+   "n_sources": 6,
+   "first_published": "2026-10-19T19:10:20+00:00",
+   "last_published": "2026-10-19T20:09:08+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/eb781f/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/19/besiktasta-salih-ozcan-iki-basit-gol-yedik-1792437128675.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/besiktas/2026/10/19/besiktasta-salih-ozcan-iki-basit-gol-yedik"
+   },
+   "score": 30.39,
+   "importance": 4,
+   "popular": false
+  },
+  {
+   "id": "s0075",
+   "rank": 6,
+   "key": "399abb5d78f6f1e1",
+   "title": "Trabzonspor Beşiktaş'ı 2-0 yendi; Savic ve Nwaiwu savunmaya dikkat çekti",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 8. hafta kapanış maçında Trabzonspor, sahasında Beşiktaş'ı 2-0 mağlup etti. Karşılaşmanın ardından bordo-mavili futbolculardan Stefan Savic ve Chibuike Nwaiwu açıklamalarda bulundu. İki oyuncu da takımın savunmadaki düzenine ve çalışma temposuna vurgu yaptı. Nwaiwu ayrıca maç sonrası bir paylaşım yaptı; kaynaklarda paylaşımın içeriği aktarılmıyor.",
+   "bullets": [
+    "Savic, Beşiktaş'a karşı \"çok önemli bir galibiyet\" aldıklarını ve takımın doğru yolda olduğunu söyledi.",
+    "Savic'e göre takımın seviyesi gösterdiğinden daha yüksek; \"çok daha iyisini yapabiliriz\" dedi.",
+    "Savic, önemli olanın gol yememek, yense bile çok az gol yemek olduğunu belirtti; savunma sağlam olursa orta saha ve hücumdaki oyuncuların fark yaratacağını söyledi.",
+    "Savic, herkesin teknik direktör Thomas Reis'in söylediklerini yaptığını ve bu seviyenin korunması gerektiğini ifade etti.",
+    "Nwaiwu, Beşiktaş'ın çok iyi bir takım olduğunu, kendileri için zor bir maç oynadıklarını ve iki golle üç puanı aldıklarını söyledi.",
+    "Nwaiwu, az gol yemelerinin nedenlerinden birinin takım olarak çalıştıkları formasyonlar olduğunu, kaleci Andre Onana'nın da bu konuda çok yardımcı olduğunu belirtti.",
+    "Nwaiwu, sakatlık sorusuna \"Herhangi bir sakatlık problemim olduğunu söyleyemeyiz\" yanıtını verdi ve bir şey hissetmediğini söyledi.",
+    "Nwaiwu şampiyonluk hedefine ilişkin olarak çok aşamadan geçeceklerini ve şampiyonluğun sıkı çalışmadan geçtiğini bildiklerini söyledi."
+   ],
+   "why": "Trabzonspor, Beşiktaş karşısında kazandığı maçla birlikte savunma disiplinini ve gol yememe vurgusunu öne çıkardı. Oyuncuların açıklamaları, takımda çalışma düzeni ve şampiyonluk hedefi konusunda moralin yüksek olduğunu gösteriyor. Nwaiwu'nun sakatlık olmadığına dair sözleri taraftar açısından savunma hattı için olumlu bir işaret.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    },
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/trabzonspor-besiktas-maci-sonrasi-stefan-savic-onemli-bir-galibiyet-aldik-3920946",
+     "published": "2026-10-19T19:27:43+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/trabzonspor/2026/10/19/chibuike-nwaiwu-herhangi-bir-sakatlik-problemim-oldugunu-soyleyemeyiz",
+     "published": "2026-10-19T19:39:15+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/trabzonspor/chibuike-nwaiwu-cok-iyi-bir-takima-karsi-oynadik-SXHBQ1179897SXQ",
+     "published": "2026-10-19T19:53:00+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/trabzonspor-besiktas-maci-sonrasi-chibuike-nwaiwu-cok-zor-bir-mac-oldu-3920956",
+     "published": "2026-10-19T20:14:13+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/trabzonspor/chibuike-nwaiwu-dan-olay-yaratan-paylasim-SXHBQ1179900SXQ",
+     "published": "2026-10-19T20:22:17+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-trabzonsporlu-nwaiwudan-besiktas-maci-sonrasi-flas-paylasim-431570",
+     "published": "2026-10-19T20:32:52+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/chibuike-nwaiwu-cok-iyi-bir-takima-karsi-oynadik-haber-2047715",
+     "published": "2026-10-19T22:27:00+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/nwaiwu-cok-iyi-bir-takima-karsi-oynadik-33675005",
+     "published": "2026-10-19T23:58:00+00:00"
+    }
+   ],
+   "n_sources": 6,
+   "first_published": "2026-10-19T19:27:43+00:00",
+   "last_published": "2026-10-19T23:58:00+00:00",
+   "image": {
+    "url": "https://im.haberturk.com/l/2026/10/19/ver1792437995/3920946/jpg/1200x628",
+    "kind": "source",
+    "label": "Fotoğraf: Habertürk",
+    "credit": "Habertürk",
+    "source_url": "https://www.haberturk.com/spor/trabzonspor-besiktas-maci-sonrasi-stefan-savic-onemli-bir-galibiyet-aldik-3920946"
+   },
+   "score": 22.59,
+   "importance": 4,
+   "popular": true
+  },
+  {
+   "id": "s0055",
+   "rank": 7,
+   "key": "cdba2264c574887c",
+   "title": "Bursaspor, Pendikspor'u 2-0 yendi; Iheanacho üst üste 11. maçta gol attı",
+   "summarized": true,
+   "intro": "Trendyol 1. Lig'in 11. haftasında Bursaspor, sahasında Pendikspor'u 2-0 mağlup etti. Goller 10. dakikada Halil Akbunar'dan ve 62. dakikada Kelechi Iheanacho'dan geldi. Bu sonuçla Bursaspor puanını 25'e yükseltti ve 2. sıradaki yerini korudu. Pendikspor ise 10 puanda kaldı. Nijeryalı golcü Iheanacho, Bursaspor formasıyla üst üste 11. maçında da fileleri havalandırdı.",
+   "bullets": [
+    "Bursaspor ilk yarıyı Halil Akbunar'ın 10. dakikadaki golüyle 1-0 önde kapattı. Akbunar ikinci yarıya başlarken (46. dk) oyundan çıktı, yerine Hüseyin Maldar girdi.",
+    "Iheanacho 62. dakikadaki golle farkı ikiye çıkardı. Teknik direktör Mustafa Er yönetimindeki ekip maçı rahat sayılabilecek bir skorla bitirdi.",
+    "30 yaşındaki Iheanacho'nun geçmişinde Manchester City ve Leicester City var. NTV Spor ve CNN Türk, oyuncunun 11 maçta 15 gol attığını aktardı; CNN Türk ayrıca 4 asist sayısını da verdi.",
+    "NTV Spor'a göre Iheanacho bu golleriyle gol krallığı yarışında zirvedeki yerini korudu. Ajansspor ise serisini Türkiye'de görülmemiş bir rekor olarak sundu.",
+    "Habertürk'e göre 26 puanlı lider Kayserispor'un 1 puan gerisinde bulunan Bursaspor, zirve takibini sürdürdü. 10 puanlı Pendikspor ise 17. sırada yer alıyor.",
+    "Maçı Melek Dakan, Haydar Avcı ve Enes Biroğlu yönetti. Bursaspor'dan Elitim ve Baker, Pendikspor'dan Kerem Kalafat, Taha Kerem İnce ve Soldo sarı kart gördü.",
+    "12. haftada Bursaspor, 25 Ekim Pazar günü saat 20.00'de Ankara Keçiörengücü'ne konuk olacak. Pendikspor aynı gün 13.30'da sahasında Kayserispor'u ağırlayacak."
+   ],
+   "why": "Bursaspor bu galibiyetle lider Kayserispor'un takibini sürdürdü ve zirve yarışında yerini korudu. Iheanacho'nun gol serisi ve gol krallığındaki konumu, takımın hücumdaki en büyük kozu olduğunu gösteriyor. Pendikspor ise alt sıralardaki durumunu değiştiremedi.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    },
+    {
+     "slug": "tff-1-lig",
+     "name": "TFF 1. Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/birincilig/kelechi-iheanacho-yine-atti-bursaspor-kazandi-SXHBQ1179884SXQ",
+     "published": "2026-10-19T18:55:37+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/bursaspor-pendikspor-mac-sonucu-iste-bursaspor-pendikspor-maci-ozeti-ve-golleri-1-lig-3920942",
+     "published": "2026-10-19T19:05:17+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/kelechi-iheanacho-bursasporda-inanilmazi-basardi-431565",
+     "published": "2026-10-19T19:27:35+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/bursasporlu-iheanachodan-turkiyede-gorulmemis-rekor-736966",
+     "published": "2026-10-19T20:00:04+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/birincilig/2026/10/19/bursaspor-evinde-3-puani-kapti",
+     "published": "2026-10-19T21:10:03+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/bursaspor-evinde-hata-yapmadi-33672859",
+     "published": "2026-10-19T22:06:00+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/bursasporda-iheanacho-11-mactir-gol-atiyor-3481666",
+     "published": "2026-10-20T04:07:12+00:00"
+    }
+   ],
+   "n_sources": 7,
+   "first_published": "2026-10-19T18:55:37+00:00",
+   "last_published": "2026-10-20T04:07:12+00:00",
+   "image": {
+    "url": "https://im.haberturk.com/l/2026/10/19/ver1792436703/3920942/jpg/1200x628",
+    "kind": "source",
+    "label": "Fotoğraf: Habertürk",
+    "credit": "Habertürk",
+    "source_url": "https://www.haberturk.com/spor/bursaspor-pendikspor-mac-sonucu-iste-bursaspor-pendikspor-maci-ozeti-ve-golleri-1-lig-3920942"
+   },
+   "score": 18.88,
+   "importance": 5,
+   "popular": true
+  },
+  {
+   "id": "s0040",
+   "rank": 8,
+   "key": "cb2dcb1007e45a3d",
+   "title": "Trabzonspor-Beşiktaş maçında Agbadou'nun elle oynama pozisyonunda devam kararı",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 8. haftasını kapatan Trabzonspor-Beşiktaş maçında ev sahibi ekip, 31. dakikada Beşiktaşlı Emmanuel Agbadou'nun koluna çarpan top nedeniyle penaltı bekledi. Hakem Cihan Aydın oyunun devamına karar verdi ve VAR'dan da hakeme bir uyarı gelmedi. Trabzonsporlu oyuncular pozisyonda elle oynama olduğunu savunarak itirazda bulundu. Maçı Trabzonspor 2-0 kazandı; beIN Trio ekibi de pozisyonu maç sonrasında değerlendirdi.",
+   "bullets": [
+    "Pozisyon, Süper Lig'in 8. haftasında Trabzonspor ile Beşiktaş arasında oynanan derbinin 31. dakikasında yaşandı.",
+    "Takvim'in aktardığına göre Agbadou ceza sahasında kafayla müdahale etti, Stefan Savic'in de yükseldiği top Agbadou'nun koluna çarptı.",
+    "Hakem Cihan Aydın oyunun devamını istedi; VAR'dan hakeme herhangi bir uyarı gelmedi.",
+    "beIN Trio'dan Aleks Taşçıoğlu, Agbadou'nun önce kafayla bilerek oynadığı topun kendi koluna geldiğini belirterek ihlal olmadığını ve devam kararının doğru olduğunu söyledi.",
+    "Bülent Yıldırım, penaltı için topun doğrudan açılmış ele gelmesi gerektiğini, bu pozisyonda topun baştan ele geldiğini ve kararın doğru olduğunu belirtti.",
+    "Seçim Demirel, Agbadou kafayla oynadıktan sonra kolunu büyütüp topun yolunu kapatsaydı penaltının düşünülebileceğini, ancak beklenmeyen topun kafadan ele geldiğini söyledi.",
+    "Trio ekibi, maçın 14. dakikasındaki Nwaiwu'nun destek eline temas ettiği pozisyonda da penaltı olmadığı konusunda hemfikirdi.",
+    "Fotomaç'ın aktardığına göre Mustafa Çulcu da A Spor'da pozisyonu yorumladı; kaynakta yorumun içeriği yer almıyor."
+   ],
+   "why": "Derbinin sonucunu etkileyebilecek bir pozisyon olduğu için hakem kararı tartışma konusu oldu. Trio'nun yorumuna göre devam kararı doğruydu; bu da Trabzonspor'un 2-0'lık galibiyetinin ardından tartışmayı büyük oranda yatıştırabilir.",
+   "raw_summary": null,
+   "category": "hakem",
+   "category_name": "Hakem / VAR",
+   "status": "belirsiz",
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    },
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/trabzonspor/trabzonspor-da-penalti-itirazi-SXHBQ1179882SXQ",
+     "published": "2026-10-19T17:38:00+00:00"
+    },
+    {
+     "name": "Takvim",
+     "url": "https://www.takvim.com.tr/spor/trabzonspor/2026/10/19/trabzonspor-besiktas-karsisinda-penalti-bekledi",
+     "published": "2026-10-19T17:44:06+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/19/trabzonspor-penalti-bekledi-cihan-aydin-devam-ettirdi",
+     "published": "2026-10-19T17:51:46+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/trabzonspor/2026/10/19/trabzonspor-besiktas-karsisinda-penalti-bekledi-iste-o-pozisyon",
+     "published": "2026-10-19T17:55:11+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/video-haber/videoizle/mustafa-culcu-yorumladi-agbadounun-pozisyonu-penalti-mi",
+     "published": "2026-10-19T20:43:21+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-trio-derbideki-iki-penalti-pozisyonu-icin-fikir-birligine-vardi-431572",
+     "published": "2026-10-19T21:33:38+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/trabzonspor-besiktas-macinda-penalti-beklentisi-43347914",
+     "published": "2026-10-20T04:00:00+00:00"
+    }
+   ],
+   "n_sources": 6,
+   "first_published": "2026-10-19T17:38:00+00:00",
+   "last_published": "2026-10-20T04:00:00+00:00",
+   "image": {
+    "url": "https://cdn.sporx.com/img/79/2026/whatsapp-image-2026-10-19-at-20-37-27.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Sporx",
+    "credit": "Sporx",
+    "source_url": "https://www.sporx.com/futbol/superlig/trabzonspor/trabzonspor-da-penalti-itirazi-SXHBQ1179882SXQ"
+   },
+   "score": 21.86,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0082",
+   "rank": 9,
+   "key": "047ed5a7a774f4ec",
+   "title": "UEFA, Galatasaray'ın Lille maçının ertelenmesi yönündeki başvurusunu kabul etmedi",
+   "summarized": true,
+   "intro": "Galatasaray, Şampiyonlar Ligi 3. haftasında çarşamba günü TSİ 19.45'te Fransa'da Lille ile deplasmanda oynayacak. Fransa'da yaşanan toplumsal olaylar ve eylemler nedeniyle kulüp, kafile ile taraftarların güvenliği için UEFA'ya başvuruda bulundu. Fransa İçişleri Bakanı Laurent Nunez maçların iptal edilmesinin söz konusu olmadığını söylerken, Lille'de sokağa çıkma yasağı ilan edildi. Haberlere göre UEFA, başvuruyu reddetti ve karşılaşmanın planlandığı gibi seyircili oynanması bekleniyor.",
+   "bullets": [
+    "Galatasaray yönetimi, Fransa'daki olaylar nedeniyle kafile ve deplasmana gidecek taraftarların can güvenliğinin üst düzeyde sağlanması için UEFA'ya resmi başvuru yaptı.",
+    "Başvurunun temel amacı, maçın oynanacağı bölgedeki güvenlik koşullarının gözden geçirilmesi ile kamp süreci ve maç günü için ek emniyet tedbirlerinin alınması olarak aktarıldı.",
+    "Posta'ya göre kulüp, Fransa Büyükelçiliği ve Dışişleri Bakanlığı ile iletişim halinde; maçın yerinin değiştirilmesini değil, tedbirlerin artırılmasını istiyor.",
+    "Fransa İçişleri Bakanı Laurent Nunez, \"Maçların iptal edilmesi söz konusu değil. Maçlar oynanmaya devam edecek\" dedi. Gündemde PSG-Barcelona maçının ertelenmesi de vardı.",
+    "Sporx'a göre Lille'de pazartesi TSİ 21.00 ile salı TSİ 07.00 arasında sokağa çıkma yasağı ilan edildi. Fotomaç ise 3 şehirde yasak getirildiğini yazdı.",
+    "Sporx, NTV Spor ve Ajansspor, UEFA'nın Galatasaray'ın talebini reddettiğini bildirdi. Ajansspor maçın planlandığı gibi seyircili oynanmasının beklendiğini aktardı.",
+    "A Spor, Fransa'daki protestolarda şiddet ve yağma olaylarının yaşandığını belirtti."
+   ],
+   "why": "Taraftarlar için maçın ertelenmeyeceği ve planlandığı gibi oynanacağı netleşti. Deplasmana gidecek taraftarlar ve kafile açısından güvenlik önlemleri ve Fransa'daki gelişmeler maça kadar yakından izlenecek.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/lille-galatasaray-maci-ertelenecek-mi-fransadan-resmi-aciklama-geldi-736947",
+     "published": "2026-10-19T14:41:31+00:00"
+    },
+    {
+     "name": "Posta",
+     "url": "https://www.posta.com.tr/spor/lille-galatasaray-maci-ertelenecek-mi-fransadan-resmi-resmi-aciklama-3053876",
+     "published": "2026-10-19T16:17:55+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/galatasaray/galatasaray-uefa-ya-gidiyor-sokaga-cikma-yasagi-SXHBQ1179858SXQ",
+     "published": "2026-10-19T16:37:00+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/10/19/lille-galatasaray-maci-oynanacak-mi-fransada-sokaga-cikma-yasagi",
+     "published": "2026-10-19T17:26:08+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/galatasaray/uefa-dan-galatasaray-a-ret-SXHBQ1179895SXQ",
+     "published": "2026-10-19T19:35:00+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-uefadan-galatasarayin-talebi-icin-karar-cikti-431566",
+     "published": "2026-10-19T19:35:22+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/uefadan-gsaraya-ret-736965",
+     "published": "2026-10-19T19:55:57+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/galatasaray/2026/10/19/uefadan-galatasarayin-basvurusuna-ret",
+     "published": "2026-10-19T21:52:25+00:00"
+    }
+   ],
+   "n_sources": 7,
+   "first_published": "2026-10-19T14:41:31+00:00",
+   "last_published": "2026-10-20T04:00:00+00:00",
+   "image": {
+    "path": "pool/mac-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 12.74,
+   "importance": 8,
+   "popular": true
+  },
+  {
+   "id": "s0074",
+   "rank": 10,
+   "key": "0c76638c5407c6f7",
+   "title": "Trabzonspor, Beşiktaş galibiyetinin ardından transfer videolarına gönderme yaptı",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 8. haftasının kapanış maçında Trabzonspor, sahasında Beşiktaş'ı 2-0 yendi. Golleri Ozan Tufan ve Muhammed Salah attı. Maçın ardından Trabzonspor'un resmi sosyal medya hesabı, Beşiktaş'ın transfer duyuru videolarına ve derbi skorlarına gönderme yapan paylaşımlar yaptı. Bu galibiyetle bordo-mavililer puanını 16'ya yükseltirken Beşiktaş 15 puanda kaldı.",
+   "bullets": [
+    "Trabzonspor'un golleri A Spor'a göre 21. dakikada Ozan Tufan'dan ve 71. dakikada Muhammed Salah'tan geldi.",
+    "Trabzonspor, Beşiktaş'ın transfer açıklamalarında kullandığı video serisine gönderme yaptı; paylaşımda “Çıkışınız yapıldı. 3 puan burada kalıyor.” denildi.",
+    "Beşiktaş'ın “Oyun başlasın” mesajlı videolarına, “Oyun sona erdi” ifadesiyle karşılık verildi. Bir paylaşımda #LetTheGameBegin etiketi üstü çizilerek #GameOver etiketi kullanıldı.",
+    "Yeni Şafak'a göre ayrı bir paylaşımda, derbi skorlarının yer aldığı bir kitapta Galatasaray karşısındaki 4-0'lık galibiyetin yanına tik atılmış, Beşiktaş maçının skor bölümü ise boş bırakılmıştı.",
+    "Maçtan sonra kitap Ozan Tufan'ın önüne geldi; oyuncu kalemle 2-0'lık skoru yazıp yanına tik işareti koydu.",
+    "A Spor'a göre Trabzonspor bu sezon oynadığı iki derbide de kazandı; paylaşımlarda Galatasaray ve Beşiktaş zaferlerine atıf yapıldı.",
+    "Yeni Şafak'a göre galibiyetle Trabzonspor ligde 4. sıraya yerleşti."
+   ],
+   "why": "Trabzonspor taraftarı için iki derbi galibiyeti hem puan tablosunda hem moral açısından önemli bir kazanım oldu. Kulübün maç sonrası paylaşımları, rekabetin sahadan sosyal medyaya da taştığını gösteriyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    },
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-3-puan-sonrasi-olay-paylasim-trabzonspordan-besiktasa-salahli-gonderme-431562",
+     "published": "2026-10-19T19:25:44+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/trabzonspor/2026/10/19/trabzonspordan-derbi-zaferi-sonrasi-flas-paylasimlar",
+     "published": "2026-10-19T19:32:48+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/19/trabzonspordan-derbi-galibiyeti-sonrasi-paylasim",
+     "published": "2026-10-19T19:33:04+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/trabzonspordan-carpici-paylasim-ozan-tufan-bakin-ne-yazdi-4865639",
+     "published": "2026-10-19T19:33:11+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/trabzonspordan-besiktasa-olay-gonderme-736963",
+     "published": "2026-10-19T19:39:21+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/galeri/spor/trabzonspordan-besiktasa-salah-gondermesi-game-over-4865642",
+     "published": "2026-10-19T20:04:03+00:00"
+    }
+   ],
+   "n_sources": 5,
+   "first_published": "2026-10-19T19:25:44+00:00",
+   "last_published": "2026-10-19T20:04:03+00:00",
+   "image": {
+    "url": "https://iaaspr.tmgrup.com.tr/f6c157/1200/675/0/0/800/450?u=https://iaspr.tmgrup.com.tr/2026/10/19/1792438184832.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: A Spor",
+    "credit": "A Spor",
+    "source_url": "https://www.aspor.com.tr/trabzonspor/2026/10/19/trabzonspordan-derbi-zaferi-sonrasi-flas-paylasimlar"
+   },
+   "score": 20.83,
+   "importance": 4,
+   "popular": false
+  },
+  {
+   "id": "s0037",
+   "rank": 11,
+   "key": "0a3d78c63a3c6850",
+   "title": "Portekiz Federasyonu, kampı izinsiz terk eden Ronaldo'ya ceza verdi",
+   "summarized": true,
+   "intro": "Portekiz Futbol Federasyonu, milli takım kampını izinsiz terk eden Cristiano Ronaldo'ya 30 gün hak mahrumiyeti ve para cezası verdi. 41 yaşındaki futbolcu, teknik direktör Jorge Jesus ile yaşadığı anlaşmazlığın ardından UEFA Uluslar Ligi'ndeki Danimarka maçı öncesinde kamptan ayrılmıştı. Ceza haberleri 19 Ekim'de yayımlandı. Ronaldo daha önce milli takımı tamamen bırakmadığını söylemişti, ancak takıma dönüp dönmeyeceği belirsizliğini koruyor.",
+   "bullets": [
+    "Cezanın 30 gün hak mahrumiyeti ve para cezası olduğu aktarıldı; Takvim bunu \"30 gün milli takımdan men\" diye ifade etti.",
+    "Para cezası çoğu kaynakta 255 euro (yaklaşık 14 bin 175 TL) olarak geçti. A Spor ise tutarı \"255 bin euro\" diye yazdı, yani kaynaklar bu rakamda farklı.",
+    "Ronaldo'nun kamptan ayrılma nedeni olarak teknik direktör Jorge Jesus ile yaşanan anlaşmazlık gösterildi.",
+    "Kamptan ayrılma, UEFA Uluslar Ligi'ndeki Danimarka karşılaşmasından önce gerçekleşti.",
+    "Ronaldo, sonradan yaptığı açıklamada milli takımı tamamen bırakmadığını duyurdu.",
+    "Futbolcunun ne zaman ve nasıl döneceği ya da kariyerinin devamında nasıl bir yol izleyeceği henüz belli değil.",
+    "Ronaldo, Portekiz formasıyla 234 maça çıktı ve 146 gol attı."
+   ],
+   "why": "Portekiz'in en büyük yıldızı ile teknik direktör arasındaki gerginlik federasyon düzeyinde yaptırıma dönüştü. Ronaldo'nun milli takıma dönüp dönmeyeceği belirsiz olduğu için Portekiz taraftarı hem yıldız oyuncunun geleceğini hem de takımın sonraki maçlardaki kadro durumunu merakla izleyecek.",
+   "raw_summary": null,
+   "category": "yonetim",
+   "category_name": "Yönetim",
+   "status": "resmi",
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "milli-takim",
+     "name": "A Millî Takım"
+    },
+    {
+     "slug": "uluslar-ligi",
+     "name": "Uluslar Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/iste-cristiano-ronaldo-nun-cezasi-SXHBQ1179880SXQ",
+     "published": "2026-10-19T17:16:00+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/futbol/2026/10/19/portekizden-cristiano-ronaldo-karari-iste-aldigi-ceza",
+     "published": "2026-10-19T17:40:00+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/cristiano-ronaldo-ya-sok-ceza-30-gun-futboldan-men-p370738",
+     "published": "2026-10-19T18:07:39+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/foto/milli-takim-kampini-terk-etmisti-ronaldo-nun-cezasi-belli-oldu-3920932",
+     "published": "2026-10-19T18:15:41+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/cristiano-ronaldonun-cezasi-belli-oldu-736956",
+     "published": "2026-10-19T18:20:10+00:00"
+    },
+    {
+     "name": "Takvim",
+     "url": "https://www.takvim.com.tr/spor/2026/10/19/ronaldonun-cezasi-aciklandi-portekizli-yildiza-men",
+     "published": "2026-10-19T18:27:38+00:00"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/portekiz-kampini-terk-eden-ronaldoya-255-avro-para-cezasi/4093850",
+     "published": "2026-10-19T18:34:48+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-cezasi-aciklandi-portekizde-merakla-beklenen-ronaldo-karari-cikti-431556",
+     "published": "2026-10-19T19:01:09+00:00"
+    }
+   ],
+   "n_sources": 9,
+   "first_published": "2026-10-19T17:16:00+00:00",
+   "last_published": "2026-10-19T21:37:00+00:00",
+   "image": {
+    "url": "https://iaaspr.tmgrup.com.tr/77856b/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/10/19/portekizden-cristiano-ronaldo-karari-iste-aldigi-ceza-1792431518249.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: A Spor",
+    "credit": "A Spor",
+    "source_url": "https://www.aspor.com.tr/futbol/2026/10/19/portekizden-cristiano-ronaldo-karari-iste-aldigi-ceza"
+   },
+   "score": 14.12,
+   "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0039",
+   "rank": 12,
+   "key": "d494e4811d2cf9fc",
+   "title": "Trabzonspor-Beşiktaş maçında ilk golü 21. dakikada Ozan Tufan attı",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 8. haftasının kapanış maçında Trabzonspor, Papara Park'ta Beşiktaş'ı konuk etti. 19 Ekim 2026'daki karşılaşmada ilk golü 21. dakikada Ozan Tufan atarak Trabzonspor'u 1-0 öne geçirdi. 31 yaşındaki oyuncu, Beşiktaş'a karşı kariyerindeki 6. golünü kaydetti. Gol aynı zamanda Tufan'ın Süper Lig'deki 191 günlük gol hasretini bitirdi.",
+   "bullets": [
+    "Gol öncesinde Aral Şimşir'in pasıyla sol kanattan ceza sahasına giren Ernest Muçi kaleyi yokladı. Beşiktaş kalecisi Alexander Nübel topu çıkardı.",
+    "Ceza sahasında seken topu takip eden Ozan Tufan, vuruşunu beklemeden yaparak topu ağlara gönderdi.",
+    "Tufan'ın Beşiktaş'a attığı goller: Bursaspor formasıyla 1, Fenerbahçe formasıyla 4, Trabzonspor formasıyla 1. Bu rakibe attığı 6 gol, kariyerinde bir takıma attığı en yüksek sayı.",
+    "Sporx'a göre Tufan, Beşiktaş'a karşı 16 maça çıktı ve bu maçlarda 1 asist de yaptı.",
+    "Tufan'ın Süper Lig'deki son golü 11 Nisan 2026'da, Trabzonspor'un Alanyaspor deplasmanındaki 1-1'lik maçının 58. dakikasında gelmişti.",
+    "Takvim'e göre Tufan, 2026-2027 sezonunda ligdeki ilk golünü attı. Daha önce Galatasaray'ın 4-0 yenildiği 6. hafta maçında bir gole asistlik yapmıştı. Böylece sezonluk gol katkısı ikiye çıktı.",
+    "İki takım da maça Avrupa'dan galibiyetle gelmişti. Takvim, Konferans Ligi'nde KuPS Kuopio'nun 4-2, Avrupa Ligi'nde Hoffenheim'ın 3-2 yenildiğini aktarıyor."
+   ],
+   "why": "Erken gelen gol Trabzonspor'a maçta öne geçme avantajı sağladı. Tufan için hem uzun bir gol suskunluğunun sonu hem de en çok gol attığı rakibe karşı yeni bir gol oldu. Beşiktaş cephesi açısından ise rakibin yine Tufan'la skoru açması, kapanış maçında geriye düşmek anlamına geldi.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/trabzonspor/ozan-tufan-besiktas-a-yine-atti-SXHBQ1179881SXQ",
+     "published": "2026-10-19T17:30:00+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/ozan-tufan-besiktasa-yine-atti-191-gun-sonra-gol-736955",
+     "published": "2026-10-19T17:36:05+00:00"
+    },
+    {
+     "name": "Takvim",
+     "url": "https://www.takvim.com.tr/spor/trabzonspor/2026/10/19/trabzonsporun-jokeri-ozan-tufandan-besiktasa-bir-gol-daha",
+     "published": "2026-10-19T18:14:22+00:00"
+    }
+   ],
+   "n_sources": 3,
+   "first_published": "2026-10-19T17:30:00+00:00",
+   "last_published": "2026-10-19T18:14:22+00:00",
+   "image": {
+    "url": "https://cdn.ajansspor.com/ajansspor/photo/2026/10/3a249716-28e9-4490-9977-2a52ec881ae1.png",
+    "kind": "source",
+    "label": "Fotoğraf: Ajansspor",
+    "credit": "Ajansspor",
+    "source_url": "https://ajansspor.com/haber/ozan-tufan-besiktasa-yine-atti-191-gun-sonra-gol-736955"
+   },
+   "score": 13.09,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0013",
+   "rank": 13,
+   "key": "1c61c43c1d5d498f",
+   "title": "Manchester City için puan silme ve Championship'e düşme iddiası gündemde",
+   "summarized": true,
+   "intro": "Daily Mail'den Oliver Holt'un haberine göre Manchester City, Premier Lig'in mali kurallarına yönelik 115 suçlamalı süreçte ağır bir puan silme ve yüksek para cezasıyla karşı karşıya kalabilir. Holt, soruşturmaya yakın kaynaklara dayanarak en muhtemel yaptırımın kulübü Championship'e düşürecek büyüklükte bir puan silme olduğunu öne sürdü. Bağımsız komisyon City'yi ciddi mali ihlallerden sorumlu bulmuştu; kulüp ise karara itiraz ederek suçlamaları reddediyor. Henüz kesinleşmiş bir yaptırım yok, aktarılanlar iddia niteliğinde.",
+   "bullets": [
+    "Haberde League Two'ya, yani dördüncü seviyeye doğrudan gönderilme ihtimalinin düşük olduğu belirtildi.",
+    "İddiaya göre gelecek sezonu da kapsayan ek bir puan silme cezası gündemde; bu durumda City en az iki sezon Championship'te kalabilir.",
+    "Söz konusu yaptırımın uygulanabilmesi için İngiltere Futbol Ligi'nin (EFL) de kararı kabul etmesi gerekeceği aktarıldı.",
+    "Takvim'e göre Premier Lig, komisyon kararını 29 Eylül 2026'da açıkladı; komisyon City'yi 2009-2010 ile 2017-2018 arasındaki dokuz yıllık dönemde ciddi ihlallerden sorumlu buldu.",
+    "Aynı kaynağa göre karar, City'nin bazı ticari ortaklarıyla anlaşmalar üzerinden gelirini yüksek, giderini düşük gösterdiği ve harcama sınırlarını ihlal ettiği sonucuna vardı; kulübün soruşturmada iş birliği yükümlülüklerinin büyük bölümünü yerine getirmediği de belirtildi.",
+    "City 1 Ekim 2026'da itiraz etti, Premier Lig bunu 2 Ekim'de duyurdu. Kulüp, kararda hukuki ve maddi hatalar bulunduğunu savunuyor ve suçsuzluğunu kanıtlayacak delillere sahip olduğunu söylüyor.",
+    "Premier Lig yönetiminin yaptırımların itiraz süreci bitmeden açıklanmasını istediği öne sürüldü; itirazın ocak ayı sonundan önce sonuçlanması beklenmiyor.",
+    "Enzo Maresca yönetimindeki City sezona 7 maçta 7 galibiyetle başladı; Takvim'e göre son maçta Ipswich Town'ı 3-2 yenerek 21 puanla liderliğini sürdürdü."
+   ],
+   "why": "Taraftarlar için tablo, sahadaki güçlü başlangıca rağmen kulübün geleceğinin hukuki süreçle belirleneceğini gösteriyor. İddialar henüz resmi değil ve itiraz sonucu ile ceza aşaması belirsiz. Olası bir ceza, lig sıralamasını ve kulübün sonraki sezonlardaki konumunu doğrudan etkileyebilir.",
+   "raw_summary": null,
+   "category": "yonetim",
+   "category_name": "Yönetim",
+   "status": "soylenti",
+   "clubs": [
+    {
+     "slug": "man-city",
+     "name": "Manchester City"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "premier-lig",
+     "name": "Premier Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/ingiltere/manchester-city/manchester-city-icin-kume-dusme-iddiasi-agir-ceza-yolda-SXHBQ1179872SXQ",
+     "published": "2026-10-19T15:48:00+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/manchester-cityye-kume-dusme-soku-championship-iddiasi-736952",
+     "published": "2026-10-19T15:56:43+00:00"
+    },
+    {
+     "name": "Takvim",
+     "url": "https://www.takvim.com.tr/spor/2026/10/19/manchester-city-kume-dusebilir-dev-puan-silme-iddiasi",
+     "published": "2026-10-19T17:14:42+00:00"
+    }
+   ],
+   "n_sources": 3,
+   "first_published": "2026-10-19T15:48:00+00:00",
+   "last_published": "2026-10-19T17:14:42+00:00",
+   "image": {
+    "url": "https://cdn.ajansspor.com/ajansspor/photo/2026/10/32a839fd-cfc3-4b84-a0bd-5fcdbc99ecc5.png",
+    "kind": "source",
+    "label": "Fotoğraf: Ajansspor",
+    "credit": "Ajansspor",
+    "source_url": "https://ajansspor.com/haber/manchester-cityye-kume-dusme-soku-championship-iddiasi-736952"
+   },
+   "score": 8.96,
+   "importance": 4,
+   "popular": true
+  },
+  {
+   "id": "s0058",
+   "rank": 14,
+   "key": "974fa110346c16c1",
+   "title": "UEFA, FIFA'dan 42 soruya 2 Kasım'a kadar yazılı yanıt istedi",
+   "summarized": true,
+   "intro": "UEFA, FIFA Barış Ödülü, ABD'li futbolcu Folarin Balogun'un ertelenen kırmızı kart cezası ve FIFA Forward Enterprise (FFE) projesiyle ilgili 42 soruyu FIFA'ya iletti. Zürih'te yapılan FIFA Konseyi toplantısında Başkan Gianni Infantino, aralarında UEFA Başkanı Aleksander Ceferin'in de bulunduğu katılımcılardan sorularını bir sonraki toplantıda yanıtlayabilmesi için yazılı sunmalarını istemişti. Bunun ardından UEFA Genel Sekreteri Theodore Theodoridis, FIFA Genel Sekreteri Mattias Grafström'a soruları mektupla gönderdi. UEFA, yanıtların bir sonraki Konsey toplantısına bırakılmadan verilmesini talep ediyor.",
+   "bullets": [
+    "Sorular dört başlıkta toplanıyor: FIFA Barış Ödülü, Folarin Balogun'un ertelenen kırmızı kart cezası ve FIFA Forward Enterprise (FFE) projesi. Haberler toplam soru sayısını 42 olarak aktarıyor.",
+    "Mektup, UEFA Genel Sekreteri Theodore Theodoridis'ten FIFA'daki mevkidaşı Mattias Grafström'a gönderildi.",
+    "UEFA, her soruya gerekçeli ve yazılı yanıt verilmesini, yanıtların tüm destekleyici belgelerle birlikte 2 Kasım Pazartesi gününe kadar iletilmesini resmen talep etti.",
+    "Mektupta şu ifade yer aldı: bu soruların \"şu anda yanıtlanması gerekmektedir\" ve bir sonraki FIFA Konseyi toplantısına ertelenemez.",
+    "UEFA ayrıca gelecekteki yönetim reformlarının, halihazırda alınmış kararların denetlenmesinin ve bunlar için hesap verilebilirliğin yerini tutamayacağını belirtti.",
+    "Sorular, Zürih'teki Konsey toplantısında Infantino'nun yazılı soru istemesi üzerine hazırlandı; Infantino'nun yanıtı için bir sonraki toplantıyı işaret ettiği aktarıldı."
+   ],
+   "why": "UEFA ile FIFA arasındaki yönetim ve hesap verebilirlik tartışması yazılı ve resmi bir sürece taşınmış durumda. FIFA'nın 2 Kasım'a kadar vereceği ya da vermeyeceği yanıt, iki kurum arasındaki ilişkiyi ve söz konusu kararlara dair şeffaflık beklentisini gösterecek.",
+   "raw_summary": null,
+   "category": "yonetim",
+   "category_name": "Yönetim",
+   "status": "resmi",
+   "clubs": [],
+   "leagues": [],
+   "sources": [
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/uefa-fifadan-42-soruya-yanit-vermesini-istedi-/4093866",
+     "published": "2026-10-19T18:59:32+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/uefa-dan-fifa-ya-42-soru-tek-tek-yanit-istedi-p370748",
+     "published": "2026-10-19T19:02:45+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/uefa-fifadan-42-soruya-yanit-vermesini-istedi-431564",
+     "published": "2026-10-19T19:20:12+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/uefa-fifa-dan-42-soruya-yanit-istedi-SXHBQ1179902SXQ",
+     "published": "2026-10-19T20:41:04+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/uefadan-fifaya-42-soru-2-kasima-kadar-cevap-istendi-haber-2047708",
+     "published": "2026-10-19T21:39:00+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/uefa-fifadan-42-soruya-yanit-istedi-33673394",
+     "published": "2026-10-19T22:23:00+00:00"
+    }
+   ],
+   "n_sources": 6,
+   "first_published": "2026-10-19T18:59:32+00:00",
+   "last_published": "2026-10-19T22:23:00+00:00",
+   "image": {
+    "url": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/8/uefajpeg-vLQkqg8zRkOP6Ptct_Norw.jpeg?w=1270&h=675&mode=crop&scale=both",
+    "kind": "source",
+    "label": "Fotoğraf: Sözcü",
+    "credit": "Sözcü",
+    "source_url": "https://www.sozcu.com.tr/uefa-dan-fifa-ya-42-soru-tek-tek-yanit-istedi-p370748"
+   },
+   "score": 8.09,
+   "importance": 7,
+   "popular": false
+  },
+  {
+   "id": "s0053",
+   "rank": 15,
+   "key": "0684b300d322db65",
+   "title": "Esenler Erokspor, Mardin 1969 Spor'u 4-2 yendi",
+   "summarized": true,
+   "intro": "Trendyol 1. Lig'in 11. haftasında Esenler Erokspor, Esenler Erokspor Stadyumu'nda Mardin 1969 Spor'u 4-2 mağlup etti. Ev sahibi ekip, rakibinin iki kez eşitlik sağladığı mücadelede 6. dakikada öne geçti ve uzatma dakikalarında attığı golle skoru belirledi. Galibiyetle puanını 12'ye yükselten Esenler Erokspor, ligdeki ikinci galibiyetini aldı. Mardin 1969 Spor ise 18 puanda kaldı.",
+   "bullets": [
+    "Esenler Erokspor 6. dakikada Mikail Okyar'ın golüyle öne geçti. Furkan'ın taç atışında topla buluşan Mikail, sol ayağıyla yakın direğe sert bir vuruş yaptı.",
+    "Mardin 1969 Spor 34. dakikada Nafican Yardımcı'nın golüyle 1-1'i yakaladı. Gol, Dimitrov'un sol kanattan yaptığı pasla geldi.",
+    "39. dakikada Eray Korkmaz kendi kalesine gol attı ve Esenler Erokspor ilk yarıyı 2-1 önde tamamladı.",
+    "Mardin 1969 Spor 51. dakikada Mallik Wilks'in uzak köşeye giden vuruşuyla skoru 2-2'ye getirdi. Asist, Dimitrov'un ortasından geldi.",
+    "Esenler Erokspor 77. dakikada yeniden öne geçti. Furkan'ın sağ kanattan ortasında arka direkte yükselen Mame Mor Faye kafayla topu ağlara gönderdi.",
+    "Altin Zeqiri, Yusuf Erdoğan'ın ortasında attığı golle skoru 4-2 yaptı. Kaynaklar golün dakikasını 90+2 ve 90+3 olarak farklı aktarıyor.",
+    "12. haftada Esenler Erokspor, Batman Petrolspor deplasmanına gidecek. Mardin 1969 Spor ise Manisa FK'yi ağırlayacak. Sporx'a göre maçlar sırasıyla 25 ve 26 Ekim'de oynanacak."
+   ],
+   "why": "Esenler Erokspor için bu sonuç, sezonun ikinci galibiyeti ve puan tablosunda önemli bir katkı oldu. Mardin 1969 Spor ise 18 puanla 6. sırada haftayı tamamladı. Her iki takım da bir sonraki hafta deplasmanda ve evinde yeni bir sınav verecek.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "tff-1-lig",
+     "name": "TFF 1. Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/esenler-erokspor-mardin-1969-spor-mac-sonucu-iste-esenler-erokspor-mardin-1969-spor-maci-ozeti-ve-golleri-1-lig-3920939",
+     "published": "2026-10-19T18:54:20+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/birincilig/6-gollu-duello-esenler-erokspor-dan-90-2-de-bitirdi-SXHBQ1179886SXQ",
+     "published": "2026-10-19T19:01:16+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/birincilig/2026/10/19/6-gollu-mucadelede-kazanan-esenler-erokspor",
+     "published": "2026-10-19T21:10:05+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/esenler-erokspor-4-golle-guldu-33672858",
+     "published": "2026-10-19T22:02:00+00:00"
+    }
+   ],
+   "n_sources": 4,
+   "first_published": "2026-10-19T18:54:20+00:00",
+   "last_published": "2026-10-19T22:02:00+00:00",
+   "image": {
+    "url": "https://im.haberturk.com/l/2026/10/19/ver1792435770/3920939/jpg/1200x628",
+    "kind": "source",
+    "label": "Fotoğraf: Habertürk",
+    "credit": "Habertürk",
+    "source_url": "https://www.haberturk.com/spor/esenler-erokspor-mardin-1969-spor-mac-sonucu-iste-esenler-erokspor-mardin-1969-spor-maci-ozeti-ve-golleri-1-lig-3920939"
+   },
+   "score": 8.05,
+   "importance": 4,
+   "popular": true
+  },
+  {
+   "id": "s0014",
+   "rank": 16,
+   "key": "bb08534c2c30a463",
+   "title": "Galatasaray, Leao'nun sakatlığında hafif-orta düzey zorlanma tespit edildiğini açıkladı",
+   "summarized": true,
+   "intro": "Galatasaray, Gençlerbirliği deplasmanında sakatlanan Rafael Leao'nun sağlık durumuna ilişkin açıklama yaptı. Kulübün açıklamasına göre Portekizli futbolcunun MR ve ileri tetkikleri sonrasında hafif-orta düzey zorlanma tespit edildi ve tedavisine başlandı. Fotomaç'ın aktardığına göre oyuncu, Ankara'daki maçta 16 dakika sahada kalabildi ve kasık adalesindeki sorun nedeniyle oyuna devam edemedi. Leao'nun Fenerbahçe derbisinde forma giyip giyemeyeceği ise belirsizliğini koruyor.",
+   "bullets": [
+    "Galatasaray, zorlanmanın hafif-orta düzeyde olduğunu ve tedavinin başladığını resmi olarak duyurdu.",
+    "Fotomaç'a göre Leao, Gençlerbirliği maçında yalnızca 16 dakika oynayabildi; bozuk zemin sakatlıkta etkili olmuş olabilir diye aktarıldı.",
+    "27 yaşındaki oyuncunun sakatlığı kasık adalesinde yaşandı ve kendisi oyuna devam edemedi.",
+    "Fotomaç'a göre Leao, yarınki Lille maçında kesin olarak forma giyemeyecek.",
+    "Fenerbahçe derbisinde oynayıp oynayamayacağı konusunda net bir bilgi yok.",
+    "Galatasaray, Gençlerbirliği'ni Deniz Gül'ün son dakikalarda attığı golle yenmişti.",
+    "Sakatlığını atlatan Singo takımla çalışmalara katıldı; Okan Buruk şans verirse maçlarda süre alabilecek."
+   ],
+   "why": "Leao'nun durumu, Lille maçı ve Fenerbahçe derbisi öncesinde Galatasaray'ın hücum planlarını doğrudan etkiliyor. Lille maçında yer almayacağı aktarılırken derbi için süreç belirsiz. Singo'nun takıma dönmesi ise teknik heyet için olumlu bir gelişme.",
+   "raw_summary": null,
+   "category": "sakatlik",
+   "category_name": "Sakatlık",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/galatasaraydan-leao-aciklamasi-33667568",
+     "published": "2026-10-19T15:53:00+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/10/20/leao-derbide-belirsiz",
+     "published": "2026-10-19T20:08:44+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/10/19/galatasaraydan-rafael-leao-aciklamasi-saglik-durumu",
+     "published": "2026-10-19T21:10:42+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-10-19T15:53:00+00:00",
+   "last_published": "2026-10-19T21:10:42+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/267b25/1200/675/0/1/710/401?u=https://iftm.tmgrup.com.tr/2026/10/19/leao-derbide-belirsiz-1792440502222.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/galatasaray/2026/10/20/leao-derbide-belirsiz"
+   },
+   "score": 6.05,
+   "importance": 8,
+   "popular": false
+  },
+  {
+   "id": "s0140",
+   "rank": 17,
+   "key": "f8dca462000efaf8",
+   "title": "Tottenham, Coventry City'yi 3-1 yenerek sezonun ilk ligi galibiyetini aldı",
+   "summarized": true,
+   "intro": "Premier Lig'in 7. hafta kapanış maçında Tottenham, kendi sahasında Coventry City'yi 3-1 mağlup etti. Karşılaşma Tottenham Hotspur Stadyumu'nda oynandı. Ev sahibi ekip bu sonuçla sezonun ilk lig galibiyetini elde etti ve puanını 6'ya çıkardı. Tottenham'ın golleri James Maddison, Omar Marmoush ve Ben Davies'ten geldi; Coventry'nin tek golünü Jack Rudoni attı. Maçta uzun süredir sakat olan Dejan Kulusevski'nin oyuna dönmesi de öne çıktı.",
+   "bullets": [
+    "Tottenham'ın golleri 14. dakikada James Maddison, 58. dakikada Omar Marmoush ve 90+6. dakikada Ben Davies'ten geldi. Coventry'nin tek golünü 49. dakikada Jack Rudoni attı.",
+    "İlk yarı Maddison'ın golüyle 1-0 Tottenham lehine sona erdi. Rudoni ikinci yarının başında skoru eşitledi, Marmoush ise dakikalar içinde ev sahibini yeniden öne geçirdi.",
+    "NTV Spor'a göre Ben Davies, ikinci yarıda Robertson'ın sakatlanması üzerine oyuna girdi ve 90+6'daki golle skoru belirledi.",
+    "Dejan Kulusevski 87. dakikada Mohamed Kudus'un yerine oyuna girdi ve 526 gün sonra sahalara döndü. Son maçına 11 Mayıs 2025'te Crystal Palace karşısında çıkmıştı.",
+    "26 yaşındaki İsveçli oyuncu ciddi bir diz sakatlığı yaşamış, birden fazla operasyon geçirmiş ve 2025/26 sezonunu tümüyle kaçırmıştı.",
+    "Fenerbahçe'den Coventry'ye transfer olan Sidiki Cherif ilk 11'de başladı ve 60. dakikada yerini Taiwo Awoniyi'ye bıraktı.",
+    "Tottenham'ı Roberto De Zerbi, Coventry'yi Frank Lampard çalıştırıyor. Coventry'nin 2 maçlık galibiyet serisi sona erdi ve takım 6 puanda kaldı.",
+    "8. haftada Tottenham deplasmanda Chelsea'ye konuk olacak; Coventry ise sahasında Fulham'ı ağırlayacak."
+   ],
+   "why": "Sezona galibiyetsiz başlayan Tottenham taraftarı için bu sonuç, 7. haftada gelen ilk üç puan ve moral açısından önemli bir rahatlama anlamına geliyor. Kulusevski'nin 526 gün sonra sahaya dönmesi de kadro derinliği açısından olumlu bir gelişme. Takımın sıradaki sınavı Chelsea deplasmanı olacak.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "tottenham",
+     "name": "Tottenham"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "premier-lig",
+     "name": "Premier Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/tottenham-3-coventry-city-1-mac-sonucu-3920960",
+     "published": "2026-10-19T20:58:31+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/ingiltere/tottenham/tottenham-basardi-bu-sezon-ilk-kez-kazandi-SXHBQ1179903SXQ",
+     "published": "2026-10-19T21:00:10+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-tottenham-icin-londrada-ilklerin-aksami-431571",
+     "published": "2026-10-19T21:11:08+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/tottenham-premier-ligde-sezonun-ilk-galibiyetini-aldi-haber-2047705",
+     "published": "2026-10-19T21:15:00+00:00"
+    }
+   ],
+   "n_sources": 4,
+   "first_published": "2026-10-19T20:58:31+00:00",
+   "last_published": "2026-10-19T21:15:00+00:00",
+   "image": {
+    "url": "https://im.haberturk.com/l/2026/10/19/ver1792442997/3920960/jpg/1200x628",
+    "kind": "source",
+    "label": "Fotoğraf: Habertürk",
+    "credit": "Habertürk",
+    "source_url": "https://www.haberturk.com/spor/tottenham-3-coventry-city-1-mac-sonucu-3920960"
+   },
+   "score": 7.51,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0016",
+   "rank": 18,
+   "key": "690e0ad329279ae5",
+   "title": "Keçiörengücü, deplasmanda Fatih Karagümrük'ü Diouf'un golleriyle 2-1 yendi",
+   "summarized": true,
+   "intro": "Trendyol 1. Lig'in 11. haftasında Fatih Karagümrük, Yusuf Ziya Öniş Stadı'nda Ankara Keçiörengücü'nü konuk etti. Konuk ekip karşılaşmayı 2-1 kazandı. Keçiörengücü'nün iki golü de Mame Biram Diouf'tan geldi. Ev sahibinin tek golünü Ramazan Civelek attı. Bu sonuçla Keçiörengücü puanını 20'ye yükseltirken Karagümrük 13 puanda kaldı.",
+   "bullets": [
+    "Diouf ilk golü 45. dakikada attı. Erkam Develi'nin ceza sahasının sağındaki vuruşunda kaleye paralel giden topu çizgi üzerinde tamamladı; skor 0-1 oldu.",
+    "Diouf 65. dakikada ikinci golünü kaydetti. Moryke Fofana'nın savunmanın arkasına attığı pasla ceza sahasına giren oyuncu, sol çaprazdan yakın köşeye vurdu ve skor 0-2 oldu.",
+    "Karagümrük 77. dakikada Ramazan Civelek'in golüyle farkı bire indirdi. Muhammed Sarıkaya'nın pasından gelen vuruşta top savunmadan seküp Civelek'in önüne düştü, Civelek de uzak köşeye gönderdi.",
+    "Maçta başka kaleye giden pozisyonlar da oldu. Raice'nin 37. dakikadaki vuruşu direkten döndü, Emre Akbaba'nın serbest vuruşunda Pesic'in 90+5'teki kafa vuruşu üst direğe çarptı.",
+    "Karagümrük ligde oynadığı son üç maçı kazanamadı ve 13 puanda kaldı.",
+    "Sarı kartları Karagümrük'ten Traore, Candan Başkale ve Siopis, Keçiörengücü'nden Wellington, Mehmet Erdoğan ve Süleyman Luş gördü.",
+    "Gelecek hafta Karagümrük, Sarıyer ile karşılaşacak. Keçiörengücü ise Bursaspor'u ağırlayacak."
+   ],
+   "why": "Keçiörengücü deplasmandan üç puanla dönerek puanını 20'ye çıkardı. Karagümrük ise son üç maçtır galibiyet alamıyor ve 13 puanda kalarak puan kaybetmeye devam etti. İki takımın sonraki haftalarda alacağı sonuçlar puan tablosundaki konumları açısından önem taşıyacak.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "tff-1-lig",
+     "name": "TFF 1. Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/birincilig/keciorengucu-karagumruk-u-diouf-un-golleriyle-devirdi-SXHBQ1179873SXQ",
+     "published": "2026-10-19T15:54:00+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/birincilig/2026/10/19/ankara-keciorengucu-deplasmanda-kazandi",
+     "published": "2026-10-19T16:13:41+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/fatih-karagumruk-keciorengucu-mac-sonucu-iste-fatih-karagumruk-keciorengucu-maci-ozeti-ve-golleri-3920911",
+     "published": "2026-10-19T16:13:47+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/keciorengucu-deplasmanda-kazandi-33670386",
+     "published": "2026-10-19T19:22:00+00:00"
+    }
+   ],
+   "n_sources": 4,
+   "first_published": "2026-10-19T15:54:00+00:00",
+   "last_published": "2026-10-19T19:22:00+00:00",
+   "image": {
+    "url": "https://cdn.sporx.com/img/79/2026/hvaf9lcxsaauxol.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Sporx",
+    "credit": "Sporx",
+    "source_url": "https://www.sporx.com/futbol/birincilig/keciorengucu-karagumruk-u-diouf-un-golleriyle-devirdi-SXHBQ1179873SXQ"
+   },
+   "score": 7.48,
+   "importance": 4,
+   "popular": false
+  },
+  {
+   "id": "s0050",
+   "rank": 19,
+   "key": "0dd48a2ce1983a98",
+   "title": "Trabzonspor, Beşiktaş'ı 2-0 yenerek 4. sıraya yükseldi",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 8. haftasında Trabzonspor, Papara Park'ta ağırladığı Beşiktaş'ı 2-0 mağlup etti. Ev sahibinin gollerini 21. dakikada Ozan Tufan ve 71. dakikada Muhammed Salah attı. Bu sonuçla Trabzonspor puanını 16'ya yükselterek 4. sıraya yerleşti, Beşiktaş ise 15 puanda kalarak 5. sırada haftayı tamamladı. Trabzonspor'un başında Thomas Reis bulunuyor ve takım bu galibiyetle çıktığı ilk 4 maçı kazanmış oldu.",
+   "bullets": [
+    "Ozan Tufan'ın golü 21. dakikada geldi: Muçi'nin şutunda kaleci Nübel'den dönen topu yakın mesafeden ağlara gönderdi. Tufan, Beşiktaş'a attığı 6. golü kaydetti ve Süper Lig'de 191 gün sonra gol sevindi.",
+    "Muhammed Salah 71. dakikada Franculino'nun ceza alanı içine çevirdiği pasa gelişine vurarak farkı ikiye çıkardı. Habertürk'e göre Franculino sol taraftan son çizgiye inerek pas verdi.",
+    "Fotomaç'a göre Salah 8 golle gol krallığında tek başına zirveye çıktı. Bu sezon ligde tüm maçlarda forma giyen Salah, 6 maçta gol ya da asistle katkı yaptı.",
+    "Beşiktaş ilk yarıda 10. dakikada Olaitan'ın kafa vuruşuyla, 17. dakikada Cerny'nin şutuyla ve 42. dakikada Trossard'ın şutundan sonra direkten dönen topla gole yaklaştı. Kaleci Onana bu pozisyonların bir kısmında etkili oldu.",
+    "Habertürk'e göre 31. dakikada Beşiktaşlı Agbadou'nun elle oynadığı iddiasıyla Trabzonsporlular penaltı bekledi. Hakem Cihan Aydın oyunu devam ettirdi, VAR'dan da müdahale gelmedi.",
+    "Beşiktaş'ta sakatlığı bulunan kaptan Orkun Kökçü ile tedavisi süren Milot Rashica maçta forma giyemedi. Kökçü'nün Hoffenheim maçında sakatlandığı belirtildi.",
+    "Karşılaşma dolu tribünler önünde oynandı; İl Spor Güvenlik Kurulu kararıyla Beşiktaş taraftarı da misafir tribününde yer aldı.",
+    "Sonraki hafta Trabzonspor deplasmanda Çaykur Rizespor'a konuk olacak, Beşiktaş ise sahasında Başakşehir'i ağırlayacak. Beşiktaş son 4 deplasman maçının yalnızca Fenerbahçe karşısındakini kazanabildi."
+   ],
+   "why": "Trabzonspor, Reis yönetiminde çıktığı ilk 4 maçta 4 galibiyet alarak üst sıraları takibini sürdürdü. Beşiktaş ise deplasmandaki zayıf gidişatını değiştiremedi ve kaptan Kökçü'nün yokluğunu hissetti. Salah'ın gol krallığındaki konumu da Trabzonspor taraftarı için ayrı bir moral kaynağı.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    },
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/trabzonspor-2-0-besiktas-mac-ozeti-izle-video-4865602",
+     "published": "2026-10-19T18:52:00+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/trabzonspor-besiktas-maci-canli-anlatim-ts-bjk-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-iste-muhtemel-11-ler-ve-mac-kadrosu-super-lig-3920732",
+     "published": "2026-10-19T19:02:28+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/20/derbi-canavari",
+     "published": "2026-10-19T20:43:32+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-gazeteler-trabzonsporun-besiktas-zaferini-boyle-gordu-salah-tufani-sporun-mansetleri-431573",
+     "published": "2026-10-20T03:53:18+00:00"
+    },
+    {
+     "name": "Posta",
+     "url": "https://www.posta.com.tr/spor/firtinaydi-tufan-oldu-3053933",
+     "published": "2026-10-20T04:00:35+00:00"
+    }
+   ],
+   "n_sources": 5,
+   "first_published": "2026-10-19T18:52:00+00:00",
+   "last_published": "2026-10-20T04:00:35+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/91e2e1/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/19/derbi-canavari-1792442608348.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/trabzonspor/2026/10/20/derbi-canavari"
+   },
+   "score": 5.17,
+   "importance": 8,
+   "popular": false
+  },
+  {
+   "id": "s0036",
+   "rank": 20,
+   "key": "4e91942fd97b5c06",
+   "title": "A Milli Takım'da Sergen Yalçın ile 4 yıllık anlaşma sağlandığı bildirildi",
+   "summarized": true,
+   "intro": "KAFA Sports'un duyurusuna dayanan haberlere göre TFF, Vincenzo Montella'nın ayrılmasının ardından A Milli Takım teknik direktörlüğü için 53 yaşındaki Sergen Yalçın ile 4 yıllık anlaşmaya vardı. Yalçın'ın yardımcılarıyla birlikte göreve salı günü başlaması bekleniyor. TFF'nin salı günü toplanacağı ve bu toplantının ardından resmi açıklamanın yapılması bekleniyor. Yalçın'ın milli takımdaki ilk sınavı kasım ayındaki maçlar olacak.",
+   "bullets": [
+    "Anlaşmayı Sergen Yalçın'ın program yaptığı KAFA Sports duyurdu; haberlerde henüz TFF'den gelen resmi bir açıklamaya yer verilmiyor, açıklama bekleniyor.",
+    "KAFA Sports'a göre yeni teknik direktör Ali Rıza Sergen Yalçın oldu ve ekibiyle birlikte göreve başlayacak. Yeni Şafak, tarafların el sıkıştığını aktardı.",
+    "Yeni Şafak'a göre TFF kısa vadeli bir plan yerine uzun soluklu bir yapılanmayı hedefliyor ve 4 yıllık anlaşma bu anlayışın sonucu.",
+    "Türkiye, UEFA Uluslar A Ligi 1. Grup'ta 12 Kasım Perşembe günü saat 20.00'de İzmir Gürsel Aksel Stadyumu'nda Belçika'yı ağırlayacak.",
+    "Ardından 15 Kasım Pazar günü Bordeaux'daki Atlantique Stadyumu'nda Fransa deplasmanına çıkılacak; maç TSİ 22.45'te başlayacak.",
+    "Yalçın 2013'te Gaziantepspor'da başladığı kariyerinde Sivasspor, Kayserispor, Eskişehirspor, Konyaspor, Alanyaspor, Yeni Malatyaspor ve Antalyaspor'da çalıştı; Ocak 2020'de Beşiktaş'ın başına geçti ve 2025-2026 sezonunda yeniden Beşiktaş'ta görev aldı.",
+    "Beşiktaş ile 2020-2021 sezonunda Süper Lig şampiyonluğu ve Türkiye Kupası'nı kazandı. Sözcü, üç ay önce Dünya Kupası'ndaki Paraguay yenilgisi sonrası Montella'yı eleştirdiğini ve “bu takımı uçururuz” dediğini hatırlattı."
+   ],
+   "why": "Milli Takım'ın teknik direktörlük belirsizliği kasım ayındaki Belçika ve Fransa maçlarından önce sona eriyor gibi görünüyor. 4 yıllık anlaşma, federasyonun uzun vadeli bir proje hedeflediğine işaret ediyor. Resmi açıklama ve Yalçın'ın ilk kadro tercihleri taraftarın merak ettiği konular olacak.",
+   "raw_summary": null,
+   "category": "teknik",
+   "category_name": "Teknik Direktör",
+   "status": "soylenti",
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "milli-takim",
+     "name": "A Millî Takım"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/millitakim/milli-takim-da-sergen-yalcin-donemi-basliyor-SXHBQ1179839SXQ",
+     "published": "2026-10-19T17:04:00+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/a-milli-takim-da-sergen-yalcin-donemi-goreve-baslayacagi-tarih-belli-oldu-p370734",
+     "published": "2026-10-19T17:33:34+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/a-milli-takimda-sergen-yalcin-donemi-basliyor-sozlesme-detaylari-belli-oldu-4865633",
+     "published": "2026-10-19T18:28:32+00:00"
+    }
+   ],
+   "n_sources": 3,
+   "first_published": "2026-10-19T17:04:00+00:00",
+   "last_published": "2026-10-19T18:28:32+00:00",
+   "image": {
+    "url": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/sergenpng-DF4efqWrcUSL6zOLWZciSQ.png?w=1270&h=675&mode=crop&scale=both",
+    "kind": "source",
+    "label": "Fotoğraf: Sözcü",
+    "credit": "Sözcü",
+    "source_url": "https://www.sozcu.com.tr/a-milli-takim-da-sergen-yalcin-donemi-goreve-baslayacagi-tarih-belli-oldu-p370734"
+   },
+   "score": 3.35,
+   "importance": 10,
+   "popular": true
+  },
+  {
+   "id": "s0018",
+   "rank": 21,
+   "key": "91fb5c8af33f9a72",
+   "title": "Muğlaspor, Manisa FK'yı deplasmanda 4-3 yenerek 5 hafta sonra kazandı",
+   "summarized": true,
+   "intro": "Trendyol 1. Lig'de Muğlaspor, Manisa 19 Mayıs Stadyumu'nda Manisa FK'yı 4-3 mağlup etti. Konuk ekip ilk yarıda 3-0 öne geçti, Manisa FK devre bitmeden farkı 3-2'ye indirdi. Muğlaspor 84. dakikada farkı yeniden ikiye çıkardı, Manisa FK 89'da bir penaltı golüyle skoru 4-3 yaptı. Bu galibiyet Muğlaspor'un ligde 5 hafta sonraki ilk galibiyeti oldu. Maçın haftası kaynaklarda farklı aktarılıyor: TRT Spor 10., diğer kaynaklar 11. hafta diyor.",
+   "bullets": [
+    "Muğlaspor'un ilk üç golünü 10. dakikada Ertuğrul İdris Furat, 12. dakikada Ibrahim Sissoko ve 32. dakikada Mamady Diarra attı.",
+    "Diarra'nın golü, Sissoko'nun kaçırdığı penaltının ardından direkten dönen toptan geldi. Kaleci Vedat Karakuş penaltıyı çıkarmıştı.",
+    "Manisa FK ilk yarıda penaltıdan Julien Anziani ve 45+2'de Yassine Benrahou ile skoru 3-2'ye getirdi. Anziani'nin penaltı dakikası kaynaklarda 39 ve 40 diye farklı veriliyor.",
+    "Daniel Avramovski, 84. dakikada Diarra'nın köşe vuruşundan kafayla attığı golle Muğlaspor'u 4-2'ye taşıdı.",
+    "Manisa FK, 89. dakikada Anziani'nin ikinci penaltı golüyle farkı bire indirdi. Sözcü'ye göre Muğlaspor'dan Ali Kaan Güneren'in 90. dakikadaki penaltısını Vedat çıkardı.",
+    "Muğlaspor son dakikalarda 10 kişi kaldı. Kırmızı kartı Sporx Luis Mago'ya, Sözcü ise Del Pino'ya yazıyor; kaynaklar bu konuda ayrışıyor.",
+    "Muğlaspor 15 puana yükseldi, Manisa FK 10 puanda kaldı. Muğlaspor sıradaki maçta İstanbulspor'u ağırlayacak, Manisa FK Mardin 1969 deplasmanına gidecek."
+   ],
+   "why": "Muğlaspor, 5 haftalık galibiyet hasretini bitirerek puan tablosunda önemli üç puan aldı. Manisa FK ise geriden gelip rakibini zorlamasına rağmen 10 puanda kaldı. Yedi gollü maç, iki takımın da savunma sorunlarını gösterdi.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "tff-1-lig",
+     "name": "TFF 1. Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/birincilig/muglaspor-hasretini-manisa-da-bitirdi-SXHBQ1179874SXQ",
+     "published": "2026-10-19T15:59:00+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/7-gollu-macta-kazanan-muglaspor-deplasmanda-manisa-fk-yi-devirdi-p370724",
+     "published": "2026-10-19T16:20:02+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/birincilig/2026/10/19/kiran-kirana-macta-kazanan-muglaspor",
+     "published": "2026-10-19T16:24:51+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/7-gollu-macta-kazanan-muglaspor-33669940",
+     "published": "2026-10-19T18:56:00+00:00"
+    }
+   ],
+   "n_sources": 4,
+   "first_published": "2026-10-19T15:59:00+00:00",
+   "last_published": "2026-10-19T18:56:00+00:00",
+   "image": {
+    "url": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/20261019276530420130209983highjpg-D6gg-pJWW0KSpIgIpg_ExA.jpg?w=1270&h=675&mode=crop&scale=both",
+    "kind": "source",
+    "label": "Fotoğraf: Sözcü",
+    "credit": "Sözcü",
+    "source_url": "https://www.sozcu.com.tr/7-gollu-macta-kazanan-muglaspor-deplasmanda-manisa-fk-yi-devirdi-p370724"
+   },
+   "score": 4.71,
+   "importance": 4,
+   "popular": false
+  }
+ ]
+}
