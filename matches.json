@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-20T17:20:47+00:00",
+ "generated_at": "2026-10-20T21:25:27+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1449,7 +1449,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "premier-lig",
@@ -1459,7 +1460,7 @@
    "tsdb_id": 4328,
    "last_round": 7,
    "next_round": 8,
-   "current_round": 7,
+   "current_round": 8,
    "standings": [
     {
      "rank": 1,
@@ -2982,7 +2983,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "serie-a",
@@ -2992,7 +2994,7 @@
    "tsdb_id": 4332,
    "last_round": 7,
    "next_round": 8,
-   "current_round": 7,
+   "current_round": 8,
    "standings": [
     {
      "rank": 1,
@@ -4425,7 +4427,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "ligue-1",
@@ -4435,7 +4438,7 @@
    "tsdb_id": 4334,
    "last_round": 7,
    "next_round": 8,
-   "current_round": 7,
+   "current_round": 8,
    "standings": [
     {
      "rank": 1,
@@ -5149,10 +5152,10 @@
        },
        "score": {
         "home": 2,
-        "away": 1
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Chobani Stadyumu"
       },
       {
@@ -5170,11 +5173,11 @@
         "club": "dortmund"
        },
        "score": {
-        "home": 0,
-        "away": 1
+        "home": 1,
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Bank Respublika Arena"
       },
       {
@@ -5191,9 +5194,12 @@
         "name": "Villarreal",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 4,
+        "away": 3
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Anfield"
       },
       {
@@ -5210,9 +5216,12 @@
         "name": "AEK Athens",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 5,
+        "away": 1
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Etihad Stadium"
       },
       {
@@ -5229,9 +5238,12 @@
         "name": "Bodø/Glimt",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 4,
+        "away": 3
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadio Diego Armando Maradona"
       },
       {
@@ -5248,9 +5260,12 @@
         "name": "Barcelona",
         "club": "barcelona"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 4,
+        "away": 2
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Parc des Princes"
       },
       {
@@ -5267,9 +5282,12 @@
         "name": "PSV Eindhoven",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 1
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estádio do Dragão"
       },
       {
@@ -5286,9 +5304,12 @@
         "name": "Slovan Bratislava",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 4,
+        "away": 0
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadio Olimpico"
       },
       {
@@ -5305,9 +5326,12 @@
         "name": "Atlético Madrid",
         "club": "atletico"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 1
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "MHP Arena"
       },
       {
@@ -6247,7 +6271,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "konferans-ligi",
@@ -6263,7 +6288,12 @@
    "rounds": []
   }
  ],
- "errors": [],
+ "errors": [
+  "tff-1-lig: HTTP 429 (eventsround.php)",
+  "la-liga: HTTP 429 (eventsround.php)",
+  "bundesliga: HTTP 429 (eventsround.php)",
+  "avrupa-ligi: HTTP 429 (eventsround.php)"
+ ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
   "AEK Athens": "https://r2.thesportsdb.com/images/media/team/badge/4nogst1602773624.png",
