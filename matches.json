@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-20T21:25:27+00:00",
+ "generated_at": "2026-10-20T23:25:28+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -2214,98 +2214,7 @@
    "last_round": 9,
    "next_round": 6,
    "current_round": 6,
-   "standings": [
-    {
-     "rank": 1,
-     "team": {
-      "name": "Barcelona",
-      "club": "barcelona"
-     },
-     "played": 9,
-     "win": 9,
-     "draw": 0,
-     "loss": 0,
-     "gf": 39,
-     "ga": 9,
-     "gd": 30,
-     "points": 27,
-     "form": "WWWWW",
-     "group": "Primera División",
-     "updated": "2026-10-19 22:46:02"
-    },
-    {
-     "rank": 2,
-     "team": {
-      "name": "Atlético Madrid",
-      "club": "atletico"
-     },
-     "played": 9,
-     "win": 7,
-     "draw": 1,
-     "loss": 1,
-     "gf": 19,
-     "ga": 8,
-     "gd": 11,
-     "points": 22,
-     "form": "WWWWW",
-     "group": "Primera División",
-     "updated": "2026-10-19 22:46:02"
-    },
-    {
-     "rank": 3,
-     "team": {
-      "name": "Real Madrid",
-      "club": "real-madrid"
-     },
-     "played": 9,
-     "win": 7,
-     "draw": 0,
-     "loss": 2,
-     "gf": 23,
-     "ga": 9,
-     "gd": 14,
-     "points": 21,
-     "form": "WWLWW",
-     "group": "Primera División",
-     "updated": "2026-10-19 22:46:02"
-    },
-    {
-     "rank": 4,
-     "team": {
-      "name": "Real Betis",
-      "club": null
-     },
-     "played": 9,
-     "win": 6,
-     "draw": 1,
-     "loss": 2,
-     "gf": 16,
-     "ga": 14,
-     "gd": 2,
-     "points": 19,
-     "form": "LWDWW",
-     "group": "Primera División",
-     "updated": "2026-10-19 22:46:02"
-    },
-    {
-     "rank": 5,
-     "team": {
-      "name": "Real Sociedad",
-      "club": null
-     },
-     "played": 9,
-     "win": 5,
-     "draw": 1,
-     "loss": 3,
-     "gf": 17,
-     "ga": 17,
-     "gd": 0,
-     "points": 16,
-     "form": "WWWLW",
-     "group": "Primera División",
-     "updated": "2026-10-19 22:46:02"
-    }
-   ],
+   "standings": [],
    "standings_limited": true,
    "rounds": [
     {
@@ -2983,8 +2892,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "serie-a",
@@ -6290,7 +6198,6 @@
  ],
  "errors": [
   "tff-1-lig: HTTP 429 (eventsround.php)",
-  "la-liga: HTTP 429 (eventsround.php)",
   "bundesliga: HTTP 429 (eventsround.php)",
   "avrupa-ligi: HTTP 429 (eventsround.php)"
  ],
