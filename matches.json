@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-21T19:21:42+00:00",
+ "generated_at": "2026-10-21T21:25:29+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1449,7 +1449,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "premier-lig",
@@ -2955,7 +2956,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "serie-a",
@@ -4398,7 +4400,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "ligue-1",
@@ -5363,11 +5366,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
-        "away": 0
+        "home": 3,
+        "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Villa Park"
       },
       {
@@ -5385,11 +5388,11 @@
         "club": "arsenal"
        },
        "score": {
-        "home": 0,
-        "away": 0
+        "home": 2,
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Allianz Arena"
       },
       {
@@ -5407,11 +5410,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
+        "home": 3,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Jan Breydel Stadium"
       },
       {
@@ -5429,11 +5432,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadio Giuseppe Meazza"
       },
       {
@@ -5451,11 +5454,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estadio de La Cartuja"
       },
       {
@@ -5473,11 +5476,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
-        "away": 0
+        "home": 4,
+        "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estadio Santiago Bernabéu"
       },
       {
@@ -5495,11 +5498,11 @@
         "club": null
        },
        "score": {
-        "home": 1,
-        "away": 1
+        "home": 2,
+        "away": 3
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estádio José Alvalade"
       }
      ]
@@ -6616,7 +6619,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "konferans-ligi",
@@ -6632,7 +6636,12 @@
    "rounds": []
   }
  ],
- "errors": [],
+ "errors": [
+  "tff-1-lig: HTTP 429 (eventsround.php)",
+  "la-liga: HTTP 429 (eventsround.php)",
+  "bundesliga: HTTP 429 (eventsround.php)",
+  "avrupa-ligi: HTTP 429 (eventsnextleague.php)"
+ ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
   "AEK Athens": "https://r2.thesportsdb.com/images/media/team/badge/4nogst1602773624.png",
