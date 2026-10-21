@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-21T13:25:29+00:00",
+ "generated_at": "2026-10-21T17:25:29+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -5257,9 +5257,12 @@
         "name": "Manchester United",
         "club": "man-united"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Stadio Giuseppe Sinigaglia"
       },
       {
@@ -5276,9 +5279,12 @@
         "name": "Galatasaray",
         "club": "galatasaray"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Decathlon Arena - Stade Pierre-Mauroy"
       },
       {
