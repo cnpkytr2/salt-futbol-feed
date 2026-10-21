@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-21T13:43:30+00:00",
- "edition": "2026-10-21-guncel",
+ "generated_at": "2026-10-21T17:43:47+00:00",
+ "edition": "2026-10-21-aksam",
  "items": [
   {
-   "key": "a3d42e12c98a6cbd",
+   "key": "4cfab49d4c4ab12c",
    "story_id": "s0070",
-   "title": "Galatasaray'dan Lille deplasmanı öncesi taraftarlara giriş ve güvenlik bilgilendirmesi",
+   "title": "Rizespor'dan Sagnan: Trabzonspor derbisini sabırsızlıkla bekliyoruz",
    "category": "mac",
-   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in yellow and red colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of dark burgundy (deep claret) and light sky blue color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1038512083,
+   "seed": 951375698,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,16 +18,16 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/a3d42e12c98a6cbd.png"
+   "out": "s/4cfab49d4c4ab12c.png"
   },
   {
-   "key": "05d65e9db61d3290",
-   "story_id": "s0031",
-   "title": "Lille - Galatasaray: Şampiyonlar Ligi 3. hafta maçı öncesi eksikler ve muhtemel 11'ler",
-   "category": "mac",
-   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of yellow and red color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "98acff6d4ed97384",
+   "story_id": "s0126",
+   "title": "Galatasaray ve Chelsea'nin Brighton'ın orta saha oyuncusu Yasin Ayari'yi izlediği iddia edildi",
+   "category": "transfer",
+   "prompt": "Minimal still life on a dark wooden desk: only a fountain pen, two sheets of plain blank white paper and a folded knitted scarf in yellow and red colors, nothing else on the desk, warm desk lamp light. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 265606538,
+   "seed": 843097498,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -35,7 +35,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/05d65e9db61d3290.png"
+   "out": "s/98acff6d4ed97384.png"
   }
  ]
 }
