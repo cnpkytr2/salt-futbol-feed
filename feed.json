@@ -1,31 +1,122 @@
 {
  "schema": 1,
- "generated_at": "2026-10-20T20:42:29+00:00",
+ "generated_at": "2026-10-21T04:42:49+00:00",
  "edition": {
-  "date": "2026-10-20",
-  "label": "guncel",
-  "title": "Güncel bülten",
-  "time_local": "23:42"
+  "date": "2026-10-21",
+  "label": "sabah",
+  "title": "Sabah bülteni",
+  "time_local": "07:42"
  },
  "stats": {
   "sources_ok": 58,
   "sources_total": 59,
-  "articles_football": 406,
+  "articles_football": 344,
   "stories": 30
  },
  "image_base": "https://raw.githubusercontent.com/cnpkytr2/salt-futbol-feed/main/img/",
  "top_n": 30,
  "stories": [
   {
-   "id": "s0082",
+   "id": "s0044",
    "rank": 1,
+   "key": "8498d0611485557c",
+   "title": "PSG - Barcelona maçı kaç kaç bitti?",
+   "summarized": false,
+   "intro": null,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "UEFA Şampiyonlar Ligi üçüncü hafta maçında Paris Saint-Germain (PSG) sahasında Barcelona'yı konuk ediyor. Mücadelenin canlı yayın linkini haberimizde bulabilirsiniz.",
+   "category": "mac",
+   "category_name": "Maç",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "psg",
+     "name": "PSG"
+    },
+    {
+     "slug": "barcelona",
+     "name": "Barcelona"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "bundesliga",
+     "name": "Bundesliga"
+    },
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    },
+    {
+     "slug": "ligue-1",
+     "name": "Ligue 1"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/psg-barcelona-maci-canli-izle-sampiyonlar-ligi-4865864",
+     "published": "2026-10-20T18:00:00+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/paris-saint-germain-psg-barcelona-maci-canli-izle-linki-737009",
+     "published": "2026-10-20T18:55:58+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/sligi/psg-barcelona-yi-devirdi-4-sakatlik-6-gol-SXHBQ1180012SXQ",
+     "published": "2026-10-20T20:56:00+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-sampiyonlar-liginde-futbol-soleni-6-gollu-macta-psg-barcelonayi-yikti-431620",
+     "published": "2026-10-20T20:56:37+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/paris-saint-germain-barcelona-4-2-mac-sonucu-yazili-ozet-737017",
+     "published": "2026-10-20T20:57:44+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/sampiyonlar-ligi/2026/10/20/psg-evinde-barcelonayi-devirdi-iste-macin-ozeti",
+     "published": "2026-10-20T21:00:09+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/uefa-sampiyonlar-liginde-gunun-toplu-sonuclari-737019",
+     "published": "2026-10-20T21:04:34+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/sampiyonlar-ligi-nde-super-gece-devler-ligi-nde-gecenin-sonuclari-p371137",
+     "published": "2026-10-20T21:14:22+00:00"
+    }
+   ],
+   "n_sources": 13,
+   "first_published": "2026-10-20T18:00:00+00:00",
+   "last_published": "2026-10-21T00:23:00+00:00",
+   "image": {
+    "path": "pool/mac-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 67.63,
+   "importance": null,
+   "popular": true
+  },
+  {
+   "id": "s0027",
+   "rank": 2,
    "key": "39110bda4d70c4d3",
    "title": "Fenerbahçe'de sakatlık! Yıldız oyuncu Slavia Prag maçına devam edemedi",
    "summarized": false,
    "intro": null,
    "bullets": [],
    "why": null,
-   "raw_summary": "Son dakika haberi: Fenerbahçe, UEFA Şampiyonlar Ligi'nin üçüncü haftasında sahasında konuk ettiği Çekya temsilcisi Slavia Prag ile 2-2 berabere kaldı. Devamı için tıklayınız",
+   "raw_summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında Fenerbahçe, Çekya ekibi Slavia Prag'ı konuk etti. Sarı lacivertlilerin Hollandalı stoperi Nathan Ake sakatlığı nedeniyle maça devam edemedi. İşte ayrıntılar...... Devamı için tıklayınız",
    "category": "yonetim",
    "category_name": "Yönetim",
    "status": null,
@@ -55,11 +146,6 @@
    ],
    "sources": [
     {
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/20/fenerbahce-slavia-prag-canli-fenerbahce-sampiyonlar-liginde-slavia-pragi-agirliyor-iste-ismail-kartalin-11i",
-     "published": "2026-10-20T13:42:37+00:00"
-    },
-    {
      "name": "A Spor",
      "url": "https://www.aspor.com.tr/fenerbahce/2026/10/20/fenerbahcede-nathan-ake-soku-slavia-prag-macina-devam-edemedi",
      "published": "2026-10-20T17:08:33+00:00"
@@ -75,11 +161,6 @@
      "published": "2026-10-20T17:10:00+00:00"
     },
     {
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/20/fenerbahcede-nathan-ake-sakatlandi",
-     "published": "2026-10-20T17:11:43+00:00"
-    },
-    {
      "name": "Ajansspor",
      "url": "https://ajansspor.com/haber/fenerbahcede-nathan-ake-soku-maca-devam-edemedi-737003",
      "published": "2026-10-20T17:12:52+00:00"
@@ -93,30 +174,40 @@
      "name": "NTV Spor",
      "url": "https://www.ntvspor.net/futbol/galeri-son-dakika-derbi-oncesi-fenerbahceye-ake-soku-431618",
      "published": "2026-10-20T17:15:12+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/fenerbahce-de-nathan-ake-soku-galatasaray-derbisi-oncesi-kotu-haber-p371088",
+     "published": "2026-10-20T17:18:57+00:00"
+    },
+    {
+     "name": "Takvim",
+     "url": "https://www.takvim.com.tr/spor/2026/10/20/fenerbahcede-nathan-ake-sakatlik-sebebiyle-oyundan-cikti",
+     "published": "2026-10-20T17:36:13+00:00"
     }
    ],
-   "n_sources": 15,
-   "first_published": "2026-10-20T13:42:37+00:00",
-   "last_published": "2026-10-20T20:05:32+00:00",
+   "n_sources": 14,
+   "first_published": "2026-10-20T17:08:33+00:00",
+   "last_published": "2026-10-20T22:55:00+00:00",
    "image": {
     "path": "pool/mac-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 86.61,
+   "score": 63.72,
    "importance": null,
    "popular": true
   },
   {
-   "id": "s0153",
-   "rank": 2,
+   "id": "s0063",
+   "rank": 3,
    "key": "d33a983d2a6c67d6",
    "title": "\"İlk 20 dakikada birbirimizi duyamadık\"",
    "summarized": false,
    "intro": null,
    "bullets": [],
    "why": null,
-   "raw_summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında Fenerbahçe ile deplasmanda 2-2 berabere kalan Slavia Prag'da teknik direktör Jindrich Trpisovsky, takımının harika bir maç çıkardığını söyledi. Devamı için tıklayınız",
+   "raw_summary": "Slavia Prag Teknik Direktörü Jindrich Trpisovsky, Fenerbahçe ile berabere kaldıkları maç sonrası açıklama yaptı.",
    "category": "mac",
    "category_name": "Maç",
    "status": null,
@@ -138,29 +229,19 @@
    ],
    "sources": [
     {
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/20/slavia-prag-teknik-direktoru-jindrich-trpisovsky-harika-bir-mac-cikardik",
-     "published": "2026-10-20T19:32:42+00:00"
-    },
-    {
      "name": "Ajansspor",
      "url": "https://ajansspor.com/haber/jindrich-trpisovsky-statta-birbirimizi-duyamadik-737012",
      "published": "2026-10-20T19:32:49+00:00"
     },
     {
      "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/sligi/jindrich-trpisovsky-birbirimizi-duyamadik-SXHBQ1180006SXQ",
-     "published": "2026-10-20T19:34:16+00:00"
+     "url": "https://www.sporx.com/futbol/sligi/jindrich-trpisovsky-kadikoy-de-birbirimizi-duyamadik-SXHBQ1180006SXQ",
+     "published": "2026-10-20T19:34:00+00:00"
     },
     {
      "name": "Hürriyet",
      "url": "https://www.hurriyet.com.tr/sporarena/jindrich-trpisovsky-kadikoydeki-ambiyans-inanilmazdi-ilk-20-dakika-birbirimizi-duyamadik-43349063",
      "published": "2026-10-20T19:34:21+00:00"
-    },
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/trpisovsky-bu-stattaki-ambiyans-inanilmaz-33689832",
-     "published": "2026-10-20T19:37:00+00:00"
     },
     {
      "name": "Habertürk",
@@ -173,112 +254,35 @@
      "published": "2026-10-20T19:39:25+00:00"
     },
     {
-     "name": "Star",
-     "url": "https://www.star.com.tr/spor/jindrich-trpisovsky-biraz-daha-atak-oynayip-daha-hareketli-olabilirdik-haber-2047952",
-     "published": "2026-10-20T19:40:00+00:00"
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/fenerbahce/2026/10/20/slavia-prag-teknik-direktoru-jindrich-trpisovsky-cok-mutlu-olduk",
+     "published": "2026-10-20T19:51:38+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/sampiyonlarligi/2026/10/20/slavia-prag-teknik-direktoru-jindrich-trpisovsky-bu-stattaki-ambiyans-inanilmaz",
+     "published": "2026-10-20T21:46:57+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/trpisovsky-bu-stattaki-ambiyans-inanilmaz-33689832",
+     "published": "2026-10-20T22:37:00+00:00"
     }
    ],
-   "n_sources": 10,
-   "first_published": "2026-10-20T19:32:42+00:00",
-   "last_published": "2026-10-20T20:11:19+00:00",
+   "n_sources": 8,
+   "first_published": "2026-10-20T19:32:49+00:00",
+   "last_published": "2026-10-20T22:37:00+00:00",
    "image": {
     "path": "pool/diger-2.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 57.01,
+   "score": 38.73,
    "importance": null,
    "popular": false
   },
   {
-   "id": "s0004",
-   "rank": 3,
-   "key": "1ae5c004080d5363",
-   "title": "Galatasaray Teknik Direktörü Okan Buruk'tan flaş Singo açıklaması: Uygun olması halinde...",
-   "summarized": false,
-   "intro": null,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Temsilcimiz Galatasaray, UEFA Şampiyonlar Ligi'nin üçüncü haftasında yarın deplasmanda Fransa ekibi Lille ile karşılaşacak. 19.45'te başlayacak karşılaşma TRT 1, Tabii ve TRT Radyo 1'den canlı yayınlanacak.",
-   "category": "diger",
-   "category_name": "Diğer",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "la-liga",
-     "name": "La Liga"
-    },
-    {
-     "slug": "sampiyonlar-ligi",
-     "name": "Şampiyonlar Ligi"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/lille-galatasaray-maci-trt-1de-33680167",
-     "published": "2026-10-20T06:58:00+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/galatasarayda-osimhen-eski-takimi-lillee-karsi-forma-giyecek-3481716",
-     "published": "2026-10-20T07:20:19+00:00"
-    },
-    {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-lille-ile-deplasmanda-karsilasacak-43348148",
-     "published": "2026-10-20T07:41:56+00:00"
-    },
-    {
-     "name": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/spor/galatasaray-avrupada-343-kez-sahne-alacak/4094230",
-     "published": "2026-10-20T08:03:26+00:00"
-    },
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/galatasarayin-avrupada-343-sinavi-33681055",
-     "published": "2026-10-20T08:28:00+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/galatasaray/2026/10/20/galatasaray-lille-macinin-hazirliklarini-tamamladi",
-     "published": "2026-10-20T10:50:34+00:00"
-    },
-    {
-     "name": "Galatasaray.org (resmi)",
-     "url": "https://www.galatasaray.org/haber/futbol/sampiyonlar-ligi/lille-maci-hazirliklari-tamamlandi/61180",
-     "published": "2026-10-20T10:57:00+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/galatasaray-lille-macina-hazir-3481945",
-     "published": "2026-10-20T11:01:15+00:00"
-    }
-   ],
-   "n_sources": 12,
-   "first_published": "2026-10-20T06:58:00+00:00",
-   "last_published": "2026-10-20T20:30:58+00:00",
-   "image": {
-    "path": "pool/mac-1.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 55.64,
-   "importance": null,
-   "popular": true
-  },
-  {
-   "id": "s0127",
+   "id": "s0025",
    "rank": 4,
    "key": "603d18082e2da2d1",
    "title": "Oğuz Aydın 90'a koordinat girdi! Fenerbahçe tarihine geçti",
@@ -333,17 +337,12 @@
      "published": "2026-10-20T18:05:00+00:00"
     },
     {
-     "name": "Star",
-     "url": "https://www.star.com.tr/spor/oguz-aydin-tarihe-gecti-sampiyonlar-ligi-rekorunu-kirdi-haber-2047936",
-     "published": "2026-10-20T18:24:00+00:00"
-    },
-    {
      "name": "Habertürk",
      "url": "https://www.haberturk.com/spor/fenerbahceli-oguz-aydin-dan-slavia-prag-a-tarihi-gol-3921223",
      "published": "2026-10-20T18:58:56+00:00"
     }
    ],
-   "n_sources": 7,
+   "n_sources": 6,
    "first_published": "2026-10-20T17:02:01+00:00",
    "last_published": "2026-10-20T18:58:56+00:00",
    "image": {
@@ -351,31 +350,27 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 44.63,
+   "score": 28.95,
    "importance": null,
-   "popular": true
+   "popular": false
   },
   {
-   "id": "s0014",
+   "id": "s0019",
    "rank": 5,
-   "key": "8bd60e033d021e8a",
-   "title": "Şampiyonlar Ligi'nde PSG, Barcelona'yı ağırlıyor! Dev maçın heyecanı canlı sohbet ile Misli'de",
+   "key": "1ae5c004080d5363",
+   "title": "Galatasaray Teknik Direktörü Okan Buruk'tan flaş Singo açıklaması: Uygun olması halinde...",
    "summarized": false,
    "intro": null,
    "bullets": [],
    "why": null,
-   "raw_summary": "UEFA Şampiyonlar Ligi'nde PSG ile Barcelona arasındaki dev mücadele öncesinde heyecan yükseliyor. PSG-Barcelona maçı ne zaman, saat kaçta ve hangi kanalda? Mücadele şifresiz mi yayınlanacak, muhtemel 11'ler... Devamı için tıklayınız",
-   "category": "mac",
-   "category_name": "Maç",
+   "raw_summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında deplasmanda Fransız ekibi Lille'e konuk olacak temsilcimiz Galatasaray'ın kamp kadrosu açıklandı.",
+   "category": "diger",
+   "category_name": "Diğer",
    "status": null,
    "clubs": [
     {
-     "slug": "barcelona",
-     "name": "Barcelona"
-    },
-    {
-     "slug": "psg",
-     "name": "PSG"
+     "slug": "galatasaray",
+     "name": "Galatasaray"
     }
    ],
    "leagues": [
@@ -384,156 +379,73 @@
      "name": "La Liga"
     },
     {
-     "slug": "ligue-1",
-     "name": "Ligue 1"
-    },
-    {
      "slug": "sampiyonlar-ligi",
      "name": "Şampiyonlar Ligi"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/sampiyonlarligi/2026/10/20/psg-barcelona-maci-saat-kacta-baslayacak-nereden-izlenir",
-     "published": "2026-10-20T07:37:05+00:00"
     },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/sampiyonlar-ligi/2026/10/20/psg-barcelona-macini-hangi-kanal-veriyor-nereden-izlenir",
-     "published": "2026-10-20T07:37:09+00:00"
-    },
-    {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/sampiyonlar-liginde-psg-barcelonayi-agirliyor-dev-macin-heyecani-canli-sohbet-ile-mislide-43348274",
-     "published": "2026-10-20T08:37:00+00:00"
-    },
-    {
-     "name": "Yeni Şafak",
-     "url": "https://www.yenisafak.com/spor/psg-barcelona-maci-canli-izle-sampiyonlar-ligi-4865864",
-     "published": "2026-10-20T18:00:00+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/psg-barcelona-maci-hangi-kanalda-psg-barcelona-maci-ne-zaman-saat-kacta-sifresiz-mi-3481691",
-     "published": "2026-10-20T18:49:52+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/paris-saint-germain-psg-barcelona-maci-canli-izle-linki-737009",
-     "published": "2026-10-20T18:55:58+00:00"
-    },
-    {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/foto/psg-barcelona-maci-ne-zaman-hangi-kanalda-saat-kacta-uefa-sampiyonlar-ligi-psg-barcelona-maci-tabii-spor-canli-izle-3921204",
-     "published": "2026-10-20T19:32:54+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-psg-barcelona-canli-anlatim-431620",
-     "published": "2026-10-20T20:38:04+00:00"
-    }
-   ],
-   "n_sources": 8,
-   "first_published": "2026-10-20T07:37:05+00:00",
-   "last_published": "2026-10-20T20:38:04+00:00",
-   "image": {
-    "path": "pool/mac-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 43.59,
-   "importance": null,
-   "popular": false
-  },
-  {
-   "id": "s0096",
-   "rank": 6,
-   "key": "e2e974aba113a1b4",
-   "title": "PFDK, Trabzonspor Kulübü Başkanı Ertuğrul Doğan'a 45 gün ceza verdi",
-   "summarized": false,
-   "intro": null,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Türkiye Futbol Federasyonu (TFF), Süper Lig ve TFF 1. Lig'de mücadele eden kulüplerde son 5 yıl içerisinde idareci olarak görev almış ve görev aldığı dönemde bahis oynadığı tespit edilen isimlerin cezalarını açıkladı. TFF, Trabzonspor Kulübü Başkanı Ertuğrul Doğan'ın bahis eylemi nedeniyle 45 gün ha",
-   "category": "yonetim",
-   "category_name": "Yönetim",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "trabzonspor",
-     "name": "Trabzonspor"
-    }
-   ],
-   "leagues": [
     {
      "slug": "super-lig",
      "name": "Süper Lig"
-    },
-    {
-     "slug": "tff-1-lig",
-     "name": "TFF 1. Lig"
     }
    ],
    "sources": [
     {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/tff-bahis-oynayan-yoneticilere-verilen-cezalari-acikladi-iste-trabzonspor-baskani-ertugrul-dogana-verilen-ceza-43348844",
-     "published": "2026-10-20T14:25:00+00:00"
-    },
-    {
      "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/ertugrul-dogana-bahis-cezasi-33685069",
-     "published": "2026-10-20T14:26:00+00:00"
+     "url": "https://www.trtspor.com.tr/haber/futbol/galatasarayin-lille-kafilesi-belli-oldu-33683911",
+     "published": "2026-10-20T15:55:00+00:00"
     },
     {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/trabzonspor/pfdk-bahis-eylemi-ile-sevk-edilen-ertugrul-dogan-in-cezasini-acikladi-SXHBQ1179992SXQ",
-     "published": "2026-10-20T14:27:00+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/20/tffden-ertugrul-dogan-aciklamasi",
-     "published": "2026-10-20T14:28:51+00:00"
-    },
-    {
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/trabzonspor-baskani-ertugrul-dogan-in-cezasi-belli-oldu-bahis-nedeniyle-pfdk-ya-sevk-edilmisti-p371057",
-     "published": "2026-10-20T14:29:34+00:00"
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/galatasarayin-lille-maci-kadrosu-belli-oldu-3482090",
+     "published": "2026-10-20T16:37:21+00:00"
     },
     {
      "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/pfdkdan-ertugrul-dogana-45-gun-hak-mahrumiyeti-cezasi-736993",
-     "published": "2026-10-20T14:30:11+00:00"
+     "url": "https://ajansspor.com/haber/lille-galatasaray-maci-ne-zaman-hangi-kanalda-muhtemel-11ler-sakat-ve-cezalilar-737000",
+     "published": "2026-10-20T16:40:59+00:00"
     },
     {
-     "name": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/spor/pfdk-trabzonspor-kulubu-baskani-ertugrul-dogana-45-gun-ceza-verdi/4094810",
-     "published": "2026-10-20T14:31:31+00:00"
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/10/20/galatasaray-teknik-direktoru-okan-buruk-konusuyor-canli",
+     "published": "2026-10-20T17:31:16+00:00"
     },
     {
      "name": "A Spor",
-     "url": "https://www.aspor.com.tr/trabzonspor/2026/10/20/turkiye-futbol-federasyonundan-ertugrul-dogan-aciklamasi",
-     "published": "2026-10-20T14:34:26+00:00"
+     "url": "https://www.aspor.com.tr/galatasaray/2026/10/20/okan-buruk-aciklamalarda-bulunuyor",
+     "published": "2026-10-20T18:19:20+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/lille-maci-oncesi-galatasaray-teknik-direktoru-okan-buruk-wilfried-singo-uygun-olmasi-halinde-sure-alacak-3921245",
+     "published": "2026-10-20T19:24:12+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/10/21/galatasaray-sampiyonlar-liginde-ilk-galibiyetinin-pesinde-iste-burukun-11i",
+     "published": "2026-10-20T20:10:37+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/10/20/galatasarayin-lille-maci-kafilesi-aciklandi",
+     "published": "2026-10-20T21:47:37+00:00"
     }
    ],
-   "n_sources": 10,
-   "first_published": "2026-10-20T14:25:00+00:00",
-   "last_published": "2026-10-20T15:22:00+00:00",
+   "n_sources": 7,
+   "first_published": "2026-10-20T15:55:00+00:00",
+   "last_published": "2026-10-21T03:40:50+00:00",
    "image": {
-    "path": "pool/diger-1.png",
+    "path": "pool/mac-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 38.91,
+   "score": 27.88,
    "importance": null,
    "popular": true
   },
   {
-   "id": "s0145",
-   "rank": 7,
-   "key": "c66982b1be0e682b",
-   "title": "Mason Greenwood: \"Üzerimizde çok fazla kötü şans var\"",
+   "id": "s0056",
+   "rank": 6,
+   "key": "cfe3f4e255f48e03",
+   "title": "Mason Greenwood: \"Çok şanssız bir sonuç!\"",
    "summarized": false,
    "intro": null,
    "bullets": [],
@@ -570,11 +482,6 @@
      "published": "2026-10-20T19:03:25+00:00"
     },
     {
-     "name": "Star",
-     "url": "https://www.star.com.tr/spor/mason-greenwood-cok-sanssiz-bir-sonuc-haber-2047946",
-     "published": "2026-10-20T19:13:00+00:00"
-    },
-    {
      "name": "Hürriyet",
      "url": "https://www.hurriyet.com.tr/sporarena/mason-greenwood-futbol-bu-bas-etmeliyiz-43349054",
      "published": "2026-10-20T19:16:00+00:00"
@@ -590,33 +497,377 @@
      "published": "2026-10-20T19:22:47+00:00"
     },
     {
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/20/mason-greenwood-uzerimizde-cok-fazla-kotu-sans-var",
-     "published": "2026-10-20T19:46:02+00:00"
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-mason-greenwood-cok-sanssizlik-yasadik-431626",
+     "published": "2026-10-20T19:50:39+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/sampiyonlarligi/2026/10/20/mason-greenwood-golumu-attim-ama",
+     "published": "2026-10-20T20:08:28+00:00"
     },
     {
      "name": "TRT Spor",
      "url": "https://www.trtspor.com.tr/haber/futbol/uzerimizde-cok-fazla-kotu-sans-var-33690387",
-     "published": "2026-10-20T19:50:00+00:00"
+     "published": "2026-10-20T22:50:00+00:00"
     }
    ],
-   "n_sources": 10,
+   "n_sources": 9,
    "first_published": "2026-10-20T19:02:47+00:00",
-   "last_published": "2026-10-20T20:08:28+00:00",
+   "last_published": "2026-10-20T23:45:25+00:00",
    "image": {
     "path": "pool/diger-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 36.19,
+   "score": 26.23,
    "importance": null,
    "popular": false
   },
   {
-   "id": "s0154",
+   "id": "s0113",
+   "rank": 7,
+   "key": "28d69245ed7cf5fc",
+   "title": "Liverpool, Fenerbahçe öncesi geri döndü!",
+   "summarized": false,
+   "intro": null,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında temsilcimiz Fenerbahçe'nin rakibi Liverpool, sahasında 2-0 geriye düştüğü maçta Villarreal'i 4-3 mağlup etti. Liverpool",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "liverpool",
+     "name": "Liverpool"
+    },
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "premier-lig",
+     "name": "Premier Lig"
+    },
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/ingiltere/liverpool/liverpool-fenerbahce-oncesi-geri-dondu-SXHBQ1180011SXQ",
+     "published": "2026-10-20T20:55:15+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/sampiyonlar-ligi/2026/10/20/liverpooldan-villarreal-karsisinda-muhtesem-donus-iste-macin-ozeti",
+     "published": "2026-10-20T20:56:44+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/liverpool-villarreal-4-3-mac-sonucu-mac-ozeti-yazili-737018",
+     "published": "2026-10-20T20:59:08+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/liverpooldan-muhtesem-geri-donus-haber-2047965",
+     "published": "2026-10-20T21:08:00+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/sampiyonlarligi/2026/10/20/7-gollu-macta-kazanan-liverpool",
+     "published": "2026-10-20T21:47:07+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/gol-duellosu-liverpoolun-33690955",
+     "published": "2026-10-21T00:04:00+00:00"
+    }
+   ],
+   "n_sources": 6,
+   "first_published": "2026-10-20T20:55:15+00:00",
+   "last_published": "2026-10-21T00:04:00+00:00",
+   "image": {
+    "path": "pool/diger-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 18.17,
+   "importance": null,
+   "popular": false
+  },
+  {
+   "id": "s0030",
    "rank": 8,
-   "key": "5317f1082c7fc0c7",
-   "title": "Okan Buruk: \"Önümüzdeki beş maç bizim için çok kritik\"",
+   "key": "086285345adb2544",
+   "title": "Manchester City'den Şampiyonlar Ligi'nde gövde gösterisi!",
+   "summarized": false,
+   "intro": null,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Manchester City - AEK Atina maçı ne zaman, saat kaçta ve hangi kanalda, Manchester City AEK Atina maçı şifresiz mi soruları UEFA Şampiyonlar Ligi'nin 3. haftası öncesinde futbolseverlerin gündeminde yer alıyor. İngiltere'de oynanacak kritik mücadelede Enzo Maresca yönetimindeki Manchester City, tara",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "man-city",
+     "name": "Manchester City"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "premier-lig",
+     "name": "Premier Lig"
+    },
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    }
+   ],
+   "sources": [
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/manchester-city-aek-atina-canli-izle-sampiyonlar-ligi-manchester-city-aek-atina-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-3481949",
+     "published": "2026-10-20T17:29:27+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/ingiltere/manchester-city/manchester-city-den-5-gollu-galibiyet-foden-sov-yapti-SXHBQ1180010SXQ",
+     "published": "2026-10-20T20:51:00+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/sampiyonlar-ligi/2026/10/20/manchester-city-evinde-aeke-fark-atti",
+     "published": "2026-10-20T20:51:52+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/sampiyonlarligi/2026/10/20/manchester-city-evinde-farkli-galip",
+     "published": "2026-10-20T21:47:04+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/manchester-cityden-sampiyonlar-liginde-govde-gosterisi-haber-2047970",
+     "published": "2026-10-20T21:55:00+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/manchester-city-phil-foden-ile-costu-33691495",
+     "published": "2026-10-20T23:56:00+00:00"
+    }
+   ],
+   "n_sources": 6,
+   "first_published": "2026-10-20T17:29:27+00:00",
+   "last_published": "2026-10-20T23:56:00+00:00",
+   "image": {
+    "path": "pool/mac-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 18.09,
+   "importance": null,
+   "popular": false
+  },
+  {
+   "id": "s0054",
+   "rank": 9,
+   "key": "855e5218fe42db0f",
+   "title": "Fenerbahçe taraftarının tepkisine Kerem Aktürkoğlu’ndan dikkat çeken karşılık",
+   "summarized": false,
+   "intro": null,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nde Slavia Prag karşısında son dakikada yediği golle 2-2 berabere kaldı. Karşılaşmanın 82. dakikasında sarı-lacivertlilerde Kerem Aktürkoğlu oyundan çıkarken... Devamı için tıklayınız",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/fenerbahce/2026/10/20/kadikoyde-kerem-akturkogluna-buyuk-tepki",
+     "published": "2026-10-20T18:46:39+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-kerem-akturkoglu-isliklandi-tepkilere-verdigi-karsilik-ekrana-yansidi-431624",
+     "published": "2026-10-20T19:00:37+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/20/kadikoyde-kerem-akturkogluna-islikli-protesto",
+     "published": "2026-10-20T19:11:53+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/fenerbahce/ilker-yagcioglu-ndan-kerem-akturkoglu-tepkisi-SXHBQ1180019SXQ",
+     "published": "2026-10-20T21:51:26+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/fenerbahce-taraftarinin-tepkisine-kerem-akturkoglu-ndan-dikkat-ceken-karsilik-p371170",
+     "published": "2026-10-21T04:16:59+00:00"
+    }
+   ],
+   "n_sources": 5,
+   "first_published": "2026-10-20T18:46:39+00:00",
+   "last_published": "2026-10-21T04:16:59+00:00",
+   "image": {
+    "path": "pool/diger-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 17.2,
+   "importance": null,
+   "popular": false
+  },
+  {
+   "id": "s0114",
+   "rank": 10,
+   "key": "1a9cfbadb6766382",
+   "title": "Roma'dan Şampiyonlar Ligi'nde 4 gollü zafer! İlk galibiyet geldi",
+   "summarized": false,
+   "intro": null,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında Roma, sahasında Slovan Bratislava'yı 4-0 mağlup etti. Roma",
+   "category": "mac",
+   "category_name": "Maç",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "roma",
+     "name": "Roma"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "serie-a",
+     "name": "Serie A"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/italya/roma/roma-dan-sampiyonlar-ligi-nde-4-gollu-ilk-galibiyet-SXHBQ1180013SXQ",
+     "published": "2026-10-20T21:00:38+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/romadan-sampiyonlar-liginde-4-gollu-zafer-ilk-galibiyet-geldi-haber-2047968",
+     "published": "2026-10-20T21:29:00+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/roma-farka-gitti-33692098",
+     "published": "2026-10-21T00:18:00+00:00"
+    }
+   ],
+   "n_sources": 3,
+   "first_published": "2026-10-20T21:00:38+00:00",
+   "last_published": "2026-10-21T00:18:00+00:00",
+   "image": {
+    "path": "pool/diger-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 15.59,
+   "importance": null,
+   "popular": false
+  },
+  {
+   "id": "s0010",
+   "rank": 11,
+   "key": "3745c54fc4c778d1",
+   "title": "SON DAKİKA | Ertuğrul Doğan’a “bahis” cezası",
+   "summarized": false,
+   "intro": null,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Türkiye Futbol Federasyonu (TFF) Profesyonel Futbol Disiplin Kurulu (PFDK), bahis cezalarını açıkladı. 448 isim hakkında verilen kararlar duyurulurken, Trabzonspor Başkanı Ertuğrul Doğan ve Erzurumspor FK Başkanı Ahmet Dal'a bahis eylemi nedeniyle 45 gün hak mahrumiyeti cezası verildi",
+   "category": "yonetim",
+   "category_name": "Yönetim",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/son-dakika-bahis-cezalari-aciklandi-ertugrul-dogan-a-45-gun-hak-mahrumiyeti-3921187",
+     "published": "2026-10-20T15:22:00+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/ertugrul-dogana-bahis-cezasi-33685069",
+     "published": "2026-10-20T17:26:00+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/son-dakika-ertugrul-dogana-bahis-cezasi-3482113",
+     "published": "2026-10-20T17:42:11+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/21/dogana-45-gun-ceza",
+     "published": "2026-10-20T20:04:43+00:00"
+    }
+   ],
+   "n_sources": 4,
+   "first_published": "2026-10-20T15:22:00+00:00",
+   "last_published": "2026-10-20T20:04:43+00:00",
+   "image": {
+    "path": "pool/diger-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 15.58,
+   "importance": null,
+   "popular": false
+  },
+  {
+   "id": "s0064",
+   "rank": 12,
+   "key": "d49b166202c3cd5a",
+   "title": "Okan Buruk: Burada alacağımız puanlar çok önemli",
    "summarized": false,
    "intro": null,
    "bullets": [],
@@ -652,11 +903,6 @@
      "published": "2026-10-20T19:36:22+00:00"
     },
     {
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/20/okan-buruk-onumuzdeki-bes-mac-bizim-icin-cok-kritik",
-     "published": "2026-10-20T19:38:00+00:00"
-    },
-    {
      "name": "Hürriyet",
      "url": "https://www.hurriyet.com.tr/sporarena/okan-buruktan-5-mac-vurgusu-ust-tur-icin-cok-kritik-43349067",
      "published": "2026-10-20T19:39:36+00:00"
@@ -664,345 +910,31 @@
     {
      "name": "TRT Spor",
      "url": "https://www.trtspor.com.tr/haber/futbol/okan-buruk-burada-alacagimiz-puanlar-cok-onemli-33690954",
-     "published": "2026-10-20T20:23:00+00:00"
-    },
-    {
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/okan-buruk-kazanmak-icin-sahaya-cikacagiz-p371127",
-     "published": "2026-10-20T20:35:56+00:00"
+     "published": "2026-10-20T23:23:00+00:00"
     }
    ],
-   "n_sources": 5,
+   "n_sources": 3,
    "first_published": "2026-10-20T19:36:22+00:00",
-   "last_published": "2026-10-20T20:35:56+00:00",
+   "last_published": "2026-10-20T23:23:00+00:00",
    "image": {
     "path": "pool/mac-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 33.66,
+   "score": 15.1,
    "importance": null,
    "popular": false
   },
   {
-   "id": "s0042",
-   "rank": 9,
-   "key": "0fcdb90d3e3ddcf3",
-   "title": "Fenerbahçe'de İsmail Kartal'dan, Slavia Prag maçı öncesi Mason Greenwood açıklaması!",
-   "summarized": false,
-   "intro": null,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "UEFA Şampiyonlar Ligi üçüncü hafta mücadelesinde Fenerbahçe, Slavia Prag'ı konuk edecek. Zorlu maç öncesi sarı-lacivertlilerde iki eksik bulunurken teknik direktör İsmail Kartal, sahaya süreceği ilk 11'i büyük ölçüde netleştirdi. İşte maça dair merak edilenler...",
-   "category": "diger",
-   "category_name": "Diğer",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "sampiyonlar-ligi",
-     "name": "Şampiyonlar Ligi"
-    },
-    {
-     "slug": "serie-a",
-     "name": "Serie A"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Yeni Şafak",
-     "url": "https://www.yenisafak.com/galeri/spor/fenerbahce-slavia-prag-maci-saat-kacta-ve-hangi-kanalda-muhtemel-11de-kimler-var-4865805",
-     "published": "2026-10-20T09:56:12+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/fenerbahce/2026/10/20/fenerbahcede-ismail-kartaldan-slavia-prag-maci-oncesi-mason-greenwood-aciklamasi",
-     "published": "2026-10-20T15:53:59+00:00"
-    },
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/fenerbahce/ismail-kartal-dan-mason-greenwood-aciklamasi-SXHBQ1179998SXQ",
-     "published": "2026-10-20T15:56:27+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-ismail-kartaldan-greenwood-karari-herkes-gorecek-diyerek-acikladi-431611",
-     "published": "2026-10-20T16:03:32+00:00"
-    },
-    {
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/ismail-kartal-herkes-gorecek-diyerek-acikladi-greenwooda-yeni-gorev-p371078",
-     "published": "2026-10-20T16:14:39+00:00"
-    },
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/ismail-kartaldan-3-degisiklik-33687286",
-     "published": "2026-10-20T17:01:00+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/ismail-kartaldan-slavia-prag-macinda-3-degisiklik-737004",
-     "published": "2026-10-20T17:13:43+00:00"
-    }
-   ],
-   "n_sources": 7,
-   "first_published": "2026-10-20T09:56:12+00:00",
-   "last_published": "2026-10-20T17:13:43+00:00",
-   "image": {
-    "path": "pool/diger-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 26.35,
-   "importance": null,
-   "popular": false
-  },
-  {
-   "id": "s0009",
-   "rank": 10,
-   "key": "aea3a48436b1c857",
-   "title": "Beşiktaş'ta Crystal Palace maçının hazırlıkları başladı",
-   "summarized": false,
-   "intro": null,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Beşiktaş - Crystal Palace maçı ne zaman, saat kaçta, hangi kanalda? UEFA Avrupa Ligi'nde İngiliz temsilcisi Crystal Palace'ı sahasında ağırlayacak olan siyah-beyazlıların mücadelesi için geri sayım başladı.... Devamı için tıklayınız",
-   "category": "diger",
-   "category_name": "Diğer",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "besiktas",
-     "name": "Beşiktaş"
-    },
-    {
-     "slug": "trabzonspor",
-     "name": "Trabzonspor"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "avrupa-ligi",
-     "name": "Avrupa Ligi"
-    },
-    {
-     "slug": "konferans-ligi",
-     "name": "Konferans Ligi"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/besiktas/2026/10/20/besiktas-crystal-palace-maci-ne-zaman-saat-kacta-hangi-kanalda",
-     "published": "2026-10-20T07:17:50+00:00"
-    },
-    {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/besiktas-crystal-palace-macinin-hakemi-belli-oldu-3921059",
-     "published": "2026-10-20T08:23:06+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/besiktas/2026/10/20/iste-besiktas-crystal-palace-macinin-hakemi",
-     "published": "2026-10-20T08:25:44+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/trabzonspor/2026/10/20/trabzonspor-hearts-macinin-hakemi-belli-oldu",
-     "published": "2026-10-20T08:26:38+00:00"
-    },
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/besiktasin-macina-hollandali-hakem-33681056",
-     "published": "2026-10-20T08:30:00+00:00"
-    },
-    {
-     "name": "Yeni Şafak",
-     "url": "https://www.yenisafak.com/spor/besiktas-crystal-palace-macina-hollandali-hakem-4865778",
-     "published": "2026-10-20T08:32:34+00:00"
-    },
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/trabzonspor-hearts-macina-belcikali-hakem-33681058",
-     "published": "2026-10-20T08:39:00+00:00"
-    },
-    {
-     "name": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/spor/trabzonspor-hearts-macini-belcikali-hakem-lawrence-visser-yonetecek/4094314",
-     "published": "2026-10-20T08:39:05+00:00"
-    }
-   ],
-   "n_sources": 8,
-   "first_published": "2026-10-20T07:17:50+00:00",
-   "last_published": "2026-10-20T12:47:09+00:00",
-   "image": {
-    "path": "pool/diger-1.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 25.67,
-   "importance": null,
-   "popular": false
-  },
-  {
-   "id": "s0093",
-   "rank": 11,
-   "key": "c70f0412d011e5c6",
-   "title": "Selçuk İnan'dan Alanyaspor maçı yorumu",
-   "summarized": false,
-   "intro": null,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Kocaelispor Teknik Direktörü Selçuk İnan, bu sezon çok fazla sakatlık problemiyle karşı karşıya kaldıklarını söyledi.",
-   "category": "sakatlik",
-   "category_name": "Sakatlık",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "alanyaspor",
-     "name": "Alanyaspor"
-    },
-    {
-     "slug": "kocaelispor",
-     "name": "Kocaelispor"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/selcuk-inan-sakatliklar-bu-sene-bizim-icin-bir-klise-haline-geldi-736992",
-     "published": "2026-10-20T14:17:06+00:00"
-    },
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/kocaelispor/selcuk-inan-dan-sakatlik-aciklamasi-SXHBQ1179996SXQ",
-     "published": "2026-10-20T15:02:42+00:00"
-    },
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/selcuk-inandan-alanyaspor-maci-yorumu-33685476",
-     "published": "2026-10-20T15:05:00+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-selcuk-inandan-sakatlik-raporu-3-isimde-son-durum-431613",
-     "published": "2026-10-20T15:08:25+00:00"
-    },
-    {
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/selcuk-inan-dan-sakatlik-aciklamasi-3-ismin-son-durumunu-acikladi-p371066",
-     "published": "2026-10-20T15:19:14+00:00"
-    }
-   ],
-   "n_sources": 5,
-   "first_published": "2026-10-20T14:17:06+00:00",
-   "last_published": "2026-10-20T15:19:14+00:00",
-   "image": {
-    "path": "pool/diger-1.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 24.41,
-   "importance": null,
-   "popular": false
-  },
-  {
-   "id": "s0129",
-   "rank": 12,
-   "key": "e080ae5cc85d6f95",
-   "title": "Greenwood, 1 ay sonra Fenerbahçe - Slavia Prag maçında gol attı",
-   "summarized": false,
-   "intro": null,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Son dakika haberleri | Fenerbahçe'nin yıldızı Mason Greenwood, UEFA Şampiyonlar Ligi'nde oynanan Lille maçında gol sevinci yaşadı. İngiliz futbolcu, 1 ay sonra gol attı.",
-   "category": "diger",
-   "category_name": "Diğer",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "sampiyonlar-ligi",
-     "name": "Şampiyonlar Ligi"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/greenwood-1-ay-sonra-fenerbahce-slavia-prag-macinda-gol-atti-737002",
-     "published": "2026-10-20T17:09:49+00:00"
-    },
-    {
-     "name": "Star",
-     "url": "https://www.star.com.tr/spor/fenerbahcede-greenwoodun-yeri-degisti-haber-2047940",
-     "published": "2026-10-20T18:14:00+00:00"
-    },
-    {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/mason-greenwood-7-golune-ulasti-43349051",
-     "published": "2026-10-20T19:11:46+00:00"
-    },
-    {
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/20/mason-greenwood-7-golune-ulasti",
-     "published": "2026-10-20T19:33:58+00:00"
-    },
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/greenwood-7-gole-ulasti-33689833",
-     "published": "2026-10-20T19:38:00+00:00"
-    }
-   ],
-   "n_sources": 5,
-   "first_published": "2026-10-20T17:09:49+00:00",
-   "last_published": "2026-10-20T19:38:00+00:00",
-   "image": {
-    "path": "pool/diger-1.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 20.36,
-   "importance": null,
-   "popular": false
-  },
-  {
-   "id": "s0148",
+   "id": "s0110",
    "rank": 13,
-   "key": "ca51e83fd190100f",
-   "title": "Galatasaray MCT Technic, SIG Strasbourg'u mağlup etti",
+   "key": "035d1607a00962cf",
+   "title": "Yunus Akgün: Kazanıp çıkış yapmak istiyoruz",
    "summarized": false,
    "intro": null,
    "bullets": [],
    "why": null,
-   "raw_summary": "Galatasaray, FIBA Şampiyonlar Ligi'ndeki ikinci maçında evinde Fransız ekibi Strasbourg'u 83-77 yenerek ilk galibiyetini aldı.",
+   "raw_summary": "Galatasaray'ın Lille ile oynayacağı maç öncesinde Yunus Akgün açıklamalarda bulundu.",
    "category": "mac",
    "category_name": "Maç",
    "status": null,
@@ -1024,35 +956,35 @@
    ],
    "sources": [
     {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/galatasaray-83-strasbourg-77-mac-sonucu-3921242",
-     "published": "2026-10-20T19:14:48+00:00"
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-yunus-akgun-kazanarak-cikisa-gecmek-istiyoruz-431634",
+     "published": "2026-10-20T20:37:10+00:00"
     },
     {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/galatasaray-sig-strasbourg-83-77-mac-sonucu-yazili-ozet-737014",
-     "published": "2026-10-20T19:44:02+00:00"
+     "name": "Galatasaray.org (resmi)",
+     "url": "https://www.galatasaray.org/haber/futbol/sampiyonlar-ligi/yunus-akgun-kazanip-cikis-yapmak-istiyoruz/61185",
+     "published": "2026-10-20T22:00:00+00:00"
     },
     {
-     "name": "Star",
-     "url": "https://www.star.com.tr/spor/galatasaray-mct-technic-sig-strasbourgu-maglup-etti-haber-2047959",
-     "published": "2026-10-20T20:34:00+00:00"
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/yunus-akgun-kazanip-cikis-yapmak-istiyoruz-33690388",
+     "published": "2026-10-20T22:52:00+00:00"
     }
    ],
    "n_sources": 3,
-   "first_published": "2026-10-20T19:14:48+00:00",
-   "last_published": "2026-10-20T20:34:00+00:00",
+   "first_published": "2026-10-20T20:37:10+00:00",
+   "last_published": "2026-10-20T22:52:00+00:00",
    "image": {
-    "path": "pool/diger-1.png",
+    "path": "pool/mac-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 18.85,
+   "score": 14.84,
    "importance": null,
    "popular": false
   },
   {
-   "id": "s0160",
+   "id": "s0075",
    "rank": 14,
    "key": "fbab7fbd0a003d4a",
    "title": "Yunus Akgün: Çok önemli bir maç bizi bekliyor",
@@ -1105,81 +1037,13 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 18.58,
+   "score": 13.77,
    "importance": null,
    "popular": false
   },
   {
-   "id": "s0144",
+   "id": "s0006",
    "rank": 15,
-   "key": "035d1607a00962cf",
-   "title": "Yunus Akgün: Kazanıp çıkış yapmak istiyoruz",
-   "summarized": false,
-   "intro": null,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Galatasaray Futbol A Takımı Teknik Direktörü Okan Buruk, UEFA Şampiyonlar Ligi’nde oynayacağımız Lille maçı öncesi düzenlenen basın toplantısında medya mensuplarının sorularını yanıtladı.",
-   "category": "diger",
-   "category_name": "Diğer",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "sampiyonlar-ligi",
-     "name": "Şampiyonlar Ligi"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Galatasaray.org (resmi)",
-     "url": "https://www.galatasaray.org/haber/futbol/sampiyonlar-ligi/teknik-direktorumuz-okan-buruk-kritik-bir-maca-cikiyoruz/61184",
-     "published": "2026-10-20T18:56:00+00:00"
-    },
-    {
-     "name": "Galatasaray.org (resmi)",
-     "url": "https://www.galatasaray.org/haber/futbol/sampiyonlar-ligi/yunus-akgun-kazanip-cikis-yapmak-istiyoruz/61185",
-     "published": "2026-10-20T19:00:00+00:00"
-    },
-    {
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/20/yunus-akgun-kazanip-cikis-yapmak-istiyoruz",
-     "published": "2026-10-20T19:47:51+00:00"
-    },
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/yunus-akgun-kazanip-cikis-yapmak-istiyoruz-33690388",
-     "published": "2026-10-20T19:52:00+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-yunus-akgun-kazanarak-cikisa-gecmek-istiyoruz-431634",
-     "published": "2026-10-20T20:37:10+00:00"
-    }
-   ],
-   "n_sources": 4,
-   "first_published": "2026-10-20T18:56:00+00:00",
-   "last_published": "2026-10-20T20:37:10+00:00",
-   "image": {
-    "path": "pool/mac-1.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 17.52,
-   "importance": null,
-   "popular": false
-  },
-  {
-   "id": "s0111",
-   "rank": 16,
    "key": "25071631dc23c25b",
    "title": "Fenerbahçe Slavia Prag izle link TRT 1, FB Slavia Prag izle",
    "summarized": false,
@@ -1213,11 +1077,6 @@
      "published": "2026-10-20T15:12:09+00:00"
     },
     {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/fenerbahce/fenerbahce-slavia-prag-11-ler-SXHBQ1179904SXQ",
-     "published": "2026-10-20T15:21:00+00:00"
-    },
-    {
      "name": "Ajansspor",
      "url": "https://ajansspor.com/haber/fenerbahce-slavia-prag-maci-canli-izle-linki-736997",
      "published": "2026-10-20T15:31:40+00:00"
@@ -1246,6 +1105,11 @@
      "name": "Sporx",
      "url": "https://www.sporx.com/gundem/fenerbahce-slavia-prag-izle-link-trt-1-fb-slavia-prag-izle-SSXHBQ1179985SXQ",
      "published": "2026-10-20T15:43:00+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/gundem/fenerbahce-slavia-prag-maci-trt-1-izle-linki-SSXHBQ1179974SXQ",
+     "published": "2026-10-20T15:44:00+00:00"
     }
    ],
    "n_sources": 4,
@@ -1256,15 +1120,204 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 17.34,
+   "score": 13.56,
    "importance": null,
-   "popular": true
+   "popular": false
   },
   {
-   "id": "s0109",
+   "id": "s0059",
+   "rank": 16,
+   "key": "46bfdb6f2ebd0d95",
+   "title": "Galatasaray MCT Technic siftah yaptı!",
+   "summarized": false,
+   "intro": null,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Galatasaray, FIBA Şampiyonlar Ligi'ndeki ikinci maçında evinde Fransız ekibi Strasbourg'u 83-77 yenerek ilk galibiyetini aldı.",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/galatasaray-83-strasbourg-77-mac-sonucu-3921242",
+     "published": "2026-10-20T19:14:48+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/galatasaray-sig-strasbourg-83-77-mac-sonucu-yazili-ozet-737014",
+     "published": "2026-10-20T19:44:02+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/galatasaray-mct-technic-sig-strasbourgu-maglup-etti-haber-2047959",
+     "published": "2026-10-20T20:34:00+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/galatasaray/2026/10/20/galatasaray-mct-technic-siftah-yapti",
+     "published": "2026-10-20T20:42:11+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/10/20/galatasaray-mct-technic-ilk-galibiyetini-aldi",
+     "published": "2026-10-20T21:46:59+00:00"
+    }
+   ],
+   "n_sources": 5,
+   "first_published": "2026-10-20T19:14:48+00:00",
+   "last_published": "2026-10-20T21:46:59+00:00",
+   "image": {
+    "path": "pool/mac-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 13.3,
+   "importance": null,
+   "popular": false
+  },
+  {
+   "id": "s0018",
    "rank": 17,
-   "key": "d1a4566d2eb0ad1e",
-   "title": "Fenerbahçe-Alanyaspor maçının VAR kayıtları açıklandı!",
+   "key": "0fcdb90d3e3ddcf3",
+   "title": "Fenerbahçe'de İsmail Kartal'dan, Slavia Prag maçı öncesi Mason Greenwood açıklaması!",
+   "summarized": false,
+   "intro": null,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin 3. haftasında evinde Slavia Prag'ı ağırlayacak. Karşılaşma öncesi sarı lacivertlilerin teknik direktörü İsmail Kartal açıklamalarda bulundu. İşte o sözler... |... Devamı için tıklayınız",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "serie-a",
+     "name": "Serie A"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/fenerbahce/2026/10/20/fenerbahcede-ismail-kartaldan-slavia-prag-maci-oncesi-mason-greenwood-aciklamasi",
+     "published": "2026-10-20T15:53:59+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/fenerbahce/ismail-kartal-dan-mason-greenwood-aciklamasi-SXHBQ1179998SXQ",
+     "published": "2026-10-20T15:56:27+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/ismail-kartaldan-slavia-prag-macinda-3-degisiklik-737004",
+     "published": "2026-10-20T17:13:43+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/ismail-kartaldan-3-degisiklik-33687286",
+     "published": "2026-10-20T20:01:00+00:00"
+    }
+   ],
+   "n_sources": 4,
+   "first_published": "2026-10-20T15:53:59+00:00",
+   "last_published": "2026-10-20T20:01:00+00:00",
+   "image": {
+    "path": "pool/diger-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 12.1,
+   "importance": null,
+   "popular": false
+  },
+  {
+   "id": "s0003",
+   "rank": 18,
+   "key": "c70f0412d011e5c6",
+   "title": "Selçuk İnan'dan Alanyaspor maçı yorumu",
+   "summarized": false,
+   "intro": null,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Alanyaspor maçı hazırlıklarına devam eden Kocaelispor'da teknik direktör Selçuk İnan, sakatlıkları bulunan futbolcuların son durumunu açıkladı.",
+   "category": "sakatlik",
+   "category_name": "Sakatlık",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "alanyaspor",
+     "name": "Alanyaspor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-selcuk-inandan-sakatlik-raporu-3-isimde-son-durum-431613",
+     "published": "2026-10-20T15:08:25+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/selcuk-inan-dan-sakatlik-aciklamasi-3-ismin-son-durumunu-acikladi-p371066",
+     "published": "2026-10-20T15:19:14+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/selcuk-inandan-alanyaspor-maci-yorumu-33685476",
+     "published": "2026-10-20T18:05:00+00:00"
+    }
+   ],
+   "n_sources": 3,
+   "first_published": "2026-10-20T15:08:25+00:00",
+   "last_published": "2026-10-20T18:05:00+00:00",
+   "image": {
+    "path": "pool/diger-1.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 11.85,
+   "importance": null,
+   "popular": false
+  },
+  {
+   "id": "s0005",
+   "rank": 19,
+   "key": "3cb18c163c68a847",
+   "title": "TFF, VAR kayıtlarını açıkladı! İşte Fenerbahçe - Alanyaspor maçında İrfan Can Kahveci'nin iptal olan golü",
    "summarized": false,
    "intro": null,
    "bullets": [],
@@ -1304,297 +1357,30 @@
      "name": "NTV Spor",
      "url": "https://www.ntvspor.net/futbol/galeri-var-kayitlari-aciklandi-fenerbahcenin-iptal-edilen-golunde-neler-konusuldu-431614",
      "published": "2026-10-20T15:19:41+00:00"
-    },
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/fenerbahce/fenerbahce-alanyaspor-macinin-var-kayitlari-aciklandi-SXHBQ1179997SXQ",
-     "published": "2026-10-20T15:23:00+00:00"
     }
    ],
-   "n_sources": 4,
+   "n_sources": 3,
    "first_published": "2026-10-20T15:09:28+00:00",
-   "last_published": "2026-10-20T15:23:00+00:00",
-   "image": {
-    "path": "pool/diger-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 17.18,
-   "importance": null,
-   "popular": false
-  },
-  {
-   "id": "s0047",
-   "rank": 18,
-   "key": "3dfaade5fa3921cf",
-   "title": "Sergen Yalçın, Milli Takım'ı resmen duyurdu! Berke Özer açıklaması",
-   "summarized": false,
-   "intro": null,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Türkiye Futbol Federasyonu, A Milli Takım Teknik Direktörlüğüne Sergen Yalçın'ın getirildiğini duyurdu. A Milli Futbol Takımı'nda teknik direktörlük görevine getirilen Sergen Yalçın da ilk görüşlerini paylaştı.",
-   "category": "diger",
-   "category_name": "Diğer",
-   "status": null,
-   "clubs": [],
-   "leagues": [
-    {
-     "slug": "milli-takim",
-     "name": "A Millî Takım"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    },
-    {
-     "slug": "turkiye-kupasi",
-     "name": "Türkiye Kupası"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/sergen-yalcin-milli-takim-teknik-direktorlugunu-resmen-acikladi-ay-yildiz-her-seyin-uzerindedir-43348461",
-     "published": "2026-10-20T10:17:00+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/millitakim/2026/10/20/sergen-yalcin-a-milli-takimi-resmen-acikladi",
-     "published": "2026-10-20T10:20:07+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/milli-takim/2026/10/20/sergen-yalcindan-milli-takim-aciklamasi",
-     "published": "2026-10-20T10:20:37+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/sergen-yalcin-milli-takim-teknik-direktoru-mu-oldu-montellanin-ardindan-a-milli-takim-teknik-direktoru-kim-oldu-aciklandi-mi-3481584",
-     "published": "2026-10-20T10:23:00+00:00"
-    },
-    {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/foto/sergen-yalcin-dan-milli-takim-aciklamasi-4-senelik-anlastik-3921103",
-     "published": "2026-10-20T10:40:03+00:00"
-    },
-    {
-     "name": "Posta",
-     "url": "https://www.posta.com.tr/galeri/sergen-yalcin-milli-takim-teknik-direktoru-mu-oldu-a-milli-takimin-yeni-teknik-direktoru-sergen-yalcin-ilk-aciklamasinda-ne-dedi-3054184",
-     "published": "2026-10-20T10:42:09+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/video/spor/futbol/son-dakika-a-milli-takimda-sergen-yalcin-donemi-3481932",
-     "published": "2026-10-20T11:30:15+00:00"
-    },
-    {
-     "name": "Yeni Şafak",
-     "url": "https://www.yenisafak.com/spor/sergen-yalcinin-a-milli-takimdaki-ekibi-belli-oldu-iste-yardimcilari-4865872",
-     "published": "2026-10-20T13:19:58+00:00"
-    }
-   ],
-   "n_sources": 11,
-   "first_published": "2026-10-20T10:17:00+00:00",
-   "last_published": "2026-10-20T14:13:32+00:00",
-   "image": {
-    "path": "pool/mac-1.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 15.54,
-   "importance": null,
-   "popular": true
-  },
-  {
-   "id": "s0074",
-   "rank": 19,
-   "key": "14d202b1bc1678ee",
-   "title": "Fenerbahçe U19, Slavia Prag'a mağlup oldu",
-   "summarized": false,
-   "intro": null,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "UEFA Gençlik Ligi 3. haftasında Fenerbahçe U19 konuk ettiği Slavia Prag U19'a 3-1 mağlup oldu ve 3. yenilgisini aldı.",
-   "category": "mac",
-   "category_name": "Maç",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Yeni Şafak",
-     "url": "https://www.yenisafak.com/spor/fenerbahce-u19-slavia-prag-u19-macinda-4-gol-4865859",
-     "published": "2026-10-20T12:49:49+00:00"
-    },
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/fenerbahce-u19-slavia-prag-u19-a-maglup-SXHBQ1179970SXQ",
-     "published": "2026-10-20T12:56:04+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/fenerbahce/2026/10/20/fenerbahce-u19-slavia-praga-maglup-oldu",
-     "published": "2026-10-20T13:44:39+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/20/fenerbahce-u19-sahasinda-maglup",
-     "published": "2026-10-20T14:07:50+00:00"
-    }
-   ],
-   "n_sources": 4,
-   "first_published": "2026-10-20T12:49:49+00:00",
-   "last_published": "2026-10-20T14:07:50+00:00",
+   "last_published": "2026-10-20T15:19:41+00:00",
    "image": {
     "path": "pool/diger-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 15.45,
+   "score": 10.07,
    "importance": null,
    "popular": false
   },
   {
-   "id": "s0077",
+   "id": "s0014",
    "rank": 20,
-   "key": "cbe2cba76fd31aa6",
-   "title": "Fenerbahçe'de 14 yıl sonra bir ilk!",
+   "key": "913df11c4864b896",
+   "title": "Borussia Dortmund, Sabah engelini aştı",
    "summarized": false,
    "intro": null,
    "bullets": [],
    "why": null,
-   "raw_summary": "Fenerbahçe üstünlüğünü koruyamadı! Prag karşısında hayal kırıklığı",
-   "category": "diger",
-   "category_name": "Diğer",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "sampiyonlar-ligi",
-     "name": "Şampiyonlar Ligi"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/fenerbahce-ustunlugunu-koruyamadi-prag-karsisinda-hayal-kirikligi-p371028",
-     "published": "2026-10-20T12:57:29+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/live-fenerbahce-2-2-slavia-prag-mac-ozeti-temsilcimiz-ustunlugunu-koruyamadi-3481929",
-     "published": "2026-10-20T18:37:24+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-fenerbahce-ustunlugunu-koruyamadi-90da-beraberlige-razi-oldu-431610",
-     "published": "2026-10-20T18:49:56+00:00"
-    },
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/fenerbahce/fenerbahce-de-14-yil-sonra-bir-ilk-SXHBQ1180004SXQ",
-     "published": "2026-10-20T18:54:44+00:00"
-    }
-   ],
-   "n_sources": 4,
-   "first_published": "2026-10-20T12:57:29+00:00",
-   "last_published": "2026-10-20T18:54:44+00:00",
-   "image": {
-    "path": "pool/mac-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 15.36,
-   "importance": null,
-   "popular": false
-  },
-  {
-   "id": "s0128",
-   "rank": 21,
-   "key": "3b13c7825bd9146a",
-   "title": "Fenerbahçe, Slavia Prag karşısında 90'da yıkıldı",
-   "summarized": false,
-   "intro": null,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında Fenerbahçe sahasında Slavia Prag'ı konuk ediyor. Sarı-lacivertliler maçın başında Oğuz'un füzesiyle öne geçti. Ardından 11. dakikada Mason Greenwood... Devamı için tıklayınız",
-   "category": "mac",
-   "category_name": "Maç",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "sampiyonlar-ligi",
-     "name": "Şampiyonlar Ligi"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/fenerbahce/2026/10/20/fenerbahce-oguz-aydin-ile-one-gecti-izleyin",
-     "published": "2026-10-20T17:07:48+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/20/fenerbahce-slavia-prag-karsisinda-one-gecti-iste-o-goller",
-     "published": "2026-10-20T17:11:23+00:00"
-    },
-    {
-     "name": "Posta",
-     "url": "https://www.posta.com.tr/spor/fenerbahce-slavia-prag-karsisinda-90da-yikildi-3054378",
-     "published": "2026-10-20T18:46:37+00:00"
-    }
-   ],
-   "n_sources": 3,
-   "first_published": "2026-10-20T17:07:48+00:00",
-   "last_published": "2026-10-20T18:46:37+00:00",
-   "image": {
-    "path": "pool/mac-1.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 11.62,
-   "importance": null,
-   "popular": false
-  },
-  {
-   "id": "s0012",
-   "rank": 22,
-   "key": "7a45c762bfe97958",
-   "title": "Borussia Dortmund, Sabah'ı 2 golle geçti!",
-   "summarized": false,
-   "intro": null,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Sabah Masazır - Borussia Dortmund maçı ne zaman, saat kaçta ve hangi kanalda? UEFA Şampiyonlar Ligi'nin üçüncü haftasında Azerbaycan temsilcisi Sabah Masazır ile Alman devi Borussia Dortmund karşı karşıya... Devamı için tıklayınız",
+   "raw_summary": "UEFA Şampiyonlar Ligi'nde Azerbaycan temsilcisi Sabah FK, Alman ekip Borussia Dortmund ile karşılaşıyor. Sabah FK - Borussia Dortmund maçı ne zaman, saat kaçta ve hangi kanalda? Sabah FK - Borussia Dortmund maçı ilk 11'leri. Sabah FK - Borussia Dortmund maçı canlı izle linki.",
    "category": "diger",
    "category_name": "Diğer",
    "status": null,
@@ -1616,11 +1402,6 @@
    ],
    "sources": [
     {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/sampiyonlarligi/2026/10/20/sabah-masazir-borussia-dortmund-maci-saat-kacta-hangi-kanalda",
-     "published": "2026-10-20T07:28:29+00:00"
-    },
-    {
      "name": "Ajansspor",
      "url": "https://ajansspor.com/haber/sabah-fk-borussia-dortmund-maci-canli-izle-linki-736998",
      "published": "2026-10-20T15:42:26+00:00"
@@ -1631,43 +1412,38 @@
      "published": "2026-10-20T18:25:30+00:00"
     },
     {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/borussia-dortmund-sabah-engelini-asti-33688745",
-     "published": "2026-10-20T18:41:00+00:00"
-    },
-    {
      "name": "Sporx",
      "url": "https://www.sporx.com/futbol/sligi/azerbaycan-da-sabah-i-guirassy-uzdu-SXHBQ1180003SXQ",
      "published": "2026-10-20T18:49:54+00:00"
     },
     {
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/20/borussia-dortmund-sabahi-2-golle-gecti",
-     "published": "2026-10-20T19:42:24+00:00"
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/borussia-dortmund-sabah-engelini-asti-33688745",
+     "published": "2026-10-20T21:41:00+00:00"
     }
    ],
-   "n_sources": 5,
-   "first_published": "2026-10-20T07:28:29+00:00",
-   "last_published": "2026-10-20T19:42:24+00:00",
+   "n_sources": 3,
+   "first_published": "2026-10-20T15:42:26+00:00",
+   "last_published": "2026-10-20T21:41:00+00:00",
    "image": {
     "path": "pool/diger-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 10.47,
+   "score": 9.7,
    "importance": null,
    "popular": false
   },
   {
-   "id": "s0084",
-   "rank": 23,
-   "key": "f7d7fa316bc5f127",
-   "title": "Galatasaray-Fenerbahçe derbisinin tarihi değişmedi!",
+   "id": "s0148",
+   "rank": 21,
+   "key": "932f6dc0cfeea8ef",
+   "title": "Fenerbahçe - Slavia Prag maçının oyuncusu Guendouzi!",
    "summarized": false,
    "intro": null,
    "bullets": [],
    "why": null,
-   "raw_summary": "Süper Lig'in 9. haftasındaki Galatasaray - Fenerbahçe derbisi 26 Ekim'de oynanacak. Galatasaray",
+   "raw_summary": "Matteo Guendouzi, UEFA Şampiyonlar Ligi'nde Fenerbahçe'nin Slavia Prag ile 2-2 berabere kaldığı maçın oyuncusu seçildi.",
    "category": "diger",
    "category_name": "Diğer",
    "status": null,
@@ -1675,69 +1451,6 @@
     {
      "slug": "fenerbahce",
      "name": "Fenerbahçe"
-    },
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/galatasaray/galatasaray-fenerbahce-derbisinin-tarihi-degismedi-SXHBQ1179989SXQ",
-     "published": "2026-10-20T13:49:00+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/20/galatasaray-fenerbahce-derbisinin-tarihi-degismedi",
-     "published": "2026-10-20T14:04:17+00:00"
-    },
-    {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/son-dakika-galatasaray-fenerbahce-derbisinin-tarihi-degismedi-3921173",
-     "published": "2026-10-20T14:05:12+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/galatasaray/2026/10/20/galatasaray-fenerbahce-derbisi-ne-zaman-saat-kacta-oynanacak-tarih-degisti-mi",
-     "published": "2026-10-20T14:06:16+00:00"
-    }
-   ],
-   "n_sources": 4,
-   "first_published": "2026-10-20T13:49:00+00:00",
-   "last_published": "2026-10-20T14:06:16+00:00",
-   "image": {
-    "path": "pool/mac-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 9.82,
-   "importance": null,
-   "popular": false
-  },
-  {
-   "id": "s0020",
-   "rank": 24,
-   "key": "7818d16ecb285d8b",
-   "title": "G.Saray, Devler Ligi'nde ilk galibiyet peşinde!",
-   "summarized": false,
-   "intro": null,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "UEFA Şampiyonlar Ligi 3. hafta karşılaşmasında Lille sahasında Galatasaray ile kozlarını paylaşacak. İlk 2 maçından mağlubiyetle ayrılan sarı-kırmızılılar, puanla tanışamayan Fransız ekibini yenerek ilk galibiyetini almayı hedefliyor...",
-   "category": "mac",
-   "category_name": "Maç",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
     }
    ],
    "leagues": [
@@ -1752,106 +1465,57 @@
    ],
    "sources": [
     {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/foto/lille-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-canli-yayinlanacak-3921037",
-     "published": "2026-10-20T07:58:19+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/lille-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-lille-galatasaray-maci-icin-geri-sayim-basladi-3481385",
-     "published": "2026-10-20T16:49:06+00:00"
-    }
-   ],
-   "n_sources": 2,
-   "first_published": "2026-10-20T07:58:19+00:00",
-   "last_published": "2026-10-20T16:49:06+00:00",
-   "image": {
-    "path": "pool/diger-1.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 9.67,
-   "importance": null,
-   "popular": false
-  },
-  {
-   "id": "s0110",
-   "rank": 25,
-   "key": "ccd6d3a25b33ed4d",
-   "title": "Maglica: Hocamızın oyun planlarına inanıyoruz",
-   "summarized": false,
-   "intro": null,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Kocaelispor'un savunma oyuncusu Matej Maglica, Corendon Alanyaspor deplasmanından galibiyetle dönmek istediklerini belirterek, \"Hocamızın planlarına inanıyoruz, oyun planına güveniyoruz. Bu doğrultuda buradan galibiyetle dönmeyi arzu ediyoruz. Elimizden geleni yapacağımızın sözünü verebilirim\" dedi.",
-   "category": "diger",
-   "category_name": "Diğer",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "alanyaspor",
-     "name": "Alanyaspor"
-    },
-    {
-     "slug": "kocaelispor",
-     "name": "Kocaelispor"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/maglica-hocamizin-oyun-planlarina-inaniyoruz-33685477",
-     "published": "2026-10-20T15:11:00+00:00"
-    },
-    {
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/20/matej-maglica-hocamizin-oyun-planina-guveniyoruz",
-     "published": "2026-10-20T15:13:10+00:00"
-    },
-    {
      "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/matej-maglica-takim-icin-elimden-geleni-yapacagim-736996",
-     "published": "2026-10-20T15:21:19+00:00"
+     "url": "https://ajansspor.com/haber/fenerbahce-slavia-prag-macinin-oyuncusu-guendouzi-737022",
+     "published": "2026-10-20T22:04:26+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/fenerbahce/uefa-dan-guendouzi-surprizi-SXHBQ1180023SXQ",
+     "published": "2026-10-20T22:08:30+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/fenerbahce-slavia-prag-macinin-oyuncusu-guendouzi-secildi-haber-2047974",
+     "published": "2026-10-20T22:45:00+00:00"
     }
    ],
    "n_sources": 3,
-   "first_published": "2026-10-20T15:11:00+00:00",
-   "last_published": "2026-10-20T15:21:19+00:00",
+   "first_published": "2026-10-20T22:04:26+00:00",
+   "last_published": "2026-10-20T22:45:00+00:00",
    "image": {
     "path": "pool/diger-2.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 9.6,
+   "score": 9.41,
    "importance": null,
    "popular": false
   },
   {
-   "id": "s0025",
-   "rank": 26,
-   "key": "25be5bddeb4a6a77",
-   "title": "\"Beşiktaş taraftarlarının desteği eşsizdir\"",
+   "id": "s0028",
+   "rank": 22,
+   "key": "e080ae5cc85d6f95",
+   "title": "Greenwood, 1 ay sonra Fenerbahçe - Slavia Prag maçında gol attı",
    "summarized": false,
    "intro": null,
    "bullets": [],
    "why": null,
-   "raw_summary": "Beşiktaş’ın eski futbolcusu Les Ferdinand, siyah-beyazlı taraftarların takıma verdiği desteği ‘eşsiz’ olarak nitelendirdi. Ferdinand, \"Beşiktaş Stadyumu gibi stadyumlara gittiğinizde, ortamın baskılı olacağını bilirsiniz. Taraftarların takıma verdiği destek inanılmaz. Beşiktaş taraftarları için her ",
+   "raw_summary": "Son dakika haberleri | Fenerbahçe'nin yıldızı Mason Greenwood, UEFA Şampiyonlar Ligi'nde oynanan Lille maçında gol sevinci yaşadı. İngiliz futbolcu, 1 ay sonra gol attı.",
    "category": "diger",
    "category_name": "Diğer",
    "status": null,
    "clubs": [
     {
-     "slug": "besiktas",
-     "name": "Beşiktaş"
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
     }
    ],
    "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
     {
      "slug": "super-lig",
      "name": "Süper Lig"
@@ -1859,60 +1523,47 @@
    ],
    "sources": [
     {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/les-ferdinand-besiktas-taraftarlarinin-destegi-essizdir-3921048",
-     "published": "2026-10-20T08:12:48+00:00"
-    },
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/les-ferdinanddan-besiktas-taraftarina-ovgu-33681054",
-     "published": "2026-10-20T08:26:00+00:00"
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/greenwood-1-ay-sonra-fenerbahce-slavia-prag-macinda-gol-atti-737002",
+     "published": "2026-10-20T17:09:49+00:00"
     },
     {
      "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/les-ferdinanddan-vlahovic-ve-salah-ovgusu-43348261",
-     "published": "2026-10-20T08:36:38+00:00"
+     "url": "https://www.hurriyet.com.tr/sporarena/mason-greenwood-7-golune-ulasti-43349051",
+     "published": "2026-10-20T19:11:46+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/greenwood-7-gole-ulasti-33689833",
+     "published": "2026-10-20T22:38:00+00:00"
     }
    ],
    "n_sources": 3,
-   "first_published": "2026-10-20T08:12:48+00:00",
-   "last_published": "2026-10-20T08:36:38+00:00",
+   "first_published": "2026-10-20T17:09:49+00:00",
+   "last_published": "2026-10-20T22:38:00+00:00",
    "image": {
-    "path": "pool/mac-1.png",
+    "path": "pool/diger-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 8.04,
+   "score": 9.37,
    "importance": null,
    "popular": false
   },
   {
-   "id": "s0024",
-   "rank": 27,
-   "key": "243cc6de9f9ac2eb",
-   "title": "Trabzonspor'da kaleci Onana ligin ilk 8 haftasında güven veriyor",
-   "summarized": true,
-   "intro": "Trendyol Süper Lig'in ilk 8 haftasında 5 golle en az gol yiyen takım konumundaki Trabzonspor'da Kamerunlu kaleci Andre Onana, performansıyla öne çıkıyor. Anadolu Ajansı'nın 20 Ekim 2026 tarihli haberine göre Onana, Beşiktaş'ı 2-0 yendikleri maçta yaptığı kurtarışlarla takımının galibiyetinde önemli rol oynadı. Bordo-mavililer, 8. hafta itibarıyla 2012-2013 sezonundan bu yana en az gol yediği dönemi yaşıyor.",
-   "bullets": [
-    "Onana, ligin ilk 8 haftasında Gençlerbirliği, Galatasaray, Samsunspor ve Beşiktaş maçlarında kalesini gole kapattı.",
-    "Kasımpaşa, TÜMOSAN Konyaspor ve Başakşehir maçlarının her birinde bir gol yedi.",
-    "Onana'nın en fazla gol yediği maç Amed Sportif Faaliyetler karşılaşması oldu; bu maçta 2 gole engel olamadı.",
-    "Kaleci, ligde son 3 karşılaşmada kalesinde gol görmedi.",
-    "Trabzonspor en son 2012-2013 sezonunda ilk 8 haftada 4 gol yemişti; 2013-2014'te bu sayı 6 oldu.",
-    "Takımın aynı dönemdeki gol yeme sayıları sonraki yıllarda 6 ile 21 arasında değişti; 2017-2018'de 21 ile en yüksek rakama ulaştı.",
-    "Son iki sezonda (2024-2025 ve 2025-2026) Trabzonspor ilk 8 haftada 6'şar gol yemişti; bu sezon 5 golde kaldı."
-   ],
-   "why": "Savunma ve kalecideki istikrar, Trabzonspor'un sezon başındaki sonuçlarının temel dayanaklarından biri olarak öne çıkıyor. Takımın son 13 yılın en az gol yiyen başlangıcına yakın bir tablo çizmesi, taraftar için savunma güvenliği açısından olumlu bir işaret.",
-   "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
-   "status": "resmi",
-   "clubs": [
-    {
-     "slug": "trabzonspor",
-     "name": "Trabzonspor"
-    }
-   ],
+   "id": "s0104",
+   "rank": 23,
+   "key": "8505c515d9a66028",
+   "title": "Süper Lig'den 10 kulüp PFDK'ya sevk edildi!",
+   "summarized": false,
+   "intro": null,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Süper Lig'den 10 kulübü Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
+   "category": "yonetim",
+   "category_name": "Yönetim",
+   "status": null,
+   "clubs": [],
    "leagues": [
     {
      "slug": "super-lig",
@@ -1922,97 +1573,52 @@
    "sources": [
     {
      "name": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/spor/trabzonsporda-andre-onana-kalesinde-guven-veriyor/4094244",
-     "published": "2026-10-20T08:08:40+00:00"
-    },
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/andre-onana-kalesinde-guven-veriyor-33681052",
-     "published": "2026-10-20T08:18:00+00:00"
-    }
-   ],
-   "n_sources": 2,
-   "first_published": "2026-10-20T08:08:40+00:00",
-   "last_published": "2026-10-20T08:18:00+00:00",
-   "image": {
-    "url": "https://cdn-i.pr.trt.com.tr/trtspor/-21758712-0-27-3116-1755.jpeg",
-    "kind": "source",
-    "label": "Fotoğraf: TRT Spor",
-    "credit": "TRT Spor",
-    "source_url": "https://www.trtspor.com.tr/haber/futbol/andre-onana-kalesinde-guven-veriyor-33681052"
-   },
-   "score": 7.64,
-   "importance": null,
-   "popular": false
-  },
-  {
-   "id": "s0141",
-   "rank": 28,
-   "key": "58587c6412af4c24",
-   "title": "Kadıköy'de Kerem Aktürkoğlu'na ıslıklı protesto!",
-   "summarized": false,
-   "intro": null,
-   "bullets": [],
-   "why": null,
-   "raw_summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nde Slavia Prag karşısında son dakikada yediği golle 2-2 berabere kaldı. Karşılaşmanın 82. dakikasında sarı-lacivertlilerde Kerem Aktürkoğlu oyundan çıkarken... Devamı için tıklayınız",
-   "category": "diger",
-   "category_name": "Diğer",
-   "status": null,
-   "clubs": [
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "sampiyonlar-ligi",
-     "name": "Şampiyonlar Ligi"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/fenerbahce/2026/10/20/kadikoyde-kerem-akturkogluna-buyuk-tepki",
-     "published": "2026-10-20T18:46:39+00:00"
+     "url": "https://www.aa.com.tr/tr/spor/super-ligden-10-kulup-pfdkye-sevk-edildi/4095118",
+     "published": "2026-10-20T20:25:13+00:00"
     },
     {
      "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-kerem-akturkoglu-isliklandi-tepkilere-verdigi-karsilik-ekrana-yansidi-431624",
-     "published": "2026-10-20T19:00:37+00:00"
+     "url": "https://www.ntvspor.net/futbol/super-ligden-10-kulup-pfdkya-sevk-edildi-431633",
+     "published": "2026-10-20T20:26:36+00:00"
     },
     {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/20/kadikoyde-kerem-akturkogluna-islikli-protesto",
-     "published": "2026-10-20T19:11:53+00:00"
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/20/super-ligden-10-kulup-pfdkya-sevk-edildi",
+     "published": "2026-10-20T20:30:55+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/super-lig-den-10-kulup-pfdk-ya-sevk-edildi-3921259",
+     "published": "2026-10-20T20:45:31+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/super-ligden-10-takim-pfdkye-sevk-edildi-haber-2047963",
+     "published": "2026-10-20T20:52:00+00:00"
     }
    ],
-   "n_sources": 3,
-   "first_published": "2026-10-20T18:46:39+00:00",
-   "last_published": "2026-10-20T19:11:53+00:00",
+   "n_sources": 5,
+   "first_published": "2026-10-20T20:25:13+00:00",
+   "last_published": "2026-10-20T20:52:00+00:00",
    "image": {
-    "path": "pool/diger-1.png",
+    "path": "pool/diger-2.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 7.54,
+   "score": 8.16,
    "importance": null,
    "popular": false
   },
   {
-   "id": "s0092",
-   "rank": 29,
+   "id": "s0007",
+   "rank": 24,
    "key": "8587bf96d39cac09",
    "title": "Fenerbahçe-Slavia Prag maçı CANLI İZLE | Şampiyonlar Ligi",
    "summarized": false,
    "intro": null,
    "bullets": [],
    "why": null,
-   "raw_summary": "UEFA Şampiyonlar Ligi 3. hafta mücadelesinde temsilcimiz Fenerbahçe, sahasında Çekya ekibi Slavia Prag'ı konuk ediyor. Devler Ligi'nde ilk iki hafta sonunda 1 puan toplayan Sarı-Lacivertli ekip, taraftarı önünde ilk 3 puanını alarak grupta çıkışa geçmeyi hedefliyor. Peki, Fenerbahçe Slavia Prag maçı",
+   "raw_summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında Fenerbahçe ile Slavia Prag karşı karşıya geliyor. Temsilcimiz taraftarı önünde kazanarak lig etabındaki ilk galibiyetini almak istiyor. İsmail Kartal yönetimindeki... Devamı için tıklayınız",
    "category": "diger",
    "category_name": "Diğer",
    "status": null,
@@ -2033,11 +1639,6 @@
     }
    ],
    "sources": [
-    {
-     "name": "Posta",
-     "url": "https://www.posta.com.tr/galeri/fenerbahce-slavia-prag-maci-canli-yayin-kanali-fenerbahce-slavia-prag-sampiyonlar-ligi-maci-bu-aksam-saat-kacta-hangi-kanalda-muhtemel-3054334",
-     "published": "2026-10-20T14:15:51+00:00"
-    },
     {
      "name": "Fotomaç",
      "url": "https://www.fotomac.com.tr/sampiyonlarligi/2026/10/20/fenerbahce-slavia-prag-maci-canli-izle-sampiyonlar-ligi",
@@ -2046,29 +1647,253 @@
     {
      "name": "CNN Türk",
      "url": "https://www.cnnturk.com/spor/futbol/fenerbahce-slavia-prag-maci-canli-izle-fenerbahce-slavia-prag-maci-kadrosu-fb-maci-sifreli-mi-sifresiz-mi-nereden-izlenir-3482074",
-     "published": "2026-10-20T16:37:23+00:00"
+     "published": "2026-10-20T19:37:23+00:00"
     },
     {
      "name": "CNN Türk",
      "url": "https://www.cnnturk.com/spor/futbol/fenerbahce-prag-maci-nereden-izlenir-fenerbahce-slavia-prag-maci-hangi-kanalda-saat-kacta-sifreli-mi-sifresiz-mi-3482142",
-     "published": "2026-10-20T16:38:09+00:00"
+     "published": "2026-10-20T19:38:09+00:00"
     }
    ],
-   "n_sources": 3,
-   "first_published": "2026-10-20T14:15:51+00:00",
-   "last_published": "2026-10-20T16:38:09+00:00",
+   "n_sources": 2,
+   "first_published": "2026-10-20T15:17:08+00:00",
+   "last_published": "2026-10-20T19:38:09+00:00",
    "image": {
     "path": "pool/diger-2.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 7.42,
+   "score": 5.8,
    "importance": null,
    "popular": false
   },
   {
-   "id": "s0161",
-   "rank": 30,
+   "id": "s0072",
+   "rank": 25,
+   "key": "9c9c9f81931d04af",
+   "title": "LILLE-GALATASARAY MAÇI NE ZAMAN? Lille-Galatasaray Maçı Hangi Kanalda, Saat Kaçta?",
+   "summarized": false,
+   "intro": null,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "UEFA Şampiyonlar Ligi'nde üçüncü hafta heyecanı yaşanırken, Galatasaray zorlu Fransa deplasmanında Lille ile kozlarını paylaşmaya hazırlanıyor. Devler Ligi'nde oynadığı ilk iki karşılaşmadan puan çıkaramayan sarı-kırmızılı ekip, Lille karşısında galibiyet elde ederek Avrupa'daki ilk puanlarını hanes",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/lille-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-lille-galatasaray-maci-icin-geri-sayim-basladi-3481385",
+     "published": "2026-10-20T19:49:06+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/foto/lille-galatasaray-maci-ne-zaman-saat-kacta-maci-hangi-kanalda-uefa-sampiyonlar-ligi-lille-3921219",
+     "published": "2026-10-20T21:55:59+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-10-20T19:49:06+00:00",
+   "last_published": "2026-10-20T21:55:59+00:00",
+   "image": {
+    "path": "pool/diger-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 5.58,
+   "importance": null,
+   "popular": false
+  },
+  {
+   "id": "s0116",
+   "rank": 26,
+   "key": "578c9324c7881d03",
+   "title": "Galatasaray'ın rakibi Stuttgart, Atletico Madrid'e yıkılmadı",
+   "summarized": false,
+   "intro": null,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında Stuttgart ile Atletico Madrid, 1-1 berabere kaldı.",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    },
+    {
+     "slug": "atletico",
+     "name": "Atletico Madrid"
+    },
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "la-liga",
+     "name": "La Liga"
+    },
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-fenerbahce-ve-galatasarayin-rakipleri-karsi-karsiya-geldi-almanyada-kazanan-cikmadi-431635",
+     "published": "2026-10-20T21:02:35+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/dunya/almanya/stuttgart/galatasaray-in-rakibi-stuttgart-atletico-madrid-e-yikilmadi-SXHBQ1180017SXQ",
+     "published": "2026-10-20T21:44:26+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-10-20T21:02:35+00:00",
+   "last_published": "2026-10-20T21:44:26+00:00",
+   "image": {
+    "path": "pool/mac-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 5.55,
+   "importance": null,
+   "popular": false
+  },
+  {
+   "id": "s0055",
+   "rank": 27,
+   "key": "cbe2cba76fd31aa6",
+   "title": "Fenerbahçe'de 14 yıl sonra bir ilk!",
+   "summarized": false,
+   "intro": null,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "UEFA Şampiyonlar Ligi'nde Slavia Prag ile 2-2 berabere kalan Fenerbahçe, 2-0 öne geçtiği mücadelede üstünlüğünü koruyamadı. Sarı-lacivertliler, Avrupa kupalarında 14 yıl sonra bir ilki yaşadı. Fenerbahçe",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/fenerbahce/fenerbahce-de-14-yil-sonra-bir-ilk-SXHBQ1180004SXQ",
+     "published": "2026-10-20T18:54:44+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/live-fenerbahce-2-2-slavia-prag-mac-ozeti-temsilcimiz-ustunlugunu-koruyamadi-3481929",
+     "published": "2026-10-20T21:37:24+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-10-20T18:54:44+00:00",
+   "last_published": "2026-10-20T21:37:24+00:00",
+   "image": {
+    "path": "pool/mac-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 5.53,
+   "importance": null,
+   "popular": false
+  },
+  {
+   "id": "s0061",
+   "rank": 28,
+   "key": "f34fc635581a51af",
+   "title": "Fenerbahçe 3 puanı son anda kaçırdı: UEFA ülke puanı yenilendi",
+   "summarized": false,
+   "intro": null,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "UEFA Şampiyonlar Ligi'nin 2. haftasında Fenerbahçe sahasında Slavia Prag ile karşı karşıya geldi. Temsilcimiz 2-0 öne geçtiği maçta 2-2'lik beraberelikle sahadan ayrıldı. Karşılaşmanın ardından UEFA ülke... Devamı için tıklayınız",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "sampiyonlar-ligi",
+     "name": "Şampiyonlar Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/galeri/anasayfa/uefa-ulke-puani-guncellendi-iste-turkiyenin-siralamasi-1792528135",
+     "published": "2026-10-20T19:22:43+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-fenerbahce-3-puani-son-anda-kacirdi-uefa-ulke-puani-yenilendi-431623",
+     "published": "2026-10-20T21:18:45+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-10-20T19:22:43+00:00",
+   "last_published": "2026-10-20T21:18:45+00:00",
+   "image": {
+    "path": "pool/diger-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 5.48,
+   "importance": null,
+   "popular": false
+  },
+  {
+   "id": "s0077",
+   "rank": 29,
    "key": "96329408a23047c9",
    "title": "İsmail Kartal'dan Ake'nin sakatlığı için açıklama",
    "summarized": false,
@@ -2115,7 +1940,60 @@
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 7.08,
+   "score": 5.29,
+   "importance": null,
+   "popular": true
+  },
+  {
+   "id": "s0009",
+   "rank": 30,
+   "key": "838e2d73481fa822",
+   "title": "Matej Maglica: \"Takım için elimden geleni yapacağım\"",
+   "summarized": false,
+   "intro": null,
+   "bullets": [],
+   "why": null,
+   "raw_summary": "Kocaelispor'un savunma oyuncusu Matej Maglica, Corendon Alanyaspor deplasmanından galibiyetle dönmek istediklerini belirterek, \"Hocamızın planlarına inanıyoruz, oyun planına güveniyoruz. Bu doğrultuda buradan galibiyetle dönmeyi arzu ediyoruz. Elimizden geleni yapacağımızın sözünü verebilirim\" dedi.",
+   "category": "diger",
+   "category_name": "Diğer",
+   "status": null,
+   "clubs": [
+    {
+     "slug": "alanyaspor",
+     "name": "Alanyaspor"
+    },
+    {
+     "slug": "kocaelispor",
+     "name": "Kocaelispor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/matej-maglica-takim-icin-elimden-geleni-yapacagim-736996",
+     "published": "2026-10-20T15:21:19+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/maglica-hocamizin-oyun-planlarina-inaniyoruz-33685477",
+     "published": "2026-10-20T18:11:00+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-10-20T15:21:19+00:00",
+   "last_published": "2026-10-20T18:11:00+00:00",
+   "image": {
+    "path": "pool/mac-2.png",
+    "kind": "pool",
+    "label": "Temsili arşiv görseli"
+   },
+   "score": 5.06,
    "importance": null,
    "popular": false
   }
