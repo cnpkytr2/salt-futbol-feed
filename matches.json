@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-21T21:25:29+00:00",
+ "generated_at": "2026-10-21T23:21:57+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1449,8 +1449,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "premier-lig",
@@ -2213,7 +2212,7 @@
    "tsdb_id": 4335,
    "last_round": 6,
    "next_round": 10,
-   "current_round": 6,
+   "current_round": 10,
    "standings": [
     {
      "rank": 1,
@@ -2231,7 +2230,7 @@
      "points": 27,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-21 19:46:05"
+     "updated": "2026-10-21 22:46:06"
     },
     {
      "rank": 2,
@@ -2249,7 +2248,7 @@
      "points": 22,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-21 19:46:05"
+     "updated": "2026-10-21 22:46:06"
     },
     {
      "rank": 3,
@@ -2267,7 +2266,7 @@
      "points": 21,
      "form": "WWLWW",
      "group": "Primera División",
-     "updated": "2026-10-21 19:46:05"
+     "updated": "2026-10-21 22:46:06"
     },
     {
      "rank": 4,
@@ -2285,7 +2284,7 @@
      "points": 19,
      "form": "LWDWW",
      "group": "Primera División",
-     "updated": "2026-10-21 19:46:05"
+     "updated": "2026-10-21 22:46:06"
     },
     {
      "rank": 5,
@@ -2303,7 +2302,7 @@
      "points": 16,
      "form": "WWWLW",
      "group": "Primera División",
-     "updated": "2026-10-21 19:46:05"
+     "updated": "2026-10-21 22:46:06"
     }
    ],
    "standings_limited": true,
@@ -2751,11 +2750,11 @@
         "club": null
        },
        "score": {
-        "home": 2,
-        "away": 0
+        "home": 3,
+        "away": 1
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estadio Ciudad de Valencia"
       }
      ]
@@ -2956,8 +2955,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "serie-a",
@@ -3710,7 +3708,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "bundesliga",
@@ -4400,8 +4399,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "ligue-1",
@@ -6619,8 +6617,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "konferans-ligi",
@@ -6637,10 +6634,7 @@
   }
  ],
  "errors": [
-  "tff-1-lig: HTTP 429 (eventsround.php)",
-  "la-liga: HTTP 429 (eventsround.php)",
-  "bundesliga: HTTP 429 (eventsround.php)",
-  "avrupa-ligi: HTTP 429 (eventsnextleague.php)"
+  "serie-a: HTTP 429 (eventsround.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
