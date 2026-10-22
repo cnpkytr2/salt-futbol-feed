@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-21T23:21:57+00:00",
+ "generated_at": "2026-10-22T09:25:00+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1449,7 +1449,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "premier-lig",
@@ -1477,7 +1478,7 @@
      "points": 21,
      "form": "WWWWW",
      "group": "Premier League",
-     "updated": "2026-10-21 05:46:01"
+     "updated": "2026-10-22 09:46:01"
     },
     {
      "rank": 2,
@@ -1495,7 +1496,7 @@
      "points": 18,
      "form": "WWLWW",
      "group": "Premier League",
-     "updated": "2026-10-21 05:46:01"
+     "updated": "2026-10-22 09:46:01"
     },
     {
      "rank": 3,
@@ -1513,7 +1514,7 @@
      "points": 16,
      "form": "WWWWD",
      "group": "Premier League",
-     "updated": "2026-10-21 05:46:01"
+     "updated": "2026-10-22 09:46:01"
     },
     {
      "rank": 4,
@@ -1531,7 +1532,7 @@
      "points": 13,
      "form": "WWLDL",
      "group": "Premier League",
-     "updated": "2026-10-21 05:46:01"
+     "updated": "2026-10-22 09:46:01"
     },
     {
      "rank": 5,
@@ -1549,7 +1550,7 @@
      "points": 12,
      "form": "WLWDW",
      "group": "Premier League",
-     "updated": "2026-10-21 05:46:01"
+     "updated": "2026-10-22 09:46:01"
     }
    ],
    "standings_limited": true,
@@ -2230,7 +2231,7 @@
      "points": 27,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-21 22:46:06"
+     "updated": "2026-10-22 09:46:02"
     },
     {
      "rank": 2,
@@ -2248,7 +2249,7 @@
      "points": 22,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-21 22:46:06"
+     "updated": "2026-10-22 09:46:02"
     },
     {
      "rank": 3,
@@ -2266,7 +2267,7 @@
      "points": 21,
      "form": "WWLWW",
      "group": "Primera División",
-     "updated": "2026-10-21 22:46:06"
+     "updated": "2026-10-22 09:46:02"
     },
     {
      "rank": 4,
@@ -2284,7 +2285,7 @@
      "points": 19,
      "form": "LWDWW",
      "group": "Primera División",
-     "updated": "2026-10-21 22:46:06"
+     "updated": "2026-10-22 09:46:02"
     },
     {
      "rank": 5,
@@ -2302,7 +2303,7 @@
      "points": 16,
      "form": "WWWLW",
      "group": "Primera División",
-     "updated": "2026-10-21 22:46:06"
+     "updated": "2026-10-22 09:46:02"
     }
    ],
    "standings_limited": true,
@@ -5089,7 +5090,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "sampiyonlar-ligi",
@@ -6630,11 +6632,15 @@
    "current_round": 2,
    "standings": [],
    "standings_limited": true,
-   "rounds": []
+   "rounds": [],
+   "stale": true
   }
  ],
  "errors": [
-  "serie-a: HTTP 429 (eventsround.php)"
+  "tff-1-lig: HTTP 429 (eventsround.php)",
+  "serie-a: HTTP 429 (eventspastleague.php)",
+  "ligue-1: HTTP 429 (eventsround.php)",
+  "konferans-ligi: HTTP 429 (eventspastleague.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
