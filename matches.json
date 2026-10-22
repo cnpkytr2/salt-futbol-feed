@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-22T21:24:19+00:00",
+ "generated_at": "2026-10-22T23:25:27+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1449,7 +1449,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "premier-lig",
@@ -2202,8 +2203,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "la-liga",
@@ -2956,7 +2956,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "serie-a",
@@ -3709,8 +3710,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "bundesliga",
@@ -4400,7 +4400,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "ligue-1",
@@ -5090,8 +5091,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "sampiyonlar-ligi",
@@ -6619,7 +6619,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "konferans-ligi",
@@ -6632,15 +6633,14 @@
    "current_round": 3,
    "standings": [],
    "standings_limited": true,
-   "rounds": [],
-   "stale": true
+   "rounds": []
   }
  ],
  "errors": [
-  "premier-lig: HTTP 429 (eventspastleague.php)",
-  "serie-a: HTTP 429 (eventsround.php)",
-  "ligue-1: HTTP 429 (eventsround.php)",
-  "konferans-ligi: HTTP 429 (eventsnextleague.php)"
+  "tff-1-lig: HTTP 429 (eventsround.php)",
+  "la-liga: HTTP 429 (eventsround.php)",
+  "bundesliga: HTTP 429 (eventsround.php)",
+  "avrupa-ligi: HTTP 429 (eventsnextleague.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
