@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-22T10:44:00+00:00",
+ "generated_at": "2026-10-22T13:43:31+00:00",
  "edition": "2026-10-22-guncel",
  "items": [
   {
-   "key": "305b91d83ae9b0cf",
-   "story_id": "s0015",
-   "title": "Gaziantep FK olağanüstü seçimli genel kurul için tarih belirledi",
+   "key": "cc5b8cab7fccfe93",
+   "story_id": "s0039",
+   "title": "Gaziantep FK olağanüstü seçimli genel kurul kararı aldı",
    "category": "yonetim",
-   "prompt": "An empty press conference table with a row of microphones under a single spotlight in a dark room, a plain fabric backdrop in red and black colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "A quiet boardroom at night with leather chairs around a polished table, a classic black-and-white football with plain unmarked panels resting on the table, city lights outside the window. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 644610272,
+   "seed": 19698093,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,24 +18,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/305b91d83ae9b0cf.png"
-  },
-  {
-   "key": "bb92a91f7972afd9",
-   "story_id": "s0018",
-   "title": "Beşiktaş, Crystal Palace maçına Orkun Kökçü'süz çıkıyor; Poku'nun ilk 11'de olması bekleniyor",
-   "category": "mac",
-   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in black and white colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 724571943,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/bb92a91f7972afd9.png"
+   "out": "s/cc5b8cab7fccfe93.png"
   }
  ]
 }
