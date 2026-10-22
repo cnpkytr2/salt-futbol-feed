@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-22T09:25:00+00:00",
+ "generated_at": "2026-10-22T11:25:30+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -34,7 +34,7 @@
      "points": 19,
      "form": "WWLWW",
      "group": "Süper Lig",
-     "updated": "2026-10-21 05:17:13"
+     "updated": "2026-10-22 10:20:02"
     },
     {
      "rank": 2,
@@ -52,7 +52,7 @@
      "points": 17,
      "form": "WDWWD",
      "group": "Süper Lig",
-     "updated": "2026-10-21 05:17:13"
+     "updated": "2026-10-22 10:20:02"
     },
     {
      "rank": 3,
@@ -70,7 +70,7 @@
      "points": 16,
      "form": "WWWDL",
      "group": "Süper Lig",
-     "updated": "2026-10-21 05:17:13"
+     "updated": "2026-10-22 10:20:02"
     },
     {
      "rank": 4,
@@ -88,7 +88,7 @@
      "points": 16,
      "form": "WWWLW",
      "group": "Süper Lig",
-     "updated": "2026-10-21 05:17:13"
+     "updated": "2026-10-22 10:20:02"
     },
     {
      "rank": 5,
@@ -106,7 +106,7 @@
      "points": 15,
      "form": "LWLWW",
      "group": "Süper Lig",
-     "updated": "2026-10-21 05:17:13"
+     "updated": "2026-10-22 10:20:02"
     }
    ],
    "standings_limited": true,
@@ -707,98 +707,7 @@
    "last_round": 11,
    "next_round": 12,
    "current_round": 12,
-   "standings": [
-    {
-     "rank": 1,
-     "team": {
-      "name": "Kayserispor",
-      "club": null
-     },
-     "played": 11,
-     "win": 8,
-     "draw": 2,
-     "loss": 1,
-     "gf": 24,
-     "ga": 7,
-     "gd": 17,
-     "points": 26,
-     "form": "DWWWW",
-     "group": "Lig A",
-     "updated": "2026-10-21 05:18:00"
-    },
-    {
-     "rank": 2,
-     "team": {
-      "name": "Bursaspor",
-      "club": null
-     },
-     "played": 11,
-     "win": 8,
-     "draw": 1,
-     "loss": 2,
-     "gf": 22,
-     "ga": 9,
-     "gd": 13,
-     "points": 25,
-     "form": "WWLWD",
-     "group": "Lig A",
-     "updated": "2026-10-21 05:18:00"
-    },
-    {
-     "rank": 3,
-     "team": {
-      "name": "Iğdır",
-      "club": null
-     },
-     "played": 11,
-     "win": 7,
-     "draw": 2,
-     "loss": 2,
-     "gf": 15,
-     "ga": 8,
-     "gd": 7,
-     "points": 23,
-     "form": "WDWDW",
-     "group": "Lig A",
-     "updated": "2026-10-21 05:18:00"
-    },
-    {
-     "rank": 4,
-     "team": {
-      "name": "Ankara Keçiörengücü",
-      "club": null
-     },
-     "played": 11,
-     "win": 5,
-     "draw": 5,
-     "loss": 1,
-     "gf": 21,
-     "ga": 11,
-     "gd": 10,
-     "points": 20,
-     "form": "WDWDD",
-     "group": "Lig A",
-     "updated": "2026-10-21 05:18:00"
-    },
-    {
-     "rank": 5,
-     "team": {
-      "name": "Batman Petrolspor",
-      "club": null
-     },
-     "played": 11,
-     "win": 6,
-     "draw": 2,
-     "loss": 3,
-     "gf": 22,
-     "ga": 19,
-     "gd": 3,
-     "points": 20,
-     "form": "DWLLL",
-     "group": "Lig A",
-     "updated": "2026-10-21 05:18:00"
-    }
-   ],
+   "standings": [],
    "standings_limited": true,
    "rounds": [
     {
@@ -1449,8 +1358,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "premier-lig",
@@ -2956,7 +2864,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "serie-a",
@@ -3709,8 +3618,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "bundesliga",
@@ -4400,7 +4308,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "ligue-1",
@@ -5090,8 +4999,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "sampiyonlar-ligi",
@@ -6619,7 +6527,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "konferans-ligi",
@@ -6632,15 +6541,13 @@
    "current_round": 2,
    "standings": [],
    "standings_limited": true,
-   "rounds": [],
-   "stale": true
+   "rounds": []
   }
  ],
  "errors": [
-  "tff-1-lig: HTTP 429 (eventsround.php)",
-  "serie-a: HTTP 429 (eventspastleague.php)",
-  "ligue-1: HTTP 429 (eventsround.php)",
-  "konferans-ligi: HTTP 429 (eventspastleague.php)"
+  "la-liga: HTTP 429 (eventsround.php)",
+  "bundesliga: HTTP 429 (eventsround.php)",
+  "avrupa-ligi: HTTP 429 (eventspastleague.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
