@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-21T20:44:21+00:00",
- "edition": "2026-10-21-guncel",
+ "generated_at": "2026-10-22T04:44:02+00:00",
+ "edition": "2026-10-22-sabah",
  "items": [
   {
-   "key": "92f615fc3eb728b5",
-   "story_id": "s0094",
+   "key": "ab2cff1193d361b5",
+   "story_id": "s0008",
    "title": "Trabzonspor'un eski futbolcusu Giorgi Nemsadze hayatını kaybetti",
    "category": "diger",
    "prompt": "An empty football dugout at dusk with a knitted scarf in dark burgundy (deep claret) and light sky blue colors left on a seat, the pitch and floodlight towers softly out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 788824325,
+   "seed": 36461044,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,16 +18,16 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/92f615fc3eb728b5.png"
+   "out": "s/ab2cff1193d361b5.png"
   },
   {
-   "key": "98acff6d4ed97384",
-   "story_id": "s0085",
-   "title": "Galatasaray ve Chelsea'nin Brighton'ın orta saha oyuncusu Yasin Ayari'yi izlediği iddia edildi",
-   "category": "transfer",
-   "prompt": "Minimal still life on a dark wooden desk: only a fountain pen, two sheets of plain blank white paper and a folded knitted scarf in yellow and red colors, nothing else on the desk, warm desk lamp light. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "39f3dbe8c9fbbb50",
+   "story_id": "s0054",
+   "title": "Hearts Teknik Direktörü Vrancken: Trabzonspor çok iyi bir takım",
+   "category": "mac",
+   "prompt": "Wide view of an empty stadium bowl at night seen from the top row, rows of empty seats in dark burgundy (deep claret) and light sky blue colors filling the foreground, the pitch far below softly blurred in light haze. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 843097498,
+   "seed": 929372532,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -35,7 +35,41 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/98acff6d4ed97384.png"
+   "out": "s/39f3dbe8c9fbbb50.png"
+  },
+  {
+   "key": "26e0e134a2e3038d",
+   "story_id": "s0060",
+   "title": "Como, Şampiyonlar Ligi'nde Manchester United'ı 4-1 mağlup etti",
+   "category": "mac",
+   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of red color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1595951289,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/26e0e134a2e3038d.png"
+  },
+  {
+   "key": "b8bb534320ab690b",
+   "story_id": "s0025",
+   "title": "Yunus Akgün'ün golü Galatasaray'ın Şampiyonlar Ligi'ndeki en erken golü oldu",
+   "category": "mac",
+   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of yellow and red color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1645988325,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/b8bb534320ab690b.png"
   }
  ]
 }
