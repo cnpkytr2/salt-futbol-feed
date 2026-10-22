@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-22T04:44:02+00:00",
- "edition": "2026-10-22-sabah",
+ "generated_at": "2026-10-22T07:43:50+00:00",
+ "edition": "2026-10-22-guncel",
  "items": [
   {
-   "key": "ab2cff1193d361b5",
-   "story_id": "s0008",
+   "key": "870c419211e7977f",
+   "story_id": "s0001",
    "title": "Trabzonspor'un eski futbolcusu Giorgi Nemsadze hayatını kaybetti",
    "category": "diger",
-   "prompt": "An empty football dugout at dusk with a knitted scarf in dark burgundy (deep claret) and light sky blue colors left on a seat, the pitch and floodlight towers softly out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "A knitted scarf in dark burgundy (deep claret) and light sky blue colors tied to the railing of an empty stadium stand at dusk, floodlights starting to glow. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 36461044,
+   "seed": 244766800,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,16 +18,16 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/ab2cff1193d361b5.png"
+   "out": "s/870c419211e7977f.png"
   },
   {
-   "key": "39f3dbe8c9fbbb50",
-   "story_id": "s0054",
-   "title": "Hearts Teknik Direktörü Vrancken: Trabzonspor çok iyi bir takım",
-   "category": "mac",
-   "prompt": "Wide view of an empty stadium bowl at night seen from the top row, rows of empty seats in dark burgundy (deep claret) and light sky blue colors filling the foreground, the pitch far below softly blurred in light haze. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "305b91d83ae9b0cf",
+   "story_id": "s0113",
+   "title": "Gaziantep FK olağanüstü seçimli genel kurul kararı aldı: tarih 5 Kasım",
+   "category": "yonetim",
+   "prompt": "An empty press conference table with a row of microphones under a single spotlight in a dark room, a plain fabric backdrop in red and black colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 929372532,
+   "seed": 644610272,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -35,16 +35,16 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/39f3dbe8c9fbbb50.png"
+   "out": "s/305b91d83ae9b0cf.png"
   },
   {
-   "key": "26e0e134a2e3038d",
-   "story_id": "s0060",
-   "title": "Como, Şampiyonlar Ligi'nde Manchester United'ı 4-1 mağlup etti",
+   "key": "4158fdbb244d400e",
+   "story_id": "s0016",
+   "title": "Hearts Teknik Direktörü Vrancken: Trabzonspor'un zayıf yanlarını bulmaya çalışacağız",
    "category": "mac",
-   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of red color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in dark burgundy (deep claret) and light sky blue colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1595951289,
+   "seed": 387607759,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -52,24 +52,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/26e0e134a2e3038d.png"
-  },
-  {
-   "key": "b8bb534320ab690b",
-   "story_id": "s0025",
-   "title": "Yunus Akgün'ün golü Galatasaray'ın Şampiyonlar Ligi'ndeki en erken golü oldu",
-   "category": "mac",
-   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of yellow and red color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 1645988325,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/b8bb534320ab690b.png"
+   "out": "s/4158fdbb244d400e.png"
   }
  ]
 }
