@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-23T13:25:30+00:00",
+ "generated_at": "2026-10-23T15:24:28+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -707,7 +707,98 @@
    "last_round": 11,
    "next_round": 12,
    "current_round": 12,
-   "standings": [],
+   "standings": [
+    {
+     "rank": 1,
+     "team": {
+      "name": "Kayserispor",
+      "club": null
+     },
+     "played": 11,
+     "win": 8,
+     "draw": 2,
+     "loss": 1,
+     "gf": 24,
+     "ga": 7,
+     "gd": 17,
+     "points": 26,
+     "form": "DWWWW",
+     "group": "Lig A",
+     "updated": "2026-10-22 10:19:57"
+    },
+    {
+     "rank": 2,
+     "team": {
+      "name": "Bursaspor",
+      "club": null
+     },
+     "played": 11,
+     "win": 8,
+     "draw": 1,
+     "loss": 2,
+     "gf": 22,
+     "ga": 9,
+     "gd": 13,
+     "points": 25,
+     "form": "WWLWD",
+     "group": "Lig A",
+     "updated": "2026-10-22 10:19:57"
+    },
+    {
+     "rank": 3,
+     "team": {
+      "name": "Iğdır",
+      "club": null
+     },
+     "played": 11,
+     "win": 7,
+     "draw": 2,
+     "loss": 2,
+     "gf": 15,
+     "ga": 8,
+     "gd": 7,
+     "points": 23,
+     "form": "WDWDW",
+     "group": "Lig A",
+     "updated": "2026-10-22 10:19:57"
+    },
+    {
+     "rank": 4,
+     "team": {
+      "name": "Ankara Keçiörengücü",
+      "club": null
+     },
+     "played": 11,
+     "win": 5,
+     "draw": 5,
+     "loss": 1,
+     "gf": 21,
+     "ga": 11,
+     "gd": 10,
+     "points": 20,
+     "form": "WDWDD",
+     "group": "Lig A",
+     "updated": "2026-10-22 10:19:57"
+    },
+    {
+     "rank": 5,
+     "team": {
+      "name": "Batman Petrolspor",
+      "club": null
+     },
+     "played": 11,
+     "win": 6,
+     "draw": 2,
+     "loss": 3,
+     "gf": 22,
+     "ga": 19,
+     "gd": 3,
+     "points": 20,
+     "form": "DWLLL",
+     "group": "Lig A",
+     "updated": "2026-10-22 10:19:57"
+    }
+   ],
    "standings_limited": true,
    "rounds": [
     {
@@ -2111,7 +2202,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "la-liga",
@@ -2864,8 +2956,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "serie-a",
@@ -3618,7 +3709,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "bundesliga",
@@ -3646,7 +3738,7 @@
      "points": 14,
      "form": "WDWWD",
      "group": "Bundesliga",
-     "updated": "2026-10-20 05:46:02"
+     "updated": "2026-10-23 01:46:01"
     },
     {
      "rank": 2,
@@ -3664,7 +3756,7 @@
      "points": 14,
      "form": "DDWWW",
      "group": "Bundesliga",
-     "updated": "2026-10-20 05:46:02"
+     "updated": "2026-10-23 01:46:01"
     },
     {
      "rank": 3,
@@ -3682,7 +3774,7 @@
      "points": 13,
      "form": "LWDWW",
      "group": "Bundesliga",
-     "updated": "2026-10-20 05:46:02"
+     "updated": "2026-10-23 01:46:01"
     },
     {
      "rank": 4,
@@ -3700,7 +3792,7 @@
      "points": 13,
      "form": "WWWDW",
      "group": "Bundesliga",
-     "updated": "2026-10-20 05:46:02"
+     "updated": "2026-10-23 01:46:01"
     },
     {
      "rank": 5,
@@ -3718,7 +3810,7 @@
      "points": 10,
      "form": "WLWLW",
      "group": "Bundesliga",
-     "updated": "2026-10-20 05:46:02"
+     "updated": "2026-10-23 01:46:01"
     }
    ],
    "standings_limited": true,
@@ -4308,8 +4400,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "ligue-1",
@@ -4320,98 +4411,7 @@
    "last_round": 7,
    "next_round": 8,
    "current_round": 8,
-   "standings": [
-    {
-     "rank": 1,
-     "team": {
-      "name": "Lyon",
-      "club": null
-     },
-     "played": 7,
-     "win": 4,
-     "draw": 2,
-     "loss": 1,
-     "gf": 13,
-     "ga": 5,
-     "gd": 8,
-     "points": 14,
-     "form": "WLWDW",
-     "group": "Ligue 1",
-     "updated": "2026-10-23 01:47:07"
-    },
-    {
-     "rank": 2,
-     "team": {
-      "name": "Paris Saint-Germain",
-      "club": "psg"
-     },
-     "played": 7,
-     "win": 4,
-     "draw": 2,
-     "loss": 1,
-     "gf": 14,
-     "ga": 9,
-     "gd": 5,
-     "points": 14,
-     "form": "WWWWL",
-     "group": "Ligue 1",
-     "updated": "2026-10-23 01:47:07"
-    },
-    {
-     "rank": 3,
-     "team": {
-      "name": "Paris FC",
-      "club": null
-     },
-     "played": 7,
-     "win": 4,
-     "draw": 2,
-     "loss": 1,
-     "gf": 12,
-     "ga": 7,
-     "gd": 5,
-     "points": 14,
-     "form": "WLWDW",
-     "group": "Ligue 1",
-     "updated": "2026-10-23 01:47:07"
-    },
-    {
-     "rank": 4,
-     "team": {
-      "name": "Lille",
-      "club": null
-     },
-     "played": 7,
-     "win": 4,
-     "draw": 2,
-     "loss": 1,
-     "gf": 10,
-     "ga": 5,
-     "gd": 5,
-     "points": 14,
-     "form": "DWLWW",
-     "group": "Ligue 1",
-     "updated": "2026-10-23 01:47:07"
-    },
-    {
-     "rank": 5,
-     "team": {
-      "name": "Monaco",
-      "club": null
-     },
-     "played": 7,
-     "win": 4,
-     "draw": 2,
-     "loss": 1,
-     "gf": 10,
-     "ga": 6,
-     "gd": 4,
-     "points": 14,
-     "form": "LDWDW",
-     "group": "Ligue 1",
-     "updated": "2026-10-23 01:47:07"
-    }
-   ],
+   "standings": [],
    "standings_limited": true,
    "rounds": [
     {
@@ -6527,8 +6527,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "konferans-ligi",
@@ -6541,13 +6540,14 @@
    "current_round": 3,
    "standings": [],
    "standings_limited": true,
-   "rounds": []
+   "rounds": [],
+   "stale": true
   }
  ],
  "errors": [
-  "la-liga: HTTP 429 (eventsround.php)",
-  "bundesliga: HTTP 429 (eventsround.php)",
-  "avrupa-ligi: HTTP 429 (eventspastleague.php)"
+  "premier-lig: HTTP 429 (eventspastleague.php)",
+  "serie-a: HTTP 429 (eventsround.php)",
+  "konferans-ligi: HTTP 429 (eventspastleague.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
