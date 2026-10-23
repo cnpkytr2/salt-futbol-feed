@@ -1,6 +1,58 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-23T07:43:40+00:00",
+ "generated_at": "2026-10-23T10:43:33+00:00",
  "edition": "2026-10-23-guncel",
- "items": []
+ "items": [
+  {
+   "key": "62c78818e54c9611",
+   "story_id": "s0155",
+   "title": "Galatasaray-Fenerbahçe derbilerinde son 13 sezonda goller çoğunlukla yabancılardan",
+   "category": "mac",
+   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of yellow and navy blue color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1854124561,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/62c78818e54c9611.png"
+  },
+  {
+   "key": "a1cac293f6406843",
+   "story_id": "s0012",
+   "title": "Avrupa kupalarında Trabzonspor kazandı, Beşiktaş Crystal Palace ile berabere kaldı",
+   "category": "mac",
+   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of dark burgundy (deep claret) and light sky blue color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1545589077,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/a1cac293f6406843.png"
+  },
+  {
+   "key": "4f468866275b3786",
+   "story_id": "s0183",
+   "title": "El Clasico öncesi Mourinho'nun üç planı: Arda Güler ilk 11'de bekleniyor",
+   "category": "mac",
+   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in blue and garnet red colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1945704735,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/4f468866275b3786.png"
+  }
+ ]
 }
