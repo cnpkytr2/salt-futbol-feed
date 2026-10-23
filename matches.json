@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-22T23:25:27+00:00",
+ "generated_at": "2026-10-23T09:25:29+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -2985,7 +2985,7 @@
      "points": 19,
      "form": "WWDWW",
      "group": "Serie A",
-     "updated": "2026-10-21 05:46:02"
+     "updated": "2026-10-23 01:47:07"
     },
     {
      "rank": 2,
@@ -3003,7 +3003,7 @@
      "points": 19,
      "form": "WWWDW",
      "group": "Serie A",
-     "updated": "2026-10-21 05:46:02"
+     "updated": "2026-10-23 01:47:07"
     },
     {
      "rank": 3,
@@ -3021,7 +3021,7 @@
      "points": 17,
      "form": "WDDWW",
      "group": "Serie A",
-     "updated": "2026-10-21 05:46:02"
+     "updated": "2026-10-23 01:47:07"
     },
     {
      "rank": 4,
@@ -3039,7 +3039,7 @@
      "points": 15,
      "form": "WDWDD",
      "group": "Serie A",
-     "updated": "2026-10-21 05:46:02"
+     "updated": "2026-10-23 01:47:07"
     },
     {
      "rank": 5,
@@ -3057,7 +3057,7 @@
      "points": 14,
      "form": "WDLWW",
      "group": "Serie A",
-     "updated": "2026-10-21 05:46:02"
+     "updated": "2026-10-23 01:47:07"
     }
    ],
    "standings_limited": true,
@@ -4429,7 +4429,7 @@
      "points": 14,
      "form": "WLWDW",
      "group": "Ligue 1",
-     "updated": "2026-10-20 05:46:02"
+     "updated": "2026-10-23 01:47:07"
     },
     {
      "rank": 2,
@@ -4447,7 +4447,7 @@
      "points": 14,
      "form": "WWWWL",
      "group": "Ligue 1",
-     "updated": "2026-10-20 05:46:02"
+     "updated": "2026-10-23 01:47:07"
     },
     {
      "rank": 3,
@@ -4465,7 +4465,7 @@
      "points": 14,
      "form": "WLWDW",
      "group": "Ligue 1",
-     "updated": "2026-10-20 05:46:02"
+     "updated": "2026-10-23 01:47:07"
     },
     {
      "rank": 4,
@@ -4483,7 +4483,7 @@
      "points": 14,
      "form": "DWLWW",
      "group": "Ligue 1",
-     "updated": "2026-10-20 05:46:02"
+     "updated": "2026-10-23 01:47:07"
     },
     {
      "rank": 5,
@@ -4501,7 +4501,7 @@
      "points": 14,
      "form": "LDWDW",
      "group": "Ligue 1",
-     "updated": "2026-10-20 05:46:02"
+     "updated": "2026-10-23 01:47:07"
     }
    ],
    "standings_limited": true,
@@ -4938,25 +4938,6 @@
        "venue": "Stade Francis-Le Blé"
       },
       {
-       "id": "2489529",
-       "round": 8,
-       "kickoff": "2026-10-24T15:15:00Z",
-       "time_known": true,
-       "date_local": "2026-10-24",
-       "home": {
-        "name": "Toulouse",
-        "club": null
-       },
-       "away": {
-        "name": "Troyes",
-        "club": null
-       },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
-       "venue": "Stadium de Toulouse"
-      },
-      {
        "id": "2489532",
        "round": 8,
        "kickoff": "2026-10-24T18:45:00Z",
@@ -5069,6 +5050,25 @@
        "status": "scheduled",
        "status_raw": "NS",
        "venue": "Roazhon Park"
+      },
+      {
+       "id": "2489529",
+       "round": 8,
+       "kickoff": "2026-10-25T16:15:00Z",
+       "time_known": true,
+       "date_local": "2026-10-25",
+       "home": {
+        "name": "Toulouse",
+        "club": null
+       },
+       "away": {
+        "name": "Troyes",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadium de Toulouse"
       },
       {
        "id": "2489533",
