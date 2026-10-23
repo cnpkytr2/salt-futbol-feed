@@ -1,6 +1,24 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-23T17:43:14+00:00",
- "edition": "2026-10-23-aksam",
- "items": []
+ "generated_at": "2026-10-23T20:42:57+00:00",
+ "edition": "2026-10-23-guncel",
+ "items": [
+  {
+   "key": "7961566dec169257",
+   "story_id": "s0110",
+   "title": "Trabzonspor Hearts'ı 2-0 yendi, Konferans Ligi'nde tur ihtimalleri yükseldi",
+   "category": "mac",
+   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in dark burgundy (deep claret) and light sky blue colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 615470771,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/7961566dec169257.png"
+  }
+ ]
 }
