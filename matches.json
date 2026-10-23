@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-23T11:25:27+00:00",
+ "generated_at": "2026-10-23T13:25:30+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -707,98 +707,7 @@
    "last_round": 11,
    "next_round": 12,
    "current_round": 12,
-   "standings": [
-    {
-     "rank": 1,
-     "team": {
-      "name": "Kayserispor",
-      "club": null
-     },
-     "played": 11,
-     "win": 8,
-     "draw": 2,
-     "loss": 1,
-     "gf": 24,
-     "ga": 7,
-     "gd": 17,
-     "points": 26,
-     "form": "DWWWW",
-     "group": "Lig A",
-     "updated": "2026-10-22 10:19:57"
-    },
-    {
-     "rank": 2,
-     "team": {
-      "name": "Bursaspor",
-      "club": null
-     },
-     "played": 11,
-     "win": 8,
-     "draw": 1,
-     "loss": 2,
-     "gf": 22,
-     "ga": 9,
-     "gd": 13,
-     "points": 25,
-     "form": "WWLWD",
-     "group": "Lig A",
-     "updated": "2026-10-22 10:19:57"
-    },
-    {
-     "rank": 3,
-     "team": {
-      "name": "Iğdır",
-      "club": null
-     },
-     "played": 11,
-     "win": 7,
-     "draw": 2,
-     "loss": 2,
-     "gf": 15,
-     "ga": 8,
-     "gd": 7,
-     "points": 23,
-     "form": "WDWDW",
-     "group": "Lig A",
-     "updated": "2026-10-22 10:19:57"
-    },
-    {
-     "rank": 4,
-     "team": {
-      "name": "Ankara Keçiörengücü",
-      "club": null
-     },
-     "played": 11,
-     "win": 5,
-     "draw": 5,
-     "loss": 1,
-     "gf": 21,
-     "ga": 11,
-     "gd": 10,
-     "points": 20,
-     "form": "WDWDD",
-     "group": "Lig A",
-     "updated": "2026-10-22 10:19:57"
-    },
-    {
-     "rank": 5,
-     "team": {
-      "name": "Batman Petrolspor",
-      "club": null
-     },
-     "played": 11,
-     "win": 6,
-     "draw": 2,
-     "loss": 3,
-     "gf": 22,
-     "ga": 19,
-     "gd": 3,
-     "points": 20,
-     "form": "DWLLL",
-     "group": "Lig A",
-     "updated": "2026-10-22 10:19:57"
-    }
-   ],
+   "standings": [],
    "standings_limited": true,
    "rounds": [
     {
@@ -1449,8 +1358,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "premier-lig",
@@ -6637,7 +6545,6 @@
   }
  ],
  "errors": [
-  "tff-1-lig: HTTP 429 (eventsround.php)",
   "la-liga: HTTP 429 (eventsround.php)",
   "bundesliga: HTTP 429 (eventsround.php)",
   "avrupa-ligi: HTTP 429 (eventspastleague.php)"
