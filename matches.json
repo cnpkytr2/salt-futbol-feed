@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-23T19:22:59+00:00",
+ "generated_at": "2026-10-23T21:23:03+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -34,7 +34,7 @@
      "points": 19,
      "form": "WWLWW",
      "group": "Süper Lig",
-     "updated": "2026-10-23 18:18:54"
+     "updated": "2026-10-23 21:20:00"
     },
     {
      "rank": 2,
@@ -52,7 +52,7 @@
      "points": 17,
      "form": "WDWWD",
      "group": "Süper Lig",
-     "updated": "2026-10-23 18:18:54"
+     "updated": "2026-10-23 21:20:00"
     },
     {
      "rank": 3,
@@ -70,7 +70,7 @@
      "points": 16,
      "form": "WWWDL",
      "group": "Süper Lig",
-     "updated": "2026-10-23 18:18:54"
+     "updated": "2026-10-23 21:20:00"
     },
     {
      "rank": 4,
@@ -88,7 +88,7 @@
      "points": 16,
      "form": "WWWLW",
      "group": "Süper Lig",
-     "updated": "2026-10-23 18:18:54"
+     "updated": "2026-10-23 21:20:00"
     },
     {
      "rank": 5,
@@ -106,7 +106,7 @@
      "points": 15,
      "form": "LWLWW",
      "group": "Süper Lig",
-     "updated": "2026-10-23 18:18:54"
+     "updated": "2026-10-23 21:20:00"
     }
    ],
    "standings_limited": true,
@@ -523,7 +523,7 @@
      "points": 26,
      "form": "DWWWW",
      "group": "Lig A",
-     "updated": "2026-10-23 18:20:22"
+     "updated": "2026-10-23 20:19:20"
     },
     {
      "rank": 2,
@@ -541,7 +541,7 @@
      "points": 25,
      "form": "WWLWD",
      "group": "Lig A",
-     "updated": "2026-10-23 18:20:22"
+     "updated": "2026-10-23 20:19:20"
     },
     {
      "rank": 3,
@@ -559,7 +559,7 @@
      "points": 23,
      "form": "WDWDW",
      "group": "Lig A",
-     "updated": "2026-10-23 18:20:22"
+     "updated": "2026-10-23 20:19:20"
     },
     {
      "rank": 4,
@@ -577,7 +577,7 @@
      "points": 20,
      "form": "WDWDD",
      "group": "Lig A",
-     "updated": "2026-10-23 18:20:22"
+     "updated": "2026-10-23 20:19:20"
     },
     {
      "rank": 5,
@@ -595,7 +595,7 @@
      "points": 20,
      "form": "DWLLL",
      "group": "Lig A",
-     "updated": "2026-10-23 18:20:22"
+     "updated": "2026-10-23 20:19:20"
     }
    ],
    "standings_limited": true,
@@ -1807,7 +1807,7 @@
      "points": 27,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-22 09:46:02"
+     "updated": "2026-10-23 20:46:03"
     },
     {
      "rank": 2,
@@ -1825,7 +1825,7 @@
      "points": 22,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-22 09:46:02"
+     "updated": "2026-10-23 20:46:03"
     },
     {
      "rank": 3,
@@ -1843,7 +1843,7 @@
      "points": 21,
      "form": "WWLWW",
      "group": "Primera División",
-     "updated": "2026-10-22 09:46:02"
+     "updated": "2026-10-23 20:46:03"
     },
     {
      "rank": 4,
@@ -1861,7 +1861,7 @@
      "points": 19,
      "form": "LWDWW",
      "group": "Primera División",
-     "updated": "2026-10-22 09:46:02"
+     "updated": "2026-10-23 20:46:03"
     },
     {
      "rank": 5,
@@ -1879,7 +1879,7 @@
      "points": 16,
      "form": "WWWLW",
      "group": "Primera División",
-     "updated": "2026-10-22 09:46:02"
+     "updated": "2026-10-23 20:46:03"
     }
    ],
    "standings_limited": true,
@@ -2129,11 +2129,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
-        "away": 0
+        "home": 1,
+        "away": 1
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estadio de Mendizorroza"
       },
       {
@@ -2659,11 +2659,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
-        "away": 0
+        "home": 3,
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadio Olimpico Grande Torino"
       },
       {
@@ -3859,10 +3859,10 @@
        },
        "score": {
         "home": 1,
-        "away": 0
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stade Francis-Le Blé"
       },
       {
@@ -5565,7 +5565,7 @@
   }
  ],
  "errors": [
-  "premier-lig: HTTP 429 (eventspastleague.php)",
+  "premier-lig: HTTP 429 (eventsnextleague.php)",
   "bundesliga: HTTP 429 (eventspastleague.php)",
   "avrupa-ligi: HTTP 429 (eventspastleague.php)"
  ],
