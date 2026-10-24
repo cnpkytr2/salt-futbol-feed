@@ -1,12 +1,29 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-24T17:44:08+00:00",
- "edition": "2026-10-24-aksam",
+ "generated_at": "2026-10-24T20:43:57+00:00",
+ "edition": "2026-10-24-guncel",
  "items": [
   {
+   "key": "161dc22d3cfe9af7",
+   "story_id": "s0142",
+   "title": "Amedspor, deplasmanda Samsunspor'u 2-1 yenerek 3 puanı aldı",
+   "category": "mac",
+   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of red and green color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 825603393,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/161dc22d3cfe9af7.png"
+  },
+  {
    "key": "979ed147176e2ebc",
-   "story_id": "s0018",
-   "title": "Aston Villa, Manchester City'yi 2-1 yendi; City'nin ligdeki ilk kaybı",
+   "story_id": "s0006",
+   "title": "Aston Villa, Manchester City'yi 2-1 yenerek ligde ilk kaybını yaşattı",
    "category": "mac",
    "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of sky blue color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
@@ -21,13 +38,13 @@
    "out": "s/979ed147176e2ebc.png"
   },
   {
-   "key": "b0175d5772f7d687",
-   "story_id": "s0093",
-   "title": "El Clasico öncesi Flick ve Mourinho basın toplantısında konuştu, Arda Güler öne çıktı",
-   "category": "mac",
-   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in all white colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "1bf72aee6bc393b8",
+   "story_id": "s0063",
+   "title": "Beşiktaş'tan, Italiano hakkındaki yorum nedeniyle Serdar Ali Çelikler'e kınama",
+   "category": "teknik",
+   "prompt": "A football head coach in a dark overcoat seen from directly behind at the edge of an empty floodlit pitch with arms crossed, empty stands with black and white seats softly blurred behind him. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1816887199,
+   "seed": 225815976,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -35,28 +52,11 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/b0175d5772f7d687.png"
-  },
-  {
-   "key": "5e353c532055bb90",
-   "story_id": "s0055",
-   "title": "Galatasaray-Fenerbahçe derbisi öncesi kaleciler Uğurcan ve Ederson mercek altında",
-   "category": "mac",
-   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of yellow and red color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 988974845,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/5e353c532055bb90.png"
+   "out": "s/1bf72aee6bc393b8.png"
   },
   {
    "key": "1cba954f459a9d0c",
-   "story_id": "s0045",
+   "story_id": "s0009",
    "title": "Şenol Güneş: 'Benimle görüşmediler' sözümde sitem yoktu",
    "category": "teknik",
    "prompt": "A football head coach in a dark overcoat seen from directly behind at the edge of an empty floodlit pitch with arms crossed, empty stands with red and white seats softly blurred behind him. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
@@ -72,25 +72,8 @@
    "out": "s/1cba954f459a9d0c.png"
   },
   {
-   "key": "1bf72aee6bc393b8",
-   "story_id": "s0107",
-   "title": "Beşiktaş'tan Serdar Ali Çelikler'in Italiano benzetmesine kınama",
-   "category": "yonetim",
-   "prompt": "An empty press conference table with a row of microphones under a single spotlight in a dark room, a plain fabric backdrop in black and white colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 225815976,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/1bf72aee6bc393b8.png"
-  },
-  {
    "key": "18995f438bd1e138",
-   "story_id": "s0154",
+   "story_id": "s0114",
    "title": "Gaziantep FK'da Arda Kızıldağ oyundan alınınca tepki gösterdi",
    "category": "sakatlik",
    "prompt": "A blue ice pack and rolled white bandages on the grass beside the touchline of a floodlit pitch at night, a closed black medical bag softly out of focus, empty stands in the distance. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
@@ -104,6 +87,23 @@
    "steps": 8,
    "cfg_scale": 1.0,
    "out": "s/18995f438bd1e138.png"
+  },
+  {
+   "key": "b0175d5772f7d687",
+   "story_id": "s0058",
+   "title": "El Clasico öncesi Mourinho'nun kadro planlarında Arda Güler yer alıyor",
+   "category": "mac",
+   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in all white colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1816887199,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/b0175d5772f7d687.png"
   }
  ]
 }
