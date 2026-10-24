@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-24T09:22:59+00:00",
+ "generated_at": "2026-10-24T11:23:03+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -355,9 +355,12 @@
         "name": "Kasımpaşa",
         "club": "kasimpasa"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Recep Tayyip Erdoğan Stadyumu"
       },
       {
@@ -866,9 +869,12 @@
         "name": "Iğdır",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Bandırma 17 Eylül Stadyumu"
       },
       {
@@ -885,9 +891,12 @@
         "name": "Sivasspor",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Ümraniye Hekimbaşı Şehir Stadyumu"
       },
       {
@@ -5565,7 +5574,7 @@
   }
  ],
  "errors": [
-  "premier-lig: HTTP 429 (eventspastleague.php)",
+  "premier-lig: HTTP 429 (eventsnextleague.php)",
   "bundesliga: HTTP 429 (eventspastleague.php)",
   "avrupa-ligi: HTTP 429 (eventspastleague.php)"
  ],
