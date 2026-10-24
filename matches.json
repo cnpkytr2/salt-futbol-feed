@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-24T21:22:58+00:00",
+ "generated_at": "2026-10-24T23:23:03+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1608,7 +1608,7 @@
      "points": 27,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-24 20:46:02"
+     "updated": "2026-10-24 23:46:02"
     },
     {
      "rank": 2,
@@ -1616,17 +1616,17 @@
       "name": "Atlético Madrid",
       "club": "atletico"
      },
-     "played": 9,
-     "win": 7,
+     "played": 10,
+     "win": 8,
      "draw": 1,
      "loss": 1,
-     "gf": 19,
+     "gf": 20,
      "ga": 8,
-     "gd": 11,
-     "points": 22,
+     "gd": 12,
+     "points": 25,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-24 20:46:02"
+     "updated": "2026-10-24 23:46:02"
     },
     {
      "rank": 3,
@@ -1644,7 +1644,7 @@
      "points": 21,
      "form": "WWLWW",
      "group": "Primera División",
-     "updated": "2026-10-24 20:46:02"
+     "updated": "2026-10-24 23:46:02"
     },
     {
      "rank": 4,
@@ -1662,7 +1662,7 @@
      "points": 19,
      "form": "LWDWW",
      "group": "Primera División",
-     "updated": "2026-10-24 20:46:02"
+     "updated": "2026-10-24 23:46:02"
     },
     {
      "rank": 5,
@@ -1680,7 +1680,7 @@
      "points": 16,
      "form": "WWWLW",
      "group": "Primera División",
-     "updated": "2026-10-24 20:46:02"
+     "updated": "2026-10-24 23:46:02"
     }
    ],
    "standings_limited": true,
@@ -2137,6 +2137,24 @@
     {
      "rank": 1,
      "team": {
+      "name": "Lazio",
+      "club": null
+     },
+     "played": 8,
+     "win": 7,
+     "draw": 1,
+     "loss": 0,
+     "gf": 16,
+     "ga": 5,
+     "gd": 11,
+     "points": 22,
+     "form": "WWWWD",
+     "group": "Serie A",
+     "updated": "2026-10-24 22:46:01"
+    },
+    {
+     "rank": 2,
+     "team": {
       "name": "Inter Milan",
       "club": "inter"
      },
@@ -2150,25 +2168,7 @@
      "points": 19,
      "form": "WWDWW",
      "group": "Serie A",
-     "updated": "2026-10-24 19:46:02"
-    },
-    {
-     "rank": 2,
-     "team": {
-      "name": "Lazio",
-      "club": null
-     },
-     "played": 7,
-     "win": 6,
-     "draw": 1,
-     "loss": 0,
-     "gf": 14,
-     "ga": 4,
-     "gd": 10,
-     "points": 19,
-     "form": "WWWDW",
-     "group": "Serie A",
-     "updated": "2026-10-24 19:46:02"
+     "updated": "2026-10-24 22:46:01"
     },
     {
      "rank": 3,
@@ -2186,7 +2186,7 @@
      "points": 18,
      "form": "DWDDW",
      "group": "Serie A",
-     "updated": "2026-10-24 19:46:02"
+     "updated": "2026-10-24 22:46:01"
     },
     {
      "rank": 4,
@@ -2204,7 +2204,7 @@
      "points": 17,
      "form": "WWDLW",
      "group": "Serie A",
-     "updated": "2026-10-24 19:46:02"
+     "updated": "2026-10-24 22:46:01"
     },
     {
      "rank": 5,
@@ -2222,7 +2222,7 @@
      "points": 15,
      "form": "WDWDD",
      "group": "Serie A",
-     "updated": "2026-10-24 19:46:02"
+     "updated": "2026-10-24 22:46:01"
     }
    ],
    "standings_limited": true,
@@ -3182,7 +3182,7 @@
      "points": 14,
      "form": "WLWDW",
      "group": "Ligue 1",
-     "updated": "2026-10-24 01:47:07"
+     "updated": "2026-10-24 22:46:02"
     },
     {
      "rank": 2,
@@ -3200,28 +3200,10 @@
      "points": 14,
      "form": "WWWWL",
      "group": "Ligue 1",
-     "updated": "2026-10-24 01:47:07"
+     "updated": "2026-10-24 22:46:02"
     },
     {
      "rank": 3,
-     "team": {
-      "name": "Paris FC",
-      "club": null
-     },
-     "played": 7,
-     "win": 4,
-     "draw": 2,
-     "loss": 1,
-     "gf": 12,
-     "ga": 7,
-     "gd": 5,
-     "points": 14,
-     "form": "WLWDW",
-     "group": "Ligue 1",
-     "updated": "2026-10-24 01:47:07"
-    },
-    {
-     "rank": 4,
      "team": {
       "name": "Lille",
       "club": null
@@ -3236,7 +3218,25 @@
      "points": 14,
      "form": "DWLWW",
      "group": "Ligue 1",
-     "updated": "2026-10-24 01:47:07"
+     "updated": "2026-10-24 22:46:02"
+    },
+    {
+     "rank": 4,
+     "team": {
+      "name": "Paris FC",
+      "club": null
+     },
+     "played": 8,
+     "win": 4,
+     "draw": 2,
+     "loss": 2,
+     "gf": 13,
+     "ga": 9,
+     "gd": 4,
+     "points": 14,
+     "form": "LWLWD",
+     "group": "Ligue 1",
+     "updated": "2026-10-24 22:46:02"
     },
     {
      "rank": 5,
@@ -3254,7 +3254,7 @@
      "points": 14,
      "form": "LDWDW",
      "group": "Ligue 1",
-     "updated": "2026-10-24 01:47:07"
+     "updated": "2026-10-24 22:46:02"
     }
    ],
    "standings_limited": true,
@@ -5192,7 +5192,7 @@
   }
  ],
  "errors": [
-  "premier-lig: HTTP 429 (eventspastleague.php)",
+  "premier-lig: HTTP 429 (eventsnextleague.php)",
   "bundesliga: HTTP 429 (eventspastleague.php)",
   "avrupa-ligi: HTTP 429 (eventspastleague.php)"
  ],
