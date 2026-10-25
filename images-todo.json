@@ -1,6 +1,58 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-25T07:43:25+00:00",
+ "generated_at": "2026-10-25T10:44:22+00:00",
  "edition": "2026-10-25-guncel",
- "items": []
+ "items": [
+  {
+   "key": "81c305e878b50c0c",
+   "story_id": "s0104",
+   "title": "Liverpool ve Arsenal'ın Galatasaraylı Batrakov'u izlediği öne sürüldü",
+   "category": "transfer",
+   "prompt": "A knitted scarf in yellow and red colors draped over the back of an empty plastic stadium seat at dusk, the green pitch and floodlights softly out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1527615788,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/81c305e878b50c0c.png"
+  },
+  {
+   "key": "a040ac36fdd9fdab",
+   "story_id": "s0155",
+   "title": "Galatasaray-Fenerbahçe derbisi öncesi istatistikler ve muhtemel 11'ler",
+   "category": "mac",
+   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of yellow and navy blue color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 918852621,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/a040ac36fdd9fdab.png"
+  },
+  {
+   "key": "19250b1c2f38700c",
+   "story_id": "s0088",
+   "title": "Süper Lig'in 9. haftasında Galatasaray, RAMS Park'ta Fenerbahçe'yi ağırlıyor",
+   "category": "mac",
+   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of yellow and navy blue color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1154768133,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/19250b1c2f38700c.png"
+  }
+ ]
 }
