@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-25T15:22:58+00:00",
+ "generated_at": "2026-10-25T17:23:03+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -34,7 +34,7 @@
      "points": 20,
      "form": "WWDWW",
      "group": "Süper Lig",
-     "updated": "2026-10-25 13:17:37"
+     "updated": "2026-10-25 16:18:13"
     },
     {
      "rank": 2,
@@ -52,7 +52,7 @@
      "points": 19,
      "form": "WWLWW",
      "group": "Süper Lig",
-     "updated": "2026-10-25 13:17:37"
+     "updated": "2026-10-25 16:18:13"
     },
     {
      "rank": 3,
@@ -70,7 +70,7 @@
      "points": 16,
      "form": "WWWDL",
      "group": "Süper Lig",
-     "updated": "2026-10-25 13:17:37"
+     "updated": "2026-10-25 16:18:13"
     },
     {
      "rank": 4,
@@ -88,7 +88,7 @@
      "points": 16,
      "form": "WWWLW",
      "group": "Süper Lig",
-     "updated": "2026-10-25 13:17:37"
+     "updated": "2026-10-25 16:18:13"
     },
     {
      "rank": 5,
@@ -106,7 +106,7 @@
      "points": 16,
      "form": "WWLDW",
      "group": "Süper Lig",
-     "updated": "2026-10-25 13:17:37"
+     "updated": "2026-10-25 16:18:13"
     }
    ],
    "standings_limited": true,
@@ -443,9 +443,12 @@
         "name": "Çorum",
         "club": "corum-fk"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Gürsel Aksel Stadyumu"
       },
       {
@@ -1032,9 +1035,12 @@
         "name": "Bursaspor",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 3
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Keçiören Aktepe Stadyumu"
       },
       {
@@ -1620,7 +1626,7 @@
      "points": 27,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-25 13:46:05"
+     "updated": "2026-10-25 16:46:04"
     },
     {
      "rank": 2,
@@ -1638,7 +1644,7 @@
      "points": 25,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-25 13:46:05"
+     "updated": "2026-10-25 16:46:04"
     },
     {
      "rank": 3,
@@ -1656,7 +1662,7 @@
      "points": 21,
      "form": "WWLWW",
      "group": "Primera División",
-     "updated": "2026-10-25 13:46:05"
+     "updated": "2026-10-25 16:46:04"
     },
     {
      "rank": 4,
@@ -1674,7 +1680,7 @@
      "points": 19,
      "form": "LWDWW",
      "group": "Primera División",
-     "updated": "2026-10-25 13:46:05"
+     "updated": "2026-10-25 16:46:04"
     },
     {
      "rank": 5,
@@ -1692,7 +1698,7 @@
      "points": 16,
      "form": "WWWLW",
      "group": "Primera División",
-     "updated": "2026-10-25 13:46:05"
+     "updated": "2026-10-25 16:46:04"
     }
    ],
    "standings_limited": true,
@@ -2077,8 +2083,8 @@
         "home": 0,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estadio Abanca-Balaídos"
       },
       {
@@ -2168,7 +2174,7 @@
      "points": 22,
      "form": "WWWDW",
      "group": "Serie A",
-     "updated": "2026-10-25 14:46:04"
+     "updated": "2026-10-25 16:46:04"
     },
     {
      "rank": 2,
@@ -2186,7 +2192,7 @@
      "points": 22,
      "form": "WWWWD",
      "group": "Serie A",
-     "updated": "2026-10-25 14:46:04"
+     "updated": "2026-10-25 16:46:04"
     },
     {
      "rank": 3,
@@ -2204,7 +2210,7 @@
      "points": 18,
      "form": "DWDDW",
      "group": "Serie A",
-     "updated": "2026-10-25 14:46:04"
+     "updated": "2026-10-25 16:46:04"
     },
     {
      "rank": 4,
@@ -2222,7 +2228,7 @@
      "points": 17,
      "form": "WWDLW",
      "group": "Serie A",
-     "updated": "2026-10-25 14:46:04"
+     "updated": "2026-10-25 16:46:04"
     },
     {
      "rank": 5,
@@ -2240,7 +2246,7 @@
      "points": 15,
      "form": "WDWDD",
      "group": "Serie A",
-     "updated": "2026-10-25 14:46:04"
+     "updated": "2026-10-25 16:46:04"
     }
    ],
    "standings_limited": true,
@@ -2623,10 +2629,10 @@
        },
        "score": {
         "home": 4,
-        "away": 3
+        "away": 4
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "New Balance Arena"
       },
       {
@@ -2647,8 +2653,8 @@
         "home": 1,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadio Luigi Ferraris"
       },
       {
@@ -2665,9 +2671,12 @@
         "name": "Juventus",
         "club": "juventus"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Stadio Via del mare"
       },
       {
@@ -3214,6 +3223,42 @@
     {
      "rank": 1,
      "team": {
+      "name": "Lille",
+      "club": null
+     },
+     "played": 8,
+     "win": 4,
+     "draw": 3,
+     "loss": 1,
+     "gf": 11,
+     "ga": 6,
+     "gd": 5,
+     "points": 15,
+     "form": "DDWLW",
+     "group": "Ligue 1",
+     "updated": "2026-10-25 16:46:05"
+    },
+    {
+     "rank": 2,
+     "team": {
+      "name": "Monaco",
+      "club": null
+     },
+     "played": 8,
+     "win": 4,
+     "draw": 3,
+     "loss": 1,
+     "gf": 11,
+     "ga": 7,
+     "gd": 4,
+     "points": 15,
+     "form": "DLDWD",
+     "group": "Ligue 1",
+     "updated": "2026-10-25 16:46:05"
+    },
+    {
+     "rank": 3,
+     "team": {
       "name": "Lyon",
       "club": null
      },
@@ -3227,10 +3272,10 @@
      "points": 14,
      "form": "WLWDW",
      "group": "Ligue 1",
-     "updated": "2026-10-25 01:46:02"
+     "updated": "2026-10-25 16:46:05"
     },
     {
-     "rank": 2,
+     "rank": 4,
      "team": {
       "name": "Paris Saint-Germain",
       "club": "psg"
@@ -3245,28 +3290,10 @@
      "points": 14,
      "form": "WWWWL",
      "group": "Ligue 1",
-     "updated": "2026-10-25 01:46:02"
+     "updated": "2026-10-25 16:46:05"
     },
     {
-     "rank": 3,
-     "team": {
-      "name": "Lille",
-      "club": null
-     },
-     "played": 7,
-     "win": 4,
-     "draw": 2,
-     "loss": 1,
-     "gf": 10,
-     "ga": 5,
-     "gd": 5,
-     "points": 14,
-     "form": "DWLWW",
-     "group": "Ligue 1",
-     "updated": "2026-10-25 01:46:02"
-    },
-    {
-     "rank": 4,
+     "rank": 5,
      "team": {
       "name": "Paris FC",
       "club": null
@@ -3281,25 +3308,7 @@
      "points": 14,
      "form": "LWLWD",
      "group": "Ligue 1",
-     "updated": "2026-10-25 01:46:02"
-    },
-    {
-     "rank": 5,
-     "team": {
-      "name": "Monaco",
-      "club": null
-     },
-     "played": 7,
-     "win": 4,
-     "draw": 2,
-     "loss": 1,
-     "gf": 10,
-     "ga": 6,
-     "gd": 4,
-     "points": 14,
-     "form": "LDWDW",
-     "group": "Ligue 1",
-     "updated": "2026-10-25 01:46:02"
+     "updated": "2026-10-25 16:46:05"
     }
    ],
    "standings_limited": true,
@@ -3571,11 +3580,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
+        "home": 1,
         "away": 1
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stade Louis II"
       },
       {
@@ -3592,9 +3601,12 @@
         "name": "Lorient",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Stade Raymond Kopa"
       },
       {
@@ -3611,9 +3623,12 @@
         "name": "Le Mans",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Stade de l'Abbé Deschamps"
       },
       {
@@ -3630,9 +3645,12 @@
         "name": "Le Havre",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Orange Vélodrome"
       },
       {
@@ -3649,9 +3667,12 @@
         "name": "Strasbourg",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "HT",
        "venue": "Roazhon Park"
       },
       {
@@ -3668,9 +3689,12 @@
         "name": "Troyes",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Stadium de Toulouse"
       },
       {
