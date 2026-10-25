@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-25T21:24:15+00:00",
+ "generated_at": "2026-10-25T23:24:15+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -2124,11 +2124,11 @@
         "club": "real-madrid"
        },
        "score": {
-        "home": 0,
-        "away": 1
+        "home": 1,
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Spotify Camp Nou"
       },
       {
@@ -2162,7 +2162,7 @@
    "tsdb_id": 4332,
    "last_round": 8,
    "next_round": 9,
-   "current_round": 8,
+   "current_round": 9,
    "standings": [],
    "standings_limited": true,
    "rounds": [
@@ -2612,8 +2612,8 @@
         "home": 0,
         "away": 2
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Bluenergy Stadium"
       }
      ]
@@ -5470,7 +5470,7 @@
  ],
  "errors": [
   "premier-lig: HTTP 429 (eventspastleague.php)",
-  "konferans-ligi: HTTP 429 (eventsround.php)"
+  "konferans-ligi: HTTP 429 (eventsnextleague.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
