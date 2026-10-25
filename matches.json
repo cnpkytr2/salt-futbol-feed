@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-25T11:23:17+00:00",
+ "generated_at": "2026-10-25T13:22:59+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -421,9 +421,12 @@
         "name": "Gençlerbirliği",
         "club": "genclerbirligi"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Konya Büyükşehir Belediye Stadyumu"
       },
       {
@@ -532,7 +535,7 @@
      "points": 26,
      "form": "DWWWW",
      "group": "Lig A",
-     "updated": "2026-10-24 20:18:50"
+     "updated": "2026-10-25 11:35:58"
     },
     {
      "rank": 2,
@@ -550,7 +553,7 @@
      "points": 26,
      "form": "WWDWD",
      "group": "Lig A",
-     "updated": "2026-10-24 20:18:50"
+     "updated": "2026-10-25 11:35:58"
     },
     {
      "rank": 3,
@@ -568,7 +571,7 @@
      "points": 25,
      "form": "WWLWD",
      "group": "Lig A",
-     "updated": "2026-10-24 20:18:50"
+     "updated": "2026-10-25 11:35:58"
     },
     {
      "rank": 4,
@@ -586,7 +589,7 @@
      "points": 20,
      "form": "WDWDD",
      "group": "Lig A",
-     "updated": "2026-10-24 20:18:50"
+     "updated": "2026-10-25 11:35:58"
     },
     {
      "rank": 5,
@@ -604,7 +607,7 @@
      "points": 20,
      "form": "DWLLL",
      "group": "Lig A",
-     "updated": "2026-10-24 20:18:50"
+     "updated": "2026-10-25 11:35:58"
     }
    ],
    "standings_limited": true,
@@ -964,11 +967,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
-        "away": 0
+        "home": 3,
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Batman Yeni Şehir Stadyumu"
       },
       {
@@ -986,11 +989,11 @@
         "club": null
        },
        "score": {
-        "home": 1,
-        "away": 0
+        "home": 2,
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Pendik Stadyumu"
       },
       {
@@ -1007,9 +1010,12 @@
         "name": "Bodrum",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "Corendon Airlines Park"
       },
       {
@@ -2045,9 +2051,12 @@
         "name": "Getafe",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
        "venue": "San Mamés Barria"
       },
       {
@@ -2139,7 +2148,98 @@
    "last_round": 8,
    "next_round": 8,
    "current_round": 8,
-   "standings": [],
+   "standings": [
+    {
+     "rank": 1,
+     "team": {
+      "name": "Lazio",
+      "club": null
+     },
+     "played": 8,
+     "win": 7,
+     "draw": 1,
+     "loss": 0,
+     "gf": 16,
+     "ga": 5,
+     "gd": 11,
+     "points": 22,
+     "form": "WWWWD",
+     "group": "Serie A",
+     "updated": "2026-10-25 01:46:01"
+    },
+    {
+     "rank": 2,
+     "team": {
+      "name": "Inter Milan",
+      "club": "inter"
+     },
+     "played": 7,
+     "win": 6,
+     "draw": 1,
+     "loss": 0,
+     "gf": 21,
+     "ga": 9,
+     "gd": 12,
+     "points": 19,
+     "form": "WWDWW",
+     "group": "Serie A",
+     "updated": "2026-10-25 01:46:01"
+    },
+    {
+     "rank": 3,
+     "team": {
+      "name": "Roma",
+      "club": "roma"
+     },
+     "played": 8,
+     "win": 5,
+     "draw": 3,
+     "loss": 0,
+     "gf": 19,
+     "ga": 6,
+     "gd": 13,
+     "points": 18,
+     "form": "DWDDW",
+     "group": "Serie A",
+     "updated": "2026-10-25 01:46:01"
+    },
+    {
+     "rank": 4,
+     "team": {
+      "name": "Como",
+      "club": null
+     },
+     "played": 8,
+     "win": 5,
+     "draw": 2,
+     "loss": 1,
+     "gf": 14,
+     "ga": 7,
+     "gd": 7,
+     "points": 17,
+     "form": "WWDLW",
+     "group": "Serie A",
+     "updated": "2026-10-25 01:46:01"
+    },
+    {
+     "rank": 5,
+     "team": {
+      "name": "AC Milan",
+      "club": "milan"
+     },
+     "played": 7,
+     "win": 4,
+     "draw": 3,
+     "loss": 0,
+     "gf": 14,
+     "ga": 7,
+     "gd": 7,
+     "points": 15,
+     "form": "WDWDD",
+     "group": "Serie A",
+     "updated": "2026-10-25 01:46:01"
+    }
+   ],
    "standings_limited": true,
    "rounds": [
     {
@@ -2496,9 +2596,12 @@
         "name": "Fiorentina",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Stadio Giuseppe Meazza"
       },
       {
@@ -3086,7 +3189,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "ligue-1",
@@ -4342,8 +4446,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "avrupa-ligi",
@@ -5107,7 +5210,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "konferans-ligi",
@@ -5125,7 +5229,8 @@
  ],
  "errors": [
   "premier-lig: HTTP 429 (eventspastleague.php)",
-  "sampiyonlar-ligi: HTTP 429 (eventspastleague.php)"
+  "bundesliga: HTTP 429 (eventsnextleague.php)",
+  "avrupa-ligi: HTTP 429 (eventspastleague.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
