@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-25T23:24:15+00:00",
+ "generated_at": "2026-10-26T09:24:20+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1616,17 +1616,17 @@
       "name": "Barcelona",
       "club": "barcelona"
      },
-     "played": 9,
+     "played": 10,
      "win": 9,
      "draw": 0,
-     "loss": 0,
-     "gf": 39,
-     "ga": 9,
-     "gd": 30,
+     "loss": 1,
+     "gf": 40,
+     "ga": 11,
+     "gd": 29,
      "points": 27,
-     "form": "WWWWW",
+     "form": "LWWWW",
      "group": "Primera División",
-     "updated": "2026-10-25 20:47:08"
+     "updated": "2026-10-25 23:46:02"
     },
     {
      "rank": 2,
@@ -1644,7 +1644,7 @@
      "points": 25,
      "form": "WWWWW",
      "group": "Primera División",
-     "updated": "2026-10-25 20:47:08"
+     "updated": "2026-10-25 23:46:02"
     },
     {
      "rank": 3,
@@ -1652,17 +1652,17 @@
       "name": "Real Madrid",
       "club": "real-madrid"
      },
-     "played": 9,
-     "win": 7,
+     "played": 10,
+     "win": 8,
      "draw": 0,
      "loss": 2,
-     "gf": 23,
-     "ga": 9,
-     "gd": 14,
-     "points": 21,
-     "form": "WWLWW",
+     "gf": 25,
+     "ga": 10,
+     "gd": 15,
+     "points": 24,
+     "form": "WWWLW",
      "group": "Primera División",
-     "updated": "2026-10-25 20:47:08"
+     "updated": "2026-10-25 23:46:02"
     },
     {
      "rank": 4,
@@ -1680,7 +1680,7 @@
      "points": 20,
      "form": "DLWDW",
      "group": "Primera División",
-     "updated": "2026-10-25 20:47:08"
+     "updated": "2026-10-25 23:46:02"
     },
     {
      "rank": 5,
@@ -1698,7 +1698,7 @@
      "points": 19,
      "form": "WWWWL",
      "group": "Primera División",
-     "updated": "2026-10-25 20:47:08"
+     "updated": "2026-10-25 23:46:02"
     }
    ],
    "standings_limited": true,
@@ -2842,7 +2842,7 @@
      "points": 17,
      "form": "WWDWW",
      "group": "Bundesliga",
-     "updated": "2026-10-25 19:46:03"
+     "updated": "2026-10-26 04:46:01"
     },
     {
      "rank": 2,
@@ -2860,7 +2860,7 @@
      "points": 17,
      "form": "WDDWW",
      "group": "Bundesliga",
-     "updated": "2026-10-25 19:46:03"
+     "updated": "2026-10-26 04:46:01"
     },
     {
      "rank": 3,
@@ -2878,7 +2878,7 @@
      "points": 13,
      "form": "LLWDW",
      "group": "Bundesliga",
-     "updated": "2026-10-25 19:46:03"
+     "updated": "2026-10-26 04:46:01"
     },
     {
      "rank": 4,
@@ -2896,7 +2896,7 @@
      "points": 13,
      "form": "LWWWD",
      "group": "Bundesliga",
-     "updated": "2026-10-25 19:46:03"
+     "updated": "2026-10-26 04:46:01"
     },
     {
      "rank": 5,
@@ -2914,7 +2914,7 @@
      "points": 12,
      "form": "WLWLW",
      "group": "Bundesliga",
-     "updated": "2026-10-25 19:46:03"
+     "updated": "2026-10-26 04:46:01"
     }
    ],
    "standings_limited": true,
@@ -5469,7 +5469,7 @@
   }
  ],
  "errors": [
-  "premier-lig: HTTP 429 (eventspastleague.php)",
+  "premier-lig: HTTP 429 (eventsnextleague.php)",
   "konferans-ligi: HTTP 429 (eventsnextleague.php)"
  ],
  "badges": {
