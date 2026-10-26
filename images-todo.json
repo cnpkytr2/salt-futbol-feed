@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-26T17:43:38+00:00",
- "edition": "2026-10-26-aksam",
+ "generated_at": "2026-10-26T20:43:49+00:00",
+ "edition": "2026-10-26-guncel",
  "items": [
   {
-   "key": "1e23beea62676e9e",
-   "story_id": "s0156",
-   "title": "Galatasaray - Fenerbahçe derbisi öncesi ilk 11'ler belli oldu, takımlar RAMS Park'ta",
+   "key": "76332e1acc2c449e",
+   "story_id": "s0218",
+   "title": "Galatasaray-Fenerbahçe derbisinin ardından saha içinde gerginlik yaşandı",
    "category": "mac",
-   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of yellow and red color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "Wide view of an empty stadium bowl at night seen from the top row, rows of empty seats in yellow and navy blue colors filling the foreground, the pitch far below softly blurred in light haze. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 432042434,
+   "seed": 537648472,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,58 +18,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/1e23beea62676e9e.png"
-  },
-  {
-   "key": "e7bf638029634b6b",
-   "story_id": "s0154",
-   "title": "Galatasaray - Fenerbahçe derbisinin ilk 11'leri belli oldu",
-   "category": "mac",
-   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of yellow and red color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 694534549,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/e7bf638029634b6b.png"
-  },
-  {
-   "key": "3a75b2820396bee4",
-   "story_id": "s0088",
-   "title": "Galatasaray - Fenerbahçe derbisi bu akşam Rams Park'ta: eksikler ve muhtemel 11'ler",
-   "category": "mac",
-   "prompt": "Wide view of an empty stadium bowl at night seen from the top row, rows of empty seats in yellow and red colors filling the foreground, the pitch far below softly blurred in light haze. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 819103448,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/3a75b2820396bee4.png"
-  },
-  {
-   "key": "f644a206d98d07df",
-   "story_id": "s0018",
-   "title": "Galatasaray-Fenerbahçe derbisi RAMS Park'ta: maçın ilk 11'leri açıklandı",
-   "category": "mac",
-   "prompt": "Wide view of an empty stadium bowl at night seen from the top row, rows of empty seats in yellow and red colors filling the foreground, the pitch far below softly blurred in light haze. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
-   "negative": "",
-   "seed": 1367434816,
-   "model": "z_image_turbo_1.0_i8x.ckpt",
-   "sampler": "UniPC Trailing",
-   "shift": 3.0,
-   "width": 1344,
-   "height": 768,
-   "steps": 8,
-   "cfg_scale": 1.0,
-   "out": "s/f644a206d98d07df.png"
+   "out": "s/76332e1acc2c449e.png"
   }
  ]
 }

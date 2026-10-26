@@ -1,38 +1,601 @@
 {
  "schema": 1,
- "generated_at": "2026-10-26T17:43:38+00:00",
+ "generated_at": "2026-10-26T20:43:49+00:00",
  "edition": {
   "date": "2026-10-26",
-  "label": "aksam",
-  "title": "Akşam bülteni",
-  "time_local": "20:43"
+  "label": "guncel",
+  "title": "Güncel bülten",
+  "time_local": "23:43"
  },
  "stats": {
   "sources_ok": 58,
   "sources_total": 59,
-  "articles_football": 307,
-  "stories": 24
+  "articles_football": 398,
+  "stories": 20
  },
  "image_base": "https://raw.githubusercontent.com/cnpkytr2/salt-futbol-feed/main/img/",
  "top_n": 30,
  "stories": [
   {
-   "id": "s0047",
+   "id": "s0014",
    "rank": 1,
-   "key": "f09bb9d94f8c38ea",
-   "title": "Galatasaray-Fenerbahçe derbisinin VAR hakemi İspanyol Carlos del Cerro Grande oldu",
+   "key": "a2f10fefeddfc35c",
+   "title": "Trabzonspor, Rizespor deplasmanında 2-0 gerilikten dönüp 4-3 kazandı",
    "summarized": true,
-   "intro": "Trendyol Süper Lig'in 9. haftasında Galatasaray ile Fenerbahçe, 26 Ekim Pazartesi günü saat 21.30'da RAMS Park'ta karşılaşacak. Merkez Hakem Kurulu (MHK), derbinin VAR görevini İspanyol hakem Carlos del Cerro Grande'nin yapacağını duyurdu. Maçı Atilla Karaoğlan yönetecek. Haftanın son gününde oynanacak Beşiktaş-Başakşehir ve Rizespor-Trabzonspor maçlarının VAR hakemleri de aynı açıklamada belli oldu.",
+   "intro": "Trendyol Süper Lig'in 9. haftasında Trabzonspor, 26 Ekim Pazartesi akşamı Çaykur Didi Stadı'nda Çaykur Rizespor'u 4-3 mağlup etti. Karşılaşmaya saat 19.00'da başlandı ve hakem Halil Umut Meler maçı yönetti. Bordo-mavililer ilk yarıyı 2-0 geride tamamladı, ikinci yarıda Melih Kabasakal, Aral Şimşir ve Franculino Dju'nun iki golüyle skoru çevirdi. Rizespor 68. dakikada 3-3'lük beraberliği yakalasa da Trabzonspor 83. dakikada yeniden öne geçerek galibiyeti aldı.",
+   "bullets": [
+    "İkinci yarıda gol sırası şöyle: 49' Melih Kabasakal (Salah'ın pasıyla), 51' Aral Şimşir (Muçi'nin ara pasıyla, aşırtma vuruş), 57' Franculino Dju (Muçi'nin şutunda kaleciden seken topu tamamladı).",
+    "Rizespor'un 3-3'lük golü 68. dakikada Laçi'nin uzak mesafeden attığı sert şutla geldi; top köşeden ağlara gitti.",
+    "Franculino Dju 83. dakikada savunma arkasına sarkıp sol çaprazdan ceza sahasına girdi ve sert vuruşla 4-3'ü getirdi. Dju maçta iki gol attı.",
+    "Trabzonspor'da 60'ta Mustafa Eskihellaç ve Melih Kabasakal çıkıp Sidny Lopes Cabral ile Ozan Tufan girdi. Sonraki dakikalarda Salah yerini Saviolo'ya, Aral Şimşir de Cenk Özkaçar'a bıraktı.",
+    "Rizespor teknik direktörü Recep Uçar 89. dakikada kırmızı kartla oyun alanı kenarından uzaklaştırıldı. Gennaro Borrelli 63'te sarı kart gördü.",
+    "Uzatmalarda Franculino'nun röveşata denemesi auta gitti, Mithat'ın serbest vuruşunu kaleci Onana kontrol etti, Pina da kritik müdahaleyle topu kornere gönderdi.",
+    "Maç öncesi Trabzonspor'da Okay Yokuşlu, Batagov, Onuachu ve Malinovskyi sakattı; Hearts maçında sakatlanan Saviolo'nun da oynaması beklenmiyordu.",
+    "Thomas Reis göreve geldiğinden beri tüm kulvarlarda 6 maçta 6 galibiyet almıştı. Rizespor ise sahasındaki 3 ligde maçını kaybetmişti ve 8 maç sonunda 10 puandaydı."
+   ],
+   "why": "Trabzonspor, Thomas Reis döneminde galibiyet serisini sürdürdü ve zorlu bir deplasmanda iki gol farkla geriye düştükten sonra üç puanı aldı. Taraftar için takımın ikinci yarıdaki direnci ve hücum etkinliği dikkat çekici. Rizespor ise 3-3'ten sonra da puanı koruyamadı.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "trabzonspor",
+     "name": "Trabzonspor"
+    },
+    {
+     "slug": "rizespor",
+     "name": "Rizespor"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "konferans-ligi",
+     "name": "Konferans Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Takvim",
+     "url": "https://www.takvim.com.tr/spor/trabzonspor/2026/10/26/canli-rizespor-trabzonspor-super-lig-maci",
+     "published": "2026-10-26T07:42:19+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/superlig/2026/10/26/caykur-rizespor-trabzonspor-maci-saat-kacta-hangi-kanalda-1793008373",
+     "published": "2026-10-26T09:45:38+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/trabzonspordan-tarihi-geri-donus-rizede-7-gollu-duello",
+     "published": "2026-10-26T14:50:18+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/trabzonspor/2026/10/26/7-gollu-macta-kazanan-trabzonspor",
+     "published": "2026-10-26T14:50:48+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/caykur-rizespor-trabzonspor-canli-izle-caykur-rizespor-trabzonspor-maci-hangi-kanalda-sifresiz-canli-izleme-linki-var-mi-4867406",
+     "published": "2026-10-26T15:00:00+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-super-lig-rizespor-trabzonspor-maci-ne-zaman-saat-kacta-hangi-kanalda-431915",
+     "published": "2026-10-26T15:04:07+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/caykur-rizespor-trabzonspor-canli-skor-karadeniz-derbisini-canli-takip-et",
+     "published": "2026-10-26T15:11:00+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-thomas-reis-neler-olacagini-gorecegiz-431941",
+     "published": "2026-10-26T15:30:24+00:00"
+    }
+   ],
+   "n_sources": 13,
+   "first_published": "2026-10-26T07:42:19+00:00",
+   "last_published": "2026-10-26T20:06:00+00:00",
+   "image": {
+    "url": "https://iatkv.tmgrup.com.tr/542d1c/1200/675/0/0/2048/1151?u=https%3a%2f%2fitkv.tmgrup.com.tr%2f2026%2f10%2f26%2fkaradeniz-gibi-derbi-trabzonspor-super-ligde-rizesporu-4-3-yendi-1793037836672.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Takvim",
+    "credit": "Takvim",
+    "source_url": "https://www.takvim.com.tr/spor/trabzonspor/2026/10/26/canli-rizespor-trabzonspor-super-lig-maci"
+   },
+   "score": 91.5,
+   "importance": 9,
+   "popular": true
+  },
+  {
+   "id": "s0029",
+   "rank": 2,
+   "key": "6b32783645603003",
+   "title": "Beşiktaş, Süper Lig'de Başakşehir'i 2-0 yendi; goller Oh ve Olaitan'dan",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 9. haftasında Beşiktaş, sahasında Başakşehir'i 2-0 mağlup etti. İlk yarısı golsüz biten maçta siyah-beyazlılar ikinci yarıda öne geçti. Golleri 76. dakikada Hyeon-gyu Oh ve 89. dakikada Junior Olaitan attı. Beşiktaş, Trabzonspor yenilgisinin ardından ligde yeniden kazandı ve zirve takibini sürdürdü. Maç 26 Ekim'de saat 19.00'da başladı ve beIN Sports 2'den şifreli yayınlandı.",
+   "bullets": [
+    "Maçı Ümit Öztürk yönetti. Beşiktaş, maç öncesinde 8 maçta 5 galibiyet ve 3 yenilgiyle 15 puandaydı. Başakşehir ise 3 galibiyet, 2 beraberlik ve 3 yenilgiyle 11 puanla 11. sıradaydı.",
+    "Teknik direktör Vincenzo Italiano'nun ikinci yarıda oyuna aldığı Oh, 65. dakikada Ndidi'nin yerine girdi. 76. dakikada kaptığı topla ilerleyip kaleci Muhammed Şengezer'i de geçerek ilk golü attı.",
+    "Olaitan 74. dakikada direkten dönen bir vuruş yapmıştı. 89. dakikada Trossard'ın sağdan ceza sahasına çevirdiği top savunmadan döndü, Olaitan sert şutla skoru 2-0 yaptı.",
+    "İkinci yarıda Nübel, 48. dakikada Kemen'in ve 63. dakikada Shomurodov'un uzaktan şutlarını kornere çeldi. Muhammed Şengezer ise Oh ve Poku'nun vuruşlarında gole izin vermedi.",
+    "Cerny, Kharebashvili ile girdiği ikili mücadelede yerde kaldı. 55. dakikada oyundan çıktı, yerine Ernest Poku girdi. Sakatlığın ciddiyeti kaynaklarda belirtilmiyor.",
+    "Karbownik 59., Trossard ise hakeme tepkisi nedeniyle 61. dakikada sarı kart gördü.",
+    "Orkun Kökçü, Miretti, Rashica ve eli kırılan Ümit Akdağ Beşiktaş'ta kadroda yoktu. Başakşehir'de Jerome Opoku ile Christopher Operi'nin oynaması beklenmiyordu.",
+    "Emirhan Topçu ceza sınırındaydı. Sarı kart görseydi gelecek hafta Kasımpaşa maçında cezalı olacaktı. Maçta sarı kart gördüğüne dair bir bilgi kaynaklarda yer almıyor."
+   ],
+   "why": "Beşiktaş, Trabzonspor yenilgisinin ardından aldığı bu galibiyetle zirve yarışındaki yerini korudu. A Spor'a göre bu, ligdeki 6. galibiyeti oldu. Cerny'nin sakatlığı ve eksik oyuncular, gelecek haftaki Kasımpaşa maçı öncesinde taraftarın takip edeceği başlıca konular.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    },
+    {
+     "slug": "basaksehir",
+     "name": "Başakşehir"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "avrupa-ligi",
+     "name": "Avrupa Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Takvim",
+     "url": "https://www.takvim.com.tr/spor/besiktas/2026/10/26/canli-besiktas-basaksehir-super-lig-maci",
+     "published": "2026-10-26T08:44:52+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/superlig/2026/10/26/besiktas-basaksehir-maci-saat-kacta-hangi-kanalda-orkun-yok-mu",
+     "published": "2026-10-26T08:46:06+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/superlig/2026/10/26/besiktas-basaksehir-canli-mac-takip-canli-skor",
+     "published": "2026-10-26T09:07:42+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/besiktas/2026/10/26/besiktas-ikinci-yarida-acildi",
+     "published": "2026-10-26T14:45:10+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/besiktas-basaksehire-karsi-2-yarida-acildi-dolmabahcede-zirve-takibi-surdu",
+     "published": "2026-10-26T14:56:14+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/besiktas-basaksehir-canli-yayin-bilgileri-mac-hangi-kanalda",
+     "published": "2026-10-26T15:00:54+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-super-lig-besiktas-basaksehir-maci-ne-zaman-saat-kacta-hangi-kanalda-ilk-11ler-431913",
+     "published": "2026-10-26T15:04:42+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/besiktas-basaksehir-fk-canli-bein-sports-2-izle-besiktas-basaksehir-maci-sifresiz-canli-izleme-linki-var-mi-4867314",
+     "published": "2026-10-26T15:05:00+00:00"
+    }
+   ],
+   "n_sources": 12,
+   "first_published": "2026-10-26T08:44:52+00:00",
+   "last_published": "2026-10-26T18:33:00+00:00",
+   "image": {
+    "url": "https://iatkv.tmgrup.com.tr/e02c1b/1200/675/0/0/2048/1151?u=https%3a%2f%2fitkv.tmgrup.com.tr%2f2026%2f10%2f26%2fkartal-zirveden-kopmadi-besiktas-super-ligde-basakehiri-2-0-yendi-1793037538276.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Takvim",
+    "credit": "Takvim",
+    "source_url": "https://www.takvim.com.tr/spor/besiktas/2026/10/26/canli-besiktas-basaksehir-super-lig-maci"
+   },
+   "score": 58.97,
+   "importance": 8,
+   "popular": true
+  },
+  {
+   "id": "s0000",
+   "rank": 3,
+   "key": "f644a206d98d07df",
+   "title": "Galatasaray, derbide Fenerbahçe'yi Osimhen'in iki golüyle 2-1 yendi",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 9. haftasında Galatasaray, RAMS Park'ta Fenerbahçe'yi 2-1 mağlup etti. Victor Osimhen ilk yarıda 29. ve 44. dakikalarda attığı gollerle sarı-kırmızılılara üstünlüğü getirdi. Fenerbahçe'nin tek golü 62. dakikada İrfan Can Kahveci'den geldi. Galatasaray puanını 22'ye çıkarırken Fenerbahçe 16 puanda kaldı ve iki takım arasındaki fark 6 puana yükseldi. Takvim'in aktardığına göre maçın bitiminde sahada gerginlik yaşandı.",
+   "bullets": [
+    "29. dakikada Barış Alper Yılmaz'ın pasıyla ceza sahasına giren Osimhen, sol ayağıyla yakın direğe vurarak skoru 1-0 yaptı.",
+    "44. dakikada Jakobs'un taç atışında kaleci Ederson topu yumruklayarak uzaklaştırdı. Sanchez'in dönen topa şutunda Osimhen kafayla dokunup farkı ikiye çıkardı.",
+    "62. dakikada Kerem Aktürkoğlu'nun uzun pasının ardından Oğuz Aydın, topu İrfan Can Kahveci'ye aktardı. İrfan Can, topu kontrol edip röveşatayla ağlara gönderdi.",
+    "Ederson ilk yarıda Barış Alper Yılmaz'ın iki, Osimhen'in ve Batrakov'un birer vuruşunu önledi. Uğurcan Çakır da 52. dakikada Lukaku'nun şutunu kornere çeldi.",
+    "90. dakikada Skriniar'ın kafa vuruşunda Lemina topu çizgiden çıkardı. Dönen topta Abdülkerim Bardakcı'nın uzaklaştırmak istediği top Lukaku'ya çarpıp auta gitti.",
+    "Lucas Torreira, kırmızı kart cezasını tamamlayıp ilk 11'e döndü ve orta sahada Lemina ile oynadı. Sakatlığı nedeniyle Lille maçında yer almayan Rafael Leao yedek kulübesindeydi.",
+    "Takvim'e göre maç öncesinde Cumhuriyet Bayramı mesajlı tişörtlerle ısınıldı. Stat ve çevresinde yaklaşık 3 bin 700 emniyet personeli görev yaptı. Yeni milli takım teknik direktörü Sergen Yalçın maçı tribünden izledi.",
+    "Takvim, son düdüğün ardından iki takım oyuncuları arasında gerginlik çıktığını ve polisin sahaya girdiğini aktardı. Olayın ayrıntıları kaynaklarda yer almıyor."
+   ],
+   "why": "Galatasaray, derbi galibiyetiyle ezeli rakibiyle arasındaki farkı 6 puana çıkardı. Bu fark şampiyonluk yarışında Fenerbahçe için ciddi bir baskı yaratıyor. Osimhen'in ilk yarıdaki etkisi ve maç sonu yaşanan gerginlik, derbinin sonrasında da konuşulmasına yol açabilir.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    },
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Takvim",
+     "url": "https://www.takvim.com.tr/spor/superlig/2026/10/26/canli-galatasaray-fenerbahce-super-lig-maci",
+     "published": "2026-10-26T06:42:16+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/superlig/2026/10/26/dev-mac-galatasarayin",
+     "published": "2026-10-26T16:22:31+00:00"
+    },
+    {
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/26/son-dakika-galatasaray-dev-derbiyi-kazandi-3-gollu-derbide-fenerbahce-maglup",
+     "published": "2026-10-26T17:12:00+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/derbinin-kazanani-galatasaray",
+     "published": "2026-10-26T17:26:48+00:00"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/galatasaray-super-ligde-fenerbahceyi-2-1-yendi/4101733",
+     "published": "2026-10-26T19:27:23+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/galatasaray-fenerbahce-2-1-mac-sonucu-mac-ozeti-yazili-737379",
+     "published": "2026-10-26T20:23:18+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/galatasaray-2-1-fenerbahce-mac-ozeti-izle-video-4867402",
+     "published": "2026-10-26T20:24:00+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/derbide-osimhen-farki-galatasaray-zirveyi-birakmadi-SXHBQ1180757SXQ",
+     "published": "2026-10-26T20:24:23+00:00"
+    }
+   ],
+   "n_sources": 12,
+   "first_published": "2026-10-26T06:42:16+00:00",
+   "last_published": "2026-10-26T20:36:00+00:00",
+   "image": {
+    "url": "https://iatkv.tmgrup.com.tr/570146/1200/675/0/0/2048/1151?u=https%3a%2f%2fitkv.tmgrup.com.tr%2f2026%2f10%2f26%2fkahraman-osimhen-galatasaray-derbide-fenerbahceyi-2-1-yendi-1793046120325.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Takvim",
+    "credit": "Takvim",
+    "source_url": "https://www.takvim.com.tr/spor/superlig/2026/10/26/canli-galatasaray-fenerbahce-super-lig-maci"
+   },
+   "score": 35.89,
+   "importance": 10,
+   "popular": true
+  },
+  {
+   "id": "s0101",
+   "rank": 4,
+   "key": "cd69714dc9191e7f",
+   "title": "Beşiktaş, Başakşehir'i 2-0 yendi; Italiano ilk 11'de 8 değişiklik yaptı",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 9. haftasında Beşiktaş, sahasında RAMS Başakşehir'i 2-0 mağlup etti. Teknik direktör Vincenzo Italiano, hafta içinde Avrupa Ligi'nde Crystal Palace ile 2-2 berabere kalınan maçın ilk 11'ine göre 8 değişiklik yaparak sahaya çıktı. Italiano maç öncesinde rotasyona ve gerekirse çift forvete dönebileceklerine dair açıklamalar yapmıştı. Maçın ardından ise ligde kolay maç olmadığını vurgulayarak galibiyetten duyduğu memnuniyeti dile getirdi.",
+   "bullets": [
+    "Italiano maç öncesinde Crystal Palace'a göre bir gün daha fazla dinlendiklerini söyledi ve o maçta rotasyonla çıktıklarını, bazı oyuncuların dinlendiğini belirtti.",
+    "Başakşehir için \"zor bir takım\" diyen Italiano, rakip hoca Nuri Şahin'i sevdiğini söyleyip selam gönderdi.",
+    "Italiano maç içinde bazı değişiklikler yapabileceklerini, çift forvete dönebileceklerini ve başka oyuncuları da devreye sokabileceklerini ifade etti.",
+    "Ndidi için Orkun ve Miretti'ye göre farklı özellikte, pas kalitesi yüksek ve fizikli bir oyuncu dedi; golün getirdiği özgüvenle iyi iş çıkaracağını söyledi.",
+    "Crystal Palace maçındaki defans dörtlüsünün tamamı değişti: Murillo, Agbadou, Emirhan Topçu ve Rıdvan Yılmaz savunmada görev aldı.",
+    "Orta sahadan yalnızca Ndidi ve Trossard Crystal Palace maçındaki ilk 11'den korundu; Salih Özcan, Olaitan ve Cerny ilk 11'e girdi.",
+    "Beşiktaş'ın ilk 11'i: Nübel; Murillo, Agbadou, Emirhan, Rıdvan; Ndidi, Salih, Olaitan; Cerny, Trossard ve Vlahovic."
+   ],
+   "why": "Beşiktaş, yoğun maç temposunda geniş rotasyon yapmasına rağmen ligde evinde 3 puanı aldı. Bu durum taraftar için kadro derinliği ve Italiano'nun rotasyon yaklaşımı açısından olumlu bir işaret.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "basaksehir",
+     "name": "Başakşehir"
+    },
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "avrupa-ligi",
+     "name": "Avrupa Ligi"
+    },
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/besiktas/2026/10/26/vincenzo-italianodan-rotasyon-sozleri",
+     "published": "2026-10-26T15:25:53+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/besiktas/2026/10/26/vincenzo-italianodan-basaksehir-maci-oncesi-aciklama-cift-forvete-donebiliriz",
+     "published": "2026-10-26T15:26:20+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-vincenzo-italianodan-mac-oncesinde-sistem-degisikligi-mesaji-431940",
+     "published": "2026-10-26T15:38:34+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/vincenzo-italianodan-8-degisiklik-737352",
+     "published": "2026-10-26T16:17:52+00:00"
+    },
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/besiktas-ta-vincenzo-italiano-dan-8-degisiklik-3922720",
+     "published": "2026-10-26T16:28:57+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/besiktas/2026/10/26/vincenzo-italiano-ligde-kolay-mac-yok",
+     "published": "2026-10-26T18:29:53+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-bu-ligde-kolay-mac-yok-ekstra-mutluyum-43355936",
+     "published": "2026-10-26T18:45:35+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/vincenzo-italianodan-galibiyet-sozleri-golcu-ismi-isaret-etti-737371",
+     "published": "2026-10-26T18:47:41+00:00"
+    }
+   ],
+   "n_sources": 7,
+   "first_published": "2026-10-26T15:25:53+00:00",
+   "last_published": "2026-10-26T19:26:01+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/750704/1200/675/0/32/2048/1186?u=https://iftm.tmgrup.com.tr/2026/10/26/vincenzo-italianodan-rotasyon-sozleri-1793028911682.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/besiktas/2026/10/26/vincenzo-italianodan-rotasyon-sozleri"
+   },
+   "score": 43.28,
+   "importance": 5,
+   "popular": true
+  },
+  {
+   "id": "s0160",
+   "rank": 5,
+   "key": "c60e6837393b9e9f",
+   "title": "Galatasaray-Fenerbahçe derbisinin başında Lukaku ile Abdülkerim arasında gerginlik",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 9. haftasında Galatasaray, Fenerbahçe'yi RAMS Park'ta konuk etti. Saat 21.30'da başlayan derbinin henüz ilk saniyelerinde Fenerbahçeli Romelu Lukaku ile Galatasaraylı Abdülkerim Bardakcı arasında bir top mücadelesinin ardından tartışma çıktı. Gerginliğe sahadaki diğer futbolcular da dahil oldu, hakemler ve oyuncular araya girerek durumu sakinleştirdi. Ardından maç kaldığı yerden devam etti.",
+   "bullets": [
+    "Gerginliğin zamanı kaynakların çoğunda 16. saniye olarak aktarılıyor; bazı haberler ise olayı genel olarak ilk dakikaya yerleştiriyor.",
+    "Sporx'a göre Lukaku ile Abdülkerim 16. saniyede hava topu mücadelesine çıktı, ardından iki oyuncu arasında gerginlik yaşandı.",
+    "Fotomaç, olayın ceza sahası köşe çizgisine yakın bir noktadaki top kapma mücadelesinde başladığını ve iki isim arasında sert bir diyalog yaşandığını aktarıyor.",
+    "Sporx'a göre tartışmaya neredeyse sahadaki bütün futbolcular dahil oldu ve yaklaşık 1 dakika süren tartışmanın ardından oyuncular ayrıldı.",
+    "CNN Türk ve Fotomaç, hakemin ve diğer futbolcuların müdahalesiyle olayın büyümeden sona erdiğini yazıyor.",
+    "Kaynaklarda kart gösterildiğine veya bir ceza verildiğine dair bilgi yer almıyor."
+   ],
+   "why": "Derbinin ilk saniyelerinde yükselen tansiyon, maçın havasına dair ilk işaret oldu. Taraftarlar için iki takımın kilit isimleri arasındaki bu gerginlik, mücadelenin sert geçebileceği beklentisini güçlendirdi.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    },
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/derbinin-ilk-saniyelerinde-kavga-cikti-SXHBQ1180736SXQ",
+     "published": "2026-10-26T18:36:00+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/superlig/2026/10/26/galatasaray-fenerbahce-derbisi-ilk-dudukle-gerildi",
+     "published": "2026-10-26T18:40:16+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/derbi-gergin-basladi-abdulkerim-ve-lukaku",
+     "published": "2026-10-26T18:41:39+00:00"
+    },
+    {
+     "name": "NTV Spor",
+     "url": "https://www.ntvspor.net/futbol/galeri-son-dakika-derbide-daha-16-saniyede-olay-lukaku-ve-abdulkerim-bardakci-birbirine-girdi-431954",
+     "published": "2026-10-26T18:43:30+00:00"
+    },
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/galeri/spor/galatasaray-fenerbahce-derbisinde-daha-16-saniyede-ortalik-karisti-4867462",
+     "published": "2026-10-26T18:48:19+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/derbinin-16-saniyesinde-ortalik-karisti-lukaku-ve-abdulkerim-birbirine-girdi-p373024",
+     "published": "2026-10-26T18:49:22+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/dev-derbide-ilk-dakikada-gerginlik-lukaku-ile-abdulkerim-bardakci-tartisti-3484864",
+     "published": "2026-10-26T18:57:19+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-fenerbahce-derbisinin-ilk-dakikasinda-gerginlik-43355943",
+     "published": "2026-10-26T18:58:00+00:00"
+    }
+   ],
+   "n_sources": 9,
+   "first_published": "2026-10-26T18:36:00+00:00",
+   "last_published": "2026-10-26T20:36:59+00:00",
+   "image": {
+    "url": "https://iaftm.tmgrup.com.tr/bcf6d5/1200/675/0/83/800/533?u=https://iftm.tmgrup.com.tr/2026/10/26/galatasaray-fenerbahce-derbisi-ilk-dudukle-gerildi-1793040324331.png",
+    "kind": "source",
+    "label": "Fotoğraf: Fotomaç",
+    "credit": "Fotomaç",
+    "source_url": "https://www.fotomac.com.tr/superlig/2026/10/26/galatasaray-fenerbahce-derbisi-ilk-dudukle-gerildi"
+   },
+   "score": 32.41,
+   "importance": 5,
+   "popular": false
+  },
+  {
+   "id": "s0165",
+   "rank": 6,
+   "key": "8277cca7d58bf7c4",
+   "title": "Nuri Şahin: Beşiktaş hak etti, bireysel hatalardan iki gol yedik",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 9. haftasında Başakşehir, deplasmanda Beşiktaş'a 2-0 yenildi. Maçın ardından Başakşehir Teknik Direktörü Nuri Şahin hem maç sonu röportajında hem de basın toplantısında konuştu. Şahin, rakibin galibiyeti hak ettiğini söyledi ve takımının yediği iki golü bireysel hatalara bağladı. Teknik adam, oyun planını ve Beşiktaş'ın orta saha oyuncusu Salih Özcan'a dair bir değerlendirmeyi de anlattı.",
+   "bullets": [
+    "Şahin, fırsatlar yakaladıklarını ama iyi değerlendiremediklerini belirtti; sonucu iki taraf için de \"hak edilmiş\" olarak niteledi.",
+    "Teknik direktöre göre iki gol de ortada büyük bir tehlike yokken, bireysel hatalardan geldi. Bunun kendisini üzdüğünü söyledi.",
+    "Normalde adam adama oynayan takım bu kez rakibi bir yöne yönlendirmeyi denedi. Şahin, planın başta tuttuğunu ve 15 dakika hariç savunmada işlediğini söyledi.",
+    "Şahin, takımın alışkanlıklarından uzak oynadığını kabul etti.",
+    "Salih Özcan'ın etkisiz bırakılması yönündeki yoruma karşı çıktı: Beşiktaş'ın eksiklerini analiz ettiklerini, defans arkasına oynamak istediklerini ve Özcan'ın etrafında oynamak istemediklerini anlattı.",
+    "Şahin, Özcan'ı yıllardır tanıdığını, onun adına mutlu olduğunu ve oyuncunun haftalardır ligde en çok top kazanan isim olduğunu söyledi.",
+    "Teknik adam \"Kafamda cevapsız sorular yok, içim rahat\" dedi; bu seviyede nasıl kazanılacağını bildiklerini vurguladı.",
+    "Başakşehir'in sıradaki maçı Samsunspor ile; Şahin bu karşılaşmanın çok önemli olduğunu belirtti ve Beşiktaş'a Avrupa'da başarılar diledi."
+   ],
+   "why": "Başakşehir cephesinde teknik direktör, yenilgiyi rakibin üstünlüğüne ve kendi takımının bireysel hatalarına bağlayarak net bir değerlendirme yaptı. Beşiktaş taraftarı için ise rakip hocanın hak edilmiş galibiyet vurgusu ve Salih Özcan hakkındaki sözleri dikkat çekici. Başakşehir'in önünde Samsunspor maçı var.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/basaksehir-teknik-direktoru-nuri-sahin-hak-edilmis-bir-maglubiyet-737368",
+     "published": "2026-10-26T18:38:30+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/istanbulbb/nuri-sahin-besiktas-hak-etti-biz-de-kaybetmeyi-hak-ettik-SXHBQ1180738SXQ",
+     "published": "2026-10-26T18:44:00+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/nuri-sahin-besiktas-hak-etti-33785691",
+     "published": "2026-10-26T19:03:00+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/nuri-sahin-besiktas-hak-ettigi-bir-galibiyet-aldi-43355955",
+     "published": "2026-10-26T19:26:03+00:00"
+    },
+    {
+     "name": "Sözcü",
+     "url": "https://www.sozcu.com.tr/nuri-sahin-besiktas-hak-ettigi-bir-galibiyet-aldi-p373033",
+     "published": "2026-10-26T19:46:53+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/nuri-sahinden-besiktas-maglubiyeti-sonrasi-itiraf-hak-ettikleri-bir-galibiyet-aldilar",
+     "published": "2026-10-26T19:53:11+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/superlig/2026/10/26/nuri-sahin-aliskanliklarimizdan-uzak-oynadik",
+     "published": "2026-10-26T19:57:16+00:00"
+    }
+   ],
+   "n_sources": 7,
+   "first_published": "2026-10-26T18:38:30+00:00",
+   "last_published": "2026-10-26T19:57:16+00:00",
+   "image": {
+    "url": "https://cdn.ajansspor.com/ajansspor/photo/2026/10/e1c89fae-bf86-4d7c-b33d-02089d17880a.jpg",
+    "kind": "source",
+    "label": "Fotoğraf: Ajansspor",
+    "credit": "Ajansspor",
+    "source_url": "https://ajansspor.com/haber/basaksehir-teknik-direktoru-nuri-sahin-hak-edilmis-bir-maglubiyet-737368"
+   },
+   "score": 32.41,
+   "importance": 4,
+   "popular": false
+  },
+  {
+   "id": "s0033",
+   "rank": 7,
+   "key": "eceb6a7fc7a2d731",
+   "title": "Galatasaray-Fenerbahçe derbisinin VAR hakemi Carlos del Cerro Grande oldu",
+   "summarized": true,
+   "intro": "Merkez Hakem Kurulu (MHK), Trendyol Süper Lig'in 9. haftasında 26 Ekim Pazartesi günü oynanacak Galatasaray-Fenerbahçe derbisinin VAR hakemini duyurdu. RAMS Park'ta saat 21.30'da başlayacak karşılaşmada video yardımcı hakem koltuğunda İspanyol Carlos del Cerro Grande oturacak. Maçı Atilla Karaoğlan yönetecek. Haftanın son gününde oynanacak Beşiktaş-Başakşehir ve Rizespor-Trabzonspor maçlarının VAR atamaları da aynı duyuruda açıklandı.",
    "bullets": [
     "Del Cerro Grande'ye AVAR görevinde Ferhan Kestanlıoğlu eşlik edecek.",
-    "Karaoğlan'ın yardımcı hakemleri Ceyhun Sesigüzel ile Süleyman Özay, dördüncü hakem ise Abdullah Buğra Taşkınsoy olacak.",
-    "Carlos del Cerro Grande 13 Mart 1976'da İspanya'nın Alcalá de Henares kentinde doğdu; uzun yıllar LaLiga'da görev yaptı ve uluslararası maçlarda düdük çaldı.",
-    "Aynı gün saat 19.00'da Beşiktaş-Başakşehir maçında hakem Ümit Öztürk olacak; VAR'da İskoç hakem John Allan Beaton, AVAR'da Özer Özden görev yapacak.",
-    "Çaykur Didi Stadyumu'ndaki Rizespor-Trabzonspor maçının (saat 19.00) VAR hakemi Erkan Engin olarak aktarıldı.",
-    "Ajansspor'a göre derbi yaklaşık 50 bin taraftar önünde oynanacak ve iki takım şampiyonluğun önemli adayları arasında gösteriliyor.",
-    "Sabah'a göre deplasman tribününde maçı izleyecek Fenerbahçe taraftarları, Kadıköy'de toplandı."
+    "Derbinin saha hakemi Atilla Karaoğlan; yardımcılıklarını Ceyhun Sesigüzel ile Süleyman Özay yapacak, dördüncü hakem Abdullah Buğra Taşkınsoy olacak.",
+    "Yeni Şafak'a göre Carlos del Cerro Grande 13 Mart 1976'da İspanya'nın Alcalá de Henares kentinde doğdu; uzun yıllar LaLiga'da görev yaptı ve uluslararası maçlarda düdük çaldı.",
+    "Beşiktaş-Başakşehir maçı saat 19.00'da oynanacak; hakem Ümit Öztürk, VAR hakemi İskoç John Allan Beaton, AVAR Özer Özden.",
+    "Beşiktaş-Başakşehir maçında Öztürk'ün yardımcıları Kerem Ersoy ile Candaş Elbil, dördüncü hakem Reşat Onur Coşkunses olacak.",
+    "Çaykur Didi Stadyumu'nda saat 19.00'da oynanacak Rizespor-Trabzonspor maçında VAR hakemi Erkan Engin Görey olacak."
    ],
-   "why": "Derbilerde VAR kararları sonucu doğrudan etkileyebildiği için görevli hakemlerin belli olması taraftarlar açısından yakından takip ediliyor. Yabancı bir VAR hakeminin atanması, maç öncesi hakem tartışmalarının gündemini de belirleyebilir. Şampiyonluk yarışındaki iki rakibin karşılaşması, maçın önemini artırıyor.",
+   "why": "Derbi gibi yüksek gerilimli maçlarda VAR kararları büyük önem taşıdığı için görevlendirmeler taraftarlar tarafından yakından izleniyor. Yabancı bir VAR hakeminin görev alması, atamanın öne çıkan yönü oldu.",
    "raw_summary": null,
    "category": "hakem",
    "category_name": "Hakem / VAR",
@@ -79,29 +642,19 @@
      "published": "2026-10-26T09:18:32+00:00"
     },
     {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/video-haber/videoizle/galatasaray-fenerbahce-derbisinde-hava-durumu",
-     "published": "2026-10-26T12:23:53+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/galatasaray-fenerbahce-derbisinin-oynanacagi-saatte-hava-durumu-nasil-olacak-737334",
-     "published": "2026-10-26T13:27:30+00:00"
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/galatasaray-fenerbahce-derbisinin-var-i-carlos-del-cerro-grande-3922606",
+     "published": "2026-10-26T16:40:33+00:00"
     },
     {
      "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-canli-izle-galatasaray-fenerbahce-super-lig-431936",
-     "published": "2026-10-26T13:51:45+00:00"
-    },
-    {
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/26/fenerbahce-taraftarlari-galatasaray-deplasmanina-gitmek-icin-toplandi",
-     "published": "2026-10-26T14:08:14+00:00"
+     "url": "https://www.ntvspor.net/futbol/galeri-super-lig-galatasaray-fenerbahce-derbisi-ne-zaman-saat-kacta-hangi-kanalda-muhtemel-11ler-431912",
+     "published": "2026-10-26T17:31:16+00:00"
     }
    ],
-   "n_sources": 12,
+   "n_sources": 6,
    "first_published": "2026-10-26T09:03:43+00:00",
-   "last_published": "2026-10-26T17:33:28+00:00",
+   "last_published": "2026-10-26T17:31:16+00:00",
    "image": {
     "url": "https://iaftm.tmgrup.com.tr/13d579/1200/675/0/0/737/415?u=https://iftm.tmgrup.com.tr/2026/10/26/galatasaray-fenerbahce-derbisinin-vari-belli-oldu-1793005483511.jpeg",
     "kind": "source",
@@ -109,123 +662,26 @@
     "credit": "Fotomaç",
     "source_url": "https://www.fotomac.com.tr/superlig/2026/10/26/galatasaray-fenerbahce-derbisinin-vari-belli-oldu"
    },
-   "score": 92.55,
-   "importance": 7,
+   "score": 24.69,
+   "importance": 4,
    "popular": true
   },
   {
-   "id": "s0000",
-   "rank": 2,
-   "key": "61aa43aede6447c3",
-   "title": "Çaykur Rizespor-Trabzonspor maçı öncesi: Reis'in serisi ve eksikler gündemde",
-   "summarized": true,
-   "intro": "Trendyol Süper Lig'in 9. haftasında Çaykur Rizespor, 26 Ekim Pazartesi günü saat 19.00'da Çaykur Didi Stadı'nda Trabzonspor'u ağırlıyor. Maçı Halil Umut Meler yönetecek, karşılaşma beIN Sports 1'den canlı yayımlanacak. Trabzonspor, teknik direktör Thomas Reis döneminde ligde üst üste dördüncü galibiyetini hedefliyor. Evinde oynadığı üç maçı da kaybeden Rizespor ise bu seriyi sonlandırmak ve taraftarı önünde puan almak istiyor.",
-   "bullets": [
-    "Reis göreve geldikten sonra Trabzonspor tüm kulvarlarda 6 maçta 6 galibiyet aldı. Ligde Galatasaray'ı 4-0, Samsunspor'u 3-0, Beşiktaş'ı 2-0 yendi; Konferans Ligi'nde KuPS'u deplasmanda 4-2, Hearts'ı 2-0 mağlup etti.",
-    "Trabzonspor'da Okay Yokuşlu, Batagov, Onuachu ve Malinovskyi sakat. Hearts maçında sakatlanan Saviolo'nun da bu maçta oynaması beklenmiyor.",
-    "Rizespor bu sezon evinde Samsunspor'a 2-0, Alanyaspor'a 1-0 ve Fenerbahçe'ye 3-0 yenildi; hiç gol atamadı, 6 gol yedi. Geçen hafta Çorum FK'ye deplasmanda 2-1 yenilerek 4 maçlık yenilmezlik serisini bitirdi.",
-    "Rizespor 3 galibiyet, 1 beraberlik ve 4 mağlubiyetle 10 puanda. Tarihte 48 karşılaşmada Trabzonspor 30, Rizespor 9 kez kazandı, 9 maç berabere bitti; goller 95-44 Trabzonspor lehine.",
-    "Trabzonspor son 3 ligde gol yemeden kazandı. Bir maç daha yenmeden kazanırsa Şubat 2021'de Abdullah Avcı döneminde yakalanan üst üste 4 maçlık seriye ulaşacak.",
-    "Nwaiwu ve Savic'in 3'er sarı kartı var. Kart görürlerse Gaziantep FK maçında oynayamayacaklar; Reis ikisini uyardı. Salah takıma yeni bir 3 puan hedefini hatırlattı.",
-    "NTV'nin aktardığı ilk 11'lerde Trabzonspor: Onana, Pina, Nwaiwu, Savic, Mustafa, Fabinho, Melih, Salah, Muçi, Aral, Franculino Dju. Rizespor: Fofana, Bakayoko, Sagnan, Ariss, Taylan, Mithat, Olawoyin, Laçi, Mebude, Emrecan, Borrelli."
-   ],
-   "why": "Trabzonspor için maç, Reis dönemindeki galibiyet serisini ve kalesini gole kapatma eğilimini sürdürme fırsatı. Sahasında puan ve gol bulamayan Rizespor için ise iç saha kötü gidişini durdurma sınavı. Sonuç, iki takımın ligdeki konumunu doğrudan etkileyecek.",
-   "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
-   "status": "resmi",
-   "clubs": [
-    {
-     "slug": "trabzonspor",
-     "name": "Trabzonspor"
-    },
-    {
-     "slug": "rizespor",
-     "name": "Rizespor"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "konferans-ligi",
-     "name": "Konferans Ligi"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/karadenizde-de-derbi-heyecani-rizespor-trabzonspor-43354833",
-     "published": "2026-10-26T04:00:00+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/trabzonspor/2026/10/26/thomas-reis-karadeniz-derbisi-icin-kararini-verdi-iste-trabzonsporun-caykur-rizespor-maci-muhtemel-11i",
-     "published": "2026-10-26T04:02:07+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-super-lig-rizespor-trabzonspor-maci-ne-zaman-saat-kacta-hangi-kanalda-431915",
-     "published": "2026-10-26T05:37:48+00:00"
-    },
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/canli-or-c-rizespor-trabzonspor-33775863",
-     "published": "2026-10-26T06:14:00+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/superlig/2026/10/26/caykur-rizespor-trabzonspor-maci-saat-kacta-hangi-kanalda",
-     "published": "2026-10-26T06:23:33+00:00"
-    },
-    {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/rizesporun-konugu-trabzonspor-macin-heyecani-canli-sohbet-ile-mislide-43355058",
-     "published": "2026-10-26T07:34:00+00:00"
-    },
-    {
-     "name": "Takvim",
-     "url": "https://www.takvim.com.tr/spor/trabzonspor/2026/10/26/canli-rizespor-trabzonspor-super-lig-maci",
-     "published": "2026-10-26T07:42:19+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-canli-izle-rizespor-trabzonspor-super-lig-431933",
-     "published": "2026-10-26T13:21:01+00:00"
-    }
-   ],
-   "n_sources": 14,
-   "first_published": "2026-10-26T04:00:00+00:00",
-   "last_published": "2026-10-26T17:28:00+00:00",
-   "image": {
-    "url": "https://iaaspr.tmgrup.com.tr/0d6a4c/1200/675/0/0/800/449?u=https://iaspr.tmgrup.com.tr/2026/10/26/karadenizde-dev-derbi-iste-trabzonsporun-caykur-rizespor-maci-11i-1792963911036.jpeg",
-    "kind": "source",
-    "label": "Fotoğraf: A Spor",
-    "credit": "A Spor",
-    "source_url": "https://www.aspor.com.tr/trabzonspor/2026/10/26/thomas-reis-karadeniz-derbisi-icin-kararini-verdi-iste-trabzonsporun-caykur-rizespor-maci-muhtemel-11i"
-   },
-   "score": 57.83,
-   "importance": 5,
-   "popular": true
-  },
-  {
-   "id": "s0120",
-   "rank": 3,
-   "key": "ddc42ddbe2ab05c6",
+   "id": "s0095",
+   "rank": 8,
+   "key": "1d9a207bec68883e",
    "title": "Gençlerbirliği'nde Goutas'ın çapraz bağları koptu, sezonu kapattı",
    "summarized": true,
-   "intro": "Gençlerbirliği'nin Yunan savunma oyuncusu Dimitrios Goutas, dün TÜMOSAN Konyaspor ile oynanan deplasman maçında sakatlandı. Kulübün açıklamasına göre 32 yaşındaki futbolcunun sağ diz ön çapraz bağlarında kopma tespit edildi. Goutas, maçın 30. dakikasında oyundan çıkmak zorunda kalmıştı. Sakatlık nedeniyle sezonun kalan bölümünde forma giyemeyecek.",
+   "intro": "Gençlerbirliği'nin Yunan savunma oyuncusu Dimitrios Goutas, sağ diz ön çapraz bağlarında kopma tespit edilmesi nedeniyle sezonun kalanında forma giyemeyecek. Kulübün yaptığı açıklamaya göre oyuncu, Trendyol Süper Lig'de dün TÜMOSAN Konyaspor ile deplasmanda oynanan maçın 30. dakikasında sakatlanarak oyundan çıkmak zorunda kaldı. 32 yaşındaki futbolcunun sözleşmesi sezon sonunda sona erecek.",
    "bullets": [
-    "Sakatlık, Trendyol Süper Lig'de TÜMOSAN Konyaspor ile deplasmanda oynanan maçın 30. dakikasında yaşandı ve Goutas oyuna devam edemedi.",
-    "Kulüp açıklamasına göre teşhis sağ diz ön çapraz bağlarında kopma olarak konuldu.",
-    "Goutas'ın sözleşmesi sezon sonunda sona erecek.",
-    "Sakatlık nedeniyle oyuncunun sezonun kalanında forma giyemeyeceği aktarıldı.",
+    "Sakatlık, Gençlerbirliği'nin TÜMOSAN Konyaspor ile deplasmanda oynadığı Trendyol Süper Lig maçının 30. dakikasında yaşandı ve Goutas oyuna devam edemedi.",
+    "Kulüpten yapılan açıklamaya göre yapılan tespitte oyuncunun sağ diz ön çapraz bağlarında kopma olduğu belirlendi.",
+    "Goutas'ın sakatlığı nedeniyle sezonun kalan bölümünde forma giyemeyeceği aktarıldı.",
+    "Yunan savunma oyuncusunun sözleşmesi sezon sonunda bitiyor.",
     "Goutas bu sezon Gençlerbirliği formasıyla 9 maçta görev aldı.",
-    "Yunan savunmacı, görev aldığı bu 9 maçın tamamına ilk 11'de başladı."
+    "32 yaşındaki futbolcu, bu 9 maçın tamamında ilk 11'de başladı."
    ],
-   "why": "Düzenli olarak ilk 11'de oynayan bir savunma oyuncusunun sezonu kapatması, Gençlerbirliği'nin defans planlamasını doğrudan etkiliyor. Sözleşmesi sezon sonunda bitecek oyuncunun geleceği de sakatlık nedeniyle belirsizleşiyor.",
+   "why": "Her maçta ilk 11'de forma giyen bir savunma oyuncusunun sezonu kapatması, Gençlerbirliği'nin defans planlamasını doğrudan etkiliyor. Sözleşmesi sezon sonunda biten oyuncunun kulüpteki geleceği de bu sakatlıkla birlikte gündeme gelebilir.",
    "raw_summary": null,
    "category": "sakatlik",
    "category_name": "Sakatlık",
@@ -259,11 +715,6 @@
      "published": "2026-10-26T14:36:33+00:00"
     },
     {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/genclerbirliginde-dimitrios-goutas-soku-sezonu-kapatti-737342",
-     "published": "2026-10-26T14:37:32+00:00"
-    },
-    {
      "name": "TRT Spor",
      "url": "https://www.trtspor.com.tr/haber/futbol/dimitrios-goutas-sezonu-kapatti-33781529",
      "published": "2026-10-26T14:41:00+00:00"
@@ -279,7 +730,7 @@
      "published": "2026-10-26T14:56:23+00:00"
     }
    ],
-   "n_sources": 7,
+   "n_sources": 6,
    "first_published": "2026-10-26T14:35:14+00:00",
    "last_published": "2026-10-26T14:56:23+00:00",
    "image": {
@@ -289,40 +740,34 @@
     "credit": "Sözcü",
     "source_url": "https://www.sozcu.com.tr/genclerbirligi-ne-buyuk-sok-tecrubeli-futbolcu-sezonu-kapatti-p372980"
    },
-   "score": 27.12,
-   "importance": 7,
-   "popular": true
+   "score": 20.58,
+   "importance": 6,
+   "popular": false
   },
   {
-   "id": "s0016",
-   "rank": 4,
-   "key": "e177bba8dc2f3b88",
-   "title": "Italiano, Başakşehir maçı öncesi rotasyon ve çift forvet mesajı verdi; 8 değişiklik yaptı",
+   "id": "s0140",
+   "rank": 9,
+   "key": "a96600486c094091",
+   "title": "Beşiktaş, Başakşehir'i 2-0 yendi; Olaitan üst üste ikinci maçında gol attı",
    "summarized": true,
-   "intro": "Beşiktaş Teknik Direktörü Vincenzo Italiano, Trendyol Süper Lig'in 9. haftasında Başakşehir'i ağırlamadan önce basın karşısına çıktı. Italiano, UEFA Avrupa Ligi'nde Crystal Palace ile 2-2 berabere kalınan maça göre ilk 11'de 8 değişiklik yaptı. Teknik adam, Orkun Kökçü ve Fabio Miretti'nin yokluğunda Wilfried Ndidi'ye güvendiğini söyledi ve maç içinde çift forvete dönülebileceğini belirtti. Önceki günlerde Orkun'un sakatlığına rağmen Kasımpaşa maçında oynamak istediği öne sürülmüştü, ancak teknik heyetin risk almak istemediği aktarılmıştı.",
+   "intro": "Beşiktaş, Trendyol Süper Lig'in 9. haftasında konuk ettiği İstanbul Başakşehir'i 2-0 mağlup etti. Siyah-beyazlıların gollerini 75. dakikada Hyeon-gyu Oh ve 89. dakikada Junior Olaitan attı. Olaitan, hafta içinde Dolmabahçe'de oynanan UEFA Avrupa Ligi maçında da Crystal Palace'a karşı gol atarak takımına 1 puan getirmişti. Genç futbolcu böylece üst üste ikinci resmi maçında ağları havalandırmış oldu.",
    "bullets": [
-    "Italiano, Perşembe-Pazartesi ritminde olduklarını, Crystal Palace maçına göre bir gün daha fazla dinlendiklerini söyledi.",
-    "Teknik adam, Crystal Palace maçına rotasyonla çıktıklarını, bazı oyuncuların dinlendiğini ve sahada olanların fizik kalitesinden ve hızından memnun kaldığını belirtti.",
-    "Italiano, Ndidi'nin Orkun ve Miretti'den farklı özellikte bir oyuncu olduğunu, Salih ve Olaitan'a göre daha az süre aldığını ancak pas kalitesi yüksek ve fizikli olduğunu söyledi.",
-    "Ndidi'nin perşembe günkü maçta iyi performans gösterdiği ve attığı golle özgüven kazandığı, Miretti ile Orkun'un yerini iyi dolduracağı ifade edildi.",
-    "Italiano, maç içinde değişiklik yapabileceklerini, çift forvete dönebileceklerini ve başka oyuncuları devreye sokabileceklerini söyledi.",
-    "Başakşehir için 'zor bir takım' diyen Italiano, Nuri Şahin'i iyi bir teknik adam olarak niteledi, onu sevdiğini belirterek selam gönderdi.",
-    "Beşiktaş'ın ilk 11'i: Nübel, Murillo, Agbadou, Emirhan, Rıdvan, Salih, Olaitan, Ndidi, Cerny, Trossard, Vlahovic.",
-    "Hürriyet'e göre Miretti, Crystal Palace maçında sağ omzundan sakatlandı ve yaklaşık 1,5 ay forma giyemeyecek; Orkun ise Hoffenheim maçında sakatlanıp Trabzonspor ve Crystal Palace maçlarını kaçırmıştı."
+    "Beşiktaş'ın Başakşehir karşısındaki ilk golü 75. dakikada Hyeon-gyu Oh'tan geldi.",
+    "İkinci gol, 89. dakikada Junior Olaitan'dan geldi ve skor 2-0'a ulaştı.",
+    "Olaitan, bu golle Süper Lig'de sezonun ilk gol sevincini yaşadı.",
+    "Olaitan'ın Avrupa Ligi'nde de bu sezon 1 golü bulunuyor.",
+    "Hafta içinde Dolmabahçe'de oynanan Crystal Palace maçı 2-2 berabere bitmişti; Olaitan'ın golü bu maçta takıma 1 puan kazandırdı.",
+    "Sporx, Olaitan'ın üst üste ikinci resmi maçında gol attığını vurguladı."
    ],
-   "why": "Orta sahadaki sakatlıklar Beşiktaş'ın hem ligdeki hem Avrupa'daki programını zorlaştırıyor. Italiano'nun rotasyon tercihi ve Ndidi'ye verdiği güven, yoğun fikstürde takımın nasıl şekilleneceğine dair ipucu veriyor. Orkun'un acele edilmeden döndürülmesi ise kaptanın uzun vadeli sağlığı açısından önemli.",
+   "why": "Olaitan'ın art arda gelen golleri, genç oyuncunun Beşiktaş'ın hücum seçenekleri arasında öne çıktığını gösteriyor. Takım, Avrupa'daki beraberliğin ardından ligde de 2-0'lık galibiyet aldı. Taraftar açısından hem sonuç hem de genç oyuncunun performansı olumlu bir tablo oluşturuyor.",
    "raw_summary": null,
-   "category": "teknik",
-   "category_name": "Teknik Direktör",
+   "category": "mac",
+   "category_name": "Maç",
    "status": "resmi",
    "clubs": [
     {
      "slug": "besiktas",
      "name": "Beşiktaş"
-    },
-    {
-     "slug": "basaksehir",
-     "name": "Başakşehir"
     }
    ],
    "leagues": [
@@ -338,168 +783,64 @@
    "sources": [
     {
      "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/vincenzo-italianodan-orkun-kokcu-karari-43354930",
-     "published": "2026-10-26T06:36:47+00:00"
+     "url": "https://www.hurriyet.com.tr/sporarena/besiktasta-junior-olaitan-firtinasi-devam-ediyor-43355913",
+     "published": "2026-10-26T18:09:00+00:00"
     },
     {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/besiktas/2026/10/26/vincenzo-italianodan-rotasyon-sozleri",
-     "published": "2026-10-26T15:25:53+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/besiktas/2026/10/26/vincenzo-italianodan-basaksehir-maci-oncesi-aciklama-cift-forvete-donebiliriz",
-     "published": "2026-10-26T15:26:20+00:00"
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/olaitan-gollere-devam-ediyor-33785164",
+     "published": "2026-10-26T18:27:00+00:00"
     },
     {
      "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/vincenzo-italianodan-nuri-sahine-surpriz-jest-737347",
-     "published": "2026-10-26T15:30:25+00:00"
+     "url": "https://ajansspor.com/haber/junior-olaitan-gollerine-devam-ediyor-737367",
+     "published": "2026-10-26T18:33:48+00:00"
     },
     {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-vincenzo-italianodan-mac-oncesinde-sistem-degisikligi-mesaji-431940",
-     "published": "2026-10-26T15:38:34+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/vincenzo-italianodan-8-degisiklik-737352",
-     "published": "2026-10-26T16:17:52+00:00"
-    },
-    {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/besiktas-ta-vincenzo-italiano-dan-8-degisiklik-3922720",
-     "published": "2026-10-26T16:28:57+00:00"
-    },
-    {
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/26/besiktasta-vincenzo-italianodan-8-degisiklik",
-     "published": "2026-10-26T16:31:32+00:00"
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/besiktas/besiktas-ta-altin-gibi-parlayan-isim-olaitan-SXHBQ1180745SXQ",
+     "published": "2026-10-26T19:14:46+00:00"
     }
    ],
-   "n_sources": 7,
-   "first_published": "2026-10-26T06:36:47+00:00",
-   "last_published": "2026-10-26T16:31:32+00:00",
+   "n_sources": 4,
+   "first_published": "2026-10-26T18:09:00+00:00",
+   "last_published": "2026-10-26T19:14:46+00:00",
    "image": {
-    "url": "https://iaftm.tmgrup.com.tr/750704/1200/675/0/32/2048/1186?u=https://iftm.tmgrup.com.tr/2026/10/26/vincenzo-italianodan-rotasyon-sozleri-1793028911682.jpg",
+    "url": "https://cdn.ajansspor.com/ajansspor/photo/2026/10/5d3ff78a-97b5-4ecf-bb3a-9e2ec82849b9.jpg",
     "kind": "source",
-    "label": "Fotoğraf: Fotomaç",
-    "credit": "Fotomaç",
-    "source_url": "https://www.fotomac.com.tr/besiktas/2026/10/26/vincenzo-italianodan-rotasyon-sozleri"
+    "label": "Fotoğraf: Ajansspor",
+    "credit": "Ajansspor",
+    "source_url": "https://ajansspor.com/haber/junior-olaitan-gollerine-devam-ediyor-737367"
    },
-   "score": 22.48,
-   "importance": 6,
-   "popular": true
-  },
-  {
-   "id": "s0082",
-   "rank": 5,
-   "key": "9ec8609b02dd24ea",
-   "title": "Fenerbahçe, Galatasaray derbisinde deplasman taraftarına yağmurluk ve bere dağıtacak",
-   "summarized": true,
-   "intro": "Trendyol Süper Lig'in 9. haftasının kapanış maçında Galatasaray ile Fenerbahçe, RAMS Park'ta karşılaşacak. A Spor'un haberine göre Fenerbahçe yönetimi, Galatasaray deplasmanına gidecek sarı-lacivertli taraftarlara yağmurluk ve bere dağıtacak. Maç, 26 Ekim akşamı saat 21.30'da başlayacak. Hava tahminleri de bu hazırlığın arka planı olarak aktarıldı. Star'ın sonraki haberi ise dağıtımın yapıldığını belirtti.",
-   "bullets": [
-    "Derbi, Trendyol Süper Lig'in 9. haftasının kapanış maçı olarak RAMS Park'ta oynanacak.",
-    "Maç akşam saat 21.30'da başlayacak.",
-    "Haber ilk olarak A Spor'da yer aldı; diğer kaynaklar bu bilgiyi A Spor'a atıfla aktardı.",
-    "NTV Spor'a göre İstanbul'da maç saatinde sıcaklığın 16 derece olması bekleniyor.",
-    "Aynı habere göre saat 22.00 sıralarında yağmur yağması öngörülüyor.",
-    "NTV Spor, yönetimin bu hava tahminlerini dikkate alarak jest hazırladığını yazdı.",
-    "Star'ın haberine göre yağmurluk ve bere, RAMS Park'a gelen deplasman tribünündeki taraftarlara dağıtıldı."
-   ],
-   "why": "Derbide deplasman tribününde takımı destekleyecek Fenerbahçe taraftarları için yağışlı hava ihtimaline karşı pratik bir önlem alınmış oldu. Kulüp ile taraftar arasındaki iletişim açısından da dikkat çeken bir jest olarak değerlendiriliyor.",
-   "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
-   "status": "resmi",
-   "clubs": [
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/26/fenerbahce-taraftarina-derbide-yagmurluk-ve-bere-dagitilacak",
-     "published": "2026-10-26T12:07:25+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/fenerbahce/2026/10/26/fenerbahceden-taraftarina-derbi-oncesi-yagmurluk-ve-bere-jesti",
-     "published": "2026-10-26T12:16:09+00:00"
-    },
-    {
-     "name": "Yeni Şafak",
-     "url": "https://www.yenisafak.com/spor/dev-deplasman-oncesi-sari-lacivertli-taraftara-ozel-jest-tribunde-ne-dagitilacak-4867377",
-     "published": "2026-10-26T12:16:40+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-fenerbahce-yonetiminden-derbide-taraftarina-buyuk-jest-431931",
-     "published": "2026-10-26T12:37:41+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/fenerbahce-yonetiminden-derbide-taraftara-jest-737336",
-     "published": "2026-10-26T14:01:12+00:00"
-    },
-    {
-     "name": "Star",
-     "url": "https://www.star.com.tr/spor/fenerbahceden-derbi-oncesi-taraftarlarina-anlamli-jest-haber-2049285",
-     "published": "2026-10-26T17:10:00+00:00"
-    }
-   ],
-   "n_sources": 6,
-   "first_published": "2026-10-26T12:07:25+00:00",
-   "last_published": "2026-10-26T17:10:00+00:00",
-   "image": {
-    "url": "https://iaftm.tmgrup.com.tr/3a03ee/1200/675/0/0/1152/648?u=https://iftm.tmgrup.com.tr/2026/10/26/fenerbahce-taraftarina-derbi-oncesi-yagmurluk-ve-bere-dagitilacak-1793016403013.jpeg",
-    "kind": "source",
-    "label": "Fotoğraf: Fotomaç",
-    "credit": "Fotomaç",
-    "source_url": "https://www.fotomac.com.tr/fenerbahce/2026/10/26/fenerbahce-taraftarina-derbide-yagmurluk-ve-bere-dagitilacak"
-   },
-   "score": 34.09,
+   "score": 24.51,
    "importance": 4,
    "popular": false
   },
   {
-   "id": "s0103",
-   "rank": 6,
-   "key": "7d81fbd4f2dc86f8",
-   "title": "Galatasaray U19, U19 PAF Ligi'nde Fenerbahçe U19'u 3-1 yendi",
+   "id": "s0197",
+   "rank": 10,
+   "key": "9f3cbd2806b4d630",
+   "title": "Galatasaray-Fenerbahçe derbisinde 67. dakikadaki penaltı itirazı",
    "summarized": true,
-   "intro": "U19 PAF Ligi 2026-2027 sezonunun 9. haftasında Galatasaray U19, Bolluca Stadı'nda Fenerbahçe U19'u 3-1 mağlup etti. Karşılaşma, Süper Lig'de aynı akşam oynanacak Galatasaray-Fenerbahçe derbisinden önce 26 Ekim 2026 Pazartesi günü yapıldı. Konuk ekip 22. dakikada öne geçti, ancak ev sahibi takım ilk yarının sonunda skoru eşitledi. İkinci yarıda üst üste gelen iki golle Galatasaray maçı çevirdi.",
+   "intro": "Trendyol Süper Lig'in 9. haftasında Galatasaray ile Fenerbahçe, RAMS Park'ta karşılaştı. Maçın 67. dakikasında Galatasaray atağında Aleksey Batrakov, Matteo Guendouzi ile girdiği mücadelenin ardından yerde kaldı. Galatasaraylı futbolcular penaltı beklese de hakem Atilla Karaoğlan oyunu devam ettirdi. Hakemin bu pozisyonda VAR ile görüştüğü, ancak inceleme tavsiyesi gelmediği aktarıldı.",
    "bullets": [
-    "Fenerbahçe U19, 22. dakikada Çağrı Hakan Balta'nın golüyle 1-0 öne geçti.",
-    "Galatasaray, 29. dakikada Fenerbahçeli Doruk Özsaraç'ın kendi kalesine attığı golle durumu 1-1'e getirdi ve ilk yarı bu skorla bitti.",
-    "Galatasaray'ın öne geçme golünü 71. dakikada Dağhan Kahraman, üçüncü golünü 77. dakikada Oğulcan Yançel attı.",
-    "Hürriyet'e göre Çağrı Hakan Balta, 50. dakikada Fenerbahçe'nin kazandığı penaltıyı gole çeviremedi. Yeni Şafak, bu vuruşun sosyal medyada gündem olduğunu yazdı.",
-    "Yeni Şafak'a göre Balta'nın eski takımına karşı attığı gol de dikkat çekti.",
-    "Galatasaray resmi sitesine göre maça Arda Y., Abdullah S., Cihan, Dağhan, Eren, Onur, Oğulcan, Furkan, Eyüp, Arda T. ve Ada Y. ilk 11'iyle başladı.",
-    "Galatasaray puanını 19'a yükseltti ve Hürriyet'e göre 3. sırada kaldı. 13 puanda kalan Fenerbahçe ise 7. sırada yer aldı.",
-    "Galatasaray U19, 10. haftada Tümosan Konyaspor U19 ile deplasmanda oynayacak."
+    "Pozisyon, Mario Lemina'nın sol kanattan yaptığı ortada başladı; Victor Osimhen topu arka direkte indirdi.",
+    "Batrakov, penaltı noktası üzerinde topu soluna çekmek isterken Guendouzi ile ikili mücadeleye girdi ve yerde kaldı.",
+    "Galatasaraylı oyuncular penaltı için itiraz etti; hakem Atilla Karaoğlan oyunu devam ettirdi.",
+    "A Spor'a göre Karaoğlan, VAR ile bir süre iletişim kurdu ancak VAR'dan inceleme tavsiyesi gelmedi.",
+    "Star, Galatasaray'ın ilk yarıyı Osimhen'in golleriyle 2-0 önde tamamladığını yazdı.",
+    "Star'a göre İrfan Can Kahveci 62. dakikada farkı 1'e indirmişti; pozisyon bu skor durumunda yaşandı.",
+    "Star, hakemin oyunun taç atışıyla devam etmesini istediğini aktardı; Sporx ve A Spor ise pozisyonu dakika ve oyuncular üzerinden anlatıyor."
    ],
-   "why": "Alt yapı derbisi, iki kulübün genç takımlarının ligdeki yerini ve gelişimini göstermesi açısından taraftarın takip ettiği bir maç. Galatasaray geriye düşüp maçı çevirerek puanını 19'a çıkardı. Fenerbahçe ise kaçan penaltının etkisini taşıyarak 13 puanda kaldı.",
+   "why": "Skorun 2-1 olduğu bir bölümde verilmeyen olası penaltı, derbinin gidişatı açısından tartışma konusu oldu. VAR'ın müdahale etmemesi, hakem kararlarına dair değerlendirmelerde taraftarın gündeminde yer alabilir.",
    "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
+   "category": "hakem",
+   "category_name": "Hakem / VAR",
    "status": "resmi",
    "clubs": [
     {
      "slug": "galatasaray",
      "name": "Galatasaray"
-    },
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
     }
    ],
    "leagues": [
@@ -510,58 +851,111 @@
    ],
    "sources": [
     {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/u19-derbisinde-galatasaray-fenerbahceyi-maglup-etti-43355705",
-     "published": "2026-10-26T13:26:00+00:00"
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/galatasaray/galatasaray-derbide-penalti-bekledi-karar-devam-SXHBQ1180756SXQ",
+     "published": "2026-10-26T20:00:44+00:00"
     },
     {
-     "name": "Galatasaray.org (resmi)",
-     "url": "https://www.galatasaray.org/haber/futbol-akademisi/galatasaray-u19-3-1-fenerbahce-u19/61229",
-     "published": "2026-10-26T13:31:00+00:00"
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/galatasaraydan-penalti-beklentisi-hakem-devam-dedi-haber-2049315",
+     "published": "2026-10-26T20:04:00+00:00"
     },
     {
      "name": "A Spor",
-     "url": "https://www.aspor.com.tr/galatasaray/2026/10/26/genclerin-derbisinde-zafer-galatasaray-u19un",
-     "published": "2026-10-26T13:32:02+00:00"
+     "url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/galatasarayin-penalti-bekledigi-pozisyonda-var-devreye-girdi",
+     "published": "2026-10-26T20:06:49+00:00"
     },
     {
      "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/futbol/2026/10/26/u19-paf-liginde-galatasaray-fenerbahceyi-maglup-etti",
-     "published": "2026-10-26T13:33:09+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/galatasaray-u19-fenerbahce-u19-3-1-mac-sonucu-yazili-ozet-737335",
-     "published": "2026-10-26T13:33:41+00:00"
-    },
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-gunun-ilk-derbisinde-galatasaraydan-fenerbahceye-karsi-geri-donus-431935",
-     "published": "2026-10-26T13:44:07+00:00"
-    },
-    {
-     "name": "Yeni Şafak",
-     "url": "https://www.yenisafak.com/galeri/spor/kacirdigi-penalti-sosyal-medyada-gundem-oldu-4867419",
-     "published": "2026-10-26T14:58:26+00:00"
+     "url": "https://www.fotomac.com.tr/galatasaray/2026/10/26/galatasaray-batrakov-ile-penalti-bekledi",
+     "published": "2026-10-26T20:10:56+00:00"
     }
    ],
-   "n_sources": 7,
-   "first_published": "2026-10-26T13:26:00+00:00",
-   "last_published": "2026-10-26T14:58:26+00:00",
+   "n_sources": 4,
+   "first_published": "2026-10-26T20:00:44+00:00",
+   "last_published": "2026-10-26T20:10:56+00:00",
    "image": {
-    "url": "https://iaaspr.tmgrup.com.tr/7a6f2e/1200/675/0/69/2048/1220?u=https://iaspr.tmgrup.com.tr/2026/10/26/genclerin-derbisinde-zafer-galatasaray-u19un-1793021478562.jpeg",
+    "url": "https://iaaspr.tmgrup.com.tr/01dd78/1200/675/0/0/800/449?u=https://iaspr.tmgrup.com.tr/2026/10/26/galatasarayin-penalti-bekledigi-pozisyonda-var-devreye-girdi-1793045163354.jpeg",
     "kind": "source",
     "label": "Fotoğraf: A Spor",
     "credit": "A Spor",
-    "source_url": "https://www.aspor.com.tr/galatasaray/2026/10/26/genclerin-derbisinde-zafer-galatasaray-u19un"
+    "source_url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/galatasarayin-penalti-bekledigi-pozisyonda-var-devreye-girdi"
    },
-   "score": 29.27,
+   "score": 19.66,
    "importance": 5,
    "popular": false
   },
   {
-   "id": "s0026",
-   "rank": 7,
+   "id": "s0183",
+   "rank": 11,
+   "key": "dcad0f9cfab8c5d6",
+   "title": "Italiano: Orkun Kökçü daha iyi durumda ama dönüş için kesin tarih yok",
+   "summarized": true,
+   "intro": "Beşiktaş, Trendyol Süper Lig'in 9. haftasında sahasında İstanbul Başakşehir'i 2-0 yendi. Maçın ardından basın toplantısına çıkan teknik direktör Vincenzo Italiano, sakatlığı nedeniyle bir süredir takımdan ayrı olan kaptan Orkun Kökçü'nün durumunu değerlendirdi. Italiano, oyuncunun her geçen gün daha iyi olduğunu söyledi ancak takımla ne zaman çalışacağına dair kesin bir tarih vermedi. Teknik adam ayrıca karşılaşmada darbe alan Vaclav Cerny'nin durumuna da değindi ve büyük bir sorun görmediğini belirtti.",
+   "bullets": [
+    "Italiano, Kökçü için \"Orkun şu anda daha iyi ama size kesin bir tarih veremem\" dedi; oyuncunun takımla ne zaman çalışacağının da belli olmadığını ifade etti.",
+    "Teknik adam, Kökçü'nün en kısa sürede dönmesini umduğunu belirterek ona çok ihtiyaç duyduklarını söyledi.",
+    "A Spor editörünün sorusu, Kökçü'nün gelecek hafta oynanacak Kasımpaşa maçında görev alıp almayacağı yönündeydi; Italiano bu soruya kesin tarih vermeden yanıt verdi.",
+    "Cerny maçta darbe aldı. Italiano, darbenin tendona yakın bir bölgeye geldiğini, tendona gelseydi sorun olabileceğini ama bunun yaşanmadığını söyledi.",
+    "Italiano, Cerny'nin büyük bir sıkıntısı olmadığını düşündüğünü aktardı.",
+    "Takımın Kökçü dahil önemli isimler olmadan kazanabilmesinin kendileri için değerli olduğunu belirten Italiano, oyuncunun yokluğunda Leandro Trossard'ın birebirlerde çok etkili olduğunu söyledi.",
+    "Italiano, 6 maç sonra kalesini gole kapatmalarını konsantrasyon ve dikkat seviyesine bağladı; Wilfred Ndidi'den de hücuma katkı istediğini belirtti."
+   ],
+   "why": "Kaptan Orkun Kökçü'nün dönüş tarihinin belirsiz olması, Beşiktaş taraftarı için orta saha planlaması ve önümüzdeki Kasımpaşa maçı açısından önemli. Cerny'de ciddi bir sorun görülmemesi ise kadro açısından olumlu bir işaret.",
+   "raw_summary": null,
+   "category": "sakatlik",
+   "category_name": "Sakatlık",
+   "status": "belirsiz",
+   "clubs": [
+    {
+     "slug": "basaksehir",
+     "name": "Başakşehir"
+    },
+    {
+     "slug": "besiktas",
+     "name": "Beşiktaş"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Habertürk",
+     "url": "https://www.haberturk.com/spor/besiktas-teknik-direktoru-vincenzo-italiano-orkun-kokcu-nun-durumunu-acikladi-su-anda-daha-iyi-3922758",
+     "published": "2026-10-26T19:20:44+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/besiktas/italiano-dan-orkun-kokcu-aciklamasi-donus-tarihi-belli-oldu-mu-SXHBQ1180754SXQ",
+     "published": "2026-10-26T19:49:17+00:00"
+    },
+    {
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/besiktas/2026/10/26/vincenzo-italianodan-orkun-kokcu-ve-vaclav-cerny-aciklamasi",
+     "published": "2026-10-26T20:19:31+00:00"
+    }
+   ],
+   "n_sources": 3,
+   "first_published": "2026-10-26T19:20:44+00:00",
+   "last_published": "2026-10-26T20:19:31+00:00",
+   "image": {
+    "url": "https://iaaspr.tmgrup.com.tr/f9c92e/1200/675/0/0/800/450?u=https://iaspr.tmgrup.com.tr/2026/10/26/vincenzo-italianodan-orkun-kokcu-ve-vaclav-cerny-aciklamasi-1793045378538.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: A Spor",
+    "credit": "A Spor",
+    "source_url": "https://www.aspor.com.tr/besiktas/2026/10/26/vincenzo-italianodan-orkun-kokcu-ve-vaclav-cerny-aciklamasi"
+   },
+   "score": 11.84,
+   "importance": 7,
+   "popular": true
+  },
+  {
+   "id": "s0012",
+   "rank": 12,
    "key": "311a452feadfc83b",
    "title": "Samsunspor, Amed Sportif'e kaybederek kulüp tarihinin en uzun yenilgi serisine ulaştı",
    "summarized": true,
@@ -624,112 +1018,44 @@
     "credit": "Habertürk",
     "source_url": "https://www.haberturk.com/spor/samsunspor-tarihinde-ilk-kez-ust-uste-7-lig-maci-kaybetti-3922593"
    },
-   "score": 15.47,
-   "importance": 5,
-   "popular": false
-  },
-  {
-   "id": "s0009",
-   "rank": 8,
-   "key": "9e630e1fdb85c3cc",
-   "title": "Real Madrid, El Clasico'da Barcelona'yı deplasmanda 2-1 yendi",
-   "summarized": true,
-   "intro": "La Liga'nın 10. haftasında oynanan El Clasico'da Real Madrid, Barcelona'yı deplasmanda 2-1 mağlup etti. Karşılaşma Spotify Camp Nou'da oynandı. Real Madrid'in golleri Kylian Mbappe'den gelirken Barcelona'nın tek golünü Raphinha attı. Milli futbolcu Arda Güler ilk 11'de görev aldı. Maç sonrası Güler'in sosyal medya paylaşımı ve Real Madrid'le yaptığı mesajlaşma da gündem oldu.",
-   "bullets": [
-    "Real Madrid'in ilk golü 41. dakikada Mbappe'den geldi; Barcelona'nın tek golünü 61. dakikada Raphinha kaydetti.",
-    "Mbappe 87. dakikada ikinci golünü atarak Real Madrid'e 2-1'lik galibiyeti getirdi.",
-    "Real Madrid ligde üst üste 3. galibiyetini aldı ve puanını 24'e yükseltti.",
-    "Bu sezon ilk yenilgisini alan Barcelona 27 puanda kaldı; iki takım arasındaki fark 3 puana indi.",
-    "CNN Türk'e göre Arda Güler 90+4. dakikaya kadar sahada kaldı.",
-    "Güler, Instagram'da \"Burada tartışmaya yer yok. Dünyanın en büyüğü. Hala Madrid\" yazdı; Yeni Şafak'a göre paylaşım 1,5 milyonun üzerinde beğeni aldı.",
-    "Real Madrid, \"Arda, sana olan sevgim çarşambadan beri değişmedi. Seni hâlâ seviyorum\" paylaşımı yaptı; Güler \"Hiçbir zaman değişmeyecek. Ben de seni seviyorum. Hala Madrid, sonsuza kadar\" diye yanıt verdi.",
-    "Sonraki haftada Barcelona, Alaves'i ağırlayacak; Real Madrid ise Racing Santander'e konuk olacak."
-   ],
-   "why": "Galibiyet, Real Madrid'i zirvedeki Barcelona'nın 3 puan gerisine taşıyarak şampiyonluk yarışını yakınlaştırdı. Barcelona sezonun ilk yenilgisini aldı. Türk taraftar açısından Arda Güler'in ilk 11'deki yeri ve kulübüyle yaptığı sıcak mesajlaşma da maçın öne çıkan yönleri oldu.",
-   "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
-   "status": "resmi",
-   "clubs": [
-    {
-     "slug": "real-madrid",
-     "name": "Real Madrid"
-    },
-    {
-     "slug": "barcelona",
-     "name": "Barcelona"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "la-liga",
-     "name": "La Liga"
-    }
-   ],
-   "sources": [
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/barcelona-real-madrid-maci-kac-kac-bitti-barcelona-real-madrid-mac-sonucu-golleri-kim-atti-3484476",
-     "published": "2026-10-26T05:05:06+00:00"
-    },
-    {
-     "name": "Yeni Şafak",
-     "url": "https://www.yenisafak.com/galeri/spor/arda-gulerden-el-clasico-zaferi-sonrasi-olay-paylasim-real-madride-verdigi-yanit-gundem-oldu-4867280",
-     "published": "2026-10-26T05:45:41+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/futbol/2026/10/26/arda-gulerden-real-madridin-paylasimina-yanit-barcelona-maci-sonrasi",
-     "published": "2026-10-26T06:24:19+00:00"
-    },
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/futbol/2026/10/26/arda-guler-barcelona-real-madrid-maci-sonrasi-ispanyada-gundem-oldu",
-     "published": "2026-10-26T07:18:03+00:00"
-    }
-   ],
-   "n_sources": 3,
-   "first_published": "2026-10-26T05:05:06+00:00",
-   "last_published": "2026-10-26T07:18:03+00:00",
-   "image": {
-    "url": "https://iaaspr.tmgrup.com.tr/dd684f/1200/675/0/0/800/449?u=https://iaspr.tmgrup.com.tr/2026/10/26/arda-gulerden-real-madridin-paylasimina-duygusal-yanit-1792995719860.jpeg",
-    "kind": "source",
-    "label": "Fotoğraf: A Spor",
-    "credit": "A Spor",
-    "source_url": "https://www.aspor.com.tr/futbol/2026/10/26/arda-gulerden-real-madridin-paylasimina-yanit-barcelona-maci-sonrasi"
-   },
-   "score": 13.96,
+   "score": 14.25,
    "importance": 6,
    "popular": false
   },
   {
-   "id": "s0050",
-   "rank": 9,
-   "key": "cd0e8492c6b82ef6",
-   "title": "Gençlerbirliği liderlikten 7 maçlık galibiyetsizlikle düşme hattına geriledi",
+   "id": "s0167",
+   "rank": 13,
+   "key": "522b6e9eb3c4c74c",
+   "title": "Sergen Yalçın, Galatasaray-Fenerbahçe derbisini RAMS Park'ta izledi",
    "summarized": true,
-   "intro": "Trendyol Süper Lig'e iyi başlayan ve 2. hafta sonunda liderliğe yükselen Gençlerbirliği, son 7 maçta kazanamadı ve 9. hafta itibarıyla 16. sıraya, düşme hattına geriledi. Ankara temsilcisi bu süreçte yalnızca 2 puan topladı ve 8 puanda kaldı. Bu dönemde teknik direktör Metin Diyadin ile yollar ayrıldı, yerine Bernd Storck geldi; ancak değişiklik henüz galibiyet getirmedi.",
+   "intro": "A Milli Futbol Takımı'nın yeni teknik direktörü Sergen Yalçın, 26 Ekim 2026 akşamı RAMS Park'ta oynanan Galatasaray-Fenerbahçe derbisini tribünden takip etti. Karşılaşma Trendyol Süper Lig'in 9. haftasında oynandı. Star'ın aktardığına göre Yalçın, göreve hafta içinde başlamıştı ve maçı yardımcı antrenörü Murat Kaytaz ile birlikte protokol tribününden izledi. Sporx'a göre amaç, milli takımın önümüzdeki dönemdeki maçları öncesinde milli oyuncuların son durumlarını yakından gözlemlemekti.",
    "bullets": [
-    "Gençlerbirliği sezona Fenerbahçe'yi 1-0 geriye düştüğü maçta 2-1 yenerek başladı, 2. haftada Göztepe'yi deplasmanda tek golle geçti ve iki maçını da kazanan tek takım olarak liderliğe çıktı.",
-    "3. haftada Erzurumspor FK ile 1-1 berabere kaldı; galibiyet hasreti bu maçla başladı.",
-    "Ardından Trabzonspor deplasmanında 5-0 yenilerek ilk mağlubiyetini aldı, Kasımpaşa'ya sahasında son dakika golüyle 2-1 kaybetti ve Başakşehir deplasmanında 4-0 yenildi.",
-    "Amed Sportif Faaliyetler ile 2-2 berabere kaldı; Galatasaray'a 0-1, TÜMOSAN Konyaspor'a 2-0 gol atamadan yenildi.",
-    "Diyadin 5 Ekim'de istifa talebinde bulundu; yönetim kabul etmese de o ısrar etti ve 6 Ekim'de yollar ayrıldı. 9 Ekim'de Alman teknik adam Bernd Storck ile anlaşıldı.",
-    "Storck'un ilk maçı Eryaman Stadı'nda Amed Sportif Faaliyetler ile 2-2 bitti; Thalisson 90+3'te gol attı. Storck'la oynanan iki lig maçı Galatasaray ve Konyaspor'a kaybedildi.",
-    "Takım 18 golle Eyüpspor ve Samsunspor'dan sonra en çok gol yiyen, 7 golle Eyüpspor ve Konyaspor'dan sonra en az gol atan ekip konumunda."
+    "Sergen Yalçın'ın derbideki varlığı beIN SPORTS Türkiye'nin paylaşımıyla duyuruldu; A Spor ve Fotomaç da onu RAMS Park'ta gördüklerini aktardı.",
+    "Star'a göre Yalçın, A Milli Takım'ın başına hafta içinde geçti ve derbi, teknik direktör olarak izlediği ilk büyük maçlardan biri oldu.",
+    "Yalçın'a yardımcı antrenörü Murat Kaytaz eşlik etti; ikili maçı protokol tribününden takip etti.",
+    "Sporx, Yalçın'ın iki takımın futbolcularının performansını yakından gözlemlediğini ve milli oyuncuların durumunu değerlendirmeyi amaçladığını yazdı.",
+    "Haberlerde Yalçın'ın maç sırasında veya sonrasında yaptığı bir açıklamaya yer verilmedi; milli takım kadrosuna dair bir bilgi de paylaşılmadı."
    ],
-   "why": "Haftalar önce zirvede olan Gençlerbirliği taraftarı için tablo hızla kötüleşti ve takım düşme hattına indi. Teknik direktör değişikliği henüz sonuç vermedi; savunma ve hücumdaki zayıf istatistikler Storck'un önündeki işin ağırlığını gösteriyor.",
+   "why": "Yeni teknik direktörün sezonun en büyük maçlarından birini stadyumda izlemesi, milli takım için oyuncu gözleminin hemen başladığını gösteriyor. Taraftar açısından, iki kulübün milli oyuncularının performansının yeni hocanın değerlendirmesinde yer bulabileceği anlamına geliyor.",
    "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
+   "category": "diger",
+   "category_name": "Diğer",
    "status": "resmi",
    "clubs": [
     {
-     "slug": "genclerbirligi",
-     "name": "Gençlerbirliği"
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    },
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
     }
    ],
    "leagues": [
+    {
+     "slug": "milli-takim",
+     "name": "A Millî Takım"
+    },
     {
      "slug": "super-lig",
      "name": "Süper Lig"
@@ -737,62 +1063,57 @@
    ],
    "sources": [
     {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/zirve-koltugundan-ates-hattina-33777489",
-     "published": "2026-10-26T09:09:00+00:00"
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/sergen-yalcin-galatasaray-fenerbahce-derbisini-rams-parkta-takip-etti",
+     "published": "2026-10-26T18:49:39+00:00"
     },
     {
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/liderlik-koltugundan-kume-dusme-hattina-p372875",
-     "published": "2026-10-26T09:38:01+00:00"
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/superlig/2026/10/26/sergen-yalcin-dev-derbiyi-izlemek-icin-rams-parkta",
+     "published": "2026-10-26T18:50:22+00:00"
     },
     {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/super-ligde-liderdi-kume-dusme-hattina-geriledi-3484644",
-     "published": "2026-10-26T10:35:54+00:00"
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/sergen-yalcin-derbiyi-tribunden-takip-etti-SXHBQ1180739SXQ",
+     "published": "2026-10-26T18:52:44+00:00"
     },
     {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/genclerbirligi-liderlik-koltugundan-dusme-hattina-737329",
-     "published": "2026-10-26T11:11:36+00:00"
-    },
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/buyuk-cokus-liderlik-koltugundan-kume-dusme-hattina-gerilediler-737343",
-     "published": "2026-10-26T14:49:40+00:00"
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/sergen-yalcin-galatasaray-fenerbahce-derbisini-tribunden-izledi-haber-2049306",
+     "published": "2026-10-26T19:30:00+00:00"
     }
    ],
    "n_sources": 4,
-   "first_published": "2026-10-26T09:09:00+00:00",
-   "last_published": "2026-10-26T14:49:40+00:00",
+   "first_published": "2026-10-26T18:49:39+00:00",
+   "last_published": "2026-10-26T19:30:00+00:00",
    "image": {
-    "url": "https://cdn-i.pr.trt.com.tr/trtspor/-21759895-0-182-3500-1968.jpeg",
+    "url": "https://iaaspr.tmgrup.com.tr/d21b93/1200/675/0/1/800/451?u=https://iaspr.tmgrup.com.tr/2026/10/26/sergen-yalcin-galatasaray-fenerbahce-derbisini-rams-parkta-takip-etti-1793043281338.jpeg",
     "kind": "source",
-    "label": "Fotoğraf: TRT Spor",
-    "credit": "TRT Spor",
-    "source_url": "https://www.trtspor.com.tr/haber/futbol/zirve-koltugundan-ates-hattina-33777489"
+    "label": "Fotoğraf: A Spor",
+    "credit": "A Spor",
+    "source_url": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/sergen-yalcin-galatasaray-fenerbahce-derbisini-rams-parkta-takip-etti"
    },
-   "score": 15.33,
+   "score": 12.09,
    "importance": 4,
-   "popular": false
+   "popular": true
   },
   {
-   "id": "s0074",
-   "rank": 10,
+   "id": "s0056",
+   "rank": 14,
    "key": "a938ab4d2cc0c025",
    "title": "Galatasaraylı Batrakov Rusya Milli Takımı'nın 36 kişilik geniş kadrosunda",
    "summarized": true,
-   "intro": "Galatasaray'ın sezon başında Lokomotiv Moskova'dan transfer ettiği 21 yaşındaki orta saha oyuncusu Aleksey Batrakov, Rusya Milli Takımı'nın Kasım ayındaki maçlar için açıklanan 36 kişilik geniş kadrosuna çağrıldı. Rusya, Kasım'da özel maçlarda Özbekistan ve Venezuela ile karşılaşacak. Kadroyu, Rusya Milli Takımı'nın teknik direktörü Valery Karpin belirledi ve liste 26 Ekim'de Rusya Milli Takımı'nın resmi hesabından duyuruldu. Kadroda Batrakov'un yanı sıra Golovin ve Safonov'un da adı yer aldı.",
+   "intro": "Galatasaray'ın sezon başında transfer ettiği Rus futbolcu Aleksey Batrakov, Rusya Milli Takımı'nın Kasım ayındaki Özbekistan ve Venezuela maçları için açıklanan 36 kişilik geniş kadroya girdi. Listeyi teknik direktör Valery Karpin belirledi ve Rusya Milli Takımı'nın resmi hesabından duyuruldu. Aynı gün akşam saatlerinde Batrakov, Süper Lig'in 9. haftasında RAMS Park'ta oynanan Galatasaray-Fenerbahçe derbisinde Okan Buruk'un ilk 11'inde yer alarak kariyerindeki ilk derbisine çıktı.",
    "bullets": [
-    "Rusya Milli Takımı'nın resmi hesabından yapılan paylaşıma göre Karpin'in listesinde Kasım ayındaki Özbekistan ve Venezuela maçları için 36 futbolcu bulunuyor.",
-    "Açıklanan liste geniş aday kadro niteliğinde; yani 36 isimden oluşan bu havuzdan maç kadrosu daha sonra belirlenecek.",
-    "Batrakov, Rusya Milli Takımı'nda şimdiye kadar 15 maçta forma giydi. Hürriyet bu maçlarda 4 gol attığını yazdı; Ajansspor ise 4 gol ve 4 asistlik katkı verdiğini aktardı.",
-    "Oyuncu, Galatasaray'a Lokomotiv Moskova'dan 25 milyon Euro'luk bedelle transfer oldu (Ajansspor).",
-    "Batrakov, sarı-kırmızılı formayla çıktığı 9 maçta 2 gol ve 2 asist kaydetti (Ajansspor).",
-    "Ajansspor'a göre genç oyuncu, Galatasaray'ın Barcelona ve Lille ile oynadığı karşılaşmalarda gol attı ve son haftalardaki performansıyla taraftarın beğenisini kazandı.",
-    "Rusya'nın ilgili Kasım maçları özel karşılaşma olarak aktarılıyor; kaynaklarda maç tarihleri ve yerleri belirtilmiyor."
+    "Rusya Milli Takımı'nın resmi hesabı, Karpin'in Kasım ayı maçları için 36 futbolculuk geniş kadroyu açıkladığını duyurdu.",
+    "Batrakov'un yanı sıra Golovin ve Safonov da Rusya'nın geniş kadrosunda yer aldı.",
+    "Rusya, Kasım'daki özel maçlarda Özbekistan ve Venezuela ile karşılaşacak.",
+    "Hürriyet'e göre 21 yaşındaki Batrakov, Rusya Milli Takımı'nda şimdiye kadar 15 maça çıktı ve 4 gol attı.",
+    "Batrakov, Galatasaray-Fenerbahçe derbisine ilk 11'de başlayarak bu karşılaşmada ilk kez forma giydi.",
+    "Galatasaray'ın yeni transferlerinden Rafael Leao, Lesley Ugochukwu ve Deniz Gül ile Jankat Yılmaz ve Renato Nhaga derbide yedek kulübesinde yer aldı.",
+    "Açıklanan kadro geniş liste niteliğinde olduğundan, nihai kadro bu listeden belirlenecek."
    ],
-   "why": "Batrakov'un milli takım çağrısı, Galatasaray'a transfer olduktan sonraki performansının ulusal takım düzeyinde de karşılık bulduğunu gösteriyor. Taraftar açısından oyuncunun Kasım'daki milli arada görev alıp almayacağı, kulüpteki süre ve form takibi bakımından önem taşıyor. Liste geniş kadro olduğu için nihai maç kadrosu henüz kesinleşmiş değil.",
+   "why": "Batrakov'un milli takım listesinde yer alması, Galatasaray'a sezon başında katılan oyuncunun hem kulüpte hem milli takımda değer gördüğünü gösteriyor. Derbide ilk 11'de görev alması da teknik heyetin ona güvendiğine işaret ediyor. Taraftar açısından Kasım'daki milli aranın ardından oyuncunun durumu takip edilecek.",
    "raw_summary": null,
    "category": "diger",
    "category_name": "Diğer",
@@ -804,10 +1125,6 @@
     }
    ],
    "leagues": [
-    {
-     "slug": "la-liga",
-     "name": "La Liga"
-    },
     {
      "slug": "milli-takim",
      "name": "A Millî Takım"
@@ -834,14 +1151,19 @@
      "published": "2026-10-26T11:10:02+00:00"
     },
     {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/aleksey-batrakova-rusya-milli-takimindan-davet-737333",
-     "published": "2026-10-26T13:25:39+00:00"
+     "name": "Sabah",
+     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/26/galatasarayda-aleksey-batrakovun-ilk-derbi-heyecani",
+     "published": "2026-10-26T18:56:43+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/galatasaray/galatasaray-da-batrakov-un-ilk-derbi-heyecani-SXHBQ1180755SXQ",
+     "published": "2026-10-26T19:49:30+00:00"
     }
    ],
-   "n_sources": 4,
+   "n_sources": 5,
    "first_published": "2026-10-26T11:06:29+00:00",
-   "last_published": "2026-10-26T13:25:39+00:00",
+   "last_published": "2026-10-26T19:49:30+00:00",
    "image": {
     "url": "https://iaaspr.tmgrup.com.tr/eedb6b/1200/675/0/0/800/449?u=https://iaspr.tmgrup.com.tr/2026/10/26/galatasarayin-genc-yildizi-batrakova-milli-davet-1793012759216.jpeg",
     "kind": "source",
@@ -849,160 +1171,26 @@
     "credit": "A Spor",
     "source_url": "https://www.aspor.com.tr/galatasaray/2026/10/26/galatasarayin-genc-yildizi-batrakova-milli-davet"
    },
-   "score": 10.62,
+   "score": 13.04,
    "importance": 5,
    "popular": false
   },
   {
-   "id": "s0077",
-   "rank": 11,
-   "key": "98bc02cb81528680",
-   "title": "Kerem Aktürkoğlu'nun derbi öncesi İsmail Kartal'dan ilk 11 talebi iddiası",
+   "id": "s0027",
+   "rank": 15,
+   "key": "7f4c1a19e64e0d86",
+   "title": "Mardin 1969 Spor, Manisa FK'yi evinde 2-1 yendi",
    "summarized": true,
-   "intro": "Trendyol Süper Lig'in 9. haftasında Fenerbahçe, deplasmanda Galatasaray ile karşılaşacak. Derbi öncesinde Kerem Aktürkoğlu'nun teknik direktör İsmail Kartal ile görüşerek ilk 11'de oynamak istediğini söylediği öne sürüldü. İddia, Posta'nın aktardığına göre Takvim'de yer alan habere dayanıyor. Son maçlardaki performansı nedeniyle eleştirilen milli futbolcunun, geçen sezonki yenilginin izlerini silmek istediği belirtiliyor.",
+   "intro": "Trendyol 1. Lig'in 12. haftasında Mardin 1969 Spor, 26 Ekim 2026 Pazartesi akşamı saat 20.00'de Mardin 21 Kasım Şehir Stadı'nda Manisa FK'yi konuk etti. Ev sahibi ekip karşılaşmayı 2-1 kazandı. Mardin 1969 Spor'un gollerini Uğur Adem Gezer ve Kayode attı, Manisa FK'nin golü ise Anziani'den geldi. Maç TRT Spor ekranlarından canlı yayınlandı.",
    "bullets": [
-    "Posta'nın Takvim'e dayandırdığı habere göre görüşme Samandıra'da, derbi öncesinde yapıldı; bu bilgi iddia olarak aktarıldı.",
-    "Aktürkoğlu'nun Kartal'a Rams Park'ta ilk 11'de başlamak istediğini söylediği iddia ediliyor.",
-    "İddiaya göre oyuncu, geçen yıl 3-0 kaybedilen maçta kendini gösteremediğini belirtip 'Kendimi affettirmek istiyorum' dedi.",
-    "Aktürkoğlu'nun, süre alması halinde elinden gelenin en iyisini yapmak istediği ve performansıyla teknik ekibin ile taraftarın güvenini kazanmayı planladığı aktarıldı.",
-    "Oyuncu son olarak Slavia Prag maçında oyundan alınırken tribünlerin bir bölümünce ıslıklanmıştı.",
-    "Aktürkoğlu bu tepkiye alkışla karşılık vermiş ve taraftara 'Bravo size' demişti.",
-    "Aynı maçın ardından, son düdükten yaklaşık 10 dakika sonra soyunma odasından çıkıp takım otobüsünü beklemeden stadyumdan tek başına ayrıldığı görülmüştü.",
-    "A Spor ve Fotomaç haberlerinde ise yalnızca oyuncunun 'flaş bir talepte bulunduğu öğrenildi' denildi; talebin içeriği özetlerde yer almıyor."
+    "Mardin 1969 Spor, 18. dakikada Uğur Adem Gezer'in golüyle öne geçti.",
+    "Manisa FK, 26. dakikada Anziani'nin penaltıdan attığı golle durumu 1-1'e getirdi.",
+    "Kayode 44. dakikada ev sahibine yeniden üstünlük kazandırdı ve ilk yarı 2-1 bitti.",
+    "İkinci yarıda iki takım da oyuncu değişiklikleri yaptı, ancak skor değişmedi; Manisa FK aradığı beraberlik golünü bulamadı.",
+    "Maç öncesinde Nusaybin'de otomobilin sulama kanalına devrilmesi sonucu yaşamını yitiren, 4'ü çocuk 6 kişi için saygı duruşunda bulunuldu.",
+    "Sporx'un aktardığına göre bu sonuçla Mardin 1969 Spor puanını 21'e yükseltti ve zirve takibini sürdürdü."
    ],
-   "why": "Derbide ilk 11 tercihi Fenerbahçe taraftarı için en çok merak edilen konulardan biri. Eleştirilen bir oyuncunun kendisini kanıtlama isteği, kadro kararını ve maçın gidişatını etkileyebilir. İddia henüz resmi olarak doğrulanmış değil; ilk 11 maç saatinde belli olacak.",
-   "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
-   "status": "soylenti",
-   "clubs": [
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
-    },
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "A Spor",
-     "url": "https://www.aspor.com.tr/fenerbahce/2026/10/26/fenerbahce-haberi-kerem-akturkoglundan-galatasaray-derbisine-saatler-kala-flas-talep",
-     "published": "2026-10-26T11:32:00+00:00"
-    },
-    {
-     "name": "Fotomaç",
-     "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/26/kerem-akturkoglundan-ismail-kartala-ilk-11de",
-     "published": "2026-10-26T12:15:58+00:00"
-    },
-    {
-     "name": "Posta",
-     "url": "https://www.posta.com.tr/spor/kerem-akturkoglundan-derbi-oncesi-ismail-kartala-galatasaray-talebi-3056765",
-     "published": "2026-10-26T12:30:30+00:00"
-    }
-   ],
-   "n_sources": 3,
-   "first_published": "2026-10-26T11:32:00+00:00",
-   "last_published": "2026-10-26T12:30:30+00:00",
-   "image": {
-    "url": "https://iaaspr.tmgrup.com.tr/4fb559/1200/675/0/0/2047/1151?u=https://iaspr.tmgrup.com.tr/2026/10/26/fenerbahce-haberi-kerem-akturkoglundan-galatasaray-derbisine-saatler-kala-flas-talep-1793014207696.jpg",
-    "kind": "source",
-    "label": "Fotoğraf: A Spor",
-    "credit": "A Spor",
-    "source_url": "https://www.aspor.com.tr/fenerbahce/2026/10/26/fenerbahce-haberi-kerem-akturkoglundan-galatasaray-derbisine-saatler-kala-flas-talep"
-   },
-   "score": 10.22,
-   "importance": 5,
-   "popular": false
-  },
-  {
-   "id": "s0068",
-   "rank": 12,
-   "key": "5f987a95098a4837",
-   "title": "Galatasaray-Fenerbahçe derbisi bu akşam RAMS Park'ta oynanacak",
-   "summarized": true,
-   "intro": "Trendyol Süper Lig'in 9. haftasında Galatasaray ile Fenerbahçe, bu akşam saat 21.30'da RAMS Park'ta karşılaşacak. Maçı Atilla Karaoğlan yönetecek, VAR'da ise İspanyol hakem Carlos del Cerro Grande görev alacak. İki takım da galibiyetle ayrılmayı hedefliyor ve hazırlıklarını tamamladı. Fenerbahçeli taraftarlar Kadıköy'de toplandıktan sonra Chobani Stadyumu'na geçti; otobüslerin 17.30'da RAMS Park'a hareket etmesi planlanıyor.",
-   "bullets": [
-    "Galatasaray, RAMS Park kapılarının 18.30'da, Aslanlı Yol'un ise 17.30'da taraftarlara açılacağını duyurdu.",
-    "Sakatlığı nedeniyle oynayıp oynamayacağı netleşmeyen Rafael Leao'nun, oynamak istediği ve yedek başlayıp ikinci yarıda az da olsa süre alması beklendiği aktarıldı.",
-    "Victor Osimhen bu sezon 6 maçta 6 golle Galatasaray'ın en skorer ismi; sakatlık nedeniyle 2 lig maçını kaçırdı. Fenerbahçe'ye karşı çıktığı 5 maçta 3 gol attı.",
-    "Fenerbahçe'de İsmail Kartal'ın Vedat Muric ile Romelu Lukaku arasında tercih yapacağı merak ediliyor. Muric 8 maçta 7 gol attı; Lukaku'nun ligdeki tek golü Alanya maçında geldi ve ilk kez Galatasaray'a karşı oynayacak.",
-    "Fenerbahçe 22 golle ligin en golcü takımı; bu sezon 6 gol yedi. Son 4 ligi maçında kalesini gole kapadı ve son üç maçını kazandı.",
-    "Galatasaray 8 maçta 17 gol attı, 11 gol yedi; yediği gollerin 7'si ikinci yarılarda geldi.",
-    "Takımlar Süper Lig'de 139. kez karşılaşacak; galibiyetlerde Fenerbahçe 53-39 önde. Galatasaray, 19 Mayıs 2024'teki Fenerbahçe maçından bu yana 39 iç saha maçında yenilmedi.",
-    "Dursun Özbek Galatasaray başkanı olarak 18. derbisine çıkacak (7 galibiyet, 6 beraberlik, 4 yenilgi). Aziz Yıldırım ise Fenerbahçe başkanı olarak 54. derbisini yaşayacak."
-   ],
-   "why": "Sezonun ilk büyük derbisi, ligin en golcü takımı Fenerbahçe ile uzun süredir evinde yenilmeyen Galatasaray'ı karşı karşıya getiriyor. Leao'nun durumu ile Muric-Lukaku tercihi, maçın taktik açıdan en çok merak edilen başlıkları arasında.",
-   "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
-   "status": "resmi",
-   "clubs": [
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
-    },
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-super-ligde-dev-mac-galatasaray-fenerbahce-derbisi-oncesi-dakika-dakika-tum-gelismeler-431921",
-     "published": "2026-10-26T10:50:27+00:00"
-    },
-    {
-     "name": "Hürriyet",
-     "url": "https://www.hurriyet.com.tr/sporarena/live-derbilerin-en-guzeli-galatasaray-fenerbahce-iste-muhtemel-11ler-43354831",
-     "published": "2026-10-26T13:58:00+00:00"
-    }
-   ],
-   "n_sources": 2,
-   "first_published": "2026-10-26T10:50:27+00:00",
-   "last_published": "2026-10-26T13:58:00+00:00",
-   "image": {
-    "url": "https://images.ntvspor.net/images/galatasaray-fenerbahce-507648.jpg?format=webp",
-    "kind": "source",
-    "label": "Fotoğraf: NTV Spor",
-    "credit": "NTV Spor",
-    "source_url": "https://www.ntvspor.net/futbol/galeri-super-ligde-dev-mac-galatasaray-fenerbahce-derbisi-oncesi-dakika-dakika-tum-gelismeler-431921"
-   },
-   "score": 9.73,
-   "importance": 5,
-   "popular": false
-  },
-  {
-   "id": "s0019",
-   "rank": 13,
-   "key": "ea8be18d995e5861",
-   "title": "Ziraat Türkiye Kupası 3. eleme turu yarın başlıyor, hakemler belli oldu",
-   "summarized": true,
-   "intro": "Ziraat Türkiye Kupası'nda 3. eleme turu 27 Ekim'de oynanacak 12 maçla başlayacak. Türkiye Futbol Federasyonunun açıklamasına göre turun maçları 27, 28 ve 29 Ekim tarihlerinde oynanacak. Tur, bir önceki etaptan gelen 31 takımın da aralarında bulunduğu toplam 72 takımın katılımıyla tek maç eleme usulünde yapılacak. Kazanan takımlar dördüncü eleme turuna yükselecek. Maçları yönetecek hakemler de 26 Ekim'de açıklandı.",
-   "bullets": [
-    "Tek maç eleme usulü uygulanacağından her eşleşmede rövanş olmayacak; kazanan doğrudan dördüncü eleme turuna çıkacak.",
-    "27 Ekim'de 13.00'te Ağrı 1970 Spor-İstanbulspor ve 13.30'da Etimesgutspor-Gaziantep FK maçlarıyla başlanacak. Aynı saatte İnegöl Kafkasspor-Akedaş Kahramanmaraş İstiklalspor ve Pazarspor-Aliağa Futbol da oynanacak.",
-    "27 Ekim'in ilerleyen saatlerinde Adana Adaletgücüspor-MKE Ankaragücü, Elazığspor-Erciyes 38, Orduspor 1967-Vanspor, Sarıyer-Ayvalıkgücü ve Boluspor-Karşıyaka maçları var. Kocaelispor-Mazıdağı Fosfatspor 18.00'de, Mersin İdmanyurdu-Muşspor 19.00'da, Alanyaspor-12 Bingölspor 20.30'da oynanacak.",
-    "28 Ekim Çarşamba günü programda Kars 36 Spor-Antalyaspor, Sakaryaspor-Bursa Yıldırımspor, Fethiyespor-Eyüpspor, Mısırlıcomtr Fatih Karagümrük-Somaspor ve 52 Orduspor FK-KCT 1461 Trabzon FK gibi karşılaşmalar yer alıyor.",
-    "29 Ekim Perşembe günü Bitlis 1916 Spor-Kayserispor (13.30), Gençlerbirliği-Karaköprü Belediyespor (15.30) ve Kasımpaşa-Çorluspor 1947 (18.00) maçları oynanacak.",
-    "Eskişehirspor-Alagöz Holding Iğdır FK maçının günü kaynaklarda farklı: Anadolu Ajansı metni 27 Ekim 20.30 olarak veriyor, CNN Türk'teki program ise 29 Ekim 20.30 olarak gösteriyor.",
-    "Hakemlerin açıklandığı haberlerin özetlerinde atamaların kimlere yapıldığına dair ayrıntı yer almıyor."
-   ],
-   "why": "Kupada üst tura çıkma yolu tek maçtan geçtiği için küçük kulüpler ile ligdeki takımlar arasındaki eşleşmeler sürpriz ihtimali taşıyor. Taraftarlar kendi takımlarının maç gün, saat ve stadını bilerek hazırlanabilir. Hakemlerin belli olması da turun hazırlık sürecinin tamamlandığını gösteriyor.",
+   "why": "Mardin 1969 Spor, evinde aldığı galibiyetle puanını 21'e çıkararak üst sıralardaki yerini korudu. Manisa FK ise deplasmandan eli boş döndü ve bu sonuç haftanın puan tablosundaki dengeleri etkiledi.",
    "raw_summary": null,
    "category": "mac",
    "category_name": "Maç",
@@ -1010,136 +1198,186 @@
    "clubs": [],
    "leagues": [
     {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    },
-    {
-     "slug": "turkiye-kupasi",
-     "name": "Türkiye Kupası"
+     "slug": "tff-1-lig",
+     "name": "TFF 1. Lig"
     }
    ],
    "sources": [
     {
-     "name": "Anadolu Ajansı",
-     "url": "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-3-eleme-turu-yarin-oynanacak-maclarla-baslayacak/4100654",
-     "published": "2026-10-26T06:45:20+00:00"
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/birincilig/2026/10/26/canli-mardin-1969-spor-manisa-fk-maci-saat-kacta-hangi-kanalda",
+     "published": "2026-10-26T08:37:13+00:00"
     },
     {
      "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/ziraat-turkiye-kupasinda-3-eleme-turu-heyecani-33776261",
-     "published": "2026-10-26T06:46:00+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/ziraat-turkiye-kupasinda-3-eleme-turu-yarin-basliyor-iste-program-3484507",
-     "published": "2026-10-26T06:59:45+00:00"
-    },
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/haber/futbol/ziraat-turkiye-kupasinda-hakemler-aciklandi-33779542",
-     "published": "2026-10-26T11:57:00+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/ziraat-turkiye-kupasi-3-tur-maclarinin-hakemleri-belli-oldu-3484685",
-     "published": "2026-10-26T12:02:29+00:00"
-    },
-    {
-     "name": "Sözcü",
-     "url": "https://www.sozcu.com.tr/turkiye-kupasi-nda-3-eleme-turu-maclarinin-hakemleri-belli-oldu-p372934",
-     "published": "2026-10-26T12:12:37+00:00"
+     "url": "https://www.trtspor.com.tr/haber/futbol/mardin-1969-spor-evinde-galip-33785693",
+     "published": "2026-10-26T19:09:00+00:00"
     },
     {
      "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/ziraat-turkiye-kupasi-3-eleme-turunun-hakemleri-belli-oldu-737332",
-     "published": "2026-10-26T13:14:14+00:00"
+     "url": "https://ajansspor.com/haber/mardin-1969-spor-evinde-hata-yapmadi-manisa-fkye-gecit-yok-737374",
+     "published": "2026-10-26T19:19:18+00:00"
+    },
+    {
+     "name": "Fotomaç",
+     "url": "https://www.fotomac.com.tr/birincilig/2026/10/26/mardin-1969-spor-evinde-kazandi",
+     "published": "2026-10-26T19:32:33+00:00"
+    },
+    {
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/birincilig/mardin-1969-spor-manisa-fk-yi-devirdi-SXHBQ1180753SXQ",
+     "published": "2026-10-26T19:46:05+00:00"
+    },
+    {
+     "name": "Star",
+     "url": "https://www.star.com.tr/spor/mac-sonucu-mardin-1969-spor-2-1-manisa-fk-haber-2049317",
+     "published": "2026-10-26T20:21:00+00:00"
     }
    ],
    "n_sources": 5,
-   "first_published": "2026-10-26T06:45:20+00:00",
-   "last_published": "2026-10-26T13:14:14+00:00",
+   "first_published": "2026-10-26T08:37:13+00:00",
+   "last_published": "2026-10-26T20:21:00+00:00",
    "image": {
-    "url": "https://cdn-i.pr.trt.com.tr/trtspor/ziraat-turkiye-kupasi-20826164-0-0-1920-1080.jpeg",
+    "url": "https://cdn.ajansspor.com/ajansspor/photo/2026/10/fab48d3b-954a-4066-a53d-3c29da0ef14b.png",
     "kind": "source",
-    "label": "Fotoğraf: TRT Spor",
-    "credit": "TRT Spor",
-    "source_url": "https://www.trtspor.com.tr/haber/futbol/ziraat-turkiye-kupasinda-3-eleme-turu-heyecani-33776261"
+    "label": "Fotoğraf: Ajansspor",
+    "credit": "Ajansspor",
+    "source_url": "https://ajansspor.com/haber/mardin-1969-spor-evinde-hata-yapmadi-manisa-fkye-gecit-yok-737374"
    },
-   "score": 7.57,
+   "score": 13.77,
+   "importance": 4,
+   "popular": false
+  },
+  {
+   "id": "s0189",
+   "rank": 16,
+   "key": "d7f08cc9bb0c658f",
+   "title": "Galatasaray-Fenerbahçe derbisinde Osimhen'in Brown'a müdahalesi tartışıldı",
+   "summarized": true,
+   "intro": "Trendyol Süper Lig'in 9. haftasında Galatasaray, sahasında Fenerbahçe'yi ağırladı. İlk yarının son anlarında Galatasaraylı Victor Osimhen ile Fenerbahçeli Archie Brown arasındaki bir pozisyon maçın en çok konuşulan anlarından biri oldu. Osimhen'in ayağının Brown'a gelmesinin ardından hakem kart göstermeden oyunu devam ettirdi. Fenerbahçeli taraftarlar sosyal medyada kırmızı kart itirazı yaptı, eski hakem Deniz Ateş Bitnel ise pozisyonun sarı kart olması gerektiğini savundu.",
+   "bullets": [
+    "Pozisyon, ilk yarının bitimine kısa süre kala yaşandı; hakem Osimhen'e herhangi bir kart göstermedi.",
+    "Kaynaklar temas edilen bölgeyi farklı aktarıyor: biri Brown'un ayağına, diğeri bileğine bastığını yazıyor.",
+    "Yeni Şafak'a göre Osimhen pozisyondan hemen önce ceza sahası içinde önünde kalan topa vurdu; top direkten dışarı çıktı.",
+    "Aynı pozisyonda ofsayt bayrağı kalktı.",
+    "Fenerbahçeli taraftarlar görüntüleri değerlendirerek hareketin kırmızı kart gerektirdiğini savundu ve hakemin karar vermemesine tepki gösterdi.",
+    "Eski hakem Deniz Ateş Bitnel, pozisyonun sarı kart olması gerektiğini belirtti ve \"Ayak pençesi yerde, diz kırık, güç transferi yok\" dedi.",
+    "Pozisyonun kırmızı kart gerektirip gerektirmediğine dair resmî bir hakem değerlendirmesi henüz yapılmadı."
+   ],
+   "why": "Derbide kırmızı kart tartışması, hakem kararlarının maçın seyri ve sonrasındaki yorumlar üzerindeki etkisini yeniden gündeme getirdi. Taraftarlar, resmî bir değerlendirme gelip gelmeyeceğini ve olası bir disiplin sürecini takip edecek.",
+   "raw_summary": null,
+   "category": "hakem",
+   "category_name": "Hakem / VAR",
+   "status": "belirsiz",
+   "clubs": [
+    {
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    },
+    {
+     "slug": "galatasaray",
+     "name": "Galatasaray"
+    }
+   ],
+   "leagues": [
+    {
+     "slug": "super-lig",
+     "name": "Süper Lig"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/spor/macta-tartisilan-an-osimhenin-pozisyonu-kirmizi-kart-mi-4867469",
+     "published": "2026-10-26T19:31:47+00:00"
+    },
+    {
+     "name": "Ajansspor",
+     "url": "https://ajansspor.com/haber/gsaray-fbahce-derbisinde-osimhenin-hareketine-kirmizi-kart-tepkisi-737375",
+     "published": "2026-10-26T19:44:33+00:00"
+    }
+   ],
+   "n_sources": 2,
+   "first_published": "2026-10-26T19:31:47+00:00",
+   "last_published": "2026-10-26T19:44:33+00:00",
+   "image": {
+    "url": "https://img.piri.net/piri/upload/3/2026/10/26/3005f5d7-macta-tartisilan-an-osimhenin-pozisyonu-kirmizi-kart-mi.webp",
+    "kind": "source",
+    "label": "Fotoğraf: Yeni Şafak",
+    "credit": "Yeni Şafak",
+    "source_url": "https://www.yenisafak.com/spor/macta-tartisilan-an-osimhenin-pozisyonu-kirmizi-kart-mi-4867469"
+   },
+   "score": 8.99,
    "importance": 5,
    "popular": false
   },
   {
-   "id": "s0156",
-   "rank": 14,
-   "key": "1e23beea62676e9e",
-   "title": "Galatasaray - Fenerbahçe derbisi öncesi ilk 11'ler belli oldu, takımlar RAMS Park'ta",
+   "id": "s0006",
+   "rank": 17,
+   "key": "e974fc56205bd88a",
+   "title": "Real Madrid, Camp Nou'da Barcelona'yı 2-1 yendi; Arda Güler İspanya basınında öne çıktı",
    "summarized": true,
-   "intro": "Trendyol Süper Lig'in 9. haftasında Galatasaray ile Fenerbahçe, RAMS Park'ta karşı karşıya geliyor. Her iki takımın futbolcu otobüsleri stada ulaştı; Galatasaray Kemerburgaz Metin Oktay Tesisleri'nden, Fenerbahçe ise Can Bartu Tesisleri'nden hareket etti. Galatasaray ligde 8 haftada 19 puan toplarken Fenerbahçe 16 puanda bulunuyor. Galatasaray'ın kadrosunda eksik yok, Fenerbahçe ise Marco Asensio ve Nathan Ake olmadan sahaya çıkacak.",
+   "intro": "La Liga'nın 10. haftasında oynanan El Clasico'da Real Madrid, deplasmanda Barcelona'yı 2-1 mağlup etti. Madrid'e galibiyeti getiren iki golü de Kylian Mbappe attı. İlk 11'de başlayan milli futbolcu Arda Güler, yarattığı pozisyonlar ve şutlarıyla İspanyol basınında geniş yer buldu. Barcelona bu sonuçla ligde ilk yenilgisini yaşadı.",
    "bullets": [
-    "Galatasaray ligde 8 haftada 6 galibiyet, 1 beraberlik ve 1 mağlubiyetle 19 puan topladı. Son lig maçında Gençlerbirliği'ni deplasmanda 1-0 yendi.",
-    "Galatasaray hafta içinde Şampiyonlar Ligi'nde Fransa'nın Lille takımını 4-2 geçerek derbiye moralli girdi.",
-    "Fenerbahçe ilk 8 haftada 5 galibiyet, 1 beraberlik ve 2 mağlubiyetle 16 puan topladı. Geçen hafta Corendon Alanyaspor'u 3-0 yendi.",
-    "Fenerbahçe, Şampiyonlar Ligi'nde evinde Slavia Prag ile 2-2 berabere kaldı. Teknik direktörü İsmail Kartal olarak anıldı.",
-    "Fenerbahçe, derbide çubuklu forma, lacivert şort ve konçla sahaya çıkacak.",
-    "Chobani Stadı çevresinde toplanan yaklaşık 2 bin 500 Fenerbahçe taraftarı 33 otobüsle RAMS Park'a hareket etti. Çevrede yoğun güvenlik önlemleri alındı.",
-    "Yorumcu Aykut Erçetin, derbinin sezonu alt üst edebilecek bir maç olduğunu, Şampiyonlar Ligi ve eleme maçlarının geride kaldığını söyledi. Hasan Hüseyin Alimoğlu ise Galatasaray'ın erken geriye düşmemesinin önemine dikkat çekti."
+    "Mbappe, Real Madrid'i 41. dakikada öne geçirdi. Barcelona'nın beraberlik golü ikinci yarıda 61. dakikada Raphinha'dan geldi, Mbappe 88. dakikada galibiyet golünü attı.",
+    "Puan durumunda Barcelona 27 puanla liderliğini korudu. Real Madrid 24 puana yükselerek üçüncü sıraya yerleşti.",
+    "Arda Güler 90+4. dakikaya kadar oynadı ve yerini Trent Alexander-Arnold'a bıraktı. Kaynaklardan biri Arda'nın şutlarını ve kullandığı kornerleri aktardı; Joan Garcia onun birkaç denemesini kurtardı.",
+    "AS, Arda'nın savunma arkasına attığı paslarla Diomande ve Mbappe'yi kaleciyle karşı karşıya bıraktığını yazdı. Aynı yazıda kendi yarı sahasındaki dalgınlıklar nedeniyle Lunin'in refleksleriyle kurtulunan anlar olduğu da belirtildi.",
+    "Marca, Arda'nın orta sahada top çalıp Pedri'yi geçtiğini, Valverde ile uyumunu ve ayak dışıyla verdiği pası öne çıkardı. Mbappe'nin bu pozisyonu ucu ucuna kaçırdığı aktarıldı.",
+    "El Pais'e göre Mourinho, Arda Güler ile Bernardo Silva'yı birlikte ilk 11'e koydu. Valverde sağ bekte oynadı ve Tchouameni orta sahada Bernardo Silva ile eşleşti. Cadena SER, bu düzenin Rodri ve Pedri'yi etkisiz bıraktığını yazdı.",
+    "Lavanguardia, Arda'yı Madrid hücumunun en aktif oyuncusu olarak nitelendirdi. La Opinion ise onu son üç maçta maç başına ortalama dört gol atan Madrid'in oyun kurucusu olarak tanımladı.",
+    "Maçtan sonra Real Madrid'in Arda'ya yönelik sevgi mesajına, Arda sosyal medyadan \"Hiçbir zaman değişmeyecek. Ben de seni seviyorum. Hala Madrid, sonsuza kadar!\" diye karşılık verdi."
    ],
-   "why": "Derbi, iki takımın puan durumundaki yerini ve sezon moralini etkileyebilecek bir karşılaşma. Galatasaray'ın eksiksiz, Fenerbahçe'nin ise Asensio ve Ake'siz olması taktik dengeyi etkileyebilir.",
+   "why": "Real Madrid, Barcelona'nın ligdeki yenilmezliğine son verdi ve puan farkını üç puana indirdi. Milli futbolcu Arda Güler'in Mourinho'nun yeni orta saha düzeninde kilit rol oynaması, Türk taraftar için de büyük bir gurur kaynağı.",
    "raw_summary": null,
    "category": "mac",
    "category_name": "Maç",
    "status": "resmi",
    "clubs": [
     {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
+     "slug": "barcelona",
+     "name": "Barcelona"
     },
     {
-     "slug": "genclerbirligi",
-     "name": "Gençlerbirliği"
-    },
-    {
-     "slug": "alanyaspor",
-     "name": "Alanyaspor"
-    },
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
+     "slug": "real-madrid",
+     "name": "Real Madrid"
     }
    ],
    "leagues": [
     {
-     "slug": "sampiyonlar-ligi",
-     "name": "Şampiyonlar Ligi"
-    },
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
+     "slug": "la-liga",
+     "name": "La Liga"
     }
    ],
    "sources": [
     {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/rams-park-ta-dev-derbi-galatasaray-fenerbahce-muhtemel-11-ler-3922543",
-     "published": "2026-10-26T17:30:58+00:00"
+     "name": "A Spor",
+     "url": "https://www.aspor.com.tr/futbol/2026/10/26/arda-guler-barcelona-real-madrid-maci-sonrasi-ispanyada-gundem-oldu",
+     "published": "2026-10-26T07:18:03+00:00"
+    },
+    {
+     "name": "Hürriyet",
+     "url": "https://www.hurriyet.com.tr/sporarena/arda-guler-ispanyada-mansetlerde-mourinho-ondan-stradivarius-istiyor-43355061",
+     "published": "2026-10-26T07:40:00+00:00"
     }
    ],
-   "n_sources": 1,
-   "first_published": "2026-10-26T17:30:58+00:00",
-   "last_published": "2026-10-26T17:30:58+00:00",
+   "n_sources": 2,
+   "first_published": "2026-10-26T07:18:03+00:00",
+   "last_published": "2026-10-26T07:40:00+00:00",
    "image": {
-    "path": "pool/diger-1.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
+    "url": "https://iaaspr.tmgrup.com.tr/9f957e/1200/675/0/0/800/450?u=https://iaspr.tmgrup.com.tr/2026/10/26/arda-guler-barcelona-real-madrid-maci-sonrasi-ispanyada-gundem-oldu-1792998996003.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: A Spor",
+    "credit": "A Spor",
+    "source_url": "https://www.aspor.com.tr/futbol/2026/10/26/arda-guler-barcelona-real-madrid-maci-sonrasi-ispanyada-gundem-oldu"
    },
-   "score": 4.09,
-   "importance": 6,
-   "popular": true
+   "score": 5.28,
+   "importance": 7,
+   "popular": false
   },
   {
-   "id": "s0045",
-   "rank": 15,
+   "id": "s0031",
+   "rank": 18,
    "key": "1f713d86cfb531cf",
    "title": "Bursaspor Keçiörengücü'nü 4-2 yenip lider oldu, Iheanacho serisini 12 maça çıkardı",
    "summarized": true,
@@ -1196,152 +1434,38 @@
     "credit": "CNN Türk",
     "source_url": "https://www.cnnturk.com/spor/futbol/bursasporun-gol-makinesi-iheanacho-rekorlari-altust-etti-3484571"
    },
-   "score": 5.51,
+   "score": 5.13,
    "importance": 5,
    "popular": false
   },
   {
-   "id": "s0153",
-   "rank": 16,
-   "key": "4ec0c5729f4a0a67",
-   "title": "Trabzonspor, Rizespor deplasmanında 2-0 gerilikten 3-2 öne geçti",
+   "id": "s0218",
+   "rank": 19,
+   "key": "76332e1acc2c449e",
+   "title": "Galatasaray-Fenerbahçe derbisinin ardından saha içinde gerginlik yaşandı",
    "summarized": true,
-   "intro": "Trendyol Süper Lig'in 9. haftasında Çaykur Rizespor ile Trabzonspor, Çaykur Didi Stadı'nda karşılaştı. Ev sahibi ekip ilk yarıyı Gennaro Borelli'nin 12. ve 32. dakikadaki golleriyle 2-0 önde tamamladı. Trabzonspor ikinci yarıya Fabinho-Folcarelli değişikliğiyle başladı ve 8 dakika içinde üç gol bularak öne geçti. Kaynaktaki habere göre goller sırasıyla Melih Kabasakal, Aral Şimşir ve Franculino Dju'dan geldi. Kaynak, maçın nihai sonucunu aktarmıyor.",
+   "intro": "Trendyol Süper Lig'in 9. haftasında Galatasaray ile Fenerbahçe RAMS Park'ta karşılaştı. Sarı-kırmızılılar, Victor Osimhen'in attığı iki golle derbiyi 2-1 kazandı. Maçın bitiş düdüğünün ardından sahada oyuncular arasında gerginlik çıktı ve güvenlik güçleri ile polis sahaya girerek durumu kontrol altına almaya çalıştı. Kaynaklara göre olaylar kısa süre içinde sakinleştirildi.",
    "bullets": [
-    "Rizespor'un iki golü de Gennaro Borelli'den geldi; goller 12. ve 32. dakikada atıldı ve ilk yarı 2-0 bitti.",
-    "Trabzonspor'un golleri 49. dakikada Melih Kabasakal, 51. dakikada Aral Şimşir ve 57. dakikada Franculino Dju'dan geldi.",
-    "Teknik tarafta bordo-mavililer ikinci yarıya Fabinho-Folcarelli değişikliğiyle başladı.",
-    "Aral Şimşir ve Melih Kabasakal, Trabzonspor formasıyla ilk kez gol sevinci yaşadı.",
-    "Franculino Dju, Trabzonspor'la çıktığı 8 maçta 6 gol ve 3 asistlik performansa ulaştı.",
-    "Ernest Muci, Aral Şimşir ve Melih Kabasakal'ın gollerinde asist yaptı; Dju'nun golünde de büyük pas ondan geldi.",
-    "Arnavut futbolcu Muci bu sezon 11 maçta 2 gol ve 5 asistlik katkı verdi."
+    "Gerginliğin, Kerem Aktürkoğlu ile Roland Sallai arasında başladığı aktarıldı; NTV Spor, Aktürkoğlu'nun Sallai'nin üzerine yürüdüğünü yazdı.",
+    "Sporx'un aktardığına göre bu gerginliğe bir Galatasaray antrenörü de karıştı, ardından tüm oyuncular olaya dahil oldu.",
+    "Aynı kaynağa göre Archie Brown ile Abdülkerim Bardakcı arasındaki kavgada iki oyuncu birbirini yere düşürdü; diğer oyuncular onları ayırmaya çalıştı.",
+    "Sporx, polisin sahaya girerek kavgayı ayırmaya çalıştığını ve yaklaşık 3-4 dakika süren olayın polisin müdahalesiyle sona erdiğini belirtti.",
+    "Star, güvenlik güçlerinin sahaya girdiğini ve kısa süreli bir gerginlik yaşandığını yazdı; görüntülerin beIN Sports kaynaklı olduğunu belirtti.",
+    "Kaynaklarda olaylar nedeniyle verilen bir ceza, sakatlık veya resmi açıklama bilgisi yer almıyor."
    ],
-   "why": "Trabzonspor, ilk yarıda 2-0 geride kalmasına rağmen deplasmanda kısa sürede skoru lehine çevirdi; bu, takımın direncini gösteriyor. Aral Şimşir ve Melih Kabasakal'ın ilk golleri ile Dju ve Muci'nin üretkenliği taraftar açısından olumlu işaretler. Maçın final skoru kaynakta yer almadığı için sonuç ayrıca teyit edilmeli.",
+   "why": "Derbi sonrası yaşanan olaylar, iki takım arasındaki rekabetin sahadaki gerilimini bir kez daha gösterdi. Karışan oyuncular ve teknik ekip üyeleri nedeniyle olası disiplin süreçleri taraftarlar için merak konusu olabilir; ancak kaynaklarda bu yönde bir bilgi bulunmuyor.",
    "raw_summary": null,
    "category": "mac",
    "category_name": "Maç",
    "status": "belirsiz",
    "clubs": [
     {
-     "slug": "trabzonspor",
-     "name": "Trabzonspor"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/trabzonspor-aral-simsir-melih-kabasakal-ve-djku-ile-geri-dondu-737357",
-     "published": "2026-10-26T17:23:57+00:00"
-    }
-   ],
-   "n_sources": 1,
-   "first_published": "2026-10-26T17:23:57+00:00",
-   "last_published": "2026-10-26T17:23:57+00:00",
-   "image": {
-    "url": "https://cdn.ajansspor.com/ajansspor/photo/2026/10/0db007ee-e856-4bf6-9c46-e989d6ebc9ca.jpg",
-    "kind": "source",
-    "label": "Fotoğraf: Ajansspor",
-    "credit": "Ajansspor",
-    "source_url": "https://ajansspor.com/haber/trabzonspor-aral-simsir-melih-kabasakal-ve-djku-ile-geri-dondu-737357"
-   },
-   "score": 4.06,
-   "importance": 7,
-   "popular": false
-  },
-  {
-   "id": "s0154",
-   "rank": 17,
-   "key": "e7bf638029634b6b",
-   "title": "Galatasaray - Fenerbahçe derbisinin ilk 11'leri belli oldu",
-   "summarized": true,
-   "intro": "Süper Lig'in 9. haftasında Galatasaray ile Fenerbahçe, RAMS Park'ta karşı karşıya geliyor. beIN Sports'tan yayınlanacak karşılaşma saat 21.30'da başlayacak. Maçı Atilla Karaoğlan yönetecek, VAR'da ise İspanyol hakem Carlos del Cerro Grande görev alacak. İki takımın ilk 11'leri de açıklandı.",
-   "bullets": [
-    "Karşılaşmanın hakemi Atilla Karaoğlan; yardımcılıklarını Ceyhun Sesigüzel ve Süleyman Özay yapacak.",
-    "VAR hakemi İspanyol Carlos del Cerro Grande olarak belirlendi.",
-    "Galatasaray ilk 11: Uğurcan, Sallai, Sanchez, Abdülkerim, Jakobs, Torreira, Lemina, Yunus, Batrakov, Barış Alper, Osimhen.",
-    "Fenerbahçe ilk 11: Ederson, Semedo, Skriniar, Brown, Levent, Guendouzi, Kante, Greenwood, İrfan Can, Oğuz, Lukaku.",
-    "Galatasaray'ın hücum hattında Osimhen, Fenerbahçe'nin ileri uçta ise Lukaku forma giyecek.",
-    "Maç RAMS Park'ta oynanacak ve beIN Sports'tan canlı yayınlanacak."
-   ],
-   "why": "Derbinin kadroları ve hakem ekibi netleşti; taraftarlar iki takımın hangi dizilişle sahaya çıkacağını önceden görebiliyor. Süper Lig'in 9. haftasındaki bu karşılaşma, iki rakip arasındaki sezonun ilk büyük sınavı olarak öne çıkıyor.",
-   "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
-   "status": "resmi",
-   "clubs": [
+     "slug": "fenerbahce",
+     "name": "Fenerbahçe"
+    },
     {
      "slug": "galatasaray",
      "name": "Galatasaray"
-    },
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Sporx",
-     "url": "https://www.sporx.com/futbol/superlig/galatasaray/galatasaray-fenerbahce-11-ler-SXHBQ1180727SXQ",
-     "published": "2026-10-26T17:28:00+00:00"
-    }
-   ],
-   "n_sources": 1,
-   "first_published": "2026-10-26T17:28:00+00:00",
-   "last_published": "2026-10-26T17:28:00+00:00",
-   "image": {
-    "path": "pool/mac-2.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 4.08,
-   "importance": 6,
-   "popular": false
-  },
-  {
-   "id": "s0141",
-   "rank": 18,
-   "key": "c46124cc589c694b",
-   "title": "Nuri Şahin, Beşiktaş maçında ilk 11'de iki değişikliğe gitti",
-   "summarized": true,
-   "intro": "Başakşehir Teknik Direktörü Nuri Şahin, Beşiktaş karşısındaki maça çıkardığı kadroda son oynanan Gaziantep FK maçına göre iki değişiklik yaptı. Kaynak, maçın ilk 11'lerini 26 Ekim 2026 tarihli haberde aktardı. Jakub Kaluzinski ve Ivan Brnic kulübeye çekilirken, yerlerine Umut Güneş ile Yusuf Sarı forma giydi.",
-   "bullets": [
-    "Nuri Şahin, Gaziantep FK maçındaki ilk 11'e göre iki oyuncuyu değiştirdi.",
-    "Jakub Kaluzinski ve Ivan Brnic ilk 11'den çıkarılarak kulübeye çekildi.",
-    "Umut Güneş ve Yusuf Sarı ilk 11'e girdi.",
-    "Kalede Muhammed Şengezer görev aldı.",
-    "Savunmada Michal Karbownik, Emin Bayram ve Ousseynou Ba yer aldı.",
-    "Orta sahada Saba Kharebashvili ve Olivier Kemen ilk 11'de başladı.",
-    "Hücum hattında Eldor Shomurodov, Skov Olsen ve Umut Bozok görev aldı."
-   ],
-   "why": "İlk 11 tercihi, Nuri Şahin'in Beşiktaş maçına yaklaşımını ve orta saha ile hücum hattındaki rotasyon kararlarını gösteriyor. Taraftarlar için Başakşehir'in sahaya hangi oyuncularla çıktığını netleştiriyor.",
-   "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
-   "status": "resmi",
-   "clubs": [
-    {
-     "slug": "gaziantep-fk",
-     "name": "Gaziantep FK"
-    },
-    {
-     "slug": "basaksehir",
-     "name": "Başakşehir"
-    },
-    {
-     "slug": "besiktas",
-     "name": "Beşiktaş"
     }
    ],
    "leagues": [
@@ -1353,352 +1477,100 @@
    "sources": [
     {
      "name": "Star",
-     "url": "https://www.star.com.tr/spor/nuri-sahinden-ilk-11de-2-degisiklik-haber-2049277",
-     "published": "2026-10-26T16:47:00+00:00"
-    }
-   ],
-   "n_sources": 1,
-   "first_published": "2026-10-26T16:47:00+00:00",
-   "last_published": "2026-10-26T16:47:00+00:00",
-   "image": {
-    "url": "https://imgs.stargazete.com/imgsdisk/2026/10/26/nuri-sahinden-ilk-11de-2--184_2-41.jpg",
-    "kind": "source",
-    "label": "Fotoğraf: Star",
-    "credit": "Star",
-    "source_url": "https://www.star.com.tr/spor/nuri-sahinden-ilk-11de-2-degisiklik-haber-2049277"
-   },
-   "score": 3.93,
-   "importance": 6,
-   "popular": false
-  },
-  {
-   "id": "s0147",
-   "rank": 19,
-   "key": "37a5661cdd252a7f",
-   "title": "Manchester United'da Michael Carrick ile yolların ayrılması bekleniyor",
-   "summarized": true,
-   "intro": "Ajansspor'un aktardığına göre Manchester United'da teknik direktör Michael Carrick ile yollar ayrılmak üzere. Haber, Alex Crook'a dayandırılıyor ve ayrılığın an meselesi olduğunu belirtiyor. Premier League'de sezona kötü başlayan takım, evinde Bournemouth'a 3-0 yenilmişti. Henüz resmi bir açıklama aktarılmış değil.",
-   "bullets": [
-    "Haber Alex Crook'a atfediliyor; ona göre Carrick ile ayrılık an meselesi.",
-    "Haberde teknik heyetin de ayrılığın kısa süre içinde gerçekleşeceğinin farkında olduğu belirtiliyor.",
-    "Gelişmenin arkasında, evde alınan 3-0'lık Bournemouth mağlubiyeti ve Premier League'e kötü başlangıç var.",
-    "Carrick, geçen sezon 13 Ocak'ta Ruben Amorim'in ayrılığının ardından takımın başına geçmişti.",
-    "İlk sezonunda United'ı ligde ilk 3'e taşıyarak Şampiyonlar Ligi bileti kazandırdı.",
-    "Carrick daha önce 2006-2018 arasında United'da orta saha oyuncusu olarak forma giymişti."
-   ],
-   "why": "Geçen sezon takımı Şampiyonlar Ligi'ne taşıyan bir ismin sezon başında ayrılması gündeme geliyor. Bu durum United taraftarı için teknik direktör arayışı ve takımın yön belirsizliği anlamına gelebilir. Gelişme henüz resmi olarak doğrulanmış değil.",
-   "raw_summary": null,
-   "category": "teknik",
-   "category_name": "Teknik Direktör",
-   "status": "soylenti",
-   "clubs": [
-    {
-     "slug": "man-united",
-     "name": "Manchester United"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "premier-lig",
-     "name": "Premier Lig"
+     "url": "https://www.star.com.tr/spor/derbi-sonrasinda-olaylar-saha-karisti-haber-2049318",
+     "published": "2026-10-26T20:32:00+00:00"
     },
     {
-     "slug": "sampiyonlar-ligi",
-     "name": "Şampiyonlar Ligi"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Ajansspor",
-     "url": "https://ajansspor.com/haber/manchester-unitedta-o-da-tutunamadi-carrick-ayriliyor-737355",
-     "published": "2026-10-26T17:07:35+00:00"
-    }
-   ],
-   "n_sources": 1,
-   "first_published": "2026-10-26T17:07:35+00:00",
-   "last_published": "2026-10-26T17:07:35+00:00",
-   "image": {
-    "url": "https://cdn.ajansspor.com/ajansspor/photo/2026/10/4c6786ad-b199-4707-9cd2-0db6d7ea6209.png",
-    "kind": "source",
-    "label": "Fotoğraf: Ajansspor",
-    "credit": "Ajansspor",
-    "source_url": "https://ajansspor.com/haber/manchester-unitedta-o-da-tutunamadi-carrick-ayriliyor-737355"
-   },
-   "score": 3.31,
-   "importance": 8,
-   "popular": false
-  },
-  {
-   "id": "s0106",
-   "rank": 20,
-   "key": "780e75a3b14393a5",
-   "title": "Samsunspor Başkanı Yıldırım: Devre arasında gerekli transferleri yapacağız",
-   "summarized": true,
-   "intro": "Samsunspor Başkanı Yüksel Yıldırım, devre arası transfer döneminde takımın ihtiyaç duyduğu bölgelere takviye yapacaklarını açıkladı. Süper Lig'de geride kalan 9 haftanın 7'sinde mağlubiyet yaşayan kırmızı-beyazlı ekipte, devre arası için çalışmaların başladığı belirtildi. Haberde, ligde istenen sonuçların alınamadığı ve kadronun güçlendirilmesi amacıyla transfer planlaması yapıldığı aktarıldı.",
-   "bullets": [
-    "Açıklama Samsunspor Başkanı Yüksel Yıldırım'dan geldi; Yıldırım transfer yapılacağını net biçimde ifade etti.",
-    "Yıldırım'ın sözleri: \"Devre arasında gerekli transferleri yapacağız. Şu an transfer gereken bölgeler için çalışıyoruz.\"",
-    "Takım Süper Lig'de oynanan 9 haftanın 7'sinde sahadan mağlup ayrıldı.",
-    "Haberde, ligde istediği sonuçları alamayan takımda eksiklerin giderilmesi ve kadronun güçlendirilmesi için planlama yapıldığı belirtiliyor.",
-    "Kaynakta hangi bölgelere transfer yapılacağına, oyuncu isimlerine veya bütçeye dair bilgi yer almıyor."
-   ],
-   "why": "Kötü gidişatın ardından başkandan gelen bu açıklama, yönetimin kadro eksiklerini fark ettiğini ve devre arasında müdahale etmeyi planladığını gösteriyor. Taraftar açısından, zayıf başlangıcın ardından takviye beklentisi oluşuyor; ancak hangi mevkilere ve hangi oyunculara yönelileceği henüz belli değil.",
-   "raw_summary": null,
-   "category": "transfer",
-   "category_name": "Transfer",
-   "status": "resmi",
-   "clubs": [
-    {
-     "slug": "samsunspor",
-     "name": "Samsunspor"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Habertürk",
-     "url": "https://www.haberturk.com/spor/yuksel-yildirim-devre-arasinda-gerekli-transferleri-yapacagiz-3922674",
-     "published": "2026-10-26T13:33:47+00:00"
-    }
-   ],
-   "n_sources": 1,
-   "first_published": "2026-10-26T13:33:47+00:00",
-   "last_published": "2026-10-26T13:33:47+00:00",
-   "image": {
-    "url": "https://im.haberturk.com/l/2026/10/26/ver1793021618/3922674/jpg/1200x628",
-    "kind": "source",
-    "label": "Fotoğraf: Habertürk",
-    "credit": "Habertürk",
-    "source_url": "https://www.haberturk.com/spor/yuksel-yildirim-devre-arasinda-gerekli-transferleri-yapacagiz-3922674"
-   },
-   "score": 3.42,
-   "importance": 6,
-   "popular": false
-  },
-  {
-   "id": "s0034",
-   "rank": 21,
-   "key": "85c69fcf3b0b94b4",
-   "title": "Süper Lig gol krallığında Orban ve Salah 8 golle başı çekiyor",
-   "summarized": true,
-   "intro": "Trendyol Süper Lig'in 2026-2027 sezonunda gol krallığı yarışı devam ediyor. NTV Spor'un 26 Ekim 2026 tarihli listesine göre Amed Sportif Faaliyetler forması giyen Gift Orban ile Trabzonspor'un yıldızı Mohamed Salah 8'er golle zirvede yer alıyor. Hemen arkalarında Fenerbahçe'den Vedat Muriqi ve Başakşehir'den Eldor Shomurodov 7'şer golle geliyor. TRT Spor da yarışın son durumunu paylaştı ancak kaynak metninde rakam verilmedi.",
-   "bullets": [
-    "Gift Orban, Amed Sportif Faaliyetler adına 8 gol atarak listenin en üstünde yer alıyor.",
-    "Trabzonspor forması giyen Mohamed Salah da 8 golle Orban ile zirveyi paylaşıyor.",
-    "Fenerbahçe'nin forveti Vedat Muriqi 7 golle üçüncü sırada bulunuyor.",
-    "Başakşehir'den Eldor Shomurodov da 7 golle Muriqi ile aynı sayıda gole ulaştı.",
-    "Galatasaray'dan Victor Osimhen 6 golle listede yer alıyor.",
-    "Beşiktaş'ın oyuncusu Dusan Vlahovic de 6 golle Osimhen'i takip ediyor.",
-    "Zirve ile 6 gol arasındaki fark 2 gol olduğundan yarış açık görünüyor; TRT Spor'un paylaşımında ise ayrıntılı sıralama aktarılmadı."
-   ],
-   "why": "Gol krallığı yarışında zirve ile takipçiler arasındaki fark küçük; bu durum sezon ilerledikçe sıralamanın değişebileceğini gösteriyor. Fenerbahçe, Galatasaray, Beşiktaş ve Trabzonspor taraftarları kendi golcülerinin yarıştaki konumunu yakından takip edebilir.",
-   "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
-   "status": "resmi",
-   "clubs": [],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
+     "name": "Sporx",
+     "url": "https://www.sporx.com/futbol/superlig/derbi-sonrasi-kavga-cikti-polis-ayirdi-SXHBQ1180761SXQ",
+     "published": "2026-10-26T20:34:45+00:00"
+    },
     {
      "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-trendyol-super-lig-2026-2027-sezonu-gol-kralligi-428303",
-     "published": "2026-10-26T08:10:17+00:00"
-    },
-    {
-     "name": "TRT Spor",
-     "url": "https://www.trtspor.com.tr/foto-galeri/futbol/super-ligde-gol-kralligi-yarisi-2026-2027-sezonu-33015563",
-     "published": "2026-10-26T08:53:00+00:00"
+     "url": "https://www.ntvspor.net/futbol/galeri-derbi-bitti-kerem-akturkoglu-ve-sallaiyle-baslayan-olaylar-tirmandi-polisler-sahaya-daldi-431961",
+     "published": "2026-10-26T20:39:54+00:00"
     }
    ],
-   "n_sources": 2,
-   "first_published": "2026-10-26T08:10:17+00:00",
-   "last_published": "2026-10-26T08:53:00+00:00",
-   "image": {
-    "url": "https://cdn-i.pr.trt.com.tr/trtspor/-21753602-545-0-2568-2568.jpeg",
-    "kind": "source",
-    "label": "Fotoğraf: TRT Spor",
-    "credit": "TRT Spor",
-    "source_url": "https://www.trtspor.com.tr/foto-galeri/futbol/super-ligde-gol-kralligi-yarisi-2026-2027-sezonu-33015563"
-   },
-   "score": 3.32,
-   "importance": 5,
-   "popular": false
-  },
-  {
-   "id": "s0088",
-   "rank": 22,
-   "key": "3a75b2820396bee4",
-   "title": "Galatasaray - Fenerbahçe derbisi bu akşam Rams Park'ta: eksikler ve muhtemel 11'ler",
-   "summarized": true,
-   "intro": "Trendyol Süper Lig'in 9. haftasında Galatasaray, 26 Ekim Pazartesi akşamı saat 21.30'da Rams Park'ta Fenerbahçe'yi ağırlayacak. Karşılaşma beIN Sports 1'den yayınlanacak ve hakem Atilla Karaoğlan tarafından yönetilecek. Galatasaray 8 haftayı 19 puanla lider kapatırken, Fenerbahçe 16 puanla üçüncü sırada yer alıyor. Her iki takımda da bazı oyuncuların durumu derbi öncesi netleşmiş değil, kaynaklar eksiklerle ilgili ayrıntılarda farklılık gösteriyor.",
-   "bullets": [
-    "Hakem Atilla Karaoğlan; yardımcılıkları Ceyhun Sesigüzel ve Süleyman Özay yapacak. Dördüncü hakem Abdullah Buğra Taşkınsoy.",
-    "Fenerbahçe'de Marco Asensio ve Nathan Ake'nin sakatlıkları sürdüğü için derbide oynamayacağı aktarıldı. CNN Türk ayrıca Oosterwolde'nin de forma giyemeyeceğini belirtti.",
-    "Sakatlığını atlatan sağ bek Mert Müldür'ün derbide takıma dönme ihtimali var; durumu maç saatinde netleşecek.",
-    "Galatasaray'da Rafael Leao için kaynaklar farklı aktarıyor: Yeni Şafak oynamayacağını yazarken CNN Türk durumunun maç saatinde belli olacağını belirtti.",
-    "Galatasaray'ın muhtemel 11'i (CNN Türk): Uğurcan; Sallai, Davinson, Abdülkerim, Jakobs; Torreira, Lemina, Yunus, Batrakov, Barış Alper, Osimhen. Sakatlığını atlatan Singo, Okan Buruk şans verirse süre alabilir.",
-    "Fenerbahçe'nin muhtemel 11'i (CNN Türk): Ederson; Semedo, Skriniar, Oppong, Brown; Kanté, Guendouzi; Oğuz, Greenwood, Kerem; Lukaku.",
-    "Galatasaray ligde son olarak Gençlerbirliği'ni deplasmanda 1-0 yendi, Şampiyonlar Ligi'nde Lille'i 4-2 geçti. Fenerbahçe Alanyaspor'u 3-0 yendi, Şampiyonlar Ligi'nde Slavia Prag ile evinde 2-2 berabere kaldı.",
-    "Süper Lig tarihindeki 138 derbide Fenerbahçe 53, Galatasaray 39 kez kazandı, 46 maç berabere bitti. Son 20 maçta 16 kırmızı ve 147 sarı kart çıktı."
-   ],
-   "why": "Lider Galatasaray ile üçüncü sıradaki Fenerbahçe arasındaki maç, puan durumu ve şampiyonluk yarışı açısından erken ama önemli bir sınav. Her iki tarafın sakatlık ve kadro belirsizlikleri ilk 11 tercihlerini etkileyebilir. Tarihsel olarak kartların bol çıktığı derbide hakem yönetimi de dikkat çekecek.",
-   "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
-   "status": "belirsiz",
-   "clubs": [
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
-    },
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Yeni Şafak",
-     "url": "https://www.yenisafak.com/galeri/spor/galatasaray-fenerbahce-ilk-11ler-galatasaray-fenerbahce-mac-kadrosu-belli-oldu-mu-gs-fb-derbisinde-kimler-oynayacak-4867275",
-     "published": "2026-10-26T12:33:00+00:00"
-    },
-    {
-     "name": "CNN Türk",
-     "url": "https://www.cnnturk.com/spor/futbol/galatasaray-fenerbahce-derbi-mac-kadrosu-gs-fb-mac-kadrosunda-kimler-var-hangi-futbolcular-ilk-11de-oynayacak-derbi-macinda-eksikler-3484566",
-     "published": "2026-10-26T13:05:02+00:00"
-    }
-   ],
-   "n_sources": 2,
-   "first_published": "2026-10-26T12:33:00+00:00",
-   "last_published": "2026-10-26T13:05:02+00:00",
-   "image": {
-    "path": "pool/mac-1.png",
-    "kind": "pool",
-    "label": "Temsili arşiv görseli"
-   },
-   "score": 3.3,
-   "importance": 5,
-   "popular": false
-  },
-  {
-   "id": "s0107",
-   "rank": 23,
-   "key": "1cd1f37c780fca35",
-   "title": "Türk devletlerinde futbolcular karşılıklı olarak yerli sayılacak, Zorlu açıkladı",
-   "summarized": true,
-   "intro": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, 29-30 Ekim'de Ankara'da yapılacak Türk Devletleri Teşkilatı 13. Liderler Zirvesi öncesinde parti genel merkezinde basın toplantısı düzenledi. Zorlu, zirveyle birlikte Türk devletlerinde futbolcuların karşılıklı olarak yabancı değil, yerli statüsünde sayılmasının planlandığını söyledi. Bu uygulamanın Türk dünyasında bir futbol ekosistemi oluşturacağını belirten Zorlu, iki yılda bir Türk Devletleri Futbol Kupası düzenlenmesinin de planlandığını aktardı.",
-   "bullets": [
-    "Zorlu'ya göre futbol federasyonları geçen hafta Türkiye Futbol Federasyonu'nun ev sahipliğinde bir zirve gerçekleştirdi.",
-    "Zorlu, bu zirveyle birlikte Türk devletlerindeki futbolcuların karşılıklı olarak artık yabancı değil, yerli statüsünde sayılacağını ifade etti.",
-    "Zorlu'nun sözlerine göre amaç, Türk dünyasında bir futbol ekosistemi oluşturmak ve büyük yetenekleri karşılıklı olarak ülkelere kazandırmak.",
-    "İki yılda bir düzenlenmesi planlanan 'Türk Devletleri Futbol Kupası' da gündemde; bu turnuva yabancı statüsü düzenlemesiyle eş zamanlı planlanıyor.",
-    "Zorlu ayrıca Türk dünyasında ticareti dijital alana taşıyacak ortak bir e-ticaret platformunun kurulması konusunda uzlaşıldığını söyledi.",
-    "Kaynaklarda düzenlemenin yürürlüğe gireceği tarih, uygulanacak kota ya da hangi liglerde geçerli olacağına dair ayrıntı yer almıyor."
-   ],
-   "why": "Düzenleme hayata geçerse Türk kulüpleri, Türk devletlerinden gelen futbolcuları yabancı kontenjanına saymadan kadrolarına katabilir. Bu durum transfer stratejilerini ve yabancı oyuncu planlamasını etkileyebilir. Ancak uygulamanın ayrıntıları ve zamanlaması henüz belli değil.",
-   "raw_summary": null,
-   "category": "yonetim",
-   "category_name": "Yönetim",
-   "status": "resmi",
-   "clubs": [],
-   "leagues": [],
-   "sources": [
-    {
-     "name": "NTV Spor",
-     "url": "https://www.ntvspor.net/futbol/galeri-yabanci-kuralinda-tarihi-karar-turk-futbolunda-yeni-donem-basliyor-431934",
-     "published": "2026-10-26T13:42:11+00:00"
-    },
-    {
-     "name": "Sabah",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/10/26/kursad-zorlu-acikladi-yabanci-kuralinda-yeni-donem",
-     "published": "2026-10-26T17:11:19+00:00"
-    }
-   ],
-   "n_sources": 2,
-   "first_published": "2026-10-26T13:42:11+00:00",
-   "last_published": "2026-10-26T17:11:19+00:00",
-   "image": {
-    "url": "https://iasbh.tmgrup.com.tr/723467/1200/675/0/24/2048/1176?u=https://isbh.tmgrup.com.tr/sbh/2026/10/26/kursad-zorlu-acikladi-yabanci-kuralinda-yeni-donem-1793034650330.jpg",
-    "kind": "source",
-    "label": "Fotoğraf: Sabah",
-    "credit": "Sabah",
-    "source_url": "https://www.sabah.com.tr/spor/futbol/2026/10/26/kursad-zorlu-acikladi-yabanci-kuralinda-yeni-donem"
-   },
-   "score": 2.86,
-   "importance": 6,
-   "popular": false
-  },
-  {
-   "id": "s0018",
-   "rank": 24,
-   "key": "f644a206d98d07df",
-   "title": "Galatasaray-Fenerbahçe derbisi RAMS Park'ta: maçın ilk 11'leri açıklandı",
-   "summarized": true,
-   "intro": "Trendyol Süper Lig'in 9. haftasında Galatasaray, sahasında Fenerbahçe'yi konuk ediyor. Haftaya lider giren sarı-kırmızılılar galibiyetle liderliği sürdürmeyi hedefliyor; sarı-lacivertliler ise derbi galibiyetiyle camiadaki olumsuz havayı değiştirmek istiyor. Her iki takımın kafilesi RAMS Park'a ulaştı ve ilk 11'ler belli oldu. Karşılaşmanın VAR hakemi İspanyol Carlos Del Cerro Grande olacak.",
-   "bullets": [
-    "Galatasaray'ın ilk 11'i: Uğurcan, Jakobs, Sanchez, Sallai, Yunus, Torreira, Abdülkerim, Osimhen, Barış, Batrakov, Lemina.",
-    "Fenerbahçe'nin ilk 11'i: Ederson, Levent, Brown, Skriniar, Semedo, Kante, Guendouzi, İrfan Can, Greenwood, Oğuz, Lukaku.",
-    "Galatasaray kafilesi Kemerburgaz Metin Oktay Tesisleri'nden, Fenerbahçe kafilesi Can Bartu Tesisleri'nden yola çıkarak stadyuma geldi; Fenerbahçe yoğun güvenlik önlemleriyle giriş yaptı.",
-    "Ederson'un derbi öncesi, geçen sezon takıma zarar verdiğini söyleyip bu kez kendini affettireceğini belirttiği öğrenildi. Kaleci ligde bu sezon çıktığı 7 maçın 5'inde kalesini gole kapattı.",
-    "A Spor'un haberine göre Fenerbahçe yönetimi, deplasmana gidecek taraftarlara yağmurluk ve bere dağıtacak. Önceki yönetim de ocaktaki Süper Kupa finalinde aynı uygulamayı yapmıştı; o maçı Fenerbahçe 2-0 kazanmıştı.",
-    "Son 20 tamamlanan resmi derbide topa daha çok sahip olan taraf yalnızca 4 kez kazandı, 7 maçta daha az topla oynayan taraf galip geldi.",
-    "2022-2023 sezonundan bu yana oynanan 10 derbide Fenerbahçe 6, Galatasaray 2 kez kırmızı kart gördü.",
-    "Kerem Aktürkoğlu'nun derbide ilk 11'de oynamak istediğini teknik direktör İsmail Kartal'a ilettiği öğrenildi; Abdülkerim Bardakcı ise maç günü sosyal medyada taraftar tezahüratına yer verdi."
-   ],
-   "why": "Derbi, Süper Lig'de liderlik mücadelesi ve iki takımın sezon moral durumu açısından önemli. Kadro tercihleri ve geçmiş derbi istatistikleri maçın nasıl şekilleneceğine dair ipuçları veriyor.",
-   "raw_summary": null,
-   "category": "mac",
-   "category_name": "Maç",
-   "status": "resmi",
-   "clubs": [
-    {
-     "slug": "galatasaray",
-     "name": "Galatasaray"
-    },
-    {
-     "slug": "fenerbahce",
-     "name": "Fenerbahçe"
-    }
-   ],
-   "leagues": [
-    {
-     "slug": "super-lig",
-     "name": "Süper Lig"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Takvim",
-     "url": "https://www.takvim.com.tr/spor/superlig/2026/10/26/canli-galatasaray-fenerbahce-super-lig-maci",
-     "published": "2026-10-26T06:42:16+00:00"
-    }
-   ],
-   "n_sources": 1,
-   "first_published": "2026-10-26T06:42:16+00:00",
-   "last_published": "2026-10-26T06:42:16+00:00",
+   "n_sources": 3,
+   "first_published": "2026-10-26T20:32:00+00:00",
+   "last_published": "2026-10-26T20:39:54+00:00",
    "image": {
     "path": "pool/diger-1.png",
     "kind": "pool",
     "label": "Temsili arşiv görseli"
    },
-   "score": 2.81,
+   "score": 4.12,
    "importance": 6,
+   "popular": false
+  },
+  {
+   "id": "s0001",
+   "rank": 20,
+   "key": "9a265ce932fb31bb",
+   "title": "Ziraat Türkiye Kupası 3. eleme turu yarın başlıyor, program belli oldu",
+   "summarized": true,
+   "intro": "Ziraat Türkiye Kupası'nda 3. eleme turu 27 Ekim'de oynanacak 12 maçla başlayacak. Turda, bir önceki etaptan gelen 31 takımın da bulunduğu toplam 72 takım yer alacak. Maçlar tek maç eleme usulüyle oynanacak ve kazananlar dördüncü eleme turuna yükselecek. Türkiye Futbol Federasyonunun açıklamasına göre karşılaşmalar 27, 28 ve 29 Ekim tarihlerinde yapılacak. Ayrıca turun maçlarında görev alacak hakemlerin belli olduğu bildirildi.",
+   "bullets": [
+    "27 Ekim'deki ilk gün programında 13.00'te Ağrı 1970 Spor-İstanbulspor ve 13.30'da Etimesgutspor-Gaziantep FK maçları yer alıyor.",
+    "İlk günün 15.00 maçlarında Adana Adaletgücüspor-MKE Ankaragücü, Seza Çimento Elazığspor-Açıkalın Erciyes 38, Orduspor 1967-Artı Değer Vanspor ve SMS Grup Sarıyer-Ayvalıkgücü Belediyespor oynanacak.",
+    "İlk gün ayrıca İnegöl Kafkasspor-Akedaş Kahramanmaraş İstiklalspor, Pazarspor-Aliağa Futbol, Boluspor-Karşıyaka ve Kocaelispor-Eti Gübre Mazıdağı Fosfatspor karşılaşmaları var.",
+    "27 Ekim'in akşam maçları: Yeni Mersin İdmanyurdu-Muşspor (19.00) ve Corendon Alanyaspor-12 Bingölspor (20.30).",
+    "28 Ekim Çarşamba günü 20 maç oynanacak; Kars 36 Spor-Antalyaspor 13.00'te, Fethiyespor-Eyüpspor 15.30'da, Sakaryaspor-Bursa Yıldırımspor 18.00'de, 52 Orduspor FK-KCT 1461 Trabzon FK ise 20.30'da sahada olacak.",
+    "28 Ekim'de Mısırlıcomtr Fatih Karagümrük-Somaspor, Balıkesirspor-Arkent Arnavutköy Belediyespor ve Eminevim Ümraniyespor-Küçükçekmece Sinopspor gibi karşılaşmalar da programda.",
+    "29 Ekim Perşembe günü Bitlis 1916 Spor-Metro Holding Kayserispor (13.30), Gençlerbirliği-Halil Bayram İnşaat Karaköprü Belediyespor (15.30) ve Kasımpaşa-Çorluspor 1947 (18.00) oynayacak.",
+    "Eskişehirspor-Alagöz Holding Iğdır FK maçı AA'nın listesinde 27 Ekim 20.30 olarak yer alırken, CNN Türk'te 29 Ekim 20.30 olarak görünüyor; kaynaklar bu ayrıntıda farklı aktarıyor."
+   ],
+   "why": "Kupada üst tura çıkma yolunda ilk elemeler başlıyor ve tek maç usulü nedeniyle hata payı çok düşük. Süper Lig ve alt lig takımlarının yer aldığı karşılaşmalar, sürpriz sonuç ihtimali nedeniyle taraftarlar için takip edilmeye değer. Tarih ve saat bilgilerinin netleşmesi, bilet ve yayın planı yapacak taraftarlar için de önem taşıyor.",
+   "raw_summary": null,
+   "category": "mac",
+   "category_name": "Maç",
+   "status": "resmi",
+   "clubs": [],
+   "leagues": [
+    {
+     "slug": "turkiye-kupasi",
+     "name": "Türkiye Kupası"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-3-eleme-turu-yarin-oynanacak-maclarla-baslayacak/4100654",
+     "published": "2026-10-26T06:45:20+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/ziraat-turkiye-kupasinda-3-eleme-turu-heyecani-33776261",
+     "published": "2026-10-26T06:46:00+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/ziraat-turkiye-kupasinda-3-eleme-turu-yarin-basliyor-iste-program-3484507",
+     "published": "2026-10-26T06:59:45+00:00"
+    },
+    {
+     "name": "TRT Spor",
+     "url": "https://www.trtspor.com.tr/haber/futbol/ziraat-turkiye-kupasinda-hakemler-aciklandi-33779542",
+     "published": "2026-10-26T11:57:00+00:00"
+    },
+    {
+     "name": "CNN Türk",
+     "url": "https://www.cnnturk.com/spor/futbol/ziraat-turkiye-kupasi-3-tur-maclarinin-hakemleri-belli-oldu-3484685",
+     "published": "2026-10-26T12:02:29+00:00"
+    }
+   ],
+   "n_sources": 3,
+   "first_published": "2026-10-26T06:45:20+00:00",
+   "last_published": "2026-10-26T12:02:29+00:00",
+   "image": {
+    "url": "https://cdn-i.pr.trt.com.tr/trtspor/ziraat-turkiye-kupasi-20826164-0-0-1920-1080.jpeg",
+    "kind": "source",
+    "label": "Fotoğraf: TRT Spor",
+    "credit": "TRT Spor",
+    "source_url": "https://www.trtspor.com.tr/haber/futbol/ziraat-turkiye-kupasinda-3-eleme-turu-heyecani-33776261"
+   },
+   "score": 3.94,
+   "importance": 5,
    "popular": false
   }
  ]
