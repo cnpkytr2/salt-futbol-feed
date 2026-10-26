@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-26T17:25:26+00:00",
+ "generated_at": "2026-10-26T19:25:28+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -15,7 +15,7 @@
    "season": "2026-2027",
    "tsdb_id": 4339,
    "last_round": 9,
-   "next_round": 9,
+   "next_round": 10,
    "current_round": 9,
    "standings": [
     {
@@ -466,11 +466,11 @@
         "club": "basaksehir"
        },
        "score": {
-        "home": 0,
+        "home": 2,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Tüpraş Stadyumu"
       },
       {
@@ -488,11 +488,11 @@
         "club": "trabzonspor"
        },
        "score": {
-        "home": 2,
-        "away": 2
+        "home": 3,
+        "away": 4
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Çaykur Didi Stadyumu"
       },
       {
@@ -509,10 +509,190 @@
         "name": "Fenerbahçe",
         "club": "fenerbahce"
        },
+       "score": {
+        "home": 1,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "1H",
+       "venue": "Rams Park"
+      }
+     ]
+    },
+    {
+     "round": 10,
+     "label": "10. Hafta",
+     "matches": [
+      {
+       "id": "2527806",
+       "round": 10,
+       "kickoff": "2026-10-30T17:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-30",
+       "home": {
+        "name": "Konyaspor",
+        "club": "konyaspor"
+       },
+       "away": {
+        "name": "Galatasaray",
+        "club": "galatasaray"
+       },
        "score": null,
        "status": "scheduled",
        "status_raw": "NS",
-       "venue": "Rams Park"
+       "venue": "Konya Büyükşehir Belediye Stadyumu"
+      },
+      {
+       "id": "2527811",
+       "round": 10,
+       "kickoff": "2026-10-31T10:30:00Z",
+       "time_known": true,
+       "date_local": "2026-10-31",
+       "home": {
+        "name": "Erzurumspor",
+        "club": "erzurumspor"
+       },
+       "away": {
+        "name": "Çorum",
+        "club": "corum-fk"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Kazım Karabekir Stadyumu"
+      },
+      {
+       "id": "2527813",
+       "round": 10,
+       "kickoff": "2026-10-31T13:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-31",
+       "home": {
+        "name": "Kocaelispor",
+        "club": "kocaelispor"
+       },
+       "away": {
+        "name": "Rizespor",
+        "club": "rizespor"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Kocaeli Stadyumu"
+      },
+      {
+       "id": "2527807",
+       "round": 10,
+       "kickoff": "2026-10-31T16:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-31",
+       "home": {
+        "name": "Fenerbahçe",
+        "club": "fenerbahce"
+       },
+       "away": {
+        "name": "Göztepe",
+        "club": "goztepe"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Chobani Stadyumu"
+      },
+      {
+       "id": "2527812",
+       "round": 10,
+       "kickoff": "2026-11-01T10:30:00Z",
+       "time_known": true,
+       "date_local": "2026-11-01",
+       "home": {
+        "name": "Amed",
+        "club": "amedspor"
+       },
+       "away": {
+        "name": "Eyüpspor",
+        "club": "eyupspor"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Diyarbakır Stadyumu"
+      },
+      {
+       "id": "2527809",
+       "round": 10,
+       "kickoff": "2026-11-01T13:00:00Z",
+       "time_known": true,
+       "date_local": "2026-11-01",
+       "home": {
+        "name": "Trabzonspor",
+        "club": "trabzonspor"
+       },
+       "away": {
+        "name": "Gaziantep",
+        "club": "gaziantep-fk"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Papara Park"
+      },
+      {
+       "id": "2527805",
+       "round": 10,
+       "kickoff": "2026-11-01T13:00:00Z",
+       "time_known": true,
+       "date_local": "2026-11-01",
+       "home": {
+        "name": "İstanbul Başakşehir",
+        "club": "basaksehir"
+       },
+       "away": {
+        "name": "Samsunspor",
+        "club": "samsunspor"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Başakşehir Fatih Terim Stadyumu"
+      },
+      {
+       "id": "2527810",
+       "round": 10,
+       "kickoff": "2026-11-01T16:00:00Z",
+       "time_known": true,
+       "date_local": "2026-11-01",
+       "home": {
+        "name": "Kasımpaşa",
+        "club": "kasimpasa"
+       },
+       "away": {
+        "name": "Beşiktaş",
+        "club": "besiktas"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Recep Tayyip Erdoğan Stadyumu"
+      },
+      {
+       "id": "2527808",
+       "round": 10,
+       "kickoff": "2026-11-02T17:00:00Z",
+       "time_known": true,
+       "date_local": "2026-11-02",
+       "home": {
+        "name": "Gençlerbirliği",
+        "club": "genclerbirligi"
+       },
+       "away": {
+        "name": "Alanyaspor",
+        "club": "alanyaspor"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Eryaman Stadyumu"
       }
      ]
     }
@@ -1178,7 +1358,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "premier-lig",
@@ -5894,8 +6075,9 @@
   }
  ],
  "errors": [
+  "tff-1-lig: HTTP 429 (eventsround.php)",
   "bundesliga: HTTP 429 (eventsround.php)",
-  "avrupa-ligi: HTTP 429 (eventsnextleague.php)"
+  "avrupa-ligi: HTTP 429 (eventsround.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
