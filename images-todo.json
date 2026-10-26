@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-25T20:44:20+00:00",
- "edition": "2026-10-25-guncel",
+ "generated_at": "2026-10-26T04:43:39+00:00",
+ "edition": "2026-10-26-sabah",
  "items": [
   {
-   "key": "6937353bf061d94c",
-   "story_id": "s0101",
-   "title": "Göztepe, Arca Çorum FK'yı evinde 2-0 yenerek üst üste üçüncü galibiyetini aldı",
-   "category": "mac",
-   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of yellow and red color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "69847c40af825585",
+   "story_id": "s0030",
+   "title": "Trabzonspor'un Andre Onana için Manchester United ile pazarlığa hazırlandığı öne sürüldü",
+   "category": "transfer",
+   "prompt": "Minimal still life on a dark wooden desk: only a fountain pen, two sheets of plain blank white paper and a folded knitted scarf in dark burgundy (deep claret) and light sky blue colors, nothing else on the desk, warm desk lamp light. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 235758982,
+   "seed": 323058005,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,16 +18,16 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/6937353bf061d94c.png"
+   "out": "s/69847c40af825585.png"
   },
   {
-   "key": "898d5a33461848ad",
-   "story_id": "s0027",
-   "title": "Galatasaray-Fenerbahçe derbisi pazartesi RAMS Park'ta: muhtemel 11'ler ve istatistikler",
+   "key": "8bc9b207e3311309",
+   "story_id": "s0148",
+   "title": "Galatasaray-Fenerbahçe derbisi öncesi: eksikler, istatistikler ve muhtemel 11'ler",
    "category": "mac",
-   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in yellow and red colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "prompt": "A classic black-and-white football with plain unmarked panels resting on wet grass on the white touchline of a floodlit pitch at night, shot low and close, the background dissolved into soft dark bokeh with glowing floodlight orbs and a hint of yellow and red color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 721203367,
+   "seed": 475748901,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -35,7 +35,7 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/898d5a33461848ad.png"
+   "out": "s/8bc9b207e3311309.png"
   }
  ]
 }
