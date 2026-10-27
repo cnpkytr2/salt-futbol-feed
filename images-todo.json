@@ -1,16 +1,16 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-27T17:43:58+00:00",
- "edition": "2026-10-27-aksam",
+ "generated_at": "2026-10-27T20:43:38+00:00",
+ "edition": "2026-10-27-guncel",
  "items": [
   {
-   "key": "40a590b84aac094c",
-   "story_id": "s0046",
-   "title": "Barcelona ve Manchester City ilk yenilgilerine rağmen liderliği korudu",
-   "category": "mac",
-   "prompt": "Close-up of the white mesh of an empty goal net glistening with rain under floodlights, the background dissolved into soft dark bokeh with a hint of blue and garnet red color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "4673bf5f02bfb13c",
+   "story_id": "s0149",
+   "title": "Aziz Yıldırım, Samandıra çıkışında park halindeki araca çarptı",
+   "category": "diger",
+   "prompt": "A classic black-and-white football with plain unmarked panels on the centre spot of an empty pitch at blue hour, shot low, the background dissolved into soft bokeh with a hint of yellow and navy blue color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 1439922694,
+   "seed": 511969250,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -18,7 +18,24 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/40a590b84aac094c.png"
+   "out": "s/4673bf5f02bfb13c.png"
+  },
+  {
+   "key": "5fee0b64c1b63ddb",
+   "story_id": "s0002",
+   "title": "Harry Kane 2026 Ballon d'Or ödülünün sahibi oldu",
+   "category": "diger",
+   "prompt": "A classic black-and-white football with plain unmarked panels on the centre spot of an empty pitch at blue hour, shot low, the background dissolved into soft bokeh with a hint of red and white color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 166959194,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/5fee0b64c1b63ddb.png"
   }
  ]
 }
