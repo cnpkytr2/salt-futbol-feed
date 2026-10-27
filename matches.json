@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-27T15:26:11+00:00",
+ "generated_at": "2026-10-27T19:25:30+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -16,7 +16,7 @@
    "tsdb_id": 4339,
    "last_round": 9,
    "next_round": 10,
-   "current_round": 9,
+   "current_round": 10,
    "standings": [
     {
      "rank": 1,
@@ -706,99 +706,8 @@
    "tsdb_id": 4676,
    "last_round": 12,
    "next_round": 13,
-   "current_round": 12,
-   "standings": [
-    {
-     "rank": 1,
-     "team": {
-      "name": "Bursaspor",
-      "club": null
-     },
-     "played": 12,
-     "win": 9,
-     "draw": 1,
-     "loss": 2,
-     "gf": 26,
-     "ga": 11,
-     "gd": 15,
-     "points": 28,
-     "form": "WWWLW",
-     "group": "Lig A",
-     "updated": "2026-10-26 20:35:49"
-    },
-    {
-     "rank": 2,
-     "team": {
-      "name": "Kayserispor",
-      "club": null
-     },
-     "played": 12,
-     "win": 8,
-     "draw": 3,
-     "loss": 1,
-     "gf": 26,
-     "ga": 9,
-     "gd": 17,
-     "points": 27,
-     "form": "DDWWW",
-     "group": "Lig A",
-     "updated": "2026-10-26 20:35:49"
-    },
-    {
-     "rank": 3,
-     "team": {
-      "name": "Iğdır",
-      "club": null
-     },
-     "played": 12,
-     "win": 8,
-     "draw": 2,
-     "loss": 2,
-     "gf": 17,
-     "ga": 9,
-     "gd": 8,
-     "points": 26,
-     "form": "WWDWD",
-     "group": "Lig A",
-     "updated": "2026-10-26 20:35:49"
-    },
-    {
-     "rank": 4,
-     "team": {
-      "name": "Batman Petrolspor",
-      "club": null
-     },
-     "played": 12,
-     "win": 7,
-     "draw": 2,
-     "loss": 3,
-     "gf": 25,
-     "ga": 21,
-     "gd": 4,
-     "points": 23,
-     "form": "WDWLL",
-     "group": "Lig A",
-     "updated": "2026-10-26 20:35:49"
-    },
-    {
-     "rank": 5,
-     "team": {
-      "name": "Mardin 1969",
-      "club": null
-     },
-     "played": 12,
-     "win": 6,
-     "draw": 3,
-     "loss": 3,
-     "gf": 16,
-     "ga": 11,
-     "gd": 5,
-     "points": 21,
-     "form": "WLWWL",
-     "group": "Lig A",
-     "updated": "2026-10-26 20:35:49"
-    }
-   ],
+   "current_round": 13,
+   "standings": [],
    "standings_limited": true,
    "rounds": [
     {
@@ -1449,8 +1358,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "premier-lig",
@@ -2956,7 +2864,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "serie-a",
@@ -2964,7 +2873,7 @@
    "kind": "league",
    "season": "2026-2027",
    "tsdb_id": 4332,
-   "last_round": 8,
+   "last_round": 9,
    "next_round": 9,
    "current_round": 9,
    "standings": [
@@ -3061,232 +2970,6 @@
    ],
    "standings_limited": true,
    "rounds": [
-    {
-     "round": 7,
-     "label": "7. Hafta",
-     "matches": [
-      {
-       "id": "2482204",
-       "round": 7,
-       "kickoff": "2026-10-16T18:45:00Z",
-       "time_known": true,
-       "date_local": "2026-10-16",
-       "home": {
-        "name": "Frosinone",
-        "club": null
-       },
-       "away": {
-        "name": "Sassuolo",
-        "club": null
-       },
-       "score": {
-        "home": 4,
-        "away": 2
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Stadio Benito Stirpe"
-      },
-      {
-       "id": "2482205",
-       "round": 7,
-       "kickoff": "2026-10-17T13:00:00Z",
-       "time_known": true,
-       "date_local": "2026-10-17",
-       "home": {
-        "name": "Venezia",
-        "club": null
-       },
-       "away": {
-        "name": "Napoli",
-        "club": "napoli"
-       },
-       "score": {
-        "home": 1,
-        "away": 0
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Stadio Pierluigi Penzo"
-      },
-      {
-       "id": "2482202",
-       "round": 7,
-       "kickoff": "2026-10-17T16:00:00Z",
-       "time_known": true,
-       "date_local": "2026-10-17",
-       "home": {
-        "name": "Bologna",
-        "club": null
-       },
-       "away": {
-        "name": "Inter Milan",
-        "club": "inter"
-       },
-       "score": {
-        "home": 1,
-        "away": 3
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Stadio Renato Dall'Ara"
-      },
-      {
-       "id": "2482201",
-       "round": 7,
-       "kickoff": "2026-10-17T18:45:00Z",
-       "time_known": true,
-       "date_local": "2026-10-17",
-       "home": {
-        "name": "Roma",
-        "club": "roma"
-       },
-       "away": {
-        "name": "Genoa",
-        "club": null
-       },
-       "score": {
-        "home": 2,
-        "away": 0
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Stadio Olimpico"
-      },
-      {
-       "id": "2482199",
-       "round": 7,
-       "kickoff": "2026-10-18T10:30:00Z",
-       "time_known": true,
-       "date_local": "2026-10-18",
-       "home": {
-        "name": "Udinese",
-        "club": null
-       },
-       "away": {
-        "name": "Lecce",
-        "club": null
-       },
-       "score": {
-        "home": 0,
-        "away": 3
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Bluenergy Stadium"
-      },
-      {
-       "id": "2482203",
-       "round": 7,
-       "kickoff": "2026-10-18T13:00:00Z",
-       "time_known": true,
-       "date_local": "2026-10-18",
-       "home": {
-        "name": "Fiorentina",
-        "club": null
-       },
-       "away": {
-        "name": "Como",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 3
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Stadio Artemio Franchi"
-      },
-      {
-       "id": "2482198",
-       "round": 7,
-       "kickoff": "2026-10-18T16:00:00Z",
-       "time_known": true,
-       "date_local": "2026-10-18",
-       "home": {
-        "name": "AC Milan",
-        "club": "milan"
-       },
-       "away": {
-        "name": "Atalanta",
-        "club": null
-       },
-       "score": {
-        "home": 3,
-        "away": 2
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Stadio Giuseppe Meazza"
-      },
-      {
-       "id": "2482200",
-       "round": 7,
-       "kickoff": "2026-10-18T18:45:00Z",
-       "time_known": true,
-       "date_local": "2026-10-18",
-       "home": {
-        "name": "Juventus",
-        "club": "juventus"
-       },
-       "away": {
-        "name": "Lazio",
-        "club": null
-       },
-       "score": {
-        "home": 0,
-        "away": 3
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Allianz Stadium Turin"
-      },
-      {
-       "id": "2482207",
-       "round": 7,
-       "kickoff": "2026-10-19T16:30:00Z",
-       "time_known": true,
-       "date_local": "2026-10-19",
-       "home": {
-        "name": "Monza",
-        "club": null
-       },
-       "away": {
-        "name": "Cagliari",
-        "club": null
-       },
-       "score": {
-        "home": 4,
-        "away": 0
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "U-Power Stadium"
-      },
-      {
-       "id": "2482206",
-       "round": 7,
-       "kickoff": "2026-10-19T18:45:00Z",
-       "time_known": true,
-       "date_local": "2026-10-19",
-       "home": {
-        "name": "Parma",
-        "club": null
-       },
-       "away": {
-        "name": "Torino",
-        "club": null
-       },
-       "score": {
-        "home": 0,
-        "away": 3
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Stadio Ennio Tardini"
-      }
-     ]
-    },
     {
      "round": 8,
      "label": "8. Hafta",
@@ -3531,9 +3214,12 @@
         "name": "Lazio",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 6
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Mapei Stadium – Città del Tricolore"
       },
       {
@@ -3709,8 +3395,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "bundesliga",
@@ -3721,98 +3406,7 @@
    "last_round": 7,
    "next_round": 8,
    "current_round": 7,
-   "standings": [
-    {
-     "rank": 1,
-     "team": {
-      "name": "Bayern Munich",
-      "club": "bayern"
-     },
-     "played": 7,
-     "win": 5,
-     "draw": 2,
-     "loss": 0,
-     "gf": 25,
-     "ga": 6,
-     "gd": 19,
-     "points": 17,
-     "form": "WWDWW",
-     "group": "Bundesliga",
-     "updated": "2026-10-27 04:46:02"
-    },
-    {
-     "rank": 2,
-     "team": {
-      "name": "Borussia Dortmund",
-      "club": "dortmund"
-     },
-     "played": 7,
-     "win": 5,
-     "draw": 2,
-     "loss": 0,
-     "gf": 12,
-     "ga": 4,
-     "gd": 8,
-     "points": 17,
-     "form": "WDDWW",
-     "group": "Bundesliga",
-     "updated": "2026-10-27 04:46:02"
-    },
-    {
-     "rank": 3,
-     "team": {
-      "name": "Freiburg",
-      "club": null
-     },
-     "played": 7,
-     "win": 4,
-     "draw": 1,
-     "loss": 2,
-     "gf": 16,
-     "ga": 9,
-     "gd": 7,
-     "points": 13,
-     "form": "LLWDW",
-     "group": "Bundesliga",
-     "updated": "2026-10-27 04:46:02"
-    },
-    {
-     "rank": 4,
-     "team": {
-      "name": "Bayer Leverkusen",
-      "club": "leverkusen"
-     },
-     "played": 7,
-     "win": 4,
-     "draw": 1,
-     "loss": 2,
-     "gf": 16,
-     "ga": 12,
-     "gd": 4,
-     "points": 13,
-     "form": "LWWWD",
-     "group": "Bundesliga",
-     "updated": "2026-10-27 04:46:02"
-    },
-    {
-     "rank": 5,
-     "team": {
-      "name": "RB Leipzig",
-      "club": null
-     },
-     "played": 7,
-     "win": 4,
-     "draw": 0,
-     "loss": 3,
-     "gf": 20,
-     "ga": 11,
-     "gd": 9,
-     "points": 12,
-     "form": "WLWLW",
-     "group": "Bundesliga",
-     "updated": "2026-10-27 04:46:02"
-    }
-   ],
+   "standings": [],
    "standings_limited": true,
    "rounds": [
     {
@@ -4410,8 +4004,99 @@
    "tsdb_id": 4334,
    "last_round": 8,
    "next_round": 9,
-   "current_round": 8,
-   "standings": [],
+   "current_round": 9,
+   "standings": [
+    {
+     "rank": 1,
+     "team": {
+      "name": "Paris Saint-Germain",
+      "club": "psg"
+     },
+     "played": 8,
+     "win": 5,
+     "draw": 2,
+     "loss": 1,
+     "gf": 16,
+     "ga": 9,
+     "gd": 7,
+     "points": 17,
+     "form": "WWWWW",
+     "group": "Ligue 1",
+     "updated": "2026-10-27 04:47:07"
+    },
+    {
+     "rank": 2,
+     "team": {
+      "name": "Rennes",
+      "club": null
+     },
+     "played": 8,
+     "win": 5,
+     "draw": 1,
+     "loss": 2,
+     "gf": 18,
+     "ga": 14,
+     "gd": 4,
+     "points": 16,
+     "form": "WLWLW",
+     "group": "Ligue 1",
+     "updated": "2026-10-27 04:47:07"
+    },
+    {
+     "rank": 3,
+     "team": {
+      "name": "Lille",
+      "club": null
+     },
+     "played": 8,
+     "win": 4,
+     "draw": 3,
+     "loss": 1,
+     "gf": 11,
+     "ga": 6,
+     "gd": 5,
+     "points": 15,
+     "form": "DDWLW",
+     "group": "Ligue 1",
+     "updated": "2026-10-27 04:47:07"
+    },
+    {
+     "rank": 4,
+     "team": {
+      "name": "Monaco",
+      "club": null
+     },
+     "played": 8,
+     "win": 4,
+     "draw": 3,
+     "loss": 1,
+     "gf": 11,
+     "ga": 7,
+     "gd": 4,
+     "points": 15,
+     "form": "DLDWD",
+     "group": "Ligue 1",
+     "updated": "2026-10-27 04:47:07"
+    },
+    {
+     "rank": 5,
+     "team": {
+      "name": "Lyon",
+      "club": null
+     },
+     "played": 8,
+     "win": 4,
+     "draw": 2,
+     "loss": 2,
+     "gf": 13,
+     "ga": 7,
+     "gd": 6,
+     "points": 14,
+     "form": "LWLWD",
+     "group": "Ligue 1",
+     "updated": "2026-10-27 04:47:07"
+    }
+   ],
    "standings_limited": true,
    "rounds": [
     {
@@ -6527,7 +6212,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "konferans-ligi",
@@ -6540,14 +6226,12 @@
    "current_round": 3,
    "standings": [],
    "standings_limited": true,
-   "rounds": [],
-   "stale": true
+   "rounds": []
   }
  ],
  "errors": [
-  "tff-1-lig: HTTP 429 (eventsround.php)",
-  "serie-a: HTTP 429 (eventspastleague.php)",
-  "konferans-ligi: HTTP 429 (eventsround.php)"
+  "la-liga: HTTP 429 (eventsround.php)",
+  "avrupa-ligi: HTTP 429 (eventspastleague.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
