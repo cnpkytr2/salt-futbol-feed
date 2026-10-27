@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-27T13:24:31+00:00",
+ "generated_at": "2026-10-27T15:26:11+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -1449,7 +1449,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "premier-lig",
@@ -2202,8 +2203,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "la-liga",
@@ -6545,9 +6545,9 @@
   }
  ],
  "errors": [
-  "premier-lig: HTTP 429 (eventspastleague.php)",
-  "serie-a: HTTP 429 (eventsround.php)",
-  "konferans-ligi: HTTP 429 (eventspastleague.php)"
+  "tff-1-lig: HTTP 429 (eventsround.php)",
+  "serie-a: HTTP 429 (eventspastleague.php)",
+  "konferans-ligi: HTTP 429 (eventsround.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
