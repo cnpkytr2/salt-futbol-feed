@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-27T11:25:26+00:00",
+ "generated_at": "2026-10-27T13:24:31+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -707,7 +707,98 @@
    "last_round": 12,
    "next_round": 13,
    "current_round": 12,
-   "standings": [],
+   "standings": [
+    {
+     "rank": 1,
+     "team": {
+      "name": "Bursaspor",
+      "club": null
+     },
+     "played": 12,
+     "win": 9,
+     "draw": 1,
+     "loss": 2,
+     "gf": 26,
+     "ga": 11,
+     "gd": 15,
+     "points": 28,
+     "form": "WWWLW",
+     "group": "Lig A",
+     "updated": "2026-10-26 20:35:49"
+    },
+    {
+     "rank": 2,
+     "team": {
+      "name": "Kayserispor",
+      "club": null
+     },
+     "played": 12,
+     "win": 8,
+     "draw": 3,
+     "loss": 1,
+     "gf": 26,
+     "ga": 9,
+     "gd": 17,
+     "points": 27,
+     "form": "DDWWW",
+     "group": "Lig A",
+     "updated": "2026-10-26 20:35:49"
+    },
+    {
+     "rank": 3,
+     "team": {
+      "name": "Iğdır",
+      "club": null
+     },
+     "played": 12,
+     "win": 8,
+     "draw": 2,
+     "loss": 2,
+     "gf": 17,
+     "ga": 9,
+     "gd": 8,
+     "points": 26,
+     "form": "WWDWD",
+     "group": "Lig A",
+     "updated": "2026-10-26 20:35:49"
+    },
+    {
+     "rank": 4,
+     "team": {
+      "name": "Batman Petrolspor",
+      "club": null
+     },
+     "played": 12,
+     "win": 7,
+     "draw": 2,
+     "loss": 3,
+     "gf": 25,
+     "ga": 21,
+     "gd": 4,
+     "points": 23,
+     "form": "WDWLL",
+     "group": "Lig A",
+     "updated": "2026-10-26 20:35:49"
+    },
+    {
+     "rank": 5,
+     "team": {
+      "name": "Mardin 1969",
+      "club": null
+     },
+     "played": 12,
+     "win": 6,
+     "draw": 3,
+     "loss": 3,
+     "gf": 16,
+     "ga": 11,
+     "gd": 5,
+     "points": 21,
+     "form": "WLWWL",
+     "group": "Lig A",
+     "updated": "2026-10-26 20:35:49"
+    }
+   ],
    "standings_limited": true,
    "rounds": [
     {
@@ -1358,8 +1449,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "premier-lig",
@@ -2112,7 +2202,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "la-liga",
@@ -2121,9 +2212,100 @@
    "season": "2026-2027",
    "tsdb_id": 4335,
    "last_round": 10,
-   "next_round": 10,
+   "next_round": 11,
    "current_round": 10,
-   "standings": [],
+   "standings": [
+    {
+     "rank": 1,
+     "team": {
+      "name": "Barcelona",
+      "club": "barcelona"
+     },
+     "played": 10,
+     "win": 9,
+     "draw": 0,
+     "loss": 1,
+     "gf": 40,
+     "ga": 11,
+     "gd": 29,
+     "points": 27,
+     "form": "LWWWW",
+     "group": "Primera División",
+     "updated": "2026-10-26 22:47:07"
+    },
+    {
+     "rank": 2,
+     "team": {
+      "name": "Atlético Madrid",
+      "club": "atletico"
+     },
+     "played": 10,
+     "win": 8,
+     "draw": 1,
+     "loss": 1,
+     "gf": 20,
+     "ga": 8,
+     "gd": 12,
+     "points": 25,
+     "form": "WWWWW",
+     "group": "Primera División",
+     "updated": "2026-10-26 22:47:07"
+    },
+    {
+     "rank": 3,
+     "team": {
+      "name": "Real Madrid",
+      "club": "real-madrid"
+     },
+     "played": 10,
+     "win": 8,
+     "draw": 0,
+     "loss": 2,
+     "gf": 25,
+     "ga": 10,
+     "gd": 15,
+     "points": 24,
+     "form": "WWWLW",
+     "group": "Primera División",
+     "updated": "2026-10-26 22:47:07"
+    },
+    {
+     "rank": 4,
+     "team": {
+      "name": "Real Betis",
+      "club": null
+     },
+     "played": 10,
+     "win": 6,
+     "draw": 2,
+     "loss": 2,
+     "gf": 16,
+     "ga": 14,
+     "gd": 2,
+     "points": 20,
+     "form": "DLWDW",
+     "group": "Primera División",
+     "updated": "2026-10-26 22:47:07"
+    },
+    {
+     "rank": 5,
+     "team": {
+      "name": "Real Sociedad",
+      "club": null
+     },
+     "played": 10,
+     "win": 6,
+     "draw": 1,
+     "loss": 3,
+     "gf": 19,
+     "ga": 18,
+     "gd": 1,
+     "points": 19,
+     "form": "WWWWL",
+     "group": "Primera División",
+     "updated": "2026-10-26 22:47:07"
+    }
+   ],
    "standings_limited": true,
    "rounds": [
     {
@@ -2568,15 +2750,213 @@
         "name": "Osasuna",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 0
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Estadio Ramón Sánchez Pizjuán"
       }
      ]
+    },
+    {
+     "round": 11,
+     "label": "11. Hafta",
+     "matches": [
+      {
+       "id": "2506271",
+       "round": 11,
+       "kickoff": "2026-10-30T20:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-30",
+       "home": {
+        "name": "Villarreal",
+        "club": null
+       },
+       "away": {
+        "name": "Espanyol",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estadio de la Cerámica"
+      },
+      {
+       "id": "2506272",
+       "round": 11,
+       "kickoff": "2026-10-31T13:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-31",
+       "home": {
+        "name": "Levante",
+        "club": null
+       },
+       "away": {
+        "name": "Atlético Madrid",
+        "club": "atletico"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estadio Ciudad de Valencia"
+      },
+      {
+       "id": "2506276",
+       "round": 11,
+       "kickoff": "2026-10-31T15:15:00Z",
+       "time_known": true,
+       "date_local": "2026-10-31",
+       "home": {
+        "name": "Rayo Vallecano",
+        "club": null
+       },
+       "away": {
+        "name": "Celta Vigo",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estadio de Vallecas"
+      },
+      {
+       "id": "2506273",
+       "round": 11,
+       "kickoff": "2026-10-31T17:30:00Z",
+       "time_known": true,
+       "date_local": "2026-10-31",
+       "home": {
+        "name": "Real Betis",
+        "club": null
+       },
+       "away": {
+        "name": "Málaga",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estadio de La Cartuja"
+      },
+      {
+       "id": "2506269",
+       "round": 11,
+       "kickoff": "2026-10-31T20:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-31",
+       "home": {
+        "name": "Barcelona",
+        "club": "barcelona"
+       },
+       "away": {
+        "name": "Deportivo Alavés",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Spotify Camp Nou"
+      },
+      {
+       "id": "2506275",
+       "round": 11,
+       "kickoff": "2026-11-01T13:00:00Z",
+       "time_known": true,
+       "date_local": "2026-11-01",
+       "home": {
+        "name": "Getafe",
+        "club": null
+       },
+       "away": {
+        "name": "Sevilla",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estadio Coliseum"
+      },
+      {
+       "id": "2506278",
+       "round": 11,
+       "kickoff": "2026-11-01T15:15:00Z",
+       "time_known": true,
+       "date_local": "2026-11-01",
+       "home": {
+        "name": "Racing de Santander",
+        "club": null
+       },
+       "away": {
+        "name": "Real Madrid",
+        "club": "real-madrid"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Campos de Sport de El Sardinero"
+      },
+      {
+       "id": "2506277",
+       "round": 11,
+       "kickoff": "2026-11-01T17:30:00Z",
+       "time_known": true,
+       "date_local": "2026-11-01",
+       "home": {
+        "name": "Elche",
+        "club": null
+       },
+       "away": {
+        "name": "Valencia",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estadio Martínez Valero"
+      },
+      {
+       "id": "2506270",
+       "round": 11,
+       "kickoff": "2026-11-01T20:00:00Z",
+       "time_known": true,
+       "date_local": "2026-11-01",
+       "home": {
+        "name": "Athletic Bilbao",
+        "club": null
+       },
+       "away": {
+        "name": "Real Sociedad",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "San Mamés Barria"
+      },
+      {
+       "id": "2506274",
+       "round": 11,
+       "kickoff": "2026-11-02T20:00:00Z",
+       "time_known": true,
+       "date_local": "2026-11-02",
+       "home": {
+        "name": "Deportivo de A Coruña",
+        "club": null
+       },
+       "away": {
+        "name": "Osasuna",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Estadio Abanca-Riazor"
+      }
+     ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "serie-a",
@@ -3329,7 +3709,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "bundesliga",
@@ -3357,7 +3738,7 @@
      "points": 17,
      "form": "WWDWW",
      "group": "Bundesliga",
-     "updated": "2026-10-26 04:46:01"
+     "updated": "2026-10-27 04:46:02"
     },
     {
      "rank": 2,
@@ -3375,7 +3756,7 @@
      "points": 17,
      "form": "WDDWW",
      "group": "Bundesliga",
-     "updated": "2026-10-26 04:46:01"
+     "updated": "2026-10-27 04:46:02"
     },
     {
      "rank": 3,
@@ -3393,7 +3774,7 @@
      "points": 13,
      "form": "LLWDW",
      "group": "Bundesliga",
-     "updated": "2026-10-26 04:46:01"
+     "updated": "2026-10-27 04:46:02"
     },
     {
      "rank": 4,
@@ -3411,7 +3792,7 @@
      "points": 13,
      "form": "LWWWD",
      "group": "Bundesliga",
-     "updated": "2026-10-26 04:46:01"
+     "updated": "2026-10-27 04:46:02"
     },
     {
      "rank": 5,
@@ -3429,7 +3810,7 @@
      "points": 12,
      "form": "WLWLW",
      "group": "Bundesliga",
-     "updated": "2026-10-26 04:46:01"
+     "updated": "2026-10-27 04:46:02"
     }
    ],
    "standings_limited": true,
@@ -4019,8 +4400,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "ligue-1",
@@ -4031,98 +4411,7 @@
    "last_round": 8,
    "next_round": 9,
    "current_round": 8,
-   "standings": [
-    {
-     "rank": 1,
-     "team": {
-      "name": "Paris Saint-Germain",
-      "club": "psg"
-     },
-     "played": 8,
-     "win": 5,
-     "draw": 2,
-     "loss": 1,
-     "gf": 16,
-     "ga": 9,
-     "gd": 7,
-     "points": 17,
-     "form": "WWWWW",
-     "group": "Ligue 1",
-     "updated": "2026-10-27 04:47:07"
-    },
-    {
-     "rank": 2,
-     "team": {
-      "name": "Rennes",
-      "club": null
-     },
-     "played": 8,
-     "win": 5,
-     "draw": 1,
-     "loss": 2,
-     "gf": 18,
-     "ga": 14,
-     "gd": 4,
-     "points": 16,
-     "form": "WLWLW",
-     "group": "Ligue 1",
-     "updated": "2026-10-27 04:47:07"
-    },
-    {
-     "rank": 3,
-     "team": {
-      "name": "Lille",
-      "club": null
-     },
-     "played": 8,
-     "win": 4,
-     "draw": 3,
-     "loss": 1,
-     "gf": 11,
-     "ga": 6,
-     "gd": 5,
-     "points": 15,
-     "form": "DDWLW",
-     "group": "Ligue 1",
-     "updated": "2026-10-27 04:47:07"
-    },
-    {
-     "rank": 4,
-     "team": {
-      "name": "Monaco",
-      "club": null
-     },
-     "played": 8,
-     "win": 4,
-     "draw": 3,
-     "loss": 1,
-     "gf": 11,
-     "ga": 7,
-     "gd": 4,
-     "points": 15,
-     "form": "DLDWD",
-     "group": "Ligue 1",
-     "updated": "2026-10-27 04:47:07"
-    },
-    {
-     "rank": 5,
-     "team": {
-      "name": "Lyon",
-      "club": null
-     },
-     "played": 8,
-     "win": 4,
-     "draw": 2,
-     "loss": 2,
-     "gf": 13,
-     "ga": 7,
-     "gd": 6,
-     "points": 14,
-     "form": "LWLWD",
-     "group": "Ligue 1",
-     "updated": "2026-10-27 04:47:07"
-    }
-   ],
+   "standings": [],
    "standings_limited": true,
    "rounds": [
     {
@@ -6238,8 +6527,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "konferans-ligi",
@@ -6252,14 +6540,14 @@
    "current_round": 3,
    "standings": [],
    "standings_limited": true,
-   "rounds": []
+   "rounds": [],
+   "stale": true
   }
  ],
  "errors": [
-  "tff-1-lig: HTTP 429 (eventsround.php)",
-  "la-liga: HTTP 429 (eventsround.php)",
-  "bundesliga: HTTP 429 (eventsround.php)",
-  "avrupa-ligi: HTTP 429 (eventsnextleague.php)"
+  "premier-lig: HTTP 429 (eventspastleague.php)",
+  "serie-a: HTTP 429 (eventsround.php)",
+  "konferans-ligi: HTTP 429 (eventspastleague.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
