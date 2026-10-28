@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-28T15:22:22+00:00",
+ "generated_at": "2026-10-28T17:22:16+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -2202,8 +2202,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "la-liga",
@@ -3492,7 +3491,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "bundesliga",
@@ -4719,6 +4719,25 @@
        "venue": "Stade Océane"
       },
       {
+       "id": "2489537",
+       "round": 9,
+       "kickoff": "2026-10-30T18:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-30",
+       "home": {
+        "name": "Nice",
+        "club": null
+       },
+       "away": {
+        "name": "Rennes",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Allianz Riviera"
+      },
+      {
        "id": "2489534",
        "round": 9,
        "kickoff": "2026-10-30T20:05:00Z",
@@ -4736,25 +4755,6 @@
        "status": "scheduled",
        "status_raw": "NS",
        "venue": "Decathlon Arena - Stade Pierre-Mauroy"
-      },
-      {
-       "id": "2489537",
-       "round": 9,
-       "kickoff": "2026-10-31T16:15:00Z",
-       "time_known": true,
-       "date_local": "2026-10-31",
-       "home": {
-        "name": "Nice",
-        "club": null
-       },
-       "away": {
-        "name": "Rennes",
-        "club": null
-       },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
-       "venue": "Allianz Riviera"
       },
       {
        "id": "2489539",
@@ -6417,7 +6417,7 @@
   }
  ],
  "errors": [
-  "premier-lig: HTTP 429 (eventsround.php)"
+  "serie-a: HTTP 429 (eventsround.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
