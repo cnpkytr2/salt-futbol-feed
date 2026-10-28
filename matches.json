@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-28T17:22:16+00:00",
+ "generated_at": "2026-10-28T19:25:34+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -707,98 +707,7 @@
    "last_round": 12,
    "next_round": 13,
    "current_round": 13,
-   "standings": [
-    {
-     "rank": 1,
-     "team": {
-      "name": "Bursaspor",
-      "club": null
-     },
-     "played": 12,
-     "win": 9,
-     "draw": 1,
-     "loss": 2,
-     "gf": 26,
-     "ga": 11,
-     "gd": 15,
-     "points": 28,
-     "form": "WWWLW",
-     "group": "Lig A",
-     "updated": "2026-10-28 10:33:21"
-    },
-    {
-     "rank": 2,
-     "team": {
-      "name": "Kayserispor",
-      "club": null
-     },
-     "played": 12,
-     "win": 8,
-     "draw": 3,
-     "loss": 1,
-     "gf": 26,
-     "ga": 9,
-     "gd": 17,
-     "points": 27,
-     "form": "DDWWW",
-     "group": "Lig A",
-     "updated": "2026-10-28 10:33:21"
-    },
-    {
-     "rank": 3,
-     "team": {
-      "name": "Iğdır",
-      "club": null
-     },
-     "played": 12,
-     "win": 8,
-     "draw": 2,
-     "loss": 2,
-     "gf": 17,
-     "ga": 9,
-     "gd": 8,
-     "points": 26,
-     "form": "WWDWD",
-     "group": "Lig A",
-     "updated": "2026-10-28 10:33:21"
-    },
-    {
-     "rank": 4,
-     "team": {
-      "name": "Batman Petrolspor",
-      "club": null
-     },
-     "played": 12,
-     "win": 7,
-     "draw": 2,
-     "loss": 3,
-     "gf": 25,
-     "ga": 21,
-     "gd": 4,
-     "points": 23,
-     "form": "WDWLL",
-     "group": "Lig A",
-     "updated": "2026-10-28 10:33:21"
-    },
-    {
-     "rank": 5,
-     "team": {
-      "name": "Mardin 1969",
-      "club": null
-     },
-     "played": 12,
-     "win": 6,
-     "draw": 3,
-     "loss": 3,
-     "gf": 16,
-     "ga": 11,
-     "gd": 5,
-     "points": 21,
-     "form": "WLWWL",
-     "group": "Lig A",
-     "updated": "2026-10-28 10:33:21"
-    }
-   ],
+   "standings": [],
    "standings_limited": true,
    "rounds": [
     {
@@ -2955,7 +2864,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "serie-a",
@@ -3370,9 +3280,12 @@
         "name": "Bologna",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 4
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Stadio Giuseppe Meazza"
       },
       {
@@ -3389,9 +3302,12 @@
         "name": "Udinese",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 0
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Stadio Ennio Tardini"
       },
       {
@@ -3408,9 +3324,12 @@
         "name": "Inter Milan",
         "club": "inter"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 0,
+        "away": 2
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Stadio Pierluigi Penzo"
       },
       {
@@ -3491,8 +3410,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "bundesliga",
@@ -3503,98 +3421,7 @@
    "last_round": 7,
    "next_round": 8,
    "current_round": 8,
-   "standings": [
-    {
-     "rank": 1,
-     "team": {
-      "name": "Bayern Munich",
-      "club": "bayern"
-     },
-     "played": 7,
-     "win": 5,
-     "draw": 2,
-     "loss": 0,
-     "gf": 25,
-     "ga": 6,
-     "gd": 19,
-     "points": 17,
-     "form": "WWDWW",
-     "group": "Bundesliga",
-     "updated": "2026-10-27 04:46:02"
-    },
-    {
-     "rank": 2,
-     "team": {
-      "name": "Borussia Dortmund",
-      "club": "dortmund"
-     },
-     "played": 7,
-     "win": 5,
-     "draw": 2,
-     "loss": 0,
-     "gf": 12,
-     "ga": 4,
-     "gd": 8,
-     "points": 17,
-     "form": "WDDWW",
-     "group": "Bundesliga",
-     "updated": "2026-10-27 04:46:02"
-    },
-    {
-     "rank": 3,
-     "team": {
-      "name": "Freiburg",
-      "club": null
-     },
-     "played": 7,
-     "win": 4,
-     "draw": 1,
-     "loss": 2,
-     "gf": 16,
-     "ga": 9,
-     "gd": 7,
-     "points": 13,
-     "form": "LLWDW",
-     "group": "Bundesliga",
-     "updated": "2026-10-27 04:46:02"
-    },
-    {
-     "rank": 4,
-     "team": {
-      "name": "Bayer Leverkusen",
-      "club": "leverkusen"
-     },
-     "played": 7,
-     "win": 4,
-     "draw": 1,
-     "loss": 2,
-     "gf": 16,
-     "ga": 12,
-     "gd": 4,
-     "points": 13,
-     "form": "LWWWD",
-     "group": "Bundesliga",
-     "updated": "2026-10-27 04:46:02"
-    },
-    {
-     "rank": 5,
-     "team": {
-      "name": "RB Leipzig",
-      "club": null
-     },
-     "played": 7,
-     "win": 4,
-     "draw": 0,
-     "loss": 3,
-     "gf": 20,
-     "ga": 11,
-     "gd": 9,
-     "points": 12,
-     "form": "WLWLW",
-     "group": "Bundesliga",
-     "updated": "2026-10-27 04:46:02"
-    }
-   ],
+   "standings": [],
    "standings_limited": true,
    "rounds": [
     {
@@ -6400,7 +6227,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "konferans-ligi",
@@ -6417,7 +6245,8 @@
   }
  ],
  "errors": [
-  "serie-a: HTTP 429 (eventsround.php)"
+  "la-liga: HTTP 429 (eventsround.php)",
+  "avrupa-ligi: HTTP 429 (eventspastleague.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
