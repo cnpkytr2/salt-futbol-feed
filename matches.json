@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-28T21:24:24+00:00",
+ "generated_at": "2026-10-28T23:21:27+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -707,7 +707,98 @@
    "last_round": 12,
    "next_round": 13,
    "current_round": 13,
-   "standings": [],
+   "standings": [
+    {
+     "rank": 1,
+     "team": {
+      "name": "Bursaspor",
+      "club": null
+     },
+     "played": 12,
+     "win": 9,
+     "draw": 1,
+     "loss": 2,
+     "gf": 26,
+     "ga": 11,
+     "gd": 15,
+     "points": 28,
+     "form": "WWWLW",
+     "group": "Lig A",
+     "updated": "2026-10-28 10:33:21"
+    },
+    {
+     "rank": 2,
+     "team": {
+      "name": "Kayserispor",
+      "club": null
+     },
+     "played": 12,
+     "win": 8,
+     "draw": 3,
+     "loss": 1,
+     "gf": 26,
+     "ga": 9,
+     "gd": 17,
+     "points": 27,
+     "form": "DDWWW",
+     "group": "Lig A",
+     "updated": "2026-10-28 10:33:21"
+    },
+    {
+     "rank": 3,
+     "team": {
+      "name": "Iğdır",
+      "club": null
+     },
+     "played": 12,
+     "win": 8,
+     "draw": 2,
+     "loss": 2,
+     "gf": 17,
+     "ga": 9,
+     "gd": 8,
+     "points": 26,
+     "form": "WWDWD",
+     "group": "Lig A",
+     "updated": "2026-10-28 10:33:21"
+    },
+    {
+     "rank": 4,
+     "team": {
+      "name": "Batman Petrolspor",
+      "club": null
+     },
+     "played": 12,
+     "win": 7,
+     "draw": 2,
+     "loss": 3,
+     "gf": 25,
+     "ga": 21,
+     "gd": 4,
+     "points": 23,
+     "form": "WDWLL",
+     "group": "Lig A",
+     "updated": "2026-10-28 10:33:21"
+    },
+    {
+     "rank": 5,
+     "team": {
+      "name": "Mardin 1969",
+      "club": null
+     },
+     "played": 12,
+     "win": 6,
+     "draw": 3,
+     "loss": 3,
+     "gf": 16,
+     "ga": 11,
+     "gd": 5,
+     "points": 21,
+     "form": "WLWWL",
+     "group": "Lig A",
+     "updated": "2026-10-28 10:33:21"
+    }
+   ],
    "standings_limited": true,
    "rounds": [
     {
@@ -2879,6 +2970,24 @@
     {
      "rank": 1,
      "team": {
+      "name": "Inter Milan",
+      "club": "inter"
+     },
+     "played": 9,
+     "win": 8,
+     "draw": 1,
+     "loss": 0,
+     "gf": 25,
+     "ga": 10,
+     "gd": 15,
+     "points": 25,
+     "form": "WWWWD",
+     "group": "Serie A",
+     "updated": "2026-10-28 22:46:01"
+    },
+    {
+     "rank": 2,
+     "team": {
       "name": "Lazio",
       "club": null
      },
@@ -2892,25 +3001,7 @@
      "points": 25,
      "form": "WWWWW",
      "group": "Serie A",
-     "updated": "2026-10-28 00:47:07"
-    },
-    {
-     "rank": 2,
-     "team": {
-      "name": "Inter Milan",
-      "club": "inter"
-     },
-     "played": 8,
-     "win": 7,
-     "draw": 1,
-     "loss": 0,
-     "gf": 23,
-     "ga": 10,
-     "gd": 13,
-     "points": 22,
-     "form": "WWWDW",
-     "group": "Serie A",
-     "updated": "2026-10-28 00:47:07"
+     "updated": "2026-10-28 22:46:01"
     },
     {
      "rank": 3,
@@ -2928,7 +3019,7 @@
      "points": 21,
      "form": "WDWDD",
      "group": "Serie A",
-     "updated": "2026-10-28 00:47:07"
+     "updated": "2026-10-28 22:46:01"
     },
     {
      "rank": 4,
@@ -2946,7 +3037,7 @@
      "points": 20,
      "form": "WWWDL",
      "group": "Serie A",
-     "updated": "2026-10-28 00:47:07"
+     "updated": "2026-10-28 22:46:01"
     },
     {
      "rank": 5,
@@ -2954,17 +3045,17 @@
       "name": "AC Milan",
       "club": "milan"
      },
-     "played": 8,
+     "played": 9,
      "win": 5,
      "draw": 3,
-     "loss": 0,
-     "gf": 16,
-     "ga": 7,
-     "gd": 9,
+     "loss": 1,
+     "gf": 18,
+     "ga": 11,
+     "gd": 7,
      "points": 18,
-     "form": "WWDWD",
+     "form": "LWWDW",
      "group": "Serie A",
-     "updated": "2026-10-28 00:47:07"
+     "updated": "2026-10-28 22:46:01"
     }
    ],
    "standings_limited": true,
@@ -3283,8 +3374,8 @@
         "home": 2,
         "away": 4
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadio Giuseppe Meazza"
       },
       {
@@ -3305,8 +3396,8 @@
         "home": 0,
         "away": 0
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadio Ennio Tardini"
       },
       {
@@ -3327,8 +3418,8 @@
         "home": 0,
         "away": 2
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadio Pierluigi Penzo"
       },
       {
@@ -3345,9 +3436,12 @@
         "name": "Juventus",
         "club": "juventus"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 2,
+        "away": 0
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadio Luigi Ferraris"
       },
       {
@@ -3364,9 +3458,12 @@
         "name": "Napoli",
         "club": "napoli"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 4
+       },
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "U-Power Stadium"
       },
       {
@@ -3409,8 +3506,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "bundesliga",
@@ -4100,7 +4196,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "ligue-1",
@@ -4790,8 +4887,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "sampiyonlar-ligi",
@@ -6319,7 +6415,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "konferans-ligi",
@@ -6332,14 +6429,12 @@
    "current_round": 3,
    "standings": [],
    "standings_limited": true,
-   "rounds": [],
-   "stale": true
+   "rounds": []
   }
  ],
  "errors": [
-  "serie-a: HTTP 429 (eventspastleague.php)",
-  "ligue-1: HTTP 429 (eventsround.php)",
-  "konferans-ligi: HTTP 429 (eventspastleague.php)"
+  "bundesliga: HTTP 429 (eventspastleague.php)",
+  "avrupa-ligi: HTTP 429 (eventsnextleague.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
