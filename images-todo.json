@@ -1,11 +1,11 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-27T20:43:38+00:00",
- "edition": "2026-10-27-guncel",
+ "generated_at": "2026-10-28T04:44:01+00:00",
+ "edition": "2026-10-28-sabah",
  "items": [
   {
    "key": "4673bf5f02bfb13c",
-   "story_id": "s0149",
+   "story_id": "s0039",
    "title": "Aziz Yıldırım, Samandıra çıkışında park halindeki araca çarptı",
    "category": "diger",
    "prompt": "A classic black-and-white football with plain unmarked panels on the centre spot of an empty pitch at blue hour, shot low, the background dissolved into soft bokeh with a hint of yellow and navy blue color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
@@ -21,13 +21,13 @@
    "out": "s/4673bf5f02bfb13c.png"
   },
   {
-   "key": "5fee0b64c1b63ddb",
-   "story_id": "s0002",
-   "title": "Harry Kane 2026 Ballon d'Or ödülünün sahibi oldu",
-   "category": "diger",
-   "prompt": "A classic black-and-white football with plain unmarked panels on the centre spot of an empty pitch at blue hour, shot low, the background dissolved into soft bokeh with a hint of red and white color. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "key": "f403f1c5caa4b1f5",
+   "story_id": "s0003",
+   "title": "Beşiktaş'tan derbi sonrası yayıncıya ve TFF'ye çifte standart eleştirisi",
+   "category": "yonetim",
+   "prompt": "An empty press conference table with a row of microphones under a single spotlight in a dark room, a plain fabric backdrop in black and white colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
    "negative": "",
-   "seed": 166959194,
+   "seed": 776739152,
    "model": "z_image_turbo_1.0_i8x.ckpt",
    "sampler": "UniPC Trailing",
    "shift": 3.0,
@@ -35,7 +35,24 @@
    "height": 768,
    "steps": 8,
    "cfg_scale": 1.0,
-   "out": "s/5fee0b64c1b63ddb.png"
+   "out": "s/f403f1c5caa4b1f5.png"
+  },
+  {
+   "key": "b517c82672e8e156",
+   "story_id": "s0134",
+   "title": "Galatasaray derbide Fenerbahçe'yi 2-1 yendi; Süper Lig 9. hafta puan durumu yayımlandı",
+   "category": "mac",
+   "prompt": "Floodlight towers glowing against a dramatic evening sky above an empty stadium bowl with seats in yellow and red colors. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 123055311,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/b517c82672e8e156.png"
   }
  ]
 }
