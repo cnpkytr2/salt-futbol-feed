@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-29T19:24:47+00:00",
+ "generated_at": "2026-10-29T21:25:31+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -2874,7 +2874,7 @@
    "season": "2026-2027",
    "tsdb_id": 4332,
    "last_round": 9,
-   "next_round": 9,
+   "next_round": 10,
    "current_round": 9,
    "standings": [
     {
@@ -2893,7 +2893,7 @@
      "points": 25,
      "form": "WWWWD",
      "group": "Serie A",
-     "updated": "2026-10-29 00:47:07"
+     "updated": "2026-10-29 20:47:07"
     },
     {
      "rank": 2,
@@ -2911,7 +2911,7 @@
      "points": 25,
      "form": "WWWWW",
      "group": "Serie A",
-     "updated": "2026-10-29 00:47:07"
+     "updated": "2026-10-29 20:47:07"
     },
     {
      "rank": 3,
@@ -2929,7 +2929,7 @@
      "points": 21,
      "form": "WDWDD",
      "group": "Serie A",
-     "updated": "2026-10-29 00:47:07"
+     "updated": "2026-10-29 20:47:07"
     },
     {
      "rank": 4,
@@ -2947,7 +2947,7 @@
      "points": 20,
      "form": "WWWDL",
      "group": "Serie A",
-     "updated": "2026-10-29 00:47:07"
+     "updated": "2026-10-29 20:47:07"
     },
     {
      "rank": 5,
@@ -2965,7 +2965,7 @@
      "points": 18,
      "form": "LWWDW",
      "group": "Serie A",
-     "updated": "2026-10-29 00:47:07"
+     "updated": "2026-10-29 20:47:07"
     }
    ],
    "standings_limited": true,
@@ -3391,11 +3391,11 @@
         "club": null
        },
        "score": {
-        "home": 4,
+        "home": 5,
         "away": 1
        },
-       "status": "live",
-       "status_raw": "2H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Stadio Benito Stirpe"
       },
       {
@@ -3412,10 +3412,209 @@
         "name": "Atalanta",
         "club": null
        },
+       "score": {
+        "home": 2,
+        "away": 1
+       },
+       "status": "live",
+       "status_raw": "2H",
+       "venue": "Stadio Artemio Franchi"
+      }
+     ]
+    },
+    {
+     "round": 10,
+     "label": "10. Hafta",
+     "matches": [
+      {
+       "id": "2482234",
+       "round": 10,
+       "kickoff": "2026-10-31T14:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-31",
+       "home": {
+        "name": "Bologna",
+        "club": null
+       },
+       "away": {
+        "name": "Monza",
+        "club": null
+       },
        "score": null,
        "status": "scheduled",
        "status_raw": "NS",
-       "venue": "Stadio Artemio Franchi"
+       "venue": "Stadio Renato Dall'Ara"
+      },
+      {
+       "id": "2482231",
+       "round": 10,
+       "kickoff": "2026-10-31T17:00:00Z",
+       "time_known": true,
+       "date_local": "2026-10-31",
+       "home": {
+        "name": "Udinese",
+        "club": null
+       },
+       "away": {
+        "name": "Roma",
+        "club": "roma"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Bluenergy Stadium"
+      },
+      {
+       "id": "2482230",
+       "round": 10,
+       "kickoff": "2026-10-31T19:45:00Z",
+       "time_known": true,
+       "date_local": "2026-10-31",
+       "home": {
+        "name": "AC Milan",
+        "club": "milan"
+       },
+       "away": {
+        "name": "Inter Milan",
+        "club": "inter"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Giuseppe Meazza"
+      },
+      {
+       "id": "2482237",
+       "round": 10,
+       "kickoff": "2026-11-01T11:30:00Z",
+       "time_known": true,
+       "date_local": "2026-11-01",
+       "home": {
+        "name": "Como",
+        "club": null
+       },
+       "away": {
+        "name": "Venezia",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Giuseppe Sinigaglia"
+      },
+      {
+       "id": "2482235",
+       "round": 10,
+       "kickoff": "2026-11-01T14:00:00Z",
+       "time_known": true,
+       "date_local": "2026-11-01",
+       "home": {
+        "name": "Frosinone",
+        "club": null
+       },
+       "away": {
+        "name": "Torino",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Benito Stirpe"
+      },
+      {
+       "id": "2482228",
+       "round": 10,
+       "kickoff": "2026-11-01T14:00:00Z",
+       "time_known": true,
+       "date_local": "2026-11-01",
+       "home": {
+        "name": "Lazio",
+        "club": null
+       },
+       "away": {
+        "name": "Cagliari",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Olimpico"
+      },
+      {
+       "id": "2482236",
+       "round": 10,
+       "kickoff": "2026-11-01T17:00:00Z",
+       "time_known": true,
+       "date_local": "2026-11-01",
+       "home": {
+        "name": "Lecce",
+        "club": null
+       },
+       "away": {
+        "name": "Genoa",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Stadio Via del mare"
+      },
+      {
+       "id": "2482232",
+       "round": 10,
+       "kickoff": "2026-11-01T19:45:00Z",
+       "time_known": true,
+       "date_local": "2026-11-01",
+       "home": {
+        "name": "Juventus",
+        "club": "juventus"
+       },
+       "away": {
+        "name": "Napoli",
+        "club": "napoli"
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Allianz Stadium Turin"
+      },
+      {
+       "id": "2482229",
+       "round": 10,
+       "kickoff": "2026-11-02T17:30:00Z",
+       "time_known": true,
+       "date_local": "2026-11-02",
+       "home": {
+        "name": "Sassuolo",
+        "club": null
+       },
+       "away": {
+        "name": "Fiorentina",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Mapei Stadium – Città del Tricolore"
+      },
+      {
+       "id": "2482233",
+       "round": 10,
+       "kickoff": "2026-11-02T19:45:00Z",
+       "time_known": true,
+       "date_local": "2026-11-02",
+       "home": {
+        "name": "Atalanta",
+        "club": null
+       },
+       "away": {
+        "name": "Parma",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "New Balance Arena"
       }
      ]
     }
@@ -4109,7 +4308,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "ligue-1",
@@ -4703,25 +4903,6 @@
        "venue": "Stade du Moustoir"
       },
       {
-       "id": "2489535",
-       "round": 9,
-       "kickoff": "2026-10-31T19:45:00Z",
-       "time_known": true,
-       "date_local": "2026-10-31",
-       "home": {
-        "name": "Lyon",
-        "club": null
-       },
-       "away": {
-        "name": "Angers",
-        "club": null
-       },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
-       "venue": "Groupama Stadium"
-      },
-      {
        "id": "2489540",
        "round": 9,
        "kickoff": "2026-10-31T19:45:00Z",
@@ -4758,6 +4939,25 @@
        "status": "scheduled",
        "status_raw": "NS",
        "venue": "Stade de la Meinau"
+      },
+      {
+       "id": "2489535",
+       "round": 9,
+       "kickoff": "2026-11-01T16:15:00Z",
+       "time_known": true,
+       "date_local": "2026-11-01",
+       "home": {
+        "name": "Lyon",
+        "club": null
+       },
+       "away": {
+        "name": "Angers",
+        "club": null
+       },
+       "score": null,
+       "status": "scheduled",
+       "status_raw": "NS",
+       "venue": "Groupama Stadium"
       },
       {
        "id": "2489542",
@@ -4799,8 +4999,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "sampiyonlar-ligi",
@@ -6328,7 +6527,8 @@
       }
      ]
     }
-   ]
+   ],
+   "stale": true
   },
   {
    "slug": "konferans-ligi",
@@ -6341,14 +6541,13 @@
    "current_round": 3,
    "standings": [],
    "standings_limited": true,
-   "rounds": [],
-   "stale": true
+   "rounds": []
   }
  ],
  "errors": [
   "la-liga: HTTP 429 (eventsround.php)",
-  "ligue-1: HTTP 429 (eventsround.php)",
-  "konferans-ligi: HTTP 429 (eventspastleague.php)"
+  "bundesliga: HTTP 429 (eventsround.php)",
+  "avrupa-ligi: HTTP 429 (eventspastleague.php)"
  ],
  "badges": {
   "AC Milan": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
