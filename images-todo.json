@@ -1,6 +1,24 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-29T17:43:37+00:00",
- "edition": "2026-10-29-aksam",
- "items": []
+ "generated_at": "2026-10-29T20:43:33+00:00",
+ "edition": "2026-10-29-guncel",
+ "items": [
+  {
+   "key": "7d034da6f2382162",
+   "story_id": "s0115",
+   "title": "Eskişehirspor, Türkiye Kupası'nda Iğdır FK'yı uzatma dakikalarında 1-0 yendi",
+   "category": "mac",
+   "prompt": "Wide view of an empty stadium bowl at night seen from the top row, rows of empty seats in neutral dark colors filling the foreground, the pitch far below softly blurred in light haze. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 945645280,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/7d034da6f2382162.png"
+  }
+ ]
 }
