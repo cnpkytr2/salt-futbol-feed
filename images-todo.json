@@ -1,6 +1,58 @@
 {
  "out_dir": "out/img",
- "generated_at": "2026-10-30T13:43:28+00:00",
- "edition": "2026-10-30-guncel",
- "items": []
+ "generated_at": "2026-10-30T17:44:14+00:00",
+ "edition": "2026-10-30-aksam",
+ "items": [
+  {
+   "key": "076bfdd0015d9785",
+   "story_id": "s0090",
+   "title": "Napoli Sportif Direktörü Manna: Lukaku'yu alacak birini bulduğumuz için şanslıydık",
+   "category": "transfer",
+   "prompt": "A knitted scarf in sky blue colors draped over the back of an empty plastic stadium seat at dusk, the green pitch and floodlights softly out of focus. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 1336799007,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/076bfdd0015d9785.png"
+  },
+  {
+   "key": "44d7209f22011882",
+   "story_id": "s0038",
+   "title": "PFDK, Galatasaray'a skorbordda kullanılan Fenerbahçe logosu nedeniyle 280 bin TL ceza verdi",
+   "category": "yonetim",
+   "prompt": "A quiet boardroom at night with leather chairs around a polished table, a classic black-and-white football with plain unmarked panels resting on the table, city lights outside the window. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 939353749,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/44d7209f22011882.png"
+  },
+  {
+   "key": "bf55a8501b0830a6",
+   "story_id": "s0109",
+   "title": "Flick: Ara transfer döneminde Barcelona'ya stoper takviyesi yapılabilir",
+   "category": "transfer",
+   "prompt": "Minimal still life on a dark wooden desk: only a fountain pen, two sheets of plain blank white paper and a folded knitted scarf in blue and garnet red colors, nothing else on the desk, warm desk lamp light. Color editorial sports photograph, full-frame camera, 35mm lens at f/2, natural light, shallow depth of field, realistic colors, fine detail, subtle film grain, calm atmospheric mood.",
+   "negative": "",
+   "seed": 674298978,
+   "model": "z_image_turbo_1.0_i8x.ckpt",
+   "sampler": "UniPC Trailing",
+   "shift": 3.0,
+   "width": 1344,
+   "height": 768,
+   "steps": 8,
+   "cfg_scale": 1.0,
+   "out": "s/bf55a8501b0830a6.png"
+  }
+ ]
 }
