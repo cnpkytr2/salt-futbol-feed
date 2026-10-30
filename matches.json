@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-30T17:24:22+00:00",
+ "generated_at": "2026-10-30T19:24:18+00:00",
  "source": {
   "name": "TheSportsDB",
   "url": "https://www.thesportsdb.com",
@@ -34,7 +34,7 @@
      "points": 22,
      "form": "WWWLW",
      "group": "Süper Lig",
-     "updated": "2026-10-29 10:19:13"
+     "updated": "2026-10-30 17:48:20"
     },
     {
      "rank": 2,
@@ -52,7 +52,7 @@
      "points": 20,
      "form": "WWDWW",
      "group": "Süper Lig",
-     "updated": "2026-10-29 10:19:13"
+     "updated": "2026-10-30 17:48:20"
     },
     {
      "rank": 3,
@@ -70,7 +70,7 @@
      "points": 19,
      "form": "WWWWL",
      "group": "Süper Lig",
-     "updated": "2026-10-29 10:19:13"
+     "updated": "2026-10-30 17:48:20"
     },
     {
      "rank": 4,
@@ -88,7 +88,7 @@
      "points": 18,
      "form": "WLWLW",
      "group": "Süper Lig",
-     "updated": "2026-10-29 10:19:13"
+     "updated": "2026-10-30 17:48:20"
     },
     {
      "rank": 5,
@@ -106,7 +106,7 @@
      "points": 16,
      "form": "LWWWD",
      "group": "Süper Lig",
-     "updated": "2026-10-29 10:19:13"
+     "updated": "2026-10-30 17:48:20"
     }
    ],
    "standings_limited": true,
@@ -335,10 +335,10 @@
        },
        "score": {
         "home": 0,
-        "away": 1
+        "away": 4
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Konya Büyükşehir Belediye Stadyumu"
       },
       {
@@ -523,7 +523,7 @@
      "points": 28,
      "form": "WWWLW",
      "group": "Lig A",
-     "updated": "2026-10-29 10:32:17"
+     "updated": "2026-10-30 17:47:11"
     },
     {
      "rank": 2,
@@ -541,7 +541,7 @@
      "points": 27,
      "form": "DDWWW",
      "group": "Lig A",
-     "updated": "2026-10-29 10:32:17"
+     "updated": "2026-10-30 17:47:11"
     },
     {
      "rank": 3,
@@ -559,7 +559,7 @@
      "points": 26,
      "form": "WWDWD",
      "group": "Lig A",
-     "updated": "2026-10-29 10:32:17"
+     "updated": "2026-10-30 17:47:11"
     },
     {
      "rank": 4,
@@ -577,7 +577,7 @@
      "points": 23,
      "form": "WDWLL",
      "group": "Lig A",
-     "updated": "2026-10-29 10:32:17"
+     "updated": "2026-10-30 17:47:11"
     },
     {
      "rank": 5,
@@ -595,7 +595,7 @@
      "points": 21,
      "form": "WLWWL",
      "group": "Lig A",
-     "updated": "2026-10-29 10:32:17"
+     "updated": "2026-10-30 17:47:11"
     }
    ],
    "standings_limited": true,
@@ -845,11 +845,11 @@
         "club": null
        },
        "score": {
-        "home": 0,
-        "away": 0
+        "home": 3,
+        "away": 2
        },
-       "status": "live",
-       "status_raw": "1H",
+       "status": "finished",
+       "status_raw": "FT",
        "venue": "Esenler Stadyumu"
       },
       {
@@ -3984,307 +3984,12 @@
    "kind": "league",
    "season": "2026-2027",
    "tsdb_id": 4334,
-   "last_round": 8,
+   "last_round": 9,
    "next_round": 9,
    "current_round": 9,
-   "standings": [
-    {
-     "rank": 1,
-     "team": {
-      "name": "Paris Saint-Germain",
-      "club": "psg"
-     },
-     "played": 8,
-     "win": 5,
-     "draw": 2,
-     "loss": 1,
-     "gf": 16,
-     "ga": 9,
-     "gd": 7,
-     "points": 17,
-     "form": "WWWWW",
-     "group": "Ligue 1",
-     "updated": "2026-10-30 01:01:03"
-    },
-    {
-     "rank": 2,
-     "team": {
-      "name": "Rennes",
-      "club": null
-     },
-     "played": 8,
-     "win": 5,
-     "draw": 1,
-     "loss": 2,
-     "gf": 18,
-     "ga": 14,
-     "gd": 4,
-     "points": 16,
-     "form": "WLWLW",
-     "group": "Ligue 1",
-     "updated": "2026-10-30 01:01:03"
-    },
-    {
-     "rank": 3,
-     "team": {
-      "name": "Lille",
-      "club": null
-     },
-     "played": 8,
-     "win": 4,
-     "draw": 3,
-     "loss": 1,
-     "gf": 11,
-     "ga": 6,
-     "gd": 5,
-     "points": 15,
-     "form": "DDWLW",
-     "group": "Ligue 1",
-     "updated": "2026-10-30 01:01:03"
-    },
-    {
-     "rank": 4,
-     "team": {
-      "name": "Monaco",
-      "club": null
-     },
-     "played": 8,
-     "win": 4,
-     "draw": 3,
-     "loss": 1,
-     "gf": 11,
-     "ga": 7,
-     "gd": 4,
-     "points": 15,
-     "form": "DLDWD",
-     "group": "Ligue 1",
-     "updated": "2026-10-30 01:01:03"
-    },
-    {
-     "rank": 5,
-     "team": {
-      "name": "Lyon",
-      "club": null
-     },
-     "played": 8,
-     "win": 4,
-     "draw": 2,
-     "loss": 2,
-     "gf": 13,
-     "ga": 7,
-     "gd": 6,
-     "points": 14,
-     "form": "LWLWD",
-     "group": "Ligue 1",
-     "updated": "2026-10-30 01:01:03"
-    }
-   ],
+   "standings": [],
    "standings_limited": true,
    "rounds": [
-    {
-     "round": 7,
-     "label": "7. Hafta",
-     "matches": [
-      {
-       "id": "2489524",
-       "round": 7,
-       "kickoff": "2026-10-16T18:45:00Z",
-       "time_known": true,
-       "date_local": "2026-10-16",
-       "home": {
-        "name": "Le Mans",
-        "club": null
-       },
-       "away": {
-        "name": "Toulouse",
-        "club": null
-       },
-       "score": {
-        "home": 0,
-        "away": 3
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Stade Marie-Marvingt"
-      },
-      {
-       "id": "2489519",
-       "round": 7,
-       "kickoff": "2026-10-17T15:15:00Z",
-       "time_known": true,
-       "date_local": "2026-10-17",
-       "home": {
-        "name": "Strasbourg",
-        "club": null
-       },
-       "away": {
-        "name": "Paris Saint-Germain",
-        "club": "psg"
-       },
-       "score": {
-        "home": 1,
-        "away": 3
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Stade de la Meinau"
-      },
-      {
-       "id": "2489517",
-       "round": 7,
-       "kickoff": "2026-10-17T18:45:00Z",
-       "time_known": true,
-       "date_local": "2026-10-17",
-       "home": {
-        "name": "Lille",
-        "club": null
-       },
-       "away": {
-        "name": "Brest",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Decathlon Arena - Stade Pierre-Mauroy"
-      },
-      {
-       "id": "2489521",
-       "round": 7,
-       "kickoff": "2026-10-17T18:45:00Z",
-       "time_known": true,
-       "date_local": "2026-10-17",
-       "home": {
-        "name": "Troyes",
-        "club": null
-       },
-       "away": {
-        "name": "Lens",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 3
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Stade de l'Aube"
-      },
-      {
-       "id": "2489516",
-       "round": 7,
-       "kickoff": "2026-10-18T13:00:00Z",
-       "time_known": true,
-       "date_local": "2026-10-18",
-       "home": {
-        "name": "Angers",
-        "club": null
-       },
-       "away": {
-        "name": "Marseille",
-        "club": null
-       },
-       "score": {
-        "home": 2,
-        "away": 5
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Stade Raymond Kopa"
-      },
-      {
-       "id": "2489522",
-       "round": 7,
-       "kickoff": "2026-10-18T15:15:00Z",
-       "time_known": true,
-       "date_local": "2026-10-18",
-       "home": {
-        "name": "Le Havre",
-        "club": null
-       },
-       "away": {
-        "name": "Auxerre",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 3
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Stade Océane"
-      },
-      {
-       "id": "2489520",
-       "round": 7,
-       "kickoff": "2026-10-18T15:15:00Z",
-       "time_known": true,
-       "date_local": "2026-10-18",
-       "home": {
-        "name": "Lorient",
-        "club": null
-       },
-       "away": {
-        "name": "Monaco",
-        "club": null
-       },
-       "score": {
-        "home": 1,
-        "away": 0
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Stade du Moustoir"
-      },
-      {
-       "id": "2489523",
-       "round": 7,
-       "kickoff": "2026-10-18T15:15:00Z",
-       "time_known": true,
-       "date_local": "2026-10-18",
-       "home": {
-        "name": "Paris FC",
-        "club": null
-       },
-       "away": {
-        "name": "Rennes",
-        "club": null
-       },
-       "score": {
-        "home": 4,
-        "away": 3
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Stade Jean-Bouin"
-      },
-      {
-       "id": "2489518",
-       "round": 7,
-       "kickoff": "2026-10-18T18:45:00Z",
-       "time_known": true,
-       "date_local": "2026-10-18",
-       "home": {
-        "name": "Lyon",
-        "club": null
-       },
-       "away": {
-        "name": "Nice",
-        "club": null
-       },
-       "score": {
-        "home": 2,
-        "away": 1
-       },
-       "status": "finished",
-       "status_raw": "FT",
-       "venue": "Groupama Stadium"
-      }
-     ]
-    },
     {
      "round": 8,
      "label": "8. Hafta",
@@ -4507,9 +4212,12 @@
         "name": "Paris Saint-Germain",
         "club": "psg"
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 1,
+        "away": 3
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Stade Océane"
       },
       {
@@ -4526,9 +4234,12 @@
         "name": "Rennes",
         "club": null
        },
-       "score": null,
-       "status": "scheduled",
-       "status_raw": "NS",
+       "score": {
+        "home": 4,
+        "away": 2
+       },
+       "status": "live",
+       "status_raw": "2H",
        "venue": "Allianz Riviera"
       },
       {
@@ -4666,8 +4377,7 @@
       }
      ]
     }
-   ],
-   "stale": true
+   ]
   },
   {
    "slug": "sampiyonlar-ligi",
@@ -6215,7 +5925,6 @@
  "errors": [
   "premier-lig: HTTP 429 (eventsnextleague.php)",
   "serie-a: HTTP 429 (eventsround.php)",
-  "ligue-1: HTTP 429 (eventsround.php)",
   "konferans-ligi: HTTP 429 (eventsnextleague.php)"
  ],
  "badges": {
